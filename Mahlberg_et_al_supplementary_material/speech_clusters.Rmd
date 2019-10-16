@@ -1,0 +1,796 @@
+---
+title: "Speech clusters in CLiC and the BNC"
+author: "Michaela Mahlberg, Viola Wiegand, Peter Stockwell and Anthony Hennessey"
+date: "`r Sys.Date()`"
+output:
+  html_document:
+    theme: cerulean
+    toc: true
+    code_folding: show
+---
+
+<style>
+    pre {
+        overflow-x: auto;
+    }
+    pre code {
+        word-wrap: normal;
+        white-space: pre;
+    }
+    table {
+        white-space: nowrap;
+    }
+</style>
+
+```{r set-options, echo=FALSE, cache=FALSE}
+options(width = 1000)
+```
+
+# Indroduction
+This document provides supplementary material for some of the publications that have arisen from the [CLiC project](https://www.birmingham.ac.uk/schools/edacs/departments/englishlanguage/research/projects/clic/index.aspx).
+It provides data on a number of comparisons of clusters in the [CLiC](http://clic.bham.ac.uk) corpora and the BNC.
+
+The publications that use data from this document are detailed in the [README](https://github.com/birmingham-ccr/sm/tree/master/Mahlberg_et_al_supplementary_material) from the associated GitHub repository.
+
+We use the term 'cluster' to refer to a sequence of repeatedly occurring words. So 'cluster' is a purely operational term. We use the term 'lexical bundle' when the clusters occur at least 5 times per million words and in at least 5 texts. So every lexical bundle is a cluster, but not every cluster is a lexical bundle.
+
+# How to generate this document?
+
+    R -e "rmarkdown::render('speech_clusters.Rmd')"
+
+# Getting the data
+
+## Spoken BNC1994 corpus data
+
+The source was downloaded from <http://ota.ox.ac.uk/desc/2554> on 2016-11-16.
+
+The corpus is XML and includes metadata and XML structure down to word annotation.
+A set of `xsl` scripts are supplied with the source to extract text from the markup.
+We used a modified version of the supplied `justTheWords.xsl` script to get a parallel set of texts with the XML markup removed; the modification is the addition of the `xsl:output` directive which ensures the correct file extension for the created files.
+The modified `xsl` script was aplied using `Saxon 9.1.0.8J from Saxonica` with the following procedure from the the top level of the downloaded BNC distribution:
+```bash
+# fetch BNC
+mkdir BNC
+cd BNC
+wget http://ota.oerc.ox.ac.uk/secure/newota/2554.zip
+unzip 2554.zip
+
+# create a list of text files
+cd Texts
+find . -type f -name '*.xml' > ../xml_files_list.txt
+cd ..
+
+# make a parallel directory structure for the 'texts without markup'
+for name in `grep -Po '\/[^\/]+\/[^\/]+\/' xml_files_list.txt | uniq`
+do
+    mkdir -p Texts_without_markup$name
+done
+
+# create a modified version of the script ./XML/Scripts/justTheWords.xsl
+# by adding the xsl:output directive as shown above
+echo $'<?xml version="1.0" encoding="utf-8"?>
+<xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="1.0">
+  <xsl:output method="text" encoding="utf-8" media-type="text/plain"/>
+  <xsl:template match="teiHeader"/>
+  <xsl:template match="text|stext">
+    <xsl:apply-templates/>
+  </xsl:template>
+</xsl:stylesheet>
+' > justTheWords_modified.xsl
+
+# use saxon and modified justTheWords_modified.xsl to create a parallel set of Texts_without_markup
+for name in `grep -Po '\/[^\/]+\/[^\/]+\/' xml_files_list.txt | uniq`
+do
+    echo $name
+    saxonb-xslt -warnings:silent -s:Texts$name -o:Texts_without_markup$name -xsl:./justTheWords_modified.xsl
+done
+```
+
+Next we identify spoken texts:
+
+Creating subcorpora is described in the BNC documentation at <http://www.natcorp.ox.ac.uk/docs/URG.xml?ID=cdifsmop#smopfind>, however a required file `bncfinder.dat` is not in the downloaded source so we took an alternate approach using the class codes described at <http://www.natcorp.ox.ac.uk/docs/URG.xml?ID=codes#classcodes>.
+The class codes are separated into written and spoken and (unlike the classification system with the missing file) there is a single classification per file which makes life much easier.
+
+The codes are located in the XML schema here: `teiHeader.profileDesc.textClass.classCode`
+Noting that the codes are shown in the docs as `S_brdcast_discussn` but, we assume because underscores are not allowed in XML, in the `2554.zip` XML files have ben replaced by spaces.
+We wrote a small `XSLT` script to extract `classCodes` from the original XML files
+```bash
+echo $'<?xml version="1.0" encoding="UTF-8"?>
+<xsl:stylesheet version="2.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:fn="http://www.w3.org/2005/xpath-functions">
+  <xsl:output method="text" encoding="utf-8" media-type="text/plain"/>
+  <xsl:template name="main">
+    <xsl:for-each select="collection(\'.?select=*.xml;recurse=yes\')">
+      <xsl:variable name="code" select="/bncDoc/teiHeader/profileDesc/textClass/classCode" as="xs:string"/>
+      <xsl:value-of select="substring($code,1,1)"/>
+      <xsl:text>,</xsl:text>
+      <xsl:value-of select="replace(document-uri(.),\'^.+/Texts/\',\'\')"/>
+      <xsl:text>,</xsl:text>
+      <xsl:value-of select="$code"/>
+      <xsl:text>&#x0A;</xsl:text>
+    </xsl:for-each>
+  </xsl:template>
+</xsl:stylesheet>
+' > get_classCodes.xsl
+```
+Note that the `collection()` function works relative to the XSLT file hence the XSLT needs to be in the Texts directory which we do with this symlink.
+```bash
+cd Texts; ln -s ../get_classCodes.xsl get_classCodes.xsl; cd ..
+saxonb-xslt -xsl:Texts/get_classCodes.xsl -it:main -o:file_classCodes.csv
+```
+A file of paths to the `.txt` files containing spoken text was then obtained from `file_classCodes.csv` using
+```bash
+grep -P '^S' file_classCodes.csv | awk -F, '{sub(/\.xml$/, ".txt", $2)} {print "Texts_without_markup/"$2}' > spoken_files.txt
+```
+The directory structure inside BNC should end up looking something like this
+```
+$ tree -L 2
+.
+├── 2554.zip
+├── bncb.css
+├── bnc-xml.bmp
+├── Doc
+│   ├── HTML
+│   └── Src
+├── file_classCodes.csv
+├── get_classCodes.xsl
+├── iTservices_blue_rgb_logo.png
+├── justTheWords_modified.xsl
+├── spoken_files.txt
+├── Texts
+│   ├── A
+│   ├── B
+│   ├── C
+│   ├── D
+│   ├── E
+│   ├── F
+│   ├── G
+│   ├── get_classCodes.xsl -> ../get_classCodes.xsl
+│   ├── H
+│   ├── J
+│   └── K
+├── Texts_without_markup
+│   ├── A
+│   ├── B
+│   ├── C
+│   ├── D
+│   ├── E
+│   ├── F
+│   ├── G
+│   ├── H
+│   ├── J
+│   └── K
+├── welcome.htm
+├── XML
+│   ├── bncxml.dtd
+│   ├── bncxml.rnc
+│   ├── bncxml.rng
+│   ├── bncxml.xsd
+│   └── Scripts
+└── xml_files_list.txt
+```
+
+The clusters are calculated independently for each `<stext>` element and then combined at the level of a text.
+We have interpreted the documentation to say that continuous speach from a single respondent is grouped together together in the `<stext>`.
+<http://www.natcorp.ox.ac.uk/docs/URG/cdifsp.html>
+
+The following R can now be used to calculate the Spoken BNC1994 cluster counts
+
+```{r get_BNC_clusters}
+library(httr)
+library(jsonlite)
+library(data.table)
+library(stringi)
+library(knitr)
+library(kableExtra)
+library(formattable)
+
+if(! file.exists(file.path('results', 'BNC_clusters.rds'))) {
+    BNC_base <- './data/BNC'
+    BNC_files <- readLines(file.path(BNC_base, 'spoken_files.txt'))
+
+    # produces a list of lists, where the top level is one element per file, named as the file
+    # the next level are tokenized lines from the file
+    Spoken_BNC1994_tokens <- sapply(BNC_files, FUN = function(f) {
+        txt <- readLines((file.path(BNC_base, sub("xml$", "txt", f))), warn = FALSE)
+        tokens <- stri_extract_all_words(stri_trans_tolower(txt))
+        # get rid of lines with less than 3 tokens
+        # this will also deal with the blank lines
+        tokens[sapply(tokens, function(x) length(x) >= 3)]
+    }, simplify = FALSE )
+
+    # compile the cluster counts
+    txts <- names(Spoken_BNC1994_tokens)
+    BNC_clusters <- rbindlist(lapply(3:5, function(cl) {
+        rbindlist(lapply(txts, function(txt) {
+            tokens <- Spoken_BNC1994_tokens[[txt]]
+            tokens <- tokens[sapply(tokens, function(x) length(x) >= cl)]
+            DT <- data.table(cluster = 
+                unlist(lapply(tokens, function(speaker) {
+                    i <- 1:(length(speaker) - cl + 1)
+                    sapply(i, function(x) paste0(speaker[x:(x+cl-1)], collapse = " "))
+                }))
+            )
+            setkey(DT)
+            DT[ , .(count = .N, corpus = "Spoken_BNC1994", "text" = txt, "length" = cl), by = cluster]
+        }), use.names = TRUE)
+    }), use.names = TRUE)
+    saveRDS(BNC_clusters, file.path('results', 'BNC_clusters.rds'))
+} else {
+    # BNC_clusters <- readRDS(file.path('results', 'BNC_clusters.rds'))
+}
+```
+```{R lookat_BNC_clusters, echo=FALSE}
+# print(BNC_clusters, topn = 10)
+```
+
+## CLiC data using the API
+
+First we define a set of functions to fetch the clusters data from the CLiC API (CLiC version 1.6.1, corpora version 2affe56).
+
+```{r clic_api_functions}
+UA <- "CLiC vs BNC clusters"
+HOSTNAME <- "clic.bham.ac.uk"
+
+# Makes the API requests.
+# Returns the endpoint specific data structure.
+#
+# - endpoint: see the inline docs in /server/clic
+# - query: endpoint specific parameters as a querystring
+#
+api_request <- function(
+    endpoint = c("subset", "corpora", "cluster"),
+    query = NULL
+) {
+    endpoint <- match.arg(endpoint)
+    uri <- modify_url("",
+        scheme = "http",
+        hostname = HOSTNAME,
+        path = sprintf("/api/%s", endpoint),
+        query = ifelse(is.null(query), "", query)
+    )
+    req <- GET(uri, add_headers('User-Agent' = UA, 'Accept' = "application/json"))
+    if (http_error(req)) {
+        stop(sprintf("Request failed: status %s - URL '%s'", status_code(req), uri))
+    }
+    # can ignore header so check response
+    # https://tools.ietf.org/html/rfc7231#section-5.3.2
+    if (http_type(req) != "application/json") {
+        stop("API did not return JSON")
+    }
+    fromJSON( content(req, as = "text", encoding = "UTF-8") )
+}
+
+# Returns a data.frame listing the texts for each of the available corpora.
+#
+get_lookup <- function() {
+    rv <- api_request(endpoint = "corpora")
+    DT <- rbindlist(
+        rv$corpora$children, fill = TRUE,
+        idcol = 'corpus'
+    )[ , corpus := rv$corpora$id[corpus]]
+    setkeyv(DT, cols = c('corpus', 'author', 'title'))
+    return(DT[])
+}
+
+# Fetches tokens using the 'subset' endpoint.
+# Returns a vector of tokens.
+#
+# - shortname: can be any value from the 'corpus' or 'shortname' columns returned by get_lookup()
+#              can be a string or a list of strings
+# - subset: any one of "shortsus", "longsus", "nonquote", "quote"
+# - lowercase: boolean indicating if the tokens should be transformed to lower case
+# - punctuation: boolean indicating if punctuation tokens should be included
+#
+get_tokens <- function(
+    shortname,
+    subset = NULL,
+    lowercase = TRUE,
+    punctuation = FALSE  # includes whitespace
+) {
+    query <- paste(sprintf("corpora=%s", shortname), collapse = "&")
+    if(! is.null(subset)) {
+        subset <- match.arg(subset, c("shortsus", "longsus", "nonquote", "quote"))
+        query <- sprintf("%s&subset=%s", query, subset)
+    }
+    rv <- api_request(endpoint = "subset", query = query)
+    if(punctuation) {
+        tokens <- unlist( sapply(rv$data, function(x) {
+            head(x[[1]], -1)
+        }) )
+    } else {
+        tokens <- unlist( sapply(rv$data, function(x) {
+            head(x[[1]], -1)[as.integer(tail(x[[1]], 1)[[1]])+1]
+        }) )
+    }
+    if(lowercase) {
+        tokens <- tolower(tokens)
+    }
+    return(tokens)
+}
+
+# Fetches n-grams using the 'cluster' endpoint.
+# Returns a data.frame of clusters to counts.
+#
+# - shortname: can be any value from the 'corpus' or 'shortname' columns returned
+#       by get_lookup() can be a string or a list of strings
+# - length: cluster length to search for, one of 1/3/4/5 (NB: There is no 2)
+# - cutoff: [default: 5] the cutoff frequency, if a cluster occurs less times
+#       than this it is not returned
+# - subset: [optional] any one of "shortsus", "longsus", "nonquote", "quote"
+#
+get_clusters <- function(
+    shortname,
+    length,
+    cutoff = 5,
+    subset = NULL
+) {
+    if(! length %in% c(1, 3, 4, 5)) {
+        stop(paste0("bad length parameter: '", length, "'"))
+    }
+    query <- paste(sprintf("corpora=%s", shortname), collapse = "&")
+    query <- sprintf("%s&clusterlength=%d&cutoff=%s", query, length, cutoff)
+    if(! is.null(subset)) {
+        subset <- match.arg(subset, c("shortsus", "longsus", "nonquote", "quote"))
+        query <- sprintf("%s&subset=%s", query, subset)
+    }
+    rv <- api_request(endpoint = "cluster", query = query)
+    clusters <- data.frame("cluster" = rv$data[ , 1], "count" = as.integer(rv$data[ , 2]), stringsAsFactors = FALSE)
+    clusters <- clusters[order(clusters$count, decreasing = TRUE),]
+    rownames(clusters) <- NULL
+    return(clusters)
+}
+```
+
+### Fetching the cluster data from CLiC
+
+```{r lookup}
+# lookup <- get_lookup()
+```
+
+```{R lookat_lookup, echo=FALSE}
+# print(lookup, topn = 10)
+```
+Fetch the CLiC cluster information.
+This will be slow, but the code is clear and we only have to do it once.
+```{r get_clic_clusters}
+if(! file.exists(file.path('results', 'clic_clusters.rds'))) {
+    clic_clusters <- data.table(
+        corpus = character(0),
+        "text" = character(0),
+        "length" = integer(0),
+        cluster = character(0),
+        count = integer(0),
+        stringsAsFactors = FALSE
+    )
+    for(this in c("ChiLit", "dickens", "ntc")) {
+        books <- lookup[corpus == this]$id
+        for(book in books) {
+            for(cl in 3:5) {
+                f <- get_clusters(
+                    shortname = book,
+                    length = cl,
+                    cutoff = 0,
+                    subset = "quote"
+                )
+                if(nrow(f) == 0) { next }
+                DT <- data.table(
+                    corpus = this,
+                    "text" = book,
+                    "length" = cl,
+                    cluster = f$cluster,
+                    count = f$count,
+                    stringsAsFactors = FALSE
+                )
+                clic_clusters <- rbindlist(list(clic_clusters, DT), use.names = TRUE)
+            }
+        }
+    }
+    saveRDS(clic_clusters, file.path('results', 'clic_clusters.rds'))
+} else {
+    # clic_clusters <- readRDS(file.path('results', 'clic_clusters.rds'))
+}
+```
+```{R lookat_clic_clusters, echo=FALSE}
+#print(clic_clusters, topn = 10)
+```
+
+# Combine the CLiC and BNC data and create counts
+
+```{r clusters}
+if(! file.exists(file.path('results', 'clusters.rds'))) {
+    # combine
+    clusters <- rbindlist(list(clic_clusters, BNC_clusters), use.names = TRUE)
+    setkey(clusters, corpus, length, cluster, text)
+
+    # how many texts is each cluster in
+    clusters <- clusters[ , .(total_count = sum(count), range = uniqueN(text)), by = .(corpus, length, cluster)]
+    setkey(clusters)
+
+    # counts per million
+    # word counts for quotes from front page of CLiC
+    words <- list(
+        dickens    = 1369029,
+        ntc        = 1611083,
+        ChiLit     = 1511497,
+        Spoken_BNC1994 = 9899403
+    )
+    clusters[corpus == "ChiLit",     count_per_million := total_count * 1e6 / words$ChiLit]
+    clusters[corpus == "dickens",    count_per_million := total_count * 1e6 / words$dickens]
+    clusters[corpus == "ntc",        count_per_million := total_count * 1e6 / words$ntc]
+    clusters[corpus == "Spoken_BNC1994", count_per_million := total_count * 1e6 / words$Spoken_BNC1994]
+    setkey(clusters)
+    saveRDS(clusters, file.path('results', 'clusters.rds'))
+} else {
+    clusters <- readRDS(file.path('results', 'clusters.rds'))
+}
+```
+```{r lookat_clusters, echo=FALSE}
+str(clusters)
+```
+
+```{r reshape_clusters}
+# reshape
+if(! file.exists(file.path('results', 'rs_clusters.rds'))) {
+    rs_clusters <- dcast(clusters, cluster + length ~ corpus, value.var = c('total_count', 'range', 'count_per_million'), fill = 0)
+    setkey(rs_clusters)
+    saveRDS(rs_clusters, file.path('results', 'rs_clusters.rds'))
+} else {
+    rs_clusters <- readRDS(file.path('results', 'rs_clusters.rds'))
+}
+```
+```{r lookat_rs_clusters, echo=FALSE}
+str(rs_clusters)
+```
+
+
+# Tables
+
+## Table 1: Corpora used in the present study
+
+CLiC sizes taken from the CLiC landing page.
+
+Spoken BNC1994 size calculated using the same logic as the cluster extraction above.
+
+```{r table_1}
+if(! file.exists(file.path('results', 'corpora_sizes.rds'))) {
+    corpora_sizes <- data.table(
+        corpus = c("Spoken BNC1994", "DNov", "ChiLit", "19C"),
+        size = c(NA, length(get_tokens("dickens")), length(get_tokens("ChiLit")), length(get_tokens("ntc"))),
+        subset = c(9899403, length(get_tokens("dickens", subset = "quote")), length(get_tokens("ChiLit", subset = "quote")), length(get_tokens("ntc", subset = "quote")))
+    )
+    saveRDS(corpora_sizes, file.path('results', 'corpora_sizes.rds'))
+} else {
+    corpora_sizes <- readRDS(file.path('results', 'corpora_sizes.rds'))
+}
+kable(
+    corpora_sizes,
+    "html",
+    format.args = list(big.mark = ',')) %>%
+    kable_styling("bordered", full_width = FALSE)
+```
+
+## Table 2: Top 50 most frequent clusters per corpus
+
+The following tables show the 50 most frequent individual clusters per corpus. Clusters with the same frequency share a rank. Therefore, some tables contain fewer than 50 "ranks".
+
+### Spoken BNC1994 - length 5 - top 50 most frequent CLUSTERS
+
+```{r table_2_BNC}
+tmp <- clusters[
+    corpus == "Spoken_BNC1994" & length == 5
+][order(-total_count), r := .GRP, by = .(-total_count)][order(r, -range, cluster)][1:50]
+kable(
+    tmp[, c('r', 'cluster', 'total_count', 'range', 'count_per_million')],
+    "html",
+    col.names = c("rank", "cluster", "freq", "range", "freq / mill"),
+    digits = 2) %>%
+    kable_styling("bordered", full_width = FALSE) %>%
+    row_spec(which(!(tmp$r%%2)), background = "#EEEEEE") %>%
+    collapse_rows(columns = 1) %>%
+    add_header_above(c(" " = 2, "Spoken BNC1994" = 3))
+```
+
+### DNov - length 5 - top 50 most frequent CLUSTERS
+```{r table_2_DNov}
+tmp <- clusters[
+    corpus == "dickens" & length == 5
+][order(-total_count), r := .GRP, by = .(-total_count)][order(r, -range, cluster)][1:50]
+kable(
+    tmp[, c('r', 'cluster', 'total_count', 'range', 'count_per_million')],
+    "html",
+    col.names = c("rank", "cluster", "freq", "range", "freq / mill"),
+    digits = 2) %>%
+    kable_styling("bordered", full_width = FALSE) %>%
+    row_spec(which(!(tmp$r%%2)), background = "#EEEEEE") %>%
+    collapse_rows(columns = 1) %>%
+    add_header_above(c(" " = 2, "DNov" = 3))
+```
+
+### ChiLit - length 5 - top 50 most frequent CLUSTERS
+```{r table_2_ChiLit}
+tmp <- clusters[
+    corpus == "ChiLit" & length == 5
+][order(-total_count), r := .GRP, by = .(-total_count)][order(r, -range, cluster)][1:50]
+kable(
+    tmp[, c('r', 'cluster', 'total_count', 'range', 'count_per_million')],
+    "html",
+    col.names = c("rank", "cluster", "freq", "range", "freq / mill"),
+    digits = 2) %>%
+    kable_styling("bordered", full_width = FALSE) %>%
+    row_spec(which(!(tmp$r%%2)), background = "#EEEEEE") %>%
+    collapse_rows(columns = 1) %>%
+    add_header_above(c(" " = 2, "ChiLit" = 3))
+```
+
+### 19C - length 5 - top 50 most frequent CLUSTERS
+```{r table_2_19C}
+tmp <- clusters[
+    corpus == "ntc" & length == 5
+][order(-total_count), r := .GRP, by = .(-total_count)][order(r, -range, cluster)][1:50]
+kable(
+    tmp[, c('r', 'cluster', 'total_count', 'range', 'count_per_million')],
+    "html",
+    col.names = c("rank", "cluster", "freq", "range", "freq / mill"),
+    digits = 2) %>%
+    kable_styling("bordered", full_width = FALSE) %>%
+    row_spec(which(!(tmp$r%%2)), background = "#EEEEEE") %>%
+    collapse_rows(columns = 1) %>%
+    add_header_above(c(" " = 2, "19C" = 3))
+```
+
+## Table 3: Number of clusters
+
+Number of clusters in ranges of counts per million.
+
+$[0,5) \equiv 0 \ge c < 5$
+
+### length = 5
+```{r table_3_5}
+tmp <- clusters[length == 5 & range >= 5, .(count=.N), by = .(corpus, freq = cut(count_per_million, c(0, 5, 10, 20, 40, Inf), right = FALSE))]
+tmp <- dcast(tmp, freq ~ corpus, value.var = "count")
+kable(tmp, "html", col.names = c("freq / mill", "Spoken BNC1994", "DNov", "ChiLit", "19C")) %>%
+    kable_styling("bordered", full_width = FALSE)
+```
+
+### length = 4
+```{r table_3_4}
+tmp <- clusters[length == 4 & range >= 5, .(count=.N), by = .(corpus, freq = cut(count_per_million, c(0, 5, 10, 20, 40, Inf), right = FALSE))]
+tmp <- dcast(tmp, freq ~ corpus, value.var = "count")
+kable(tmp, "html", col.names = c("freq / mill", "Spoken BNC1994", "DNov", "ChiLit", "19C")) %>%
+    kable_styling("bordered", full_width = FALSE)
+```
+
+### length = 3
+```{r table_3_3}
+tmp <- clusters[length == 3 & range >= 5, .(count=.N), by = .(corpus, freq = cut(count_per_million, c(0, 5, 10, 20, 40, Inf), right = FALSE))]
+tmp <- dcast(tmp, freq ~ corpus, value.var = "count")
+kable(tmp, "html", col.names = c("freq / mill", "Spoken BNC1994", "DNov", "ChiLit", "19C")) %>%
+    kable_styling("bordered", full_width = FALSE)
+```
+
+## Table 4: Lexical bundles shared across all four corpora (frequencies per million)
+
+Bundle specification:
+
+* length = 5
+* range is greater than or equal to 5
+* freq / mill is greater than or equal to 5 
+
+```{r table_4}
+tmp <- rs_clusters[length == 5 &
+    (range_Spoken_BNC1994 >= 5 & count_per_million_Spoken_BNC1994 >= 5) &
+    (range_dickens >= 5 & count_per_million_dickens >= 5) &
+    (range_ChiLit >= 5 & count_per_million_ChiLit >= 5) &
+    (range_ntc >= 5 & count_per_million_ntc >= 5)
+][order(-total_count_Spoken_BNC1994)]
+tmp <- tmp[ ,c("cluster", "count_per_million_Spoken_BNC1994", "count_per_million_dickens", "count_per_million_ChiLit", "count_per_million_ntc")]
+kable(tmp, "html", col.names = c("bundle", "Spoken BNC1994", "DNov", "ChiLit", "19C"), row.names = TRUE, digits = 2) %>%
+    kable_styling("bordered", full_width = FALSE) %>%
+    add_header_above(c(" " = 2, "freq / mill" = 4))
+```
+
+## Table 5a: Lexical bundles that are not bundles in any other corpus
+
+Bundle specification:
+
+* length = 5
+* range is greater than or equal to 5
+* freq / mill is greater than or equal to 5 
+
+```{r table_5a_p_kable}
+p_kable <- function(x, h) {
+    f <- colnames(x)
+    wanted <- c("r", "cluster", "length", "total_count_Spoken_BNC1994", "range_Spoken_BNC1994", "count_per_million_Spoken_BNC1994", "total_count_dickens", "range_dickens", "count_per_million_dickens", "total_count_ChiLit", "range_ChiLit", "count_per_million_ChiLit", "total_count_ntc", "range_ntc", "count_per_million_ntc")
+    setcolorder(x, match(wanted, f))
+    kable(x,
+        "html",
+        digits = 2,
+        col.names = c("rank", "bundle", "length", "freq", "range", "freq / mill", "freq", "range", "freq / mill", "freq", "range", "freq / mill", "total count", "range", "freq / mill")) %>%
+            kable_styling(c("bordered", full_width = FALSE)) %>%
+            row_spec(which(!(x$r%%2)), background = "#EEEEEE") %>%
+            column_spec(h, bold = TRUE, background = "#EEEEEE") %>%
+            collapse_rows(columns = 1) %>%
+            add_header_above(c(" " = 3, "Spoken BNC1994" = 3, "DNov" = 3, "ChiLit" = 3, "19C" = 3))
+}
+```
+
+#### Spoken BNC1994
+
+```{r table_5a_BNC1994}
+tmp <- rs_clusters[length == 5 &
+    (range_Spoken_BNC1994 >= 5 & count_per_million_Spoken_BNC1994 >= 5) &
+    ! (range_dickens >= 5 & count_per_million_dickens >= 5) &
+    ! (range_ChiLit >= 5 & count_per_million_ChiLit >= 5) &
+    ! (range_ntc >= 5 & count_per_million_ntc >= 5)
+][order(-total_count_Spoken_BNC1994), r := .GRP, by = .(-total_count_Spoken_BNC1994)]
+p_kable(tmp[order(r, -range_Spoken_BNC1994, cluster)], h = 4:6)
+```
+#### DNov
+
+```{r table_5a_DNov}
+tmp <- rs_clusters[length == 5 &
+    ! (range_Spoken_BNC1994 >= 5 & count_per_million_Spoken_BNC1994 >= 5) &
+    (range_dickens >= 5 & count_per_million_dickens >= 5) &
+    ! (range_ChiLit >= 5 & count_per_million_ChiLit >= 5) &
+    ! (range_ntc >= 5 & count_per_million_ntc >= 5)
+][order(-total_count_dickens), r := .GRP, by = .(-total_count_dickens)]
+p_kable(tmp[order(r, -range_dickens, cluster)], h = 7:9)
+```
+
+#### ChiLit
+
+```{r table_5a_ChiLit}
+tmp <- rs_clusters[length == 5 &
+    ! (range_Spoken_BNC1994 >= 5 & count_per_million_Spoken_BNC1994 >= 5) &
+    ! (range_dickens >= 5 & count_per_million_dickens >= 5) &
+    (range_ChiLit >= 5 & count_per_million_ChiLit >= 5) &
+    ! (range_ntc >= 5 & count_per_million_ntc >= 5)
+][order(-total_count_ChiLit), r := .GRP, by = .(-total_count_ChiLit)]
+p_kable(tmp[order(r, -range_ChiLit, cluster)], h = 10:12)
+```
+
+#### 19C
+
+```{r table_5a_19C}
+tmp <- rs_clusters[length == 5 &
+    ! (range_Spoken_BNC1994 >= 5 & count_per_million_Spoken_BNC1994 >= 5) &
+    ! (range_dickens >= 5 & count_per_million_dickens >= 5) &
+    ! (range_ChiLit >= 5 & count_per_million_ChiLit >= 5) &
+    (range_ntc >= 5 & count_per_million_ntc >= 5)
+][order(-total_count_ntc), r := .GRP, by = .(-total_count_ntc)]
+p_kable(tmp[order(r, -range_ntc, cluster)], h = 13:15)
+```
+
+## Table 5b: Lexical bundles that do not occur at all in any other corpus
+
+Bundle specification:
+
+* length = 5
+* range is greater than or equal to 5
+* freq / mill is greater than or equal to 5 
+
+#### Spoken BNC1994
+
+```{r table_5b_5_BNC1994}
+tmp <- rs_clusters[length == 5 &
+    (range_Spoken_BNC1994 >= 5 & count_per_million_Spoken_BNC1994 >= 5) &
+    total_count_dickens == 0 &
+    total_count_ChiLit == 0 &
+    total_count_ntc == 0
+][order(-total_count_Spoken_BNC1994),  r := .GRP, by = .(-total_count_Spoken_BNC1994)][order(r, -range_Spoken_BNC1994, cluster), c("r", "cluster", "total_count_Spoken_BNC1994", "range_Spoken_BNC1994", "count_per_million_Spoken_BNC1994")]
+kable(tmp, "html", digits = 2, col.names = c("rank", "bundle", "freq", "range", "freq / mill")) %>%
+    kable_styling("bordered", full_width = FALSE) %>%
+    row_spec(which(!(tmp$r%%2)), background = "#EEEEEE") %>%
+    collapse_rows(columns = 1) %>%
+    add_header_above(c(" " = 2, "Spoken BNC1994" = 3))
+```
+
+#### DNov
+
+```{r table_5b_5_DNov}
+tmp <- rs_clusters[length == 5 &
+    total_count_Spoken_BNC1994 == 0 &
+    (range_dickens >= 5 & count_per_million_dickens >= 5) &
+    total_count_ChiLit == 0 &
+    total_count_ntc == 0
+][order(-total_count_dickens),  r := .GRP, by = .(-total_count_dickens)][order(r, -range_dickens, cluster), c("r", "cluster", "total_count_dickens", "range_dickens", "count_per_million_dickens")]
+kable(tmp, "html", digits = 2, col.names = c("rank", "bundle", "freq", "range", "freq / mill")) %>%
+    kable_styling("bordered", full_width = FALSE) %>%
+    row_spec(which(!(tmp$r%%2)), background = "#EEEEEE") %>%
+    collapse_rows(columns = 1) %>%
+    add_header_above(c(" " = 2, "DNov" = 3))
+```
+
+#### ChiLit
+
+```{r table_5b_5_ChiLit}
+tmp <- rs_clusters[length == 5 &
+    total_count_Spoken_BNC1994 == 0 &
+    total_count_dickens == 0 &
+    (range_ChiLit >= 5 & count_per_million_ChiLit >= 5) &
+    total_count_ntc == 0
+][order(-total_count_ChiLit),  r := .GRP, by = .(-total_count_ChiLit)][order(r, -range_ChiLit, cluster), c("r", "cluster", "total_count_ChiLit", "range_ChiLit", "count_per_million_ChiLit")]
+kable(tmp, "html", digits = 2, col.names = c("rank", "bundle", "freq", "range", "freq / mill")) %>%
+    kable_styling("bordered", full_width = FALSE) %>%
+    add_header_above(c(" " = 2, "ChiLit" = 3))
+```
+
+#### 19C
+
+```{r table_5b_5_19C}
+tmp <- rs_clusters[length == 5 &
+    total_count_Spoken_BNC1994 == 0 &
+    total_count_dickens == 0 &
+    total_count_ChiLit == 0 &
+    (range_ntc >= 5 & count_per_million_ntc >= 5)
+][order(-total_count_ntc),  r := .GRP, by = .(-total_count_ntc)][order(r, -range_ntc, cluster), c("r", "cluster", "total_count_ntc", "range_ntc", "count_per_million_ntc")]
+kable(tmp, "html", digits = 2, col.names = c("rank", "bundle", "freq", "range", "freq / mill")) %>%
+    kable_styling("bordered", full_width = FALSE) %>%
+    add_header_above(c(" " = 2, "19C" = 3))
+```
+
+## Table 6: Lexical bundles in the Spoken BNC1994 that occur exactly once in Dickens
+
+Bundle specification:
+
+* length = 5
+* range is greater than or equal to 5
+* freq / mill is greater than or equal to 5 
+
+```{r table_6}
+tmp <- rs_clusters[length == 5 &
+    (range_Spoken_BNC1994 >= 5 & count_per_million_Spoken_BNC1994 >= 5) &
+    total_count_dickens == 1,
+    c("cluster", "total_count_Spoken_BNC1994", "range_Spoken_BNC1994", "count_per_million_Spoken_BNC1994")][order(-total_count_Spoken_BNC1994)]
+kable(tmp, "html", row.names = TRUE, col.names = c("cluster", "freq", "range", "freq / mill"), digits = 2) %>% 
+    kable_styling("bordered", full_width = FALSE) %>%
+    add_header_above(c(" " = 2, "Spoken BNC1994" = 3))
+```
+
+## Table 7: Lexical bundles of length 4 in both the Spoken BNC1994 and DNov that occur at least once in Great Expectations
+
+Bundle specification:
+
+* length = 4
+* range is greater than or equal to 5
+* freq / mill is greater than or equal to 20
+
+```{r table_7}
+f <- get_clusters(
+    shortname = 'GE',
+    length = 4,
+    cutoff = 0,
+    subset = "quote"
+)
+GE_clusters <- data.table(
+    corpus = "GE",
+    "length" = 4,
+    cluster = f$cluster,
+    total_count = f$count,
+    range = as.integer(NA),
+    count_per_million = f$count * 1e6 / 53221,
+    stringsAsFactors = FALSE
+)
+DT <- rbindlist(list(clusters[length == 4 & corpus %in% c("Spoken_BNC1994", "dickens")], GE_clusters), use.names = TRUE)
+DT <- dcast(DT, cluster + length ~ corpus, value.var = c('total_count', 'range', 'count_per_million'), fill = 0)
+setkey(DT)
+
+wanted_cols <- c("cluster", "length", "total_count_Spoken_BNC1994", "range_Spoken_BNC1994", "count_per_million_Spoken_BNC1994", "total_count_dickens", "range_dickens", "count_per_million_dickens", "total_count_GE", "count_per_million_GE")
+tmp <- DT[
+    (range_Spoken_BNC1994 >= 5 & count_per_million_Spoken_BNC1994 >= 20) &
+    (range_dickens >= 5 & count_per_million_dickens >= 20) &
+    total_count_GE > 0,
+wanted_cols, with = FALSE][order(-total_count_Spoken_BNC1994)]
+
+kable(tmp,
+    "html",
+    digits = 2,
+    row.names = TRUE,
+    col.names = c("bundle", "length", "freq", "range", "freq / mill", "freq", "range", "freq / mill", "freq", "freq / mill")) %>%
+        kable_styling(c("bordered", full_width = FALSE)) %>%
+        add_header_above(c(" " = 3,"Spoken BNC1994" = 3, "DNov" = 3, "GE" = 2))
+```
+
+
+
+
