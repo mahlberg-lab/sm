@@ -1,0 +1,519 @@
+0000001 001  NULL    **6;0;START              
+0000001 002  -----   -----                    
+0000002 010  PPHS1   she                      Z8f 
+0000002 020  VVD     cried                    E4.1- Q2.2 
+0000003 010  PPHS1   she                      Z8f 
+0000003 020  VVD     continued                T2++ 
+0000004 010  PPHS1   she                      Z8f 
+0000004 020  VVD     said                     Q2.1 
+0000004 021  ,       ,                        
+0000004 030  RR      reproachfully            G2.2- Q2.2 
+0000005 010  NP1     Leila                    Z99 
+0000005 020  VVD     answered                 Q2.2 S1.1.1 
+0000006 010  NP1     Leila                    Z99 
+0000006 020  VVD     answered                 Q2.2 S1.1.1 
+0000007 010  NP1     Matilda                  Z99 
+0000007 020  VVD     observed                 X3.4 Q2.1/X2.4 X2.1 G2.1+ 
+0000008 010  NP1     Matilda                  Z99 
+0000008 020  VVD     answered                 Q2.2 S1.1.1 
+0000009 010  PPHS1   she                      Z8f 
+0000009 020  VVD     cried                    E4.1- Q2.2 
+0000010 010  RR      both                     Z5 
+0000010 020  AT      the                      Z5 
+0000010 030  NN2     others                   A6.1-/Z8 
+0000010 040  VVD     exclaimed                Q2.2 
+0000011 010  NP1     Matilda                  Z99 
+0000011 020  RR      eagerly                  X5.2+ 
+0000011 030  VVD     exclaimed                Q2.2 
+0000012 010  NP1     Matilda                  Z99 
+0000012 020  VVD     answered                 Q2.2 S1.1.1 
+0000013 010  NP1     Leila                    Z99 
+0000013 020  VVD     answered                 Q2.2 S1.1.1 
+0000013 021  ,       ,                        
+0000013 030  RR      cheerfully               E4.1+ 
+0000014 010  NP1     Matilda                  Z99 
+0000014 020  VVD     exclaimed                Q2.2 
+0000014 021  ,       ,                        
+0000015 010  RR      reproachfully            G2.2- Q2.2 
+0000016 010  PPHS1   she                      Z8f 
+0000017 010  VVD     added                    N5+/A2.1 N2 A1.8+ 
+0000018 010  PPHS1   She                      Z8f 
+0000018 020  VVD     hesitated                A7- 
+0000018 021  ,       ,                        
+0000018 030  RT      then                     N4 Z5 T1.2 
+0000018 040  VVD     continued                T2++ 
+0000019 010  NP1     Matilda                  Z99 
+0000019 020  VVD     exclaimed                Q2.2 
+0000020 010  NP1     Matilda                  Z99 
+0000020 020  VVD     said                     Q2.1 
+0000020 021  ,       ,                        
+0000020 030  RR      hastily                  N3.8+ A1.3- 
+0000021 010  NP1     Selina                   Z99 
+0000021 020  VVD     answered                 Q2.2 S1.1.1 
+0000022 010  NP1     Leila                    Z99 
+0000022 020  RR      eagerly                  X5.2+ 
+0000022 030  VVD     said                     Q2.1 
+0000023 010  NP1     Matilda                  Z99 
+0000023 020  VVD     said                     Q2.1 
+0000024 010  NP1     Selina                   Z99 
+0000024 020  VVD     answered                 Q2.2 S1.1.1 
+0000025 010  NP1     Selina                   Z99 
+0000025 020  VVD     answered                 Q2.2 S1.1.1 
+0000026 010  PPHS1   she                      Z8f 
+0000026 020  VVD     observed                 X3.4 Q2.1/X2.4 X2.1 G2.1+ 
+0000027 010  PPHS1   she                      Z8f 
+0000027 020  VVD     said                     Q2.1 
+0000028 010  PPHS1   she                      Z8f 
+0000028 020  VVD     exclaimed                Q2.2 
+0000028 021  :       :                        
+0000028 030  RT      then                     N4 Z5 T1.2 
+0000028 040  VVD     added                    N5+/A2.1 N2 A1.8+ 
+0000029 010  NP1     Leila                    Z99 
+0000029 020  VVD     exclaimed                Q2.2 
+0000030 010  PPHS1   he                       Z8m 
+0000031 010  VVD     repeated                 N6+ Q2.1/N6+ F1/B1@ 
+0000032 010  NNB     Mr.                      Z1m[i1.2.1 S2.2m 
+0000032 020  NP1     Howard                   Z1m[i1.2.2 Z1mf 
+0000032 030  VVD     continued                T2++ 
+0000033 010  PPHS1   he                       Z8m 
+0000033 020  VVD     continued                T2++ 
+0000034 010  NNB     Mr.                      Z1m[i2.2.1 S2.2m 
+0000034 020  NP1     Howard                   Z1m[i2.2.2 Z1mf 
+0000034 030  VVD     answered                 Q2.2 S1.1.1 
+0000035 010  PPHS1   she                      Z8f 
+0000035 020  VVD     said                     Q2.1 
+0000036 010  NP1     Leila                    Z99 
+0000036 020  VVD     answered                 Q2.2 S1.1.1 
+0000037 010  PPHS1   she                      Z8f 
+0000037 020  VVD     said                     Q2.1 
+0000038 010  PPHS1   she                      Z8f 
+0000038 020  VVD     said                     Q2.1 
+0000039 010  NP1     Leila                    Z99 
+0000039 020  RR      meekly                   S1.2.3- 
+0000040 010  VVD     answered                 Q2.2 S1.1.1 
+0000041 010  PPHS1   she                      Z8f 
+0000041 020  VVD     said                     Q2.1 
+0000042 010  PPHS1   she                      Z8f 
+0000042 020  VVD     said                     Q2.1 
+0000043 010  PPHS1   she                      Z8f 
+0000043 020  VVD     exclaimed                Q2.2 
+0000044 010  PPHS1   he                       Z8m 
+0000045 010  VVD     said                     Q2.1 
+0000046 010  PPHS1   she                      Z8f 
+0000046 020  VVD     exclaimed                Q2.2 
+0000047 010  PPHS1   she                      Z8f 
+0000047 020  VVD     said                     Q2.1 
+0000048 010  PPHS1   she                      Z8f 
+0000048 020  VVD     said                     Q2.1 
+0000049 010  NP1     Leila                    Z99 
+0000049 020  VVD     exclaimed                Q2.2 
+0000050 010  PPHS1   she                      Z8f 
+0000050 020  VVD     said                     Q2.1 
+0000051 010  PPHS1   she                      Z8f 
+0000051 020  VVD     said                     Q2.1 
+0000052 010  NP1     Leila                    Z99 
+0000052 020  VVD     said                     Q2.1 
+0000053 010  NP1     Matilda                  Z99 
+0000053 020  VVD     replied                  Q2.2 Q1.1 
+0000054 010  NP1     Selina                   Z99 
+0000054 020  VVD     exclaimed                Q2.2 
+0000055 010  NP1     Matilda                  Z99 
+0000055 020  VVD     answered                 Q2.2 S1.1.1 
+0000056 010  NP1     Matilda                  Z99 
+0000056 020  VVD     said                     Q2.1 
+0000057 010  NP1     Matilda                  Z99 
+0000057 020  VVD     said                     Q2.1 
+0000057 021  ,       ,                        
+0000057 030  RR      reproachfully            G2.2- Q2.2 
+0000058 010  NP1     Leila                    Z99 
+0000058 020  VVD     said                     Q2.1 
+0000058 030  RR      quickly                  N3.8+ 
+0000059 010  NP1     Leila                    Z99 
+0000059 020  VVD     observed                 X3.4 Q2.1/X2.4 X2.1 G2.1+ 
+0000060 010  PPHS1   she                      Z8f 
+0000060 020  VVD     said                     Q2.1 
+0000061 010  NP1     Selina                   Z99 
+0000061 020  VVD     said                     Q2.1 
+0000062 010  PPHS1   she                      Z8f 
+0000062 020  VVD     said                     Q2.1 
+0000063 010  PPHS1   she                      Z8f 
+0000063 020  VVD     exclaimed                Q2.2 
+0000064 010  PPHS1   she                      Z8f 
+0000064 020  VVD     said                     Q2.1 
+0000065 010  PPHS1   he                       Z8m 
+0000065 020  VVD     said                     Q2.1 
+0000066 010  NP1     Leila                    Z99 
+0000066 020  VVD     exclaimed                Q2.2 
+0000067 010  NP1     Matilda                  Z99 
+0000067 020  VVD     said                     Q2.1 
+0000068 010  NP1     Leila                    Z99 
+0000068 020  VVD     said                     Q2.1 
+0000068 021  ,       ,                        
+0000068 030  RR      coaxingly                Z99 
+0000069 010  PPHS1   he                       Z8m 
+0000069 020  VVD     said                     Q2.1 
+0000069 030  II      at                       Z5 
+0000069 040  MD      last                     N4 
+0000070 010  NP1     Leila                    Z99 
+0000070 020  VVD     said                     Q2.1 
+0000071 010  PPHS1   he                       Z8m 
+0000072 010  VVD     replied                  Q2.2 Q1.1 
+0000073 010  NP1     Leila                    Z99 
+0000073 020  VVD     answered                 Q2.2 S1.1.1 
+0000074 010  PPHS1   she                      Z8f 
+0000074 020  VVD     cried                    E4.1- Q2.2 
+0000075 010  PPHS1   she                      Z8f 
+0000075 020  VVD     continued                T2++ 
+0000076 010  PPHS1   he                       Z8m 
+0000076 020  VVD     said                     Q2.1 
+0000077 010  PPHS1   she                      Z8f 
+0000077 020  VVD     said                     Q2.1 
+0000078 010  NP1     Matilda                  Z99 
+0000078 020  VVD     repeated                 N6+ Q2.1/N6+ F1/B1@ 
+0000079 010  PPHS1   she                      Z8f 
+0000079 020  VVD     continued                T2++ 
+0000080 010  NNB     Mr.                      Z1m[i3.2.1 S2.2m 
+0000080 020  NP1     Howard                   Z1m[i3.2.2 Z1mf 
+0000080 030  VVD     continued                T2++ 
+0000081 010  PPHS1   she                      Z8f 
+0000081 020  VVD     continued                T2++ 
+0000082 010  PPHS1   she                      Z8f 
+0000083 010  VVD     said                     Q2.1 
+0000084 010  PPHS1   she                      Z8f 
+0000084 020  VVD     asked                    Q2.2 
+0000084 021  ,       ,                        
+0000084 030  RR      inquiringly              X2.4 
+0000085 010  NNB     Mr.                      Z1m[i4.2.1 S2.2m 
+0000085 020  NP1     Howard                   Z1m[i4.2.2 Z1mf 
+0000085 030  VVD     said                     Q2.1 
+0000086 010  PPHS1   he                       Z8m 
+0000086 020  VVD     remarked                 Q2.2 
+0000087 010  PPHS1   he                       Z8m 
+0000087 020  VVD     said                     Q2.1 
+0000088 010  PPHS1   he                       Z8m 
+0000088 020  VVD     said                     Q2.1 
+0000089 010  NP1     Matilda                  Z99 
+0000089 020  VVD     continued                T2++ 
+0000090 010  PPHS1   he                       Z8m 
+0000090 020  VVD     continued                T2++ 
+0000090 030  RR      aloud                    X3.2 
+0000091 010  NNB     Mrs.                     Z1f[i6.2.1 Z1m[i5.2.1 
+0000091 020  NP1     Roberts                  Z1f[i6.2.2 Z1mf Z1m[i5.2.2 
+0000091 030  VVD     said                     Q2.1 
+0000092 010  PPHS1   she                      Z8f 
+0000092 020  VVD     said                     Q2.1 
+0000093 010  NNB     Mrs.                     Z1f[i9.2.1 Z1f[i8.2.1 Z1m[i7.2.1 
+0000093 020  NP1     Roberts                  Z1f[i9.2.2 Z1mf Z1f[i8.2.2 Z1m[i7.2.2 
+0000093 030  VVD     said                     Q2.1 
+0000094 010  NP1     Matilda                  Z99 
+0000094 020  VVD     exclaimed                Q2.2 
+0000095 010  PPHS1   she                      Z8f 
+0000095 020  VVD     said                     Q2.1 
+0000096 010  NP1     Leila                    Z99 
+0000096 020  VVD     answered                 Q2.2 S1.1.1 
+0000096 021  ,       ,                        
+0000096 030  RR      quietly                  X3.2- E3+ A10- A1.1.1/N5- 
+0000097 010  NP1     Matilda                  Z99 
+0000097 020  VVD     said                     Q2.1 
+0000097 021  ,       ,                        
+0000097 030  RR      impatiently              X5.2+ E3- 
+0000098 010  NP1     Matilda                  Z99 
+0000098 020  VVD     said                     Q2.1 
+0000099 010  NP1     Matilda                  Z99 
+0000099 020  VVD     exclaimed                Q2.2 
+0000100 010  NP1     Leila                    Z99 
+0000100 020  VVD     answered                 Q2.2 S1.1.1 
+0000101 010  PPHS1   she                      Z8f 
+0000101 020  VVD     said                     Q2.1 
+0000102 010  NP1     Matilda                  Z99 
+0000102 020  VVD     said                     Q2.1 
+0000103 010  PPHS1   she                      Z8f 
+0000103 020  VVD     replied                  Q2.2 Q1.1 
+0000104 010  NP1     Louisa                   Z1f 
+0000104 020  VVD     observed                 X3.4 Q2.1/X2.4 X2.1 G2.1+ 
+0000105 010  NP1     Leila                    Z99 
+0000105 020  VVD     answered                 Q2.2 S1.1.1 
+0000106 010  PPHS1   she                      Z8f 
+0000107 010  VVD     continued                T2++ 
+0000108 010  NP1     Leila                    Z99 
+0000108 020  VVD     answered                 Q2.2 S1.1.1 
+0000109 010  PPHS1   she                      Z8f 
+0000109 020  VVD     said                     Q2.1 
+0000110 010  PPHS1   he                       Z8m 
+0000110 020  VVD     replied                  Q2.2 Q1.1 
+0000111 010  PPHS1   he                       Z8m 
+0000111 020  VVD     said                     Q2.1 
+0000112 010  NP1     Leila                    Z99 
+0000112 020  VVD     said                     Q2.1 
+0000112 030  RR      eagerly                  X5.2+ 
+0000113 010  PPHS1   he                       Z8m 
+0000113 020  VVD     said                     Q2.1 
+0000114 010  NP1     Leila                    Z99 
+0000114 020  VVD     exclaimed                Q2.2 
+0000115 010  PPHS1   she                      Z8f 
+0000115 020  VVD     said                     Q2.1 
+0000116 010  NP1     Mina                     L2mfn S2.1f 
+0000116 020  VVD     said                     Q2.1 
+0000117 010  NP1     Charles                  Z1m 
+0000117 020  VVD     said                     Q2.1 
+0000118 010  PPHS1   she                      Z8f 
+0000118 020  VVD     said                     Q2.1 
+0000119 010  PPHS1   he                       Z8m 
+0000119 020  VVD     said                     Q2.1 
+0000120 010  NP1     Leila                    Z99 
+0000120 020  VVD     cried                    E4.1- Q2.2 
+0000121 010  PPHS1   he                       Z8m 
+0000121 020  VVD     said                     Q2.1 
+0000122 010  AT      the                      Z5 
+0000122 020  NN1     farmer                   F4/S2mf 
+0000122 030  VVD     said                     Q2.1 
+0000123 010  NP1     Leila                    Z99 
+0000123 020  VVD     said                     Q2.1 
+0000124 010  NP1     Selina                   Z99 
+0000124 020  VVD     whispered                Q2.1/X3.2- 
+0000125 010  NP1     Matilda                  Z99 
+0000125 020  VVD     added                    N5+/A2.1 N2 A1.8+ 
+0000126 010  NN1     Nurse                    B3/S2mf 
+0000126 020  VVD     said                     Q2.1 
+0000127 010  PPHS1   he                       Z8m 
+0000127 020  VVD     exclaimed                Q2.2 
+0000128 010  PPHS1   she                      Z8f 
+0000128 020  VVD     said                     Q2.1 
+0000128 030  RR      quickly                  N3.8+ 
+0000129 010  PPHS1   he                       Z8m 
+0000129 020  VVD     inquired                 Q2.2 X2.4 
+0000130 010  NP1     Leila                    Z99 
+0000130 020  VVD     answered                 Q2.2 S1.1.1 
+0000131 010  NP1     Matilda                  Z99 
+0000131 020  VVD     said                     Q2.1 
+0000132 010  NP1     Leila                    Z99 
+0000132 020  VVD     said                     Q2.1 
+0000133 010  NP1     Leila                    Z99 
+0000133 020  VVD     said                     Q2.1 
+0000133 030  RR      eagerly                  X5.2+ 
+0000134 010  NP1     Leila                    Z99 
+0000134 020  VVD     exclaimed                Q2.2 
+0000135 010  NP1     Matilda                  Z99 
+0000135 020  VVD     said                     Q2.1 
+0000136 010  PPHS1   she                      Z8f 
+0000136 020  VVD     said                     Q2.1 
+0000137 010  NP1     Lydia                    Z1f Z2 
+0000137 020  VVD     said                     Q2.1 
+0000138 010  CC      and                      Z5 
+0000138 020  PPHS1   she                      Z8f 
+0000138 030  VVD     sighed                   Q2.2/X3.2 
+0000139 010  RR      heavily                  A13.3 
+0000140 010  NP1     Matilda                  Z99 
+0000140 020  VVD     answered                 Q2.2 S1.1.1 
+0000141 010  PPHS1   she                      Z8f 
+0000141 020  VVD     continued                T2++ 
+0000142 010  PPHS1   she                      Z8f 
+0000142 020  VVD     said                     Q2.1 
+0000143 010  NP1     Lydia                    Z1f Z2 
+0000143 020  VVD     said                     Q2.1 
+0000144 010  PPHS2   they                     Z8mfn 
+0000145 010  DB2     both                     N5 
+0000145 020  VVD     exclaimed                Q2.2 
+0000146 010  PPHS1   she                      Z8f 
+0000146 020  VVD     said                     Q2.1 
+0000147 010  PPHS1   she                      Z8f 
+0000147 020  VVD     said                     Q2.1 
+0000148 010  PPHS1   she                      Z8f 
+0000148 020  VVD     said                     Q2.1 
+0000149 010  PPHS1   she                      Z8f 
+0000149 020  VVD     asked                    Q2.2 
+0000149 030  PPX1    herself                  Z8f 
+0000150 010  PPHS1   she                      Z8f 
+0000150 020  VVD     said                     Q2.1 
+0000151 010  NNB     Mr.                      Z1m[i10.2.1 S2.2m 
+0000151 020  NP1     Howard                   Z1m[i10.2.2 Z1mf 
+0000151 030  VVD     answered                 Q2.2 S1.1.1 
+0000152 010  PPHS1   she                      Z8f 
+0000152 020  VVD     said                     Q2.1 
+0000153 010  PPHS1   she                      Z8f 
+0000154 010  VVD     continued                T2++ 
+0000155 010  PPHS1   he                       Z8m 
+0000155 020  VVD     answered                 Q2.2 S1.1.1 
+0000156 010  PPHS1   he                       Z8m 
+0000157 010  VVD     continued                T2++ 
+0000158 010  PPHS1   she                      Z8f 
+0000158 020  VVD     said                     Q2.1 
+0000159 010  PPHS1   she                      Z8f 
+0000159 020  VVD     continued                T2++ 
+0000160 010  NP1     Leila                    Z99 
+0000160 020  VVD     answered                 Q2.2 S1.1.1 
+0000160 030  RR      quickly                  N3.8+ 
+0000161 010  NP1     Matilda                  Z99 
+0000161 020  VVD     said                     Q2.1 
+0000161 021  ,       ,                        
+0000161 030  RR      reproachfully            G2.2- Q2.2 
+0000162 010  NP1     Matilda                  Z99 
+0000162 020  VVD     said                     Q2.1 
+0000163 010  PPHS1   she                      Z8f 
+0000163 020  VVD     exclaimed                Q2.2 
+0000164 010  NP1     Matilda                  Z99 
+0000164 020  VVD     observed                 X3.4 Q2.1/X2.4 X2.1 G2.1+ 
+0000165 010  NP1     Leila                    Z99 
+0000165 020  VVD     said                     Q2.1 
+0000165 030  RR      anxiously                E6- 
+0000166 010  PPHS1   she                      Z8f 
+0000166 020  VVD     said                     Q2.1 
+0000167 010  PPHS1   she                      Z8f 
+0000167 020  VVD     said                     Q2.1 
+0000168 010  PPHS1   she                      Z8f 
+0000168 020  VVD     said                     Q2.1 
+0000169 010  NN1     Nurse                    B3/S2mf 
+0000169 020  VVD     answered                 Q2.2 S1.1.1 
+0000170 010  NP1     Leila                    Z99 
+0000170 020  VVD     answered                 Q2.2 S1.1.1 
+0000171 010  NP1     Leila                    Z99 
+0000171 020  VVD     answered                 Q2.2 S1.1.1 
+0000172 010  PPHS1   she                      Z8f 
+0000172 020  VVD     said                     Q2.1 
+0000173 010  NP1     Leila                    Z99 
+0000173 020  VVD     answered                 Q2.2 S1.1.1 
+0000173 021  ,       ,                        
+0000173 030  VVG     smiling                  E4.1+ 
+0000174 010  NP1     Leila                    Z99 
+0000174 020  VVD     answered                 Q2.2 S1.1.1 
+0000175 010  NP1     Matilda                  Z99 
+0000175 020  VVD     observed                 X3.4 Q2.1/X2.4 X2.1 G2.1+ 
+0000176 010  PPHS1   she                      Z8f 
+0000176 020  VVD     said                     Q2.1 
+0000177 010  NP1     Matilda                  Z99 
+0000177 020  VVD     said                     Q2.1 
+0000178 010  NP1     Leila                    Z99 
+0000178 020  VVD     answered                 Q2.2 S1.1.1 
+0000179 010  NP1     Matilda                  Z99 
+0000179 020  VVD     observed                 X3.4 Q2.1/X2.4 X2.1 G2.1+ 
+0000180 010  NP1     Matilda                  Z99 
+0000180 020  VVD     said                     Q2.1 
+0000180 021  ,       ,                        
+0000180 030  RR      eagerly                  X5.2+ 
+0000181 010  NNB     Mrs.                     Z1f[i12.2.1 Z1m[i11.2.1 
+0000181 020  NP1     Roberts                  Z1f[i12.2.2 Z1mf Z1m[i11.2.2 
+0000181 030  VVD     observed                 X3.4 Q2.1/X2.4 X2.1 G2.1+ 
+0000182 010  NP1     Alfred                   Z1m 
+0000182 020  VVD     said                     Q2.1 
+0000183 010  NP1     Matilda                  Z99 
+0000183 020  VVD     said                     Q2.1 
+0000184 010  PPHS1   she                      Z8f 
+0000184 020  VVD     continued                T2++ 
+0000185 010  PPHS1   she                      Z8f 
+0000185 020  VVD     said                     Q2.1 
+0000186 010  NP1     Matilda                  Z99 
+0000186 020  VVD     observed                 X3.4 Q2.1/X2.4 X2.1 G2.1+ 
+0000187 010  NP1     Matilda                  Z99 
+0000187 020  VVD     said                     Q2.1 
+0000188 010  NP1     Matilda                  Z99 
+0000188 020  VVD     said                     Q2.1 
+0000189 010  NP1     Matilda                  Z99 
+0000189 020  VVD     exclaimed                Q2.2 
+0000190 010  NNB     Mrs.                     Z1f[i14.2.1 Z1m[i13.2.1 
+0000190 020  NP1     Roberts                  Z1f[i14.2.2 Z1mf Z1m[i13.2.2 
+0000190 030  VVD     said                     Q2.1 
+0000191 010  PPHS1   she                      Z8f 
+0000191 020  VVD     said                     Q2.1 
+0000192 010  NP1     Selina                   Z99 
+0000192 020  VVD     said                     Q2.1 
+0000192 021  ,       ,                        
+0000192 030  RG      very                     A13.3 
+0000192 040  RR      gently                   E3+ 
+0000193 010  AT      the                      Z5 
+0000193 020  NN1     man                      S2.2m 
+0000193 030  VVD     said                     Q2.1 
+0000194 010  NP1     Leila                    Z99 
+0000194 020  VVD     exclaimed                Q2.2 
+0000195 010  PPHS1   she                      Z8f 
+0000195 020  VVD     gasped                   B1 
+0000195 030  RP      out                      M6 
+0000196 010  PPHS1   she                      Z8f 
+0000196 020  VVD     said                     Q2.1 
+0000197 010  PPHS1   she                      Z8f 
+0000197 020  VVD     said                     Q2.1 
+0000198 010  PPHS1   he                       Z8m 
+0000198 020  VVD     said                     Q2.1 
+0000199 010  PPHS1   she                      Z8f 
+0000199 020  VVD     said                     Q2.1 
+0000200 010  PPHS1   she                      Z8f 
+0000200 020  VVD     said                     Q2.1 
+0000201 010  NP1     Matilda                  Z99 
+0000201 020  VVD     exclaimed                Q2.2 
+0000202 010  PPHS1   she                      Z8f 
+0000202 020  VVD     said                     Q2.1 
+0000203 010  PPHS1   she                      Z8f 
+0000203 020  VVD     said                     Q2.1 
+0000204 010  NP1     Leila                    Z99 
+0000204 020  VVD     said                     Q2.1 
+0000205 010  RR      eagerly                  X5.2+ 
+0000206 010  PPHS1   she                      Z8f 
+0000206 020  VVD     said                     Q2.1 
+0000207 010  PPHS1   she                      Z8f 
+0000207 020  VVD     said                     Q2.1 
+0000208 010  PPHS1   she                      Z8f 
+0000208 020  VVD     said                     Q2.1 
+0000209 010  PPHS1   she                      Z8f 
+0000209 020  VVD     said                     Q2.1 
+0000210 010  PPHS1   she                      Z8f 
+0000210 020  VVD     said                     Q2.1 
+0000211 010  PPHS1   she                      Z8f 
+0000211 020  VVD     said                     Q2.1 
+0000212 010  NP1     Selina                   Z99 
+0000212 020  VVD     said                     Q2.1 
+0000213 010  NP1     Selina                   Z99 
+0000213 020  VVD     said                     Q2.1 
+0000214 010  PPHS1   she                      Z8f 
+0000215 010  VVD     said                     Q2.1 
+0000216 010  PPHS1   she                      Z8f 
+0000216 020  VVD     said                     Q2.1 
+0000217 010  PPHS1   she                      Z8f 
+0000218 010  VVD     said                     Q2.1 
+0000219 010  PPHS1   she                      Z8f 
+0000219 020  VVD     continued                T2++ 
+0000220 010  PPHS1   she                      Z8f 
+0000220 020  VVD     repeated                 N6+ Q2.1/N6+ F1/B1@ 
+0000221 010  NP1     Charles                  Z1m 
+0000221 020  RR      hastily                  N3.8+ A1.3- 
+0000221 030  VVD     exclaimed                Q2.2 
+0000222 010  PPHS1   she                      Z8f 
+0000222 020  VVD     said                     Q2.1 
+0000223 010  PPHS1   he                       Z8m 
+0000223 020  VVD     said                     Q2.1 
+0000224 010  PPHS1   she                      Z8f 
+0000224 020  VVD     said                     Q2.1 
+0000225 010  PPHS1   she                      Z8f 
+0000225 020  VVD     said                     Q2.1 
+0000226 010  PPHS1   she                      Z8f 
+0000226 020  VVD     stopped                  T2- S8- M8 H4 A1.1.1@ 
+0000226 030  CC      and                      Z5 
+0000226 040  VVD     shuddered                E1/B1 A1.1.1 
+0000227 010  PPHS1   he                       Z8m 
+0000227 020  VVD     said                     Q2.1 
+0000227 030  RR      gently                   E3+ 
+0000228 010  PPHS1   he                       Z8m 
+0000228 020  VVD     said                     Q2.1 
+0000229 010  PPHS1   he                       Z8m 
+0000229 020  VVD     said                     Q2.1 
+0000230 010  PPHS1   she                      Z8f 
+0000230 020  VVD     said                     Q2.1 
+0000231 010  PPHS1   she                      Z8f 
+0000231 020  VVD     said                     Q2.1 
+0000232 010  NP1     Matilda                  Z99 
+0000232 020  VVD     inquired                 Q2.2 X2.4 
+0000233 010  NP1     Matilda                  Z99 
+0000233 020  VVD     said                     Q2.1 
+0000234 010  PPHS1   she                      Z8f 
+0000234 020  VVD     said                     Q2.1 
+0000234 030  II      to                       Z5 
+0000234 040  PPX1    herself                  Z8f 
+0000235 010  PPHS1   she                      Z8f 
+0000235 020  VVD     said                     Q2.1 
+0000236 010  PPHS1   she                      Z8f 
+0000236 020  VVD     said                     Q2.1 
+0000237 010  PPHS1   she                      Z8f 
+0000237 020  VVD     said                     Q2.1 
+0000238 010  PPHS1   she                      Z8f 
+0000238 020  VVD     answered                 Q2.2 S1.1.1 
+0000239 010  PPHS1   she                      Z8f 
+0000239 020  VVD     said                     Q2.1 
+0000240 001  NULL    **8;7;text               

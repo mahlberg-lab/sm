@@ -1,0 +1,136 @@
+0000001 001  NULL    **6;0;START              
+0000001 002  -----   -----                    
+0000002 010  VVD     said                     Q2.1 
+0000002 020  PPHS1   he                       Z8m 
+0000003 010  VVD     replied                  Q2.2 Q1.1 
+0000003 020  AT      the                      Z5 
+0000003 030  NN1     stranger                 X2.2-/S2mf 
+0000004 010  PPHS1   he                       Z8m 
+0000004 020  VVD     replied                  Q2.2 Q1.1 
+0000005 010  PPHS1   she                      Z8f 
+0000005 020  VVD     said                     Q2.1 
+0000006 010  PPHS1   he                       Z8m 
+0000006 020  VVD     said                     Q2.1 
+0000007 010  VVD     said                     Q2.1 
+0000007 020  PPHS1   he                       Z8m 
+0000008 010  VVD     said                     Q2.1 
+0000008 020  NN1     M.                       Q3 N3.3 N3.7 Z5 G1.1/S2 
+0000008 030  NN1     Waldman                  Z99 
+0000009 010  VVD     exclaimed                Q2.2 
+0000009 020  PPHS1   he                       Z8m 
+0000010 010  VVD     said                     Q2.1 
+0000010 020  PPHS1   he                       Z8m 
+0000011 010  VVD     cried                    E4.1- Q2.2 
+0000011 020  PPHS1   he                       Z8m 
+0000012 010  VVD     exclaimed                Q2.2 
+0000012 020  PPIS1   I                        Z8mf 
+0000013 010  VVD     cried                    E4.1- Q2.2 
+0000013 020  PPHS1   he                       Z8m 
+0000014 010  VVD     said                     Q2.1 
+0000014 020  PPHS1   he                       Z8m 
+0000015 010  VVD     said                     Q2.1 
+0000015 020  PPHS1   he                       Z8m 
+0000016 010  VVD     said                     Q2.1 
+0000016 020  NP1     Ernest                   Z1m 
+0000017 010  VVD     replied                  Q2.2 Q1.1 
+0000017 020  APPGE   my                       Z8 
+0000017 030  NN1     father                   S4m S9/S2.2m 
+0000018 010  VVD     said                     Q2.1 
+0000018 020  PPHS1   she                      Z8f 
+0000019 010  VVD     said                     Q2.1 
+0000019 020  PPIS1   I                        Z8mf 
+0000020 010  VVD     said                     Q2.1 
+0000020 020  APPGE   my                       Z8 
+0000020 030  NN1     father                   S4m S9/S2.2m 
+0000021 010  PPHS1   she                      Z8f 
+0000021 020  VVD     said                     Q2.1 
+0000022 010  VVD     said                     Q2.1 
+0000022 020  PPHS1   she                      Z8f 
+0000023 010  PPHS1   he                       Z8m 
+0000023 020  VVD     observed                 X3.4 Q2.1/X2.4 X2.1 G2.1+ 
+0000024 010  VVD     replied                  Q2.2 Q1.1 
+0000024 020  PPIS1   I                        Z8mf 
+0000025 010  VVD     said                     Q2.1 
+0000025 020  NP1     Elizabeth                Z1f 
+0000026 010  VVD     said                     Q2.1 
+0000026 020  NP1     Elizabeth                Z1f 
+0000027 010  PPHS1   she                      Z8f 
+0000027 020  VVD     said                     Q2.1 
+0000028 010  VVD     said                     Q2.1 
+0000028 020  NP1     Elizabeth                Z1f 
+0000029 010  VVD     cried                    E4.1- Q2.2 
+0000029 020  PPHS1   she                      Z8f 
+0000030 010  VVD     said                     Q2.1 
+0000030 020  PPHS1   he                       Z8m 
+0000031 010  VVD     said                     Q2.1 
+0000031 020  PPHS1   she                      Z8f 
+0000032 010  PPIS1   I                        Z8mf 
+0000032 020  VVD     exclaimed                Q2.2 
+0000033 010  PPIS1   I                        Z8mf 
+0000033 020  VVD     rejoined                 S5+/N6+ A1.8+/N6+ 
+0000034 010  PPIS1   I                        Z8mf 
+0000034 020  VVD     replied                  Q2.2 Q1.1 
+0000035 010  VVD     replied                  Q2.2 Q1.1 
+0000035 020  AT      the                      Z5 
+0000035 030  NN1     fiend                    E3-/S2mf X5.2+/S2mf 
+0000036 010  VVD     replied                  Q2.2 Q1.1 
+0000036 020  MC1%    I                        Z8 
+0000037 010  PPIS1   I                        Z8mf 
+0000037 020  VVD     said                     Q2.1 
+0000038 010  PPHS1   he                       Z8m 
+0000038 020  VVD     cried                    E4.1- Q2.2 
+0000039 010  PPHS1   he                       Z8m 
+0000039 020  VVD     cried                    E4.1- Q2.2 
+0000040 010  PPHS1   he                       Z8m 
+0000040 020  VVD     said                     Q2.1 
+0000041 010  VVD     said                     Q2.1 
+0000041 020  PPHS1   he                       Z8m 
+0000041 030  II      to                       Z5 
+0000041 040  PPIO1   me                       Z8mf 
+0000042 010  VVD     said                     Q2.1 
+0000042 020  MC1%    I                        Z8 
+0000043 010  PPHS1   he                       Z8m 
+0000043 020  VVD     said                     Q2.1 
+0000044 010  VVD     cried                    E4.1- Q2.2 
+0000044 020  PPHS1   he                       Z8m 
+0000045 010  PPIS1   I                        Z8mf 
+0000045 020  VVD     exclaimed                Q2.2 
+0000046 010  VVD     said                     Q2.1 
+0000046 020  PPIS1   I                        Z8mf 
+0000047 010  VVD     said                     Q2.1 
+0000047 020  AT      the                      Z5 
+0000047 030  NN1     man                      S2.2m 
+0000048 010  VVD     replied                  Q2.2 Q1.1 
+0000048 020  AT      the                      Z5 
+0000048 030  JJ      old                      T3+ Z4 
+0000048 040  NN1     woman                    S2.1f 
+0000049 010  VVD     replied                  Q2.2 Q1.1 
+0000049 020  PPIS1   I                        Z8mf 
+0000050 010  VVD     said                     Q2.1 
+0000050 020  MC1%    I                        Z8 
+0000051 010  PPIS1   I                        Z8mf 
+0000051 020  VVD     cried                    E4.1- Q2.2 
+0000051 030  RR      energetically            X5.2+ 
+0000052 010  PPIS1   I                        Z8mf 
+0000052 020  VVD     said                     Q2.1 
+0000053 010  VVD     replied                  Q2.2 Q1.1 
+0000053 020  NP1     Elizabeth                Z1f 
+0000054 010  VVD     replied                  Q2.2 Q1.1 
+0000054 020  PPIS1   I                        Z8mf 
+0000055 010  VVD     said                     Q2.1 
+0000055 020  PPHS1   he                       Z8m 
+0000056 010  VVD     replied                  Q2.2 Q1.1 
+0000056 020  MC1%    I                        Z8 
+0000057 010  PPIS1   I                        Z8mf 
+0000057 020  VVD     cried                    E4.1- Q2.2 
+0000058 010  VVD     said                     Q2.1 
+0000058 020  PPHS1   he                       Z8m 
+0000059 010  VVD     said                     Q2.1 
+0000059 020  PPHS1   he                       Z8m 
+0000060 010  PPHS1   he                       Z8m 
+0000060 020  VVD     said                     Q2.1 
+0000061 010  PPIS1   I                        Z8mf 
+0000061 020  VVD     said                     Q2.1 
+0000062 010  PPIS1   I                        Z8mf 
+0000062 020  VVD     said                     Q2.1 
+0000063 001  NULL    **8;7;text               

@@ -1,0 +1,768 @@
+0000001 001  NULL    **6;0;START              
+0000001 002  -----   -----                    
+0000002 010  VVD     replied                  Q2.2 Q1.1 
+0000002 020  AT      the                      S4m[i1.3.1 S7.1/S2m[i1.3.1 Z5 
+0000002 030  JJ      old                      S4m[i1.3.2 S7.1/S2m[i1.3.2 T3+ Z4 
+0000002 040  NN1     man                      S4m[i1.3.3 S7.1/S2m[i1.3.3 S2.2m 
+0000003 010  VVD     replied                  Q2.2 Q1.1 
+0000003 020  NP1     Tommy                    Z1m 
+0000004 010  VVD     said                     Q2.1 
+0000004 020  NP1     William                  Z1m 
+0000005 010  VVD     replied                  Q2.2 Q1.1 
+0000005 020  NNB     Mr                       Z1m[i3.2.1 S2.2m Z1m[i2.2.1 
+0000005 030  NP1     Seagrave                 Z1m[i3.2.2 Z1m[i2.2.2 
+0000006 010  VVD     replied                  Q2.2 Q1.1 
+0000006 020  RR@     Ready                    A1.5 
+0000007 010  VVD     replied                  Q2.2 Q1.1 
+0000007 020  NP1     William                  Z1m 
+0000008 010  VVD     said                     Q2.1 
+0000008 020  NNB     Mr                       Z1m[i5.2.1 S2.2m Z1m[i4.2.1 
+0000008 030  NP1     Seagrave                 Z1m[i5.2.2 Z1m[i4.2.2 
+0000009 010  VVD     said                     Q2.1 
+0000009 020  NNB     Mrs                      Z1f[i8.2.1 Z1f[i7.2.1 Z1m[i6.2.1 
+0000009 030  NP1     Seagrave                 Z1f[i8.2.2 Z1f[i7.2.2 Z1m[i6.2.2 
+0000010 010  VVD     said                     Q2.1 
+0000010 020  NP1     William                  Z1m 
+0000011 010  VVD     replied                  Q2.2 Q1.1 
+0000011 020  NNB     Mr                       Z1m[i10.2.1 S2.2m Z1m[i9.2.1 
+0000011 030  NP1     Seagrave                 Z1m[i10.2.2 Z1m[i9.2.2 
+0000012 010  VVD     observed                 X3.4 Q2.1/X2.4 X2.1 G2.1+ 
+0000012 020  RR@     Ready                    A1.5 
+0000013 010  VVD     said                     Q2.1 
+0000013 020  NNB     Captain                  Z1mf[i11.2.1 
+0000013 030  NP1     Osborn                   Z1mf[i11.2.2 
+0000014 010  VVD     said                     Q2.1 
+0000014 020  NNB     Captain                  Z1mf[i12.2.1 
+0000014 030  NP1     Osborn                   Z1mf[i12.2.2 
+0000015 010  VVD     replied                  Q2.2 Q1.1 
+0000015 020  AT      the                      S4m[i13.3.1 S7.1/S2m[i13.3.1 Z5 
+0000015 030  JJ      old                      S4m[i13.3.2 S7.1/S2m[i13.3.2 T3+ Z4 
+0000015 040  NN1     man                      S4m[i13.3.3 S7.1/S2m[i13.3.3 S2.2m 
+0000016 010  VVD     replied                  Q2.2 Q1.1 
+0000016 020  AT      the                      Z5 
+0000016 030  NN1     captain                  G3/S7.1+/S2mf M4/S7.1+/S2mf M5/S7.1+/S2mf K5/S7.1+/S2mf 
+0000017 010  VVD     replied                  Q2.2 Q1.1 
+0000017 020  RR@     Ready                    A1.5 
+0000018 010  VVD     replied                  Q2.2 Q1.1 
+0000018 020  NNB     Captain                  Z1mf[i14.2.1 
+0000018 030  NP1     Osborn                   Z1mf[i14.2.2 
+0000019 010  VVD     replied                  Q2.2 Q1.1 
+0000019 020  NNB     Captain                  Z1mf[i15.2.1 
+0000019 030  NP1     Osborn                   Z1mf[i15.2.2 
+0000020 010  VVD     said                     Q2.1 
+0000020 020  NNB     Mr                       Z1m[i17.2.1 S2.2m Z1m[i16.2.1 
+0000020 030  NP1     Seagrave                 Z1m[i17.2.2 Z1m[i16.2.2 
+0000021 010  VVD     said                     Q2.1 
+0000021 020  JJ      old                      T3+ Z4 
+0000021 030  RR@     Ready                    A1.5 
+0000022 010  VVD     replied                  Q2.2 Q1.1 
+0000022 020  RR@     Ready                    A1.5 
+0000023 010  VVD     replied                  Q2.2 Q1.1 
+0000023 020  NNB     Mr                       Z1m[i19.2.1 S2.2m Z1m[i18.2.1 
+0000023 030  NP1     Seagrave                 Z1m[i19.2.2 Z1m[i18.2.2 
+0000024 010  VVD     replied                  Q2.2 Q1.1 
+0000024 020  NNB     Mr                       Z1m[i21.2.1 S2.2m Z1m[i20.2.1 
+0000024 030  NP1     Seagrave                 Z1m[i21.2.2 Z1m[i20.2.2 
+0000025 010  VVD     said                     Q2.1 
+0000025 020  NNB     Mr                       Z1m[i23.2.1 S2.2m Z1m[i22.2.1 
+0000026 010  NP1     Seagrave                 Z1m[i23.2.2 Z1m[i22.2.2 
+0000027 010  VVD     replied                  Q2.2 Q1.1 
+0000027 020  RR@     Ready                    A1.5 
+0000028 010  VVD     continued                T2++ 
+0000028 020  NNB     Mr                       Z1m[i25.2.1 S2.2m Z1m[i24.2.1 
+0000028 030  NP1     Seagrave                 Z1m[i25.2.2 Z1m[i24.2.2 
+0000029 010  VVD     inquired                 Q2.2 X2.4 
+0000029 020  NP1     Mackintosh               Z1mf 
+0000030 010  VVD     said                     Q2.1 
+0000030 020  NP1     Mackintosh               Z1mf 
+0000031 010  VVD     replied                  Q2.2 Q1.1 
+0000031 020  AT      the                      Z5 
+0000031 030  DA      former                   T2- N4 
+0000031 040  NN1     spokesman                Q2.2/S2.2m 
+0000032 010  VVD     said                     Q2.1 
+0000032 020  RR@     Ready                    A1.5 
+0000033 010  VVD     replied                  Q2.2 Q1.1 
+0000033 020  APPGE   his                      Z8m 
+0000033 030  NN1     father                   S4m S9/S2.2m 
+0000034 010  VVD     said                     Q2.1 
+0000034 020  PPHS1   he                       Z8m 
+0000035 010  VVD     said                     Q2.1 
+0000035 020  NNB     Mr                       Z1m[i27.2.1 S2.2m Z1m[i26.2.1 
+0000035 030  NP1     Seagrave                 Z1m[i27.2.2 Z1m[i26.2.2 
+0000036 010  VVD     replied                  Q2.2 Q1.1 
+0000036 020  RR@     Ready                    A1.5 
+0000037 010  VVD     said                     Q2.1 
+0000037 020  RR@     Ready                    A1.5 
+0000038 010  VVD     replied                  Q2.2 Q1.1 
+0000038 020  RR@     Ready                    A1.5 
+0000039 010  VVD     continued                T2++ 
+0000039 020  PPHS1   he                       Z8m 
+0000039 021  ,       ,                        
+0000039 030  VVG     musing                   X2.1 
+0000040 010  VVD     replied                  Q2.2 Q1.1 
+0000040 020  RR@     Ready                    A1.5 
+0000041 010  VVD     replied                  Q2.2 Q1.1 
+0000041 020  NNB     Mr                       Z1m[i29.2.1 S2.2m Z1m[i28.2.1 
+0000041 030  NP1     Seagrave                 Z1m[i29.2.2 Z1m[i28.2.2 
+0000042 010  VVD     replied                  Q2.2 Q1.1 
+0000042 020  NNB     Mr                       Z1m[i31.2.1 S2.2m Z1m[i30.2.1 
+0000042 030  NP1     Seagrave                 Z1m[i31.2.2 Z1m[i30.2.2 
+0000043 010  VVD     replied                  Q2.2 Q1.1 
+0000043 020  NNB     Mr                       Z1m[i33.2.1 S2.2m Z1m[i32.2.1 
+0000043 030  NP1     Seagrave                 Z1m[i33.2.2 Z1m[i32.2.2 
+0000043 031  ,       ,                        
+0000043 040  VVG     smiling                  E4.1+ 
+0000044 010  VVD     said                     Q2.1 
+0000044 020  RR@     Ready                    A1.5 
+0000045 010  VVD     said                     Q2.1 
+0000045 020  RR@     Ready                    A1.5 
+0000046 010  VVD     exclaimed                Q2.2 
+0000046 020  NNB     Mr                       Z1m[i35.2.1 S2.2m Z1m[i34.2.1 
+0000046 030  NP1     Seagrave                 Z1m[i35.2.2 Z1m[i34.2.2 
+0000047 010  VVD     replied                  Q2.2 Q1.1 
+0000047 020  RR@     Ready                    A1.5 
+0000048 010  VVD     said                     Q2.1 
+0000049 010  RR@     Ready                    A1.5 
+0000050 010  VVD     replied                  Q2.2 Q1.1 
+0000050 020  NNB     Mr                       Z1m[i37.2.1 S2.2m Z1m[i36.2.1 
+0000050 030  NP1     Seagrave                 Z1m[i37.2.2 Z1m[i36.2.2 
+0000051 010  VVD     said                     Q2.1 
+0000051 020  RR@     Ready                    A1.5 
+0000052 010  VVD     said                     Q2.1 
+0000052 020  RR@     Ready                    A1.5 
+0000053 010  VVD     replied                  Q2.2 Q1.1 
+0000053 020  NNB     Mr                       Z1m[i39.2.1 S2.2m Z1m[i38.2.1 
+0000053 030  NP1     Seagrave                 Z1m[i39.2.2 Z1m[i38.2.2 
+0000054 010  VVD     said                     Q2.1 
+0000054 020  NNB     Mr                       Z1m[i41.2.1 S2.2m Z1m[i40.2.1 
+0000054 030  NP1     Seagrave                 Z1m[i41.2.2 Z1m[i40.2.2 
+0000055 010  VVD     replied                  Q2.2 Q1.1 
+0000055 020  JJ      Ready                    O4.1 A1.2+ X7+ T2+ A9+/A12+ X9.1+ 
+0000056 010  NN1     thought                  X4.1 
+0000056 020  PPHS1   he                       Z8m 
+0000057 010  VVD     said                     Q2.1 
+0000057 020  NP1     William                  Z1m 
+0000058 010  VVD     said                     Q2.1 
+0000058 020  NNB     Mr                       Z1m[i43.2.1 S2.2m Z1m[i42.2.1 
+0000058 030  NP1     Seagrave                 Z1m[i43.2.2 Z1m[i42.2.2 
+0000059 010  VVD     replied                  Q2.2 Q1.1 
+0000059 020  NNB     Mrs                      Z1f[i46.2.1 Z1f[i45.2.1 Z1m[i44.2.1 
+0000059 030  NP1     Seagrave                 Z1f[i46.2.2 Z1f[i45.2.2 Z1m[i44.2.2 
+0000060 010  VVD     said                     Q2.1 
+0000060 020  NNB     Mr                       Z1m[i48.2.1 S2.2m Z1m[i47.2.1 
+0000060 030  NP1     Seagrave                 Z1m[i48.2.2 Z1m[i47.2.2 
+0000061 010  VVD     replied                  Q2.2 Q1.1 
+0000061 020  RR@     Ready                    A1.5 
+0000062 010  VVN     continued                T2++ 
+0000062 020  RR@     Ready                    A1.5 
+0000063 010  VVD     replied                  Q2.2 Q1.1 
+0000063 020  NNB     Mr                       Z1m[i50.2.1 S2.2m Z1m[i49.2.1 
+0000063 030  NP1     Seagrave                 Z1m[i50.2.2 Z1m[i49.2.2 
+0000064 010  VVD     said                     Q2.1 
+0000064 020  RR@     Ready                    A1.5 
+0000065 010  VVD     observed                 X3.4 Q2.1/X2.4 X2.1 G2.1+ 
+0000065 020  NNB     Mr                       Z1m[i52.2.1 S2.2m Z1m[i51.2.1 
+0000065 030  NP1     Seagrave                 Z1m[i52.2.2 Z1m[i51.2.2 
+0000066 010  VVD     replied                  Q2.2 Q1.1 
+0000066 020  NNB     Mr                       Z1m[i54.2.1 S2.2m Z1m[i53.2.1 
+0000066 030  NP1     Seagrave                 Z1m[i54.2.2 Z1m[i53.2.2 
+0000067 010  VVD     replied                  Q2.2 Q1.1 
+0000067 020  RR@     Ready                    A1.5 
+0000068 010  VVD     said                     Q2.1 
+0000068 020  JJ      Ready                    O4.1 A1.2+ X7+ T2+ A9+/A12+ X9.1+ 
+0000068 021  ,       ,                        
+0000068 030  VVG     laughing                 E4.1+/X3.2 
+0000069 010  VVD     said                     Q2.1 
+0000069 020  NNB     Mr                       Z1m[i56.2.1 S2.2m Z1m[i55.2.1 
+0000069 030  NP1     Seagrave                 Z1m[i56.2.2 Z1m[i55.2.2 
+0000070 010  VVD     replied                  Q2.2 Q1.1 
+0000070 020  RR@     Ready                    A1.5 
+0000071 010  VVD     replied                  Q2.2 Q1.1 
+0000071 020  NNB     Mrs                      Z1f[i59.2.1 Z1f[i58.2.1 Z1m[i57.2.1 
+0000071 030  NP1     Seagrave                 Z1f[i59.2.2 Z1f[i58.2.2 Z1m[i57.2.2 
+0000072 010  VVD     observed                 X3.4 Q2.1/X2.4 X2.1 G2.1+ 
+0000072 020  NNB     Mr                       Z1m[i61.2.1 S2.2m Z1m[i60.2.1 
+0000072 030  NP1     Seagrave                 Z1m[i61.2.2 Z1m[i60.2.2 
+0000073 010  VVD     said                     Q2.1 
+0000073 020  NP1     William                  Z1m 
+0000074 010  VVD     replied                  Q2.2 Q1.1 
+0000074 020  RR@     Ready                    A1.5 
+0000075 010  VVD     said                     Q2.1 
+0000075 020  PPHS1   he                       Z8m 
+0000076 010  VVD     said                     Q2.1 
+0000076 020  JJ      Ready                    O4.1 A1.2+ X7+ T2+ A9+/A12+ X9.1+ 
+0000076 021  ,       ,                        
+0000076 030  VVG     smiling                  E4.1+ 
+0000077 010  VVD     replied                  Q2.2 Q1.1 
+0000077 020  NP1     William                  Z1m 
+0000077 021  ,       ,                        
+0000078 010  VVG     laughing                 E4.1+/X3.2 
+0000079 010  VVD     said                     Q2.1 
+0000079 020  RR@     Ready                    A1.5 
+0000080 010  VVD     replied                  Q2.2 Q1.1 
+0000080 020  NP1     William                  Z1m 
+0000081 010  VVD     exclaimed                Q2.2 
+0000081 020  NP1     William                  Z1m 
+0000081 021  ,       ,                        
+0000081 030  RR21    at                       N4[i62.2.1 
+0000081 040  RR22    last                     N4[i62.2.2 
+0000082 010  VVD     said                     Q2.1 
+0000082 020  RR@     Ready                    A1.5 
+0000083 010  VVD     replied                  Q2.2 Q1.1 
+0000083 020  NP1     William                  Z1m 
+0000084 010  VVD     replied                  Q2.2 Q1.1 
+0000084 020  RR@     Ready                    A1.5 
+0000085 010  VVD     observed                 X3.4 Q2.1/X2.4 X2.1 G2.1+ 
+0000085 020  NP1     William                  Z1m 
+0000086 010  VVD     replied                  Q2.2 Q1.1 
+0000086 020  RR@     Ready                    A1.5 
+0000087 010  VVN     observed                 X3.4 Q2.1/X2.4 X2.1 G2.1+ 
+0000087 020  JJ      Ready                    O4.1 A1.2+ X7+ T2+ A9+/A12+ X9.1+ 
+0000088 010  NN1     thought                  X4.1 
+0000088 020  PPHS1   he                       Z8m 
+0000089 010  VVD     thought                  X2.1 
+0000089 020  PPHS1   he                       Z8m 
+0000090 010  VVD     replied                  Q2.2 Q1.1 
+0000090 020  NNB     Mr                       Z1m[i64.2.1 S2.2m Z1m[i63.2.1 
+0000090 030  NP1     Seagrave                 Z1m[i64.2.2 Z1m[i63.2.2 
+0000091 010  VVD     said                     Q2.1 
+0000091 020  RR@     Ready                    A1.5 
+0000092 010  VVD     said                     Q2.1 
+0000092 020  RR@     Ready                    A1.5 
+0000093 010  VVD     said                     Q2.1 
+0000093 020  RR@     Ready                    A1.5 
+0000094 010  VVD     said                     Q2.1 
+0000094 020  NNB     Mr                       Z1m[i66.2.1 S2.2m Z1m[i65.2.1 
+0000094 030  NP1     Seagrave                 Z1m[i66.2.2 Z1m[i65.2.2 
+0000095 010  VVD     said                     Q2.1 
+0000095 020  RR@     Ready                    A1.5 
+0000096 010  VVD     said                     Q2.1 
+0000096 020  NP1     William                  Z1m 
+0000097 010  VVD     said                     Q2.1 
+0000097 020  NP1     William                  Z1m 
+0000097 030  VVG     laughing                 E4.1+/X3.2 
+0000098 010  VVD     said                     Q2.1 
+0000098 020  NP1     William                  Z1m 
+0000099 010  VVD     replied                  Q2.2 Q1.1 
+0000099 020  NP1     William                  Z1m 
+0000100 010  VVD     thought                  X2.1 
+0000100 020  RR@     Ready                    A1.5 
+0000101 010  VVD     said                     Q2.1 
+0000101 020  NNB     Mr                       Z1m[i68.2.1 S2.2m Z1m[i67.2.1 
+0000101 030  NP1     Seagrave                 Z1m[i68.2.2 Z1m[i67.2.2 
+0000102 010  VVD     replied                  Q2.2 Q1.1 
+0000102 020  RR@     Ready                    A1.5 
+0000103 010  VVD     said                     Q2.1 
+0000103 020  NNB     Mrs                      Z1f[i71.2.1 Z1f[i70.2.1 Z1m[i69.2.1 
+0000103 030  NP1     Seagrave                 Z1f[i71.2.2 Z1f[i70.2.2 Z1m[i69.2.2 
+0000104 010  VVD     said                     Q2.1 
+0000104 020  RR@     Ready                    A1.5 
+0000105 010  VVD     replied                  Q2.2 Q1.1 
+0000105 020  NNB     Mrs                      Z1f[i74.2.1 Z1f[i73.2.1 Z1m[i72.2.1 
+0000105 030  NP1     Seagrave                 Z1f[i74.2.2 Z1f[i73.2.2 Z1m[i72.2.2 
+0000106 010  VVD     replied                  Q2.2 Q1.1 
+0000106 020  NNB     Mr                       Z1m[i76.2.1 S2.2m Z1m[i75.2.1 
+0000106 030  NP1     Seagrave                 Z1m[i76.2.2 Z1m[i75.2.2 
+0000107 010  VVD     replied                  Q2.2 Q1.1 
+0000107 020  RR@     Ready                    A1.5 
+0000108 010  VVD     said                     Q2.1 
+0000108 020  NP1     William                  Z1m 
+0000109 010  VVD     said                     Q2.1 
+0000109 020  NNB     Mr                       Z1m[i78.2.1 S2.2m Z1m[i77.2.1 
+0000109 030  NP1     Seagrave                 Z1m[i78.2.2 Z1m[i77.2.2 
+0000110 010  VVD     said                     Q2.1 
+0000111 010  NNB     Mrs                      Z1f[i81.2.1 Z1f[i80.2.1 Z1m[i79.2.1 
+0000111 020  NP1     Seagrave                 Z1f[i81.2.2 Z1f[i80.2.2 Z1m[i79.2.2 
+0000112 010  VVD     replied                  Q2.2 Q1.1 
+0000112 020  NNB     Mr                       Z1m[i83.2.1 S2.2m Z1m[i82.2.1 
+0000112 030  NP1     Seagrave                 Z1m[i83.2.2 Z1m[i82.2.2 
+0000113 010  VVD     replied                  Q2.2 Q1.1 
+0000113 020  RR@     Ready                    A1.5 
+0000114 010  VVD     said                     Q2.1 
+0000114 020  RR@     Ready                    A1.5 
+0000115 010  VVD     replied                  Q2.2 Q1.1 
+0000115 020  NNB     Mr                       Z1m[i85.2.1 S2.2m Z1m[i84.2.1 
+0000115 030  NP1     Seagrave                 Z1m[i85.2.2 Z1m[i84.2.2 
+0000116 010  VVD     said                     Q2.1 
+0000116 020  RR@     Ready                    A1.5 
+0000117 010  VVD     said                     Q2.1 
+0000117 020  NP1     Tommy                    Z1m 
+0000118 010  VVD     said                     Q2.1 
+0000118 020  NP1     Tommy                    Z1m 
+0000119 010  VVD     said                     Q2.1 
+0000119 020  RR@     Ready                    A1.5 
+0000120 010  VVD     replied                  Q2.2 Q1.1 
+0000120 020  NP1     William                  Z1m 
+0000121 010  VVD     replied                  Q2.2 Q1.1 
+0000121 020  JJ      Ready                    O4.1 A1.2+ X7+ T2+ A9+/A12+ X9.1+ 
+0000122 010  CC      and                      Z5 
+0000122 020  NP1     Juno                     A4.1 T1.2 Z2 Z2/S2mf T1.1.1/S2mf S9mfn 
+0000122 030  VVD     said                     Q2.1 
+0000123 010  VVD     observed                 X3.4 Q2.1/X2.4 X2.1 G2.1+ 
+0000123 020  NNB     Mr                       Z1m[i87.2.1 S2.2m Z1m[i86.2.1 
+0000123 030  NP1     Seagrave                 Z1m[i87.2.2 Z1m[i86.2.2 
+0000124 010  VVD     said                     Q2.1 
+0000124 020  RR@     Ready                    A1.5 
+0000125 010  VVD     said                     Q2.1 
+0000125 020  RR@     Ready                    A1.5 
+0000126 010  VVD     said                     Q2.1 
+0000126 020  AT      the                      S4m[i88.3.1 S7.1/S2m[i88.3.1 Z5 
+0000126 030  JJ      old                      S4m[i88.3.2 S7.1/S2m[i88.3.2 T3+ Z4 
+0000126 040  NN1     man                      S4m[i88.3.3 S7.1/S2m[i88.3.3 S2.2m 
+0000127 010  VVD     said                     Q2.1 
+0000127 020  RR@     Ready                    A1.5 
+0000128 010  VVD     said                     Q2.1 
+0000128 020  RR@     Ready                    A1.5 
+0000129 010  VVD     said                     Q2.1 
+0000129 020  NNB     Mrs                      Z1f[i91.2.1 Z1f[i90.2.1 Z1m[i89.2.1 
+0000129 030  NP1     Seagrave                 Z1f[i91.2.2 Z1f[i90.2.2 Z1m[i89.2.2 
+0000130 010  VVD     replied                  Q2.2 Q1.1 
+0000130 020  NNB     Mr                       Z1m[i93.2.1 S2.2m Z1m[i92.2.1 
+0000130 030  NP1     Seagrave                 Z1m[i93.2.2 Z1m[i92.2.2 
+0000131 010  VVD     said                     Q2.1 
+0000131 020  RR@     Ready                    A1.5 
+0000132 010  VVN     continued                T2++ 
+0000132 020  RR@     Ready                    A1.5 
+0000133 010  VVD     observed                 X3.4 Q2.1/X2.4 X2.1 G2.1+ 
+0000133 020  NNB     Mr                       Z1m[i95.2.1 S2.2m Z1m[i94.2.1 
+0000133 030  NP1     Seagrave                 Z1m[i95.2.2 Z1m[i94.2.2 
+0000134 010  VVD     replied                  Q2.2 Q1.1 
+0000134 020  RR@     Ready                    A1.5 
+0000135 010  VVD     observed                 X3.4 Q2.1/X2.4 X2.1 G2.1+ 
+0000135 020  NNB     Mrs                      Z1f[i98.2.1 Z1f[i97.2.1 Z1m[i96.2.1 
+0000135 030  NP1     Seagrave                 Z1f[i98.2.2 Z1f[i97.2.2 Z1m[i96.2.2 
+0000136 010  VVD     said                     Q2.1 
+0000136 020  RR@     Ready                    A1.5 
+0000137 010  VVD     said                     Q2.1 
+0000137 020  NP1     William                  Z1m 
+0000138 010  VVD     observed                 X3.4 Q2.1/X2.4 X2.1 G2.1+ 
+0000139 010  RR@     Ready                    A1.5 
+0000140 010  VVD     replied                  Q2.2 Q1.1 
+0000140 020  NNB     Mr                       Z1m[i100.2.1 S2.2m Z1m[i99.2.1 
+0000140 030  NP1     Seagrave                 Z1m[i100.2.2 Z1m[i99.2.2 
+0000141 010  VVD     said                     Q2.1 
+0000141 020  NNB     Mrs                      Z1f[i103.2.1 Z1f[i102.2.1 Z1m[i101.2.1 
+0000141 030  NP1     Seagrave                 Z1f[i103.2.2 Z1f[i102.2.2 Z1m[i101.2.2 
+0000142 010  VVD     replied                  Q2.2 Q1.1 
+0000142 020  NP1     William                  Z1m 
+0000143 010  VVD     said                     Q2.1 
+0000143 020  JJ      Ready                    O4.1 A1.2+ X7+ T2+ A9+/A12+ X9.1+ 
+0000143 021  ,       ,                        
+0000143 030  VVG     smiling                  E4.1+ 
+0000144 010  VVN     observed                 X3.4 Q2.1/X2.4 X2.1 G2.1+ 
+0000144 020  RR@     Ready                    A1.5 
+0000145 010  VVD     said                     Q2.1 
+0000145 020  NNB     Mrs                      Z1f[i106.2.1 Z1f[i105.2.1 Z1m[i104.2.1 
+0000145 030  NP1     Seagrave                 Z1f[i106.2.2 Z1f[i105.2.2 Z1m[i104.2.2 
+0000146 010  VVD     exclaimed                Q2.2 
+0000146 020  NNB     Mr                       Z1m[i108.2.1 S2.2m Z1m[i107.2.1 
+0000146 030  NP1     Seagrave                 Z1m[i108.2.2 Z1m[i107.2.2 
+0000147 010  VVD     cried                    E4.1- Q2.2 
+0000147 020  NNB     Mrs                      Z1f[i111.2.1 Z1f[i110.2.1 Z1m[i109.2.1 
+0000147 030  NP1     Seagrave                 Z1f[i111.2.2 Z1f[i110.2.2 Z1m[i109.2.2 
+0000148 010  VVD     said                     Q2.1 
+0000148 020  RR@     Ready                    A1.5 
+0000149 010  VVD     said                     Q2.1 
+0000149 020  RR@     Ready                    A1.5 
+0000150 010  VVD     replied                  Q2.2 Q1.1 
+0000150 020  RR@     Ready                    A1.5 
+0000151 010  VVD     replied                  Q2.2 Q1.1 
+0000151 020  NNB     Mr                       Z1m[i113.2.1 S2.2m Z1m[i112.2.1 
+0000151 030  NP1     Seagrave                 Z1m[i113.2.2 Z1m[i112.2.2 
+0000152 010  VVD     observed                 X3.4 Q2.1/X2.4 X2.1 G2.1+ 
+0000152 020  AT      the                      S4m[i114.3.1 S7.1/S2m[i114.3.1 Z5 
+0000152 030  JJ      old                      S4m[i114.3.2 S7.1/S2m[i114.3.2 T3+ Z4 
+0000152 040  NN1     man                      S4m[i114.3.3 S7.1/S2m[i114.3.3 S2.2m 
+0000153 010  VVD     observed                 X3.4 Q2.1/X2.4 X2.1 G2.1+ 
+0000153 020  NNB     Mrs                      Z1f[i117.2.1 Z1f[i116.2.1 Z1m[i115.2.1 
+0000153 030  NP1     Seagrave                 Z1f[i117.2.2 Z1f[i116.2.2 Z1m[i115.2.2 
+0000154 010  VVD     replied                  Q2.2 Q1.1 
+0000154 020  NNB     Mr                       Z1m[i119.2.1 S2.2m Z1m[i118.2.1 
+0000154 030  NP1     Seagrave                 Z1m[i119.2.2 Z1m[i118.2.2 
+0000155 010  VVD     continued                T2++ 
+0000155 020  PPHS1   she                      Z8f 
+0000156 010  VVD     replied                  Q2.2 Q1.1 
+0000156 020  NNB     Mr                       Z1m[i121.2.1 S2.2m Z1m[i120.2.1 
+0000156 030  NP1     Seagrave                 Z1m[i121.2.2 Z1m[i120.2.2 
+0000157 010  VVD     replied                  Q2.2 Q1.1 
+0000157 020  NNB     Mr                       Z1m[i123.2.1 S2.2m Z1m[i122.2.1 
+0000157 030  NP1     Seagrave                 Z1m[i123.2.2 Z1m[i122.2.2 
+0000158 010  VVD     continued                T2++ 
+0000158 020  NNB     Mr                       Z1m[i125.2.1 S2.2m Z1m[i124.2.1 
+0000158 030  NP1     Seagrave                 Z1m[i125.2.2 Z1m[i124.2.2 
+0000159 010  VVD     replied                  Q2.2 Q1.1 
+0000159 020  NP1     William                  Z1m 
+0000160 010  VVD     observed                 X3.4 Q2.1/X2.4 X2.1 G2.1+ 
+0000160 020  RR@     Ready                    A1.5 
+0000161 010  VVD     said                     Q2.1 
+0000161 020  NP1     William                  Z1m 
+0000162 010  VVD     replied                  Q2.2 Q1.1 
+0000162 020  NNB     Mr                       Z1m[i127.2.1 S2.2m Z1m[i126.2.1 
+0000162 030  NP1     Seagrave                 Z1m[i127.2.2 Z1m[i126.2.2 
+0000163 010  VVD     replied                  Q2.2 Q1.1 
+0000163 020  NNB     Mr                       Z1m[i129.2.1 S2.2m Z1m[i128.2.1 
+0000163 030  NP1     Seagrave                 Z1m[i129.2.2 Z1m[i128.2.2 
+0000164 010  VVD     replied                  Q2.2 Q1.1 
+0000164 020  NNB     Mr                       Z1m[i131.2.1 S2.2m Z1m[i130.2.1 
+0000165 010  NP1     Seagrave                 Z1m[i131.2.2 Z1m[i130.2.2 
+0000166 010  VVD     said                     Q2.1 
+0000166 020  RR@     Ready                    A1.5 
+0000167 010  VVN     observed                 X3.4 Q2.1/X2.4 X2.1 G2.1+ 
+0000167 020  RR@     Ready                    A1.5 
+0000168 010  VVD     replied                  Q2.2 Q1.1 
+0000168 020  RR@     Ready                    A1.5 
+0000169 010  VVD     replied                  Q2.2 Q1.1 
+0000169 020  NNB     Mr                       Z1m[i133.2.1 S2.2m Z1m[i132.2.1 
+0000169 030  NP1     Seagrave                 Z1m[i133.2.2 Z1m[i132.2.2 
+0000170 010  VVD     replied                  Q2.2 Q1.1 
+0000170 020  RR@     Ready                    A1.5 
+0000171 010  VVD     said                     Q2.1 
+0000171 020  RR@     Ready                    A1.5 
+0000172 010  VVD     replied                  Q2.2 Q1.1 
+0000172 020  RR@     Ready                    A1.5 
+0000173 010  VVD     said                     Q2.1 
+0000173 020  RR@     Ready                    A1.5 
+0000174 010  VVD     said                     Q2.1 
+0000174 020  RR@     Ready                    A1.5 
+0000175 010  VVD     replied                  Q2.2 Q1.1 
+0000175 020  RR@     Ready                    A1.5 
+0000176 010  VVD     observed                 X3.4 Q2.1/X2.4 X2.1 G2.1+ 
+0000176 020  NNB     Mrs                      Z1f[i136.2.1 Z1f[i135.2.1 Z1m[i134.2.1 
+0000176 030  NP1     Seagrave                 Z1f[i136.2.2 Z1f[i135.2.2 Z1m[i134.2.2 
+0000177 010  VVD     replied                  Q2.2 Q1.1 
+0000177 020  NP1     William                  Z1m 
+0000178 010  VVD     said                     Q2.1 
+0000178 020  JJ      Old                      T3+ Z4 
+0000178 030  JJ      Ready                    O4.1 A1.2+ X7+ T2+ A9+/A12+ X9.1+ 
+0000178 031  ,       ,                        
+0000178 040  VVG     laughing                 E4.1+/X3.2 
+0000179 010  VVD     replied                  Q2.2 Q1.1 
+0000179 020  NNB     Mrs                      Z1f[i139.2.1 Z1f[i138.2.1 Z1m[i137.2.1 
+0000179 030  NP1     Seagrave                 Z1f[i139.2.2 Z1f[i138.2.2 Z1m[i137.2.2 
+0000180 010  VVD     replied                  Q2.2 Q1.1 
+0000180 020  NNB     Mr                       Z1m[i141.2.1 S2.2m Z1m[i140.2.1 
+0000180 030  NP1     Seagrave                 Z1m[i141.2.2 Z1m[i140.2.2 
+0000181 010  VVD     said                     Q2.1 
+0000181 020  NNB     Mr                       Z1m[i143.2.1 S2.2m Z1m[i142.2.1 
+0000181 030  NP1     Seagrave                 Z1m[i143.2.2 Z1m[i142.2.2 
+0000182 010  VVD     continued                T2++ 
+0000182 020  RR@     Ready                    A1.5 
+0000183 010  VVD     replied                  Q2.2 Q1.1 
+0000183 020  NNB     Mr                       Z1m[i145.2.1 S2.2m Z1m[i144.2.1 
+0000183 030  NP1     Seagrave                 Z1m[i145.2.2 Z1m[i144.2.2 
+0000184 010  VVD     said                     Q2.1 
+0000184 020  NP1     William                  Z1m 
+0000185 010  VVD     replied                  Q2.2 Q1.1 
+0000185 020  RR@     Ready                    A1.5 
+0000186 010  VVD     said                     Q2.1 
+0000187 010  NP1     William                  Z1m 
+0000188 010  VVD     replied                  Q2.2 Q1.1 
+0000189 010  NP1     William                  Z1m 
+0000190 010  VVD     said                     Q2.1 
+0000190 020  NP1     William                  Z1m 
+0000191 010  VVD     said                     Q2.1 
+0000191 020  NNB     Mr                       Z1m[i147.2.1 S2.2m Z1m[i146.2.1 
+0000191 030  NP1     Seagrave                 Z1m[i147.2.2 Z1m[i146.2.2 
+0000192 010  VVD     thought                  X2.1 
+0000193 010  AT      the                      S4m[i148.3.1 S7.1/S2m[i148.3.1 Z5 
+0000193 020  JJ      old                      S4m[i148.3.2 S7.1/S2m[i148.3.2 T3+ Z4 
+0000193 030  NN1     man                      S4m[i148.3.3 S7.1/S2m[i148.3.3 S2.2m 
+0000194 010  VVD     observed                 X3.4 Q2.1/X2.4 X2.1 G2.1+ 
+0000194 020  NNB     Mrs                      Z1f[i151.2.1 Z1f[i150.2.1 Z1m[i149.2.1 
+0000194 030  NP1     Seagrave                 Z1f[i151.2.2 Z1f[i150.2.2 Z1m[i149.2.2 
+0000195 010  VVD     replied                  Q2.2 Q1.1 
+0000195 020  RR@     Ready                    A1.5 
+0000196 010  VVD     said                     Q2.1 
+0000196 020  RR@     Ready                    A1.5 
+0000197 010  VVD     replied                  Q2.2 Q1.1 
+0000197 020  RR@     Ready                    A1.5 
+0000198 010  VVD     said                     Q2.1 
+0000198 020  NNB     Mrs                      Z1f[i154.2.1 Z1f[i153.2.1 Z1m[i152.2.1 
+0000198 030  NP1     Seagrave                 Z1f[i154.2.2 Z1f[i153.2.2 Z1m[i152.2.2 
+0000199 010  VVD     replied                  Q2.2 Q1.1 
+0000199 020  RR@     Ready                    A1.5 
+0000200 010  VVD     said                     Q2.1 
+0000200 020  NNB     Mr                       Z1m[i156.2.1 S2.2m Z1m[i155.2.1 
+0000200 030  NP1     Seagrave                 Z1m[i156.2.2 Z1m[i155.2.2 
+0000201 010  VVD     replied                  Q2.2 Q1.1 
+0000201 020  RR@     Ready                    A1.5 
+0000202 010  VVD     replied                  Q2.2 Q1.1 
+0000202 020  NP1     William                  Z1m 
+0000203 010  VVD     said                     Q2.1 
+0000203 020  RR@     Ready                    A1.5 
+0000204 010  VVD     replied                  Q2.2 Q1.1 
+0000204 020  NNB     Mr                       Z1m[i158.2.1 S2.2m Z1m[i157.2.1 
+0000204 030  NP1     Seagrave                 Z1m[i158.2.2 Z1m[i157.2.2 
+0000205 010  VVD     replied                  Q2.2 Q1.1 
+0000205 020  RR@     Ready                    A1.5 
+0000206 010  VVN     observed                 X3.4 Q2.1/X2.4 X2.1 G2.1+ 
+0000206 020  RR@     Ready                    A1.5 
+0000207 010  VVD     observed                 X3.4 Q2.1/X2.4 X2.1 G2.1+ 
+0000207 020  NNB     Mr                       Z1m[i160.2.1 S2.2m Z1m[i159.2.1 
+0000207 030  NP1     Seagrave                 Z1m[i160.2.2 Z1m[i159.2.2 
+0000208 010  VVD     replied                  Q2.2 Q1.1 
+0000208 020  RR@     Ready                    A1.5 
+0000209 010  VVD     said                     Q2.1 
+0000209 020  RR@     Ready                    A1.5 
+0000210 010  VVD     replied                  Q2.2 Q1.1 
+0000210 020  NP1     William                  Z1m 
+0000211 010  VVD     said                     Q2.1 
+0000211 020  NNB     Mr                       Z1m[i162.2.1 S2.2m Z1m[i161.2.1 
+0000211 030  NP1     Seagrave                 Z1m[i162.2.2 Z1m[i161.2.2 
+0000212 010  VVD     replied                  Q2.2 Q1.1 
+0000212 020  RR@     Ready                    A1.5 
+0000213 010  VVD     said                     Q2.1 
+0000213 020  RR@     Ready                    A1.5 
+0000214 010  VVD     said                     Q2.1 
+0000214 020  NNB     Mr                       Z1m[i164.2.1 S2.2m Z1m[i163.2.1 
+0000214 030  NP1     Seagrave                 Z1m[i164.2.2 Z1m[i163.2.2 
+0000215 010  VVD     said                     Q2.1 
+0000215 020  NNB     Mr                       Z1m[i166.2.1 S2.2m Z1m[i165.2.1 
+0000215 030  NP1     Seagrave                 Z1m[i166.2.2 Z1m[i165.2.2 
+0000216 010  VVD     observed                 X3.4 Q2.1/X2.4 X2.1 G2.1+ 
+0000216 020  RR@     Ready                    A1.5 
+0000217 010  VVD     said                     Q2.1 
+0000217 020  NP1     William                  Z1m 
+0000217 021  ,       ,                        
+0000217 030  VVG     pointing                 A10+ M6 H1 
+0000218 010  VVD     said                     Q2.1 
+0000218 020  RR@     Ready                    A1.5 
+0000219 010  VVD     said                     Q2.1 
+0000219 020  NNB     Mr                       Z1m[i168.2.1 S2.2m Z1m[i167.2.1 
+0000219 030  NP1     Seagrave                 Z1m[i168.2.2 Z1m[i167.2.2 
+0000220 010  VVD     said                     Q2.1 
+0000220 020  NNB     Mr                       Z1m[i170.2.1 S2.2m Z1m[i169.2.1 
+0000220 030  NP1     Seagrave                 Z1m[i170.2.2 Z1m[i169.2.2 
+0000221 010  VVD     replied                  Q2.2 Q1.1 
+0000221 020  NNB     Mr                       Z1m[i172.2.1 S2.2m Z1m[i171.2.1 
+0000221 030  NP1     Seagrave                 Z1m[i172.2.2 Z1m[i171.2.2 
+0000222 010  VVD     replied                  Q2.2 Q1.1 
+0000222 020  RR@     Ready                    A1.5 
+0000223 010  VVD     said                     Q2.1 
+0000223 020  RR@     Ready                    A1.5 
+0000224 010  VVD     said                     Q2.1 
+0000224 020  RR@     Ready                    A1.5 
+0000225 010  VVD     replied                  Q2.2 Q1.1 
+0000225 020  NP1     William                  Z1m 
+0000226 010  VVD     said                     Q2.1 
+0000226 020  RR@     Ready                    A1.5 
+0000227 010  VVD     said                     Q2.1 
+0000227 020  RR@     Ready                    A1.5 
+0000228 010  VVD     said                     Q2.1 
+0000228 020  RR@     Ready                    A1.5 
+0000229 010  VVD     said                     Q2.1 
+0000229 020  RR@     Ready                    A1.5 
+0000230 010  VVD     replied                  Q2.2 Q1.1 
+0000230 020  NNB     Mr                       Z1m[i174.2.1 S2.2m Z1m[i173.2.1 
+0000230 030  NP1     Seagrave                 Z1m[i174.2.2 Z1m[i173.2.2 
+0000231 010  VVD     said                     Q2.1 
+0000231 020  RR@     Ready                    A1.5 
+0000232 010  VVD     replied                  Q2.2 Q1.1 
+0000232 020  NNB     Mr                       Z1m[i176.2.1 S2.2m Z1m[i175.2.1 
+0000232 030  NP1     Seagrave                 Z1m[i176.2.2 Z1m[i175.2.2 
+0000233 010  VVD     cried                    E4.1- Q2.2 
+0000233 020  NP1     Caroline                 Z1f 
+0000234 010  VVD     cried                    E4.1- Q2.2 
+0000234 020  NP1     Caroline                 Z1f 
+0000235 010  VVD     said                     Q2.1 
+0000235 020  JJ      Ready                    O4.1 A1.2+ X7+ T2+ A9+/A12+ X9.1+ 
+0000235 030  II      to                       Z5 
+0000235 040  NP1     William                  Z1m 
+0000236 010  VVD     said                     Q2.1 
+0000236 020  NP1     Caroline                 Z1f 
+0000237 010  VVD     said                     Q2.1 
+0000237 020  NNB     Mrs                      Z1f[i179.2.1 Z1f[i178.2.1 Z1m[i177.2.1 
+0000237 030  NP1     Seagrave                 Z1f[i179.2.2 Z1f[i178.2.2 Z1m[i177.2.2 
+0000238 010  VVD     replied                  Q2.2 Q1.1 
+0000238 020  NP1     William                  Z1m 
+0000239 010  VVD     said                     Q2.1 
+0000239 020  NP1     William                  Z1m 
+0000240 010  VVD     replied                  Q2.2 Q1.1 
+0000240 020  RR@     Ready                    A1.5 
+0000241 010  VVD     said                     Q2.1 
+0000241 020  RR@     Ready                    A1.5 
+0000242 010  VVD     said                     Q2.1 
+0000242 020  RR@     Ready                    A1.5 
+0000243 010  VVD     said                     Q2.1 
+0000243 020  NP1     William                  Z1m 
+0000243 021  ,       ,                        
+0000243 030  VVG     caressing                E6- E2+ S8+ B3 X7+ 
+0000243 040  PPH1    it                       Z8 
+0000244 010  VVD     replied                  Q2.2 Q1.1 
+0000244 020  NNB     Mr                       Z1m[i181.2.1 S2.2m Z1m[i180.2.1 
+0000244 030  NP1     Seagrave                 Z1m[i181.2.2 Z1m[i180.2.2 
+0000245 010  VVD     continued                T2++ 
+0000245 020  NNB     Mr                       Z1m[i183.2.1 S2.2m Z1m[i182.2.1 
+0000245 030  NP1     Seagrave                 Z1m[i183.2.2 Z1m[i182.2.2 
+0000246 010  VVD     replied                  Q2.2 Q1.1 
+0000246 020  NNB     Mr                       Z1m[i185.2.1 S2.2m Z1m[i184.2.1 
+0000246 030  NP1     Seagrave                 Z1m[i185.2.2 Z1m[i184.2.2 
+0000247 010  VVD     said                     Q2.1 
+0000247 020  RR@     Ready                    A1.5 
+0000248 010  VVD     replied                  Q2.2 Q1.1 
+0000249 010  NP1     William                  Z1m 
+0000250 010  VVD     replied                  Q2.2 Q1.1 
+0000250 020  RR@     Ready                    A1.5 
+0000251 010  VVD     said                     Q2.1 
+0000251 020  NNB     Mr                       Z1m[i187.2.1 S2.2m Z1m[i186.2.1 
+0000251 030  NP1     Seagrave                 Z1m[i187.2.2 Z1m[i186.2.2 
+0000252 010  VVD     observed                 X3.4 Q2.1/X2.4 X2.1 G2.1+ 
+0000252 020  RR@     Ready                    A1.5 
+0000253 010  VVD     said                     Q2.1 
+0000253 020  NP1     William                  Z1m 
+0000254 010  VVD     said                     Q2.1 
+0000254 020  RR@     Ready                    A1.5 
+0000255 010  VVD     said                     Q2.1 
+0000255 020  PPHS1   he                       Z8m 
+0000256 010  VVD     replied                  Q2.2 Q1.1 
+0000256 020  NNB     Mr                       Z1m[i189.2.1 S2.2m Z1m[i188.2.1 
+0000256 030  NP1     Seagrave                 Z1m[i189.2.2 Z1m[i188.2.2 
+0000257 010  VVD     replied                  Q2.2 Q1.1 
+0000257 020  RR@     Ready                    A1.5 
+0000258 010  VVD     said                     Q2.1 
+0000258 020  NNB     Mr                       Z1m[i191.2.1 S2.2m Z1m[i190.2.1 
+0000258 030  NP1     Seagrave                 Z1m[i191.2.2 Z1m[i190.2.2 
+0000259 010  VVD     said                     Q2.1 
+0000259 020  NP1     William                  Z1m 
+0000260 010  VVD     replied                  Q2.2 Q1.1 
+0000260 020  NP1     William                  Z1m 
+0000261 010  VVD     replied                  Q2.2 Q1.1 
+0000261 020  NNB     Mr                       Z1m[i193.2.1 S2.2m Z1m[i192.2.1 
+0000262 010  NP1     Seagrave                 Z1m[i193.2.2 Z1m[i192.2.2 
+0000263 010  VVD     said                     Q2.1 
+0000263 020  RR@     Ready                    A1.5 
+0000264 010  VVD     said                     Q2.1 
+0000264 020  NNB     Mrs                      Z1f[i196.2.1 Z1f[i195.2.1 Z1m[i194.2.1 
+0000264 030  NP1     Seagrave                 Z1f[i196.2.2 Z1f[i195.2.2 Z1m[i194.2.2 
+0000265 010  VVD     replied                  Q2.2 Q1.1 
+0000265 020  RR@     Ready                    A1.5 
+0000266 010  VVD     replied                  Q2.2 Q1.1 
+0000266 020  NP1     William                  Z1m 
+0000267 010  VVD     replied                  Q2.2 Q1.1 
+0000267 020  RR@     Ready                    A1.5 
+0000268 010  VVD     said                     Q2.1 
+0000268 020  RR@     Ready                    A1.5 
+0000269 010  VVD     replied                  Q2.2 Q1.1 
+0000269 020  NNB     Mrs                      Z1f[i199.2.1 Z1f[i198.2.1 Z1m[i197.2.1 
+0000269 030  NP1     Seagrave                 Z1f[i199.2.2 Z1f[i198.2.2 Z1m[i197.2.2 
+0000270 010  VVD     said                     Q2.1 
+0000270 020  NNB     Mr                       Z1m[i201.2.1 S2.2m Z1m[i200.2.1 
+0000270 030  NP1     Seagrave                 Z1m[i201.2.2 Z1m[i200.2.2 
+0000271 010  VVD     said                     Q2.1 
+0000271 020  RR@     Ready                    A1.5 
+0000272 010  VVD     said                     Q2.1 
+0000272 020  RR@     Ready                    A1.5 
+0000273 010  VVN     observed                 X3.4 Q2.1/X2.4 X2.1 G2.1+ 
+0000273 020  RR@     Ready                    A1.5 
+0000274 010  VVD     replied                  Q2.2 Q1.1 
+0000274 020  NP1     William                  Z1m 
+0000275 010  VVD     said                     Q2.1 
+0000275 020  RR@     Ready                    A1.5 
+0000276 010  VVD     replied                  Q2.2 Q1.1 
+0000276 020  NNB     Mr                       Z1m[i203.2.1 S2.2m Z1m[i202.2.1 
+0000276 030  NP1     Seagrave                 Z1m[i203.2.2 Z1m[i202.2.2 
+0000277 010  VVD     said                     Q2.1 
+0000277 020  NP1     William                  Z1m 
+0000278 010  VVD     exclaimed                Q2.2 
+0000278 020  RR@     Ready                    A1.5 
+0000278 030  RG      very                     A13.3 
+0000278 040  RR      gravely                  E4.1- A1.3+ 
+0000279 010  VVD     said                     Q2.1 
+0000279 020  NP1     Juno                     A4.1 T1.2 Z2 Z2/S2mf T1.1.1/S2mf S9mfn 
+0000280 010  VVD     observed                 X3.4 Q2.1/X2.4 X2.1 G2.1+ 
+0000280 020  NNB     Mr                       Z1m[i205.2.1 S2.2m Z1m[i204.2.1 
+0000280 030  NP1     Seagrave                 Z1m[i205.2.2 Z1m[i204.2.2 
+0000281 010  VVD     replied                  Q2.2 Q1.1 
+0000281 020  RR@     Ready                    A1.5 
+0000282 010  VVD     observed                 X3.4 Q2.1/X2.4 X2.1 G2.1+ 
+0000283 010  NNB     Mrs                      Z1f[i208.2.1 Z1f[i207.2.1 Z1m[i206.2.1 
+0000283 020  NP1     Seagrave                 Z1f[i208.2.2 Z1f[i207.2.2 Z1m[i206.2.2 
+0000284 010  VVD     replied                  Q2.2 Q1.1 
+0000284 020  RR@     Ready                    A1.5 
+0000285 010  VVD     observed                 X3.4 Q2.1/X2.4 X2.1 G2.1+ 
+0000285 020  NP1     William                  Z1m 
+0000286 010  VVD     said                     Q2.1 
+0000286 020  NNB     Mr                       Z1m[i210.2.1 S2.2m Z1m[i209.2.1 
+0000286 030  NP1     Seagrave                 Z1m[i210.2.2 Z1m[i209.2.2 
+0000287 010  VVD     replied                  Q2.2 Q1.1 
+0000287 020  NP1     William                  Z1m 
+0000288 010  VVD     replied                  Q2.2 Q1.1 
+0000288 020  RR@     Ready                    A1.5 
+0000289 010  VVD     said                     Q2.1 
+0000289 020  PPHS1   he                       Z8m 
+0000290 010  VVD     replied                  Q2.2 Q1.1 
+0000291 010  RR@     Ready                    A1.5 
+0000292 010  VVD     replied                  Q2.2 Q1.1 
+0000292 020  NP1     William                  Z1m 
+0000293 010  VVD     said                     Q2.1 
+0000293 020  RR@     Ready                    A1.5 
+0000294 010  VVD     replied                  Q2.2 Q1.1 
+0000294 020  NP1     William                  Z1m 
+0000295 010  VVD     replied                  Q2.2 Q1.1 
+0000295 020  NP1     William                  Z1m 
+0000296 010  VVD     replied                  Q2.2 Q1.1 
+0000296 020  NNB     Mr                       Z1m[i212.2.1 S2.2m Z1m[i211.2.1 
+0000296 030  NP1     Seagrave                 Z1m[i212.2.2 Z1m[i211.2.2 
+0000297 010  VVD     cried                    E4.1- Q2.2 
+0000297 020  PPHS1   she                      Z8f 
+0000298 010  VVD     said                     Q2.1 
+0000298 020  RR@     Ready                    A1.5 
+0000299 010  VVD     said                     Q2.1 
+0000299 020  NNB     Mrs                      Z1f[i215.2.1 Z1f[i214.2.1 Z1m[i213.2.1 
+0000299 030  NP1     Seagrave                 Z1f[i215.2.2 Z1f[i214.2.2 Z1m[i213.2.2 
+0000300 010  VVD     said                     Q2.1 
+0000300 020  RR@     Ready                    A1.5 
+0000301 010  VVD     replied                  Q2.2 Q1.1 
+0000301 020  PPHS1   he                       Z8m 
+0000302 010  VVD     replied                  Q2.2 Q1.1 
+0000302 020  NP1     William                  Z1m 
+0000303 010  VVD     said                     Q2.1 
+0000303 020  NNB     Mr                       Z1m[i217.2.1 S2.2m Z1m[i216.2.1 
+0000303 030  NP1     Seagrave                 Z1m[i217.2.2 Z1m[i216.2.2 
+0000304 010  VVD     said                     Q2.1 
+0000304 020  NP1     William                  Z1m 
+0000305 010  VVD     replied                  Q2.2 Q1.1 
+0000305 020  NNB     Mr                       Z1m[i219.2.1 S2.2m Z1m[i218.2.1 
+0000305 030  NP1     Seagrave                 Z1m[i219.2.2 Z1m[i218.2.2 
+0000306 010  VVD     said                     Q2.1 
+0000306 020  NP1     William                  Z1m 
+0000307 010  VVD     said                     Q2.1 
+0000307 020  NNB     Mr                       Z1m[i221.2.1 S2.2m Z1m[i220.2.1 
+0000308 010  NP1     Seagrave                 Z1m[i221.2.2 Z1m[i220.2.2 
+0000309 010  VVD     said                     Q2.1 
+0000309 020  NP1     William                  Z1m 
+0000310 010  VVD     replied                  Q2.2 Q1.1 
+0000310 020  RR@     Ready                    A1.5 
+0000311 010  VVD     said                     Q2.1 
+0000311 020  NNB     Mr                       Z1m[i223.2.1 S2.2m Z1m[i222.2.1 
+0000311 030  NP1     Seagrave                 Z1m[i223.2.2 Z1m[i222.2.2 
+0000311 040  RR      mournfully               Z99 
+0000312 010  VVD     said                     Q2.1 
+0000312 020  NNB     Mrs                      Z1f[i226.2.1 Z1f[i225.2.1 Z1m[i224.2.1 
+0000312 030  NP1     Seagrave                 Z1f[i226.2.2 Z1f[i225.2.2 Z1m[i224.2.2 
+0000313 010  VVD     continued                T2++ 
+0000313 020  NNB     Mr                       Z1m[i228.2.1 S2.2m Z1m[i227.2.1 
+0000314 010  NP1     Seagrave                 Z1m[i228.2.2 Z1m[i227.2.2 
+0000315 010  VVD     said                     Q2.1 
+0000315 020  NP1     Juno                     A4.1 T1.2 Z2 Z2/S2mf T1.1.1/S2mf S9mfn 
+0000316 010  VVD     replied                  Q2.2 Q1.1 
+0000316 020  NNB     Mr                       Z1m[i230.2.1 S2.2m Z1m[i229.2.1 
+0000316 030  NP1     Seagrave                 Z1m[i230.2.2 Z1m[i229.2.2 
+0000317 010  VVD     replied                  Q2.2 Q1.1 
+0000318 010  NNB     Mr                       Z1m[i232.2.1 S2.2m Z1m[i231.2.1 
+0000318 020  NP1     Seagrave                 Z1m[i232.2.2 Z1m[i231.2.2 
+0000319 010  VVD     replied                  Q2.2 Q1.1 
+0000319 020  NP1     William                  Z1m 
+0000320 010  VVD     said                     Q2.1 
+0000320 020  NNB     Mr                       Z1m[i234.2.1 S2.2m Z1m[i233.2.1 
+0000320 030  NP1     Seagrave                 Z1m[i234.2.2 Z1m[i233.2.2 
+0000321 010  VVD     replied                  Q2.2 Q1.1 
+0000321 020  NNB     Mrs                      Z1f[i237.2.1 Z1f[i236.2.1 Z1m[i235.2.1 
+0000321 030  NP1     Seagrave                 Z1f[i237.2.2 Z1f[i236.2.2 Z1m[i235.2.2 
+0000322 010  VVD     replied                  Q2.2 Q1.1 
+0000322 020  NNB     Mr                       Z1m[i239.2.1 S2.2m Z1m[i238.2.1 
+0000322 030  NP1     Seagrave                 Z1m[i239.2.2 Z1m[i238.2.2 
+0000323 010  VVD     replied                  Q2.2 Q1.1 
+0000323 020  NNB     Mrs                      Z1f[i242.2.1 Z1f[i241.2.1 Z1m[i240.2.1 
+0000323 030  NP1     Seagrave                 Z1f[i242.2.2 Z1f[i241.2.2 Z1m[i240.2.2 
+0000324 001  NULL    **8;7;text               

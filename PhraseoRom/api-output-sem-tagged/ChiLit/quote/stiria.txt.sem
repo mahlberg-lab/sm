@@ -1,0 +1,1548 @@
+0000001 001  NULL    **6;0;START              
+0000001 002  -----   -----                    
+0000002 010  JJ      Black                    O4.3 G2.2- A5.1- E4.1- S5+ 
+0000002 020  NN2     Brothers                 S4m S2.2m S9/S2.2m 
+0000003 010  DDQ     What                     Z8 Z5 
+0000003 020  AT1     a                        Z5 
+0000003 030  NN1     pity                     E1 E4.1- G2.2 
+0000004 010  APPGE   my                       Z8 
+0000004 020  NN2     brothers                 S4m S2.2m S9/S2.2m 
+0000004 030  RR      never                    T1/Z6 
+0000004 040  VV0     ask                      Q2.2 
+0000004 050  DD      any                      N5.1+ N5 
+0000004 060  NN1     body                     B1 O2 S5+c O4.1 S2mf 
+0000004 070  II      to                       Z5 
+0000005 010  NN1     dinner                   F1 
+0000005 011  .       .                        
+0000005 012  -----   -----                    
+0000005 020  PPIS1   I                        Z8mf 
+0000005 021  VBM     'm                       A3+ Z5 
+0000005 030  JJ      sure                     A7+ Z4 
+0000005 031  ,       ,                        
+0000005 040  CS      when                     Z5 
+0000005 050  PPHS2   they                     Z8mfn 
+0000005 051  VH0     've                      Z5 A9+ A2.2 
+0000005 060  VVN     got                      A9+ Z5 X9.2+ A2.1+ A2.2 M1 M2 X2.5+ E4.1- 
+0000005 070  DA      such                     A13.3[i1.2.1 Z5 Z8 
+0000005 080  AT1     a                        A13.3[i1.2.2 Z5 
+0000005 090  JJ      nice                     O4.2+ S1.2.1+ 
+0000005 100  NN1     piece                    N5.1- O2 Q4 K2 K4 G3@ 
+0000005 110  IO      of                       Z5 
+0000005 120  NN1     mutton                   F1 
+0000005 130  CSA     as                       Z5 
+0000005 140  DD1     this                     Z8 M6 Z5 
+0000005 141  ,       ,                        
+0000006 010  CC      and                      Z5 
+0000006 020  PN1     nobody                   Z8/Z6cmf 
+0000006 030  RR      else                     A6.1- Z4 
+0000006 040  VHZ     has                      Z5 A9+ A2.2 S4 
+0000006 050  VVN     got                      A9+ Z5 X9.2+ A2.1+ A2.2 M1 M2 X2.5+ E4.1- 
+0000006 060  RR31    so                       A13.1[i2.3.1 Z5 A13.3 
+0000006 070  RR32    much                     A13.1[i2.3.2 A13.3 N6+ 
+0000006 080  RR33    as                       A13.1[i2.3.3 
+0000006 090  AT1     a                        Z5 
+0000006 100  NN1     piece                    N5.1- O2 Q4 K2 K4 G3@ 
+0000006 110  IO      of                       Z5 
+0000006 120  JJ      dry                      O1.2- F2- X3.1 X9.1+ X5.2- N5- Q2.1/N5- 
+0000006 130  NN1     bread                    F1 I1.1 
+0000006 131  ,       ,                        
+0000006 140  PPH1    it                       Z8 
+0000006 150  VM      would                    A7+ 
+0000006 160  VDI     do                       A1.1.1 G2.2- X9.2+ E3- N5+ G2.1% Z5 
+0000007 010  APPGE   their                    Z8 
+0000007 020  NN2     hearts                   B1 M6 A11.1+ E1 X5.2+ 
+0000007 030  JJ      good                     A5.1+ G2.2+ O4.2+ A1.5.2+ N3.2+ 
+0000007 040  TO      to                       Z5 
+0000007 050  VHI     have                     A9+ Z5 A2.2 S4 
+0000007 060  PN1     somebody                 Z8mfc 
+0000007 070  TO      to                       Z5 
+0000007 080  VVI     eat                      F1/B1 A1.5.1/N5+ 
+0000007 090  PPH1    it                       Z8 
+0000007 100  IW      with                     Z5 
+0000007 110  PPHO2   them                     Z8mfn 
+0000008 010  PPH1    It                       Z8 
+0000008 020  VM      must                     S6+ A7+ 
+0000008 030  VBI     be                       A3+ Z5 
+0000008 040  AT      the                      Z5 
+0000008 050  NN1     wind                     W4 B1 
+0000009 010  PN1     nobody                   Z8/Z6cmf 
+0000009 020  RR      else                     A6.1- Z4 
+0000009 030  VM      would                    A7+ 
+0000009 040  VVI     venture                  M1 X8+ A15- Q2.2 
+0000009 050  TO      to                       Z5 
+0000009 060  VVI     knock                    X3.2 A1.1.1 E3- Q2.2 S3.2@ 
+0000010 010  JJ      double                   N5+ 
+0000010 020  NN2     knocks                   X3.2 A1.1.1 E3- A12- Q2.2 S3.2@ 
+0000010 030  II      at                       Z5 
+0000010 040  APPGE   our                      Z8 
+0000010 050  NN1     door                     H2 H1@ 
+0000011 010  VV0     swallow                  B1 X2.1/A7+ A10-/E1 
+0000011 020  NN1     tail                     L2 O2 M6 B5 X2.4/S2mf 
+0000012 010  NP1     Hollo                    Q2.2/E3- X3.2+ Q2.2 X3.2 E4.1- S1.1.1 Q1.3 X7+ S9% Q2.2/X3.2+++ Q2.2/X3.2++ F2@ 
+0000013 010  DD1     that                     Z8 Z5 
+0000013 011  VBZ     's                       A3+ Z5 
+0000013 020  XX      not                      Z6 
+0000013 030  AT      the                      Z5 
+0000013 040  NN1     way                      X4.2 M6 M3/H3 N3.3 A4.1 A1.1.1 T1.3 
+0000013 050  TO      to                       Z5 
+0000013 060  VVI     answer                   Q2.2 S1.1.1 
+0000013 070  AT      the                      Z5 
+0000014 010  NN1     door                     H2 H1@ 
+0000014 011  :       :                        
+0000014 020  PPIS1   I                        Z8mf 
+0000014 021  VBM     'm                       A3+ Z5 
+0000014 030  JJ      wet                      O1.2 W4 X5.2- 
+0000014 031  ,       ,                        
+0000014 040  VV0     let                      M1/S7.4+[i3.2.1 S7.4+ I2.2/H1 T2- 
+0000014 050  PPIO1   me                       Z8mf 
+0000014 060  RP@     in                       M1/S7.4+[i3.2.2 M6 
+0000015 010  PPIS1   I                        Z8mf 
+0000015 020  VVI     beg                      Q2.2/E6- 
+0000015 030  NN1     pardon                   G2.1 
+0000015 031  ,       ,                        
+0000015 040  NN1     sir                      S7.1+/S2.2m 
+0000016 010  PPIS1   I                        Z8mf 
+0000016 011  VBM     'm                       A3+ Z5 
+0000016 020  RG      very                     A13.3 
+0000016 030  JJ      sorry                    Z4 E4.1- O4.2- 
+0000016 031  ,       ,                        
+0000016 040  CCB     but                      Z5 
+0000016 050  PPIS1   I                        Z8mf 
+0000016 060  RR      really                   A13.3 A5.2+ 
+0000016 070  VM      ca                       A7+ 
+0000016 071  XX      n't                      Z6 
+0000017 010  VM      Ca                       A7+ 
+0000017 011  XX      n't                      Z6 
+0000017 020  DDQ     what                     Z8 Z5 
+0000018 010  PPIS1   I                        Z8mf 
+0000018 020  VM      ca                       A7+ 
+0000018 021  XX      n't                      Z6 
+0000018 030  VVI     let                      M1/S7.4+[i4.2.1 S7.4+ I2.2/H1 T2- 
+0000018 040  PPY     you                      Z8mf 
+0000018 050  RP@     in                       M1/S7.4+[i4.2.2 M6 
+0000018 051  ,       ,                        
+0000018 060  NN1     sir                      S7.1+/S2.2m 
+0000018 061  ,       ,                        
+0000018 070  NN1     --                       Z99 
+0000018 080  PPIS1   I                        Z8mf 
+0000018 090  VM      ca                       A7+ 
+0000018 091  XX      n't                      Z6 
+0000018 092  ,       ,                        
+0000018 100  RR      indeed                   A13.3 
+0000018 101  ;       ;                        
+0000018 110  APPGE   my                       Z8 
+0000018 120  NN2     brothers                 S4m S2.2m S9/S2.2m 
+0000018 130  VM      would                    A7+ 
+0000018 140  VVI     beat                     X9.2+/S7.3 X9.2+/G3 S7.1+ E3- A1.1.1 A5.1++ B1 
+0000018 150  PPIO1   me                       Z8mf 
+0000018 160  II      to                       A13.3[i5.2.1 Z5 
+0000019 010  NN1     death                    A13.3[i5.2.2 L1- 
+0000019 011  ,       ,                        
+0000019 020  NN1     sir                      S7.1+/S2.2m 
+0000019 021  ,       ,                        
+0000019 030  CS      if                       Z7 
+0000019 040  PPIS1   I                        Z8mf 
+0000019 050  VVD     thought                  X2.1 
+0000019 060  IO      of                       Z5 
+0000019 070  DA      such                     A13.3[i6.2.1 Z5 Z8 
+0000019 080  AT1     a                        A13.3[i6.2.2 Z5 
+0000019 090  NN1     thing                    O2 X4.1 A7- S2mf L2mf 
+0000019 091  .       .                        
+0000019 092  -----   -----                    
+0000019 100  DDQ     What                     Z8 Z5 
+0000019 110  VD0     do                       Z5 A1.1.1 G2.2- X9.2+ E3- N5+ G2.1% 
+0000019 120  PPY     you                      Z8mf 
+0000019 130  VVI     want                     X7+ S6+ A7+ S3.2 A9- 
+0000019 131  ,       ,                        
+0000019 140  NN1     sir                      S7.1+/S2.2m 
+0000020 010  VV0     Want                     X7+ S6+ A7+ S3.2 A9- 
+0000021 010  PPIS1   I                        Z8mf 
+0000021 020  VV0     want                     X7+ S6+ A7+ S3.2 A9- 
+0000021 030  NN1     fire                     O4.6+ 
+0000021 031  ,       ,                        
+0000021 040  CC      and                      Z5 
+0000021 050  NN1     shelter                  H1/A10- H4/H1c 
+0000021 051  ;       ;                        
+0000022 010  CC      and                      Z5 
+0000022 020  EX      there                    Z5 
+0000022 021  VBZ     's                       A3+ Z5 
+0000022 030  APPGE   your                     Z8 
+0000022 040  JJ      great                    A5.1+ A11.1+ N3.2+ N5+ X5.2+ A13.3 
+0000022 050  NN1     fire                     O4.6+ 
+0000022 060  RL      there                    M6 T1.2 
+0000022 070  VVG     blazing                  O4.6+ E3- A11.2+ 
+0000022 071  ,       ,                        
+0000022 080  VVG     cracking                 A1.1.2 X3.2 X9.2+ B2-/X1 Q2.2/E4.1+ 
+0000022 081  ,       ,                        
+0000022 090  CC      and                      Z5 
+0000022 100  VVG     dancing                  K1 
+0000022 110  II      on                       Z5 
+0000022 120  AT      the                      Z5 
+0000023 010  NN2     walls                    H2 O2 N5+ S8- 
+0000023 011  ,       ,                        
+0000023 020  IW      with                     Z5 
+0000023 030  PN1     nobody                   Z8/Z6cmf 
+0000023 040  TO      to                       Z5 
+0000023 050  VVI     feel                     X2.1 E1 X3 
+0000023 060  PPH1    it                       Z8 
+0000023 061  .       .                        
+0000023 062  -----   -----                    
+0000023 070  VV0     Let                      M1/S7.4+[i7.2.1 S7.4+ I2.2/H1 T2- 
+0000023 080  PPIO1   me                       Z8mf 
+0000023 090  RP@     in                       M1/S7.4+[i7.2.2 M6 
+0000023 091  ,       ,                        
+0000023 100  PPIS1   I                        Z4[i8.2.1 Z8mf 
+0000023 110  VV0     say                      Z4[i8.2.2 Q2.1 Z4% 
+0000023 111  ;       ;                        
+0000023 120  PPIS1   I                        Z8mf 
+0000023 130  RR      only                     A14 
+0000023 140  VV0     want                     X7+ S6+ A7+ S3.2 A9- 
+0000023 150  TO      to                       Z5 
+0000023 160  VVI     warm                     O4.6+ E2+ 
+0000024 010  PPX1    myself                   Z8mf 
+0000025 010  PPHS1   He                       Z8m 
+0000025 020  VDZ     does                     Z5 A1.1.1 G2.2- X9.2+ E3- G2.1% 
+0000025 030  VVI     look                     O1.2/A8[i9.2.1 A8 X3.4 X2.4 X7+ Z4 
+0000025 040  RG      very                     A13.3 
+0000025 050  JJ      wet                      O1.2/A8[i9.2.2 O1.2 W4 X5.2- 
+0000026 010  PPIS1   I                        Z8mf 
+0000026 011  VM      'll                      T1.1.3 
+0000026 020  RR      just                     A14 T3--- T1.3- N3.3--- 
+0000026 030  VVI     let                      S7.4+[i11.3.1 S7.4+ I2.2/H1 T2- M1/S7.4+[i10.2.1 
+0000026 040  PPHO1   him                      Z8m 
+0000026 050  RP@     in                       S7.4+[i11.3.2 M6 M1/S7.4+[i10.2.2 
+0000026 060  IF      for                      S7.4+[i11.3.3 Z5 
+0000026 070  AT1     a                        Z5 
+0000026 080  NN1     quarter                  T1.3[i12.4.1 N1 N5 T1.3 
+0000026 090  IO      of                       T1.3[i12.4.2 Z5 N6+[i13.3.1 T1.2[i13.3.1 
+0000026 100  AT1     an                       T1.3[i12.4.3 Z5 N6+[i13.3.2 T1.2[i13.3.2 
+0000026 110  NNT1    hour                     T1.3[i12.4.4 T1.3 N6+[i13.3.3 T1.2[i13.3.3 
+0000027 010  CST     That                     Z8 Z5 
+0000027 011  VBZ     's                       A3+ Z5 
+0000027 020  AT1     a                        Z5 
+0000027 030  JJ      good                     A5.1+ G2.2+ O4.2+ A1.5.2+ N3.2+ 
+0000027 040  NN1     boy                      S2.2m L2m@ 
+0000028 010  RR      Never                    Z4[i14.2.1 T1/Z6 
+0000028 020  VV0     mind                     Z4[i14.2.2 E6+ E2- S8+ A1.3 
+0000028 030  APPGE   your                     Z8 
+0000029 010  NN2     brothers                 S4m S2.2m S9/S2.2m 
+0000029 011  .       .                        
+0000029 012  -----   -----                    
+0000029 020  PPIS1   I                        Z8mf 
+0000029 021  VM      'll                      T1.1.3 
+0000029 030  VVI     talk                     Q2.1 
+0000029 040  II      to                       Z5 
+0000029 050  PPHO2   them                     Z8mfn 
+0000030 010  VV0     Pray                     S9/Q2.2 
+0000030 011  ,       ,                        
+0000030 020  NN1     sir                      S7.1+/S2.2m 
+0000030 021  ,       ,                        
+0000030 030  VD0     do                       Z5 A1.1.1 G2.2- X9.2+ E3- N5+ G2.1% 
+0000030 031  XX      n't                      Z6 
+0000030 040  VDI     do                       A1.1.1 G2.2- X9.2+ E3- N5+ G2.1% Z5 
+0000030 050  DD      any                      N5.1+ N5 
+0000030 060  DA      such                     Z5 Z8 
+0000030 070  NN1     thing                    O2 X4.1 A7- S2mf L2mf 
+0000031 010  PPIS1   I                        Z8mf 
+0000031 020  VM      ca                       A7+ 
+0000031 021  XX      n't                      Z6 
+0000031 030  VVI     let                      S7.4+ I2.2/H1 T2- 
+0000031 040  PPY     you                      Z8mf 
+0000031 050  VVI     stay                     M8 T2++ H4 
+0000032 010  CS      till                     Z5 
+0000032 020  PPHS2   they                     Z8mfn 
+0000032 030  VV0     come                     M1 N3.1 A2.2 A3+ X2.1 A9+ S4 N4 S3.2 
+0000032 031  ;       ;                        
+0000032 040  PPHS2   they                     Z8mfn 
+0000032 041  VM      'd                       A7+ 
+0000032 050  VBI     be                       A3+ Z5 
+0000032 060  AT      the                      Z5 
+0000032 070  NN1     death                    L1- 
+0000032 080  IO      of                       Z5 
+0000032 090  PPIO1   me                       Z8mf 
+0000033 010  JJ      Dear                     Z4[i15.2.1 E2+ I1.3+ 
+0000033 020  PPIO1   me                       Z4[i15.2.2 Z8mf 
+0000034 010  PPIS1   I                        Z8mf 
+0000034 011  VBM     'm                       A3+ Z5 
+0000034 020  RG      very                     A13.3 
+0000034 030  JJ      sorry                    Z4 E4.1- O4.2- 
+0000034 040  TO      to                       Z5 
+0000034 050  VVI     hear                     X3.2 X2.3+ G2.1@ 
+0000034 060  DD1     that                     Z8 Z5 
+0000034 061  .       .                        
+0000034 062  -----   -----                    
+0000034 070  RGQ@    How                      Z5 A13.3 
+0000035 010  RR      long                     T1.3+ 
+0000035 020  VM      may                      A7+ 
+0000035 030  PPIS1   I                        Z8mf 
+0000035 040  VVI     stay                     M8 T2++ H4 
+0000036 010  RR      Only                     A14 
+0000036 020  II      till                     Z5 
+0000036 030  AT      the                      Z5 
+0000036 040  NN1     mutton                   F1 
+0000036 041  VBZ     's                       Z5 A3+ 
+0000036 050  VDN     done                     A1.1.1 G2.2- X9.2+ E3- G2.1% Z5 
+0000036 051  ,       ,                        
+0000036 060  NN1     sir                      S7.1+/S2.2m 
+0000037 010  CC      and                      Z5 
+0000037 020  PPH1    it                       Z8 
+0000037 021  VBZ     's                       A3+ Z5 
+0000037 030  RG      very                     A13.3 
+0000038 010  JJ      brown                    O4.3 
+0000039 010  PPY     You                      Z8mf 
+0000039 011  VM      'll                      T1.1.3 
+0000039 020  RR      soon                     T1.1.3/N3.8+ 
+0000039 030  VVI     dry                      O1.2- 
+0000039 040  RL      there                    M6 T1.2 
+0000039 041  ,       ,                        
+0000039 050  NN1     sir                      S7.1+/S2.2m 
+0000040 010  PPIS1   I                        Z8mf 
+0000040 020  VV0     beg                      Q2.2/E6- 
+0000040 030  NN1     pardon                   G2.1 
+0000040 031  ,       ,                        
+0000040 040  NN1     sir                      S7.1+/S2.2m 
+0000041 010  VM      may                      A7+ 
+0000041 011  XX      n't                      Z6 
+0000041 020  PPIS1   I                        Z8mf 
+0000041 030  VVI     take                     A9+ T1.3 C1 A1.1.1 M2 S7.1- A2.1+ X2.4 S6+ S7.4+ N3 P1 M1 X2.5+ F1@ F2@ Q1.2@ B3@ 
+0000041 040  APPGE   your                     Z8 
+0000041 050  NN1     cloak                    B5 
+0000042 010  UH      No                       Z4 
+0000042 011  ,       ,                        
+0000042 020  VV0     thank                    Z4[i16.2.1 S1.2.4+[i16.2.1 S1.2.4+ 
+0000042 030  PPY     you                      Z4[i16.2.2 S1.2.4+[i16.2.2 Z8mf 
+0000043 010  APPGE   Your                     Z8 
+0000043 020  NN1     cap                      B5 O2 
+0000043 021  ,       ,                        
+0000043 030  NN1     sir                      S7.1+/S2.2m 
+0000044 010  PPIS1   I                        Z8mf 
+0000044 020  VBM     am                       A3+ Z5 
+0000044 030  RR@     all                      A13.2 
+0000044 040  JJ      right                    A5.3+ A4.2+ A1.2+ G2.2+ M6 N3.2+ A13.3 A13.2 
+0000044 041  ,       ,                        
+0000044 050  VV0     thank                    Z4[i17.2.1 S1.2.4+[i17.2.1 S1.2.4+ 
+0000044 060  PPY     you                      Z4[i17.2.2 S1.2.4+[i17.2.2 Z8mf 
+0000045 010  CCB     But                      Z5 
+0000045 011  ,       ,                        
+0000045 020  JJ      --                       Z99 
+0000045 030  NN1     sir                      S7.1+/S2.2m 
+0000045 031  ,       ,                        
+0000045 040  NN1     --                       Z99 
+0000045 050  PPIS1   I                        Z8mf 
+0000045 051  VBM     'm                       A3+ Z5 
+0000045 060  RG      very                     A13.3 
+0000045 070  JJ      sorry                    Z4 E4.1- O4.2- 
+0000046 010  CCB     but                      Z5 
+0000046 020  JJ      --                       Z99 
+0000046 030  RR      really                   A13.3 A5.2+ 
+0000046 031  ,       ,                        
+0000047 010  NN1     sir                      S7.1+/S2.2m 
+0000047 011  ,       ,                        
+0000047 020  JJ      --                       Z99 
+0000047 030  PPY     you                      Z8mf 
+0000047 031  VBR     're                      A3+ Z5 
+0000047 040  JJ      --                       Z99 
+0000047 050  VVG     putting                  M2 Q2.1 Q2.2 A1.1.1 
+0000047 060  AT      the                      Z5 
+0000047 070  NN1     fire                     O4.6+ 
+0000047 080  RP      out                      M6 
+0000048 010  PPH1    It                       Z8 
+0000048 011  VM      'll                      T1.1.3 
+0000048 020  VVI     take                     A9+ T1.3 C1 A1.1.1 M2 S7.1- A2.1+ X2.4 S6+ S7.4+ N3 P1 M1 X2.5+ F1@ F2@ Q1.2@ B3@ 
+0000048 030  JJR     longer                   T1.3++ N3.7++ N3.3++ N3.2++ 
+0000048 040  TO      to                       Z5 
+0000048 050  VDI     do                       A1.1.1 G2.2- X9.2+ E3- N5+ G2.1% Z5 
+0000048 060  AT      the                      Z5 
+0000048 070  NN1     mutton                   F1 
+0000048 071  ,       ,                        
+0000048 080  RT      then                     N4 Z5 T1.2 
+0000049 010  DD1     That                     Z5 Z8 
+0000049 020  NN1     mutton                   F1 
+0000049 030  VVZ     looks                    O4.2+/A8[i18.2.1 A8 X3.4 X2.4 X7+ Z4 
+0000049 040  RG      very                     A13.3 
+0000049 050  JJ      nice                     O4.2+/A8[i18.2.2 O4.2+ S1.2.1+ 
+0000050 010  VM      Ca                       A7+ 
+0000050 011  XX      n't                      Z6 
+0000051 010  PPY     you                      Z8mf 
+0000051 020  VVI     give                     A9- A1.1.1 
+0000051 030  PPIO1   me                       Z8mf 
+0000051 040  RR31    a                        A13.6[i20.3.1 A13.6[i19.2.1 N6-[i19.2.1 
+0000051 050  RR32    little                   A13.6[i20.3.2 A13.7 A13.6[i19.2.2 N6-[i19.2.2 
+0000051 060  RR33    bit                      A13.6[i20.3.3 
+0000052 010  JJ      Impossible               A7- A12- 
+0000052 011  ,       ,                        
+0000052 020  NN1     sir                      S7.1+/S2.2m 
+0000053 010  PPIS1   I                        Z8mf 
+0000053 011  VBM     'm                       A3+ Z5 
+0000053 020  RG      very                     A13.3 
+0000053 030  JJ      hungry                   F1-/B1 S1.2.2+ A1.5.1/N5+ 
+0000054 010  PPIS1   I                        Z8mf 
+0000054 011  VH0     've                      Z5 A9+ A2.2 
+0000054 020  VHN     had                      A9+ Z5 A2.2 S4 
+0000054 030  PN1     nothing                  Z6/Z8 
+0000054 040  TO      to                       Z5 
+0000054 050  VVI     eat                      F1/B1 A1.5.1/N5+ 
+0000055 010  RT      yesterday                T1.1.1 
+0000055 011  ,       ,                        
+0000055 020  CC      nor                      Z6 
+0000055 030  RT      to-day                   T1.1.2 
+0000055 031  .       .                        
+0000055 032  -----   -----                    
+0000055 040  PPHS2   They                     Z8mfn 
+0000055 050  RR      surely                   A7+ 
+0000055 060  VM      could                    A7+ 
+0000055 061  XX      n't                      Z6 
+0000055 070  VVI     miss                     A5.3- X3.4- A11.2- X2.5- X9.2- E4.1- T4- S1.1.3- 
+0000055 080  RR21    a                        A13.6[i21.2.1 A13.7[i21.2.1 
+0000055 090  RR22    bit                      A13.6[i21.2.2 A13.7[i21.2.2 
+0000055 100  II      from                     Z5 
+0000055 110  AT      the                      Z5 
+0000056 010  NN1     knuckle                  B1 
+0000057 010  PPHS2   They                     Z8mfn 
+0000057 020  VVD     promised                 S6+ A7+ 
+0000057 030  PPIO1   me                       Z8mf 
+0000057 040  MC1     one                      N1 T3 T1.2 
+0000057 050  NN1     slice                    O2 N5.1- 
+0000057 060  RT      to-day                   T1.1.2 
+0000057 061  ,       ,                        
+0000057 070  NN1     sir                      S7.1+/S2.2m 
+0000058 010  PPIS1   I                        Z8mf 
+0000058 020  VM      can                      A7+ 
+0000058 030  VVI     give                     A9- A1.1.1 
+0000059 010  PPY     you                      Z8mf 
+0000059 020  CST     that                     Z8 Z5 
+0000059 021  ,       ,                        
+0000059 030  CCB     but                      Z5 
+0000059 040  XX      not                      Z6 
+0000059 050  RR21    a                        A13.6[i22.2.1 A13.7[i22.2.1 
+0000059 060  RR22    bit                      A13.6[i22.2.2 A13.7[i22.2.2 
+0000059 070  RRR     more                     A13.3 N6++ 
+0000060 010  DD1     That                     Z8 Z5 
+0000060 011  VBZ     's                       A3+ Z5 
+0000060 020  AT1     a                        Z5 
+0000060 030  JJ      good                     A5.1+ G2.2+ O4.2+ A1.5.2+ N3.2+ 
+0000060 040  NN1     boy                      S2.2m L2m@ 
+0000061 010  PPIS1   I                        Z8mf 
+0000061 020  VD0     do                       Z5 A1.1.1 G2.2- X9.2+ E3- N5+ G2.1% 
+0000061 021  XX      n't                      Z6 
+0000061 030  VVI     care                     E6- E2+ S8+ B3 X7+ 
+0000061 040  CS      if                       Z7 
+0000061 050  PPIS1   I                        Z8mf 
+0000061 060  VD0     do                       Z5 A1.1.1 G2.2- X9.2+ E3- N5+ G2.1% 
+0000062 010  VVI     get                      A2.1+ A9+ Z5 X9.2+ A2.2 M1 M2 X2.5+ E4.1- 
+0000062 020  JJ      beaten                   X9.2-/S7.3 X9.2-/G3 S7.1- E3- O4.1 
+0000062 030  IF      for                      Z5 
+0000062 040  PPH1    it                       Z8 
+0000063 010  DDQ     What                     Z8 Z5 
+0000063 020  VDD     did                      Z5 A1.1.1 G2.2- X9.2+ E3- G2.1% 
+0000063 030  PPY     you                      Z8mf 
+0000063 040  VVI     keep                     A9+ N6+ T2++ A1.7+ A2.2 F4 S8+ H4 
+0000063 050  PPIO2   us                       Z8 
+0000063 060  VVG     waiting                  T1.3 A3+ A11.1+ S1.1.1% 
+0000063 070  II      in                       Z5 
+0000063 080  AT      the                      Z5 
+0000063 090  NN1     rain                     W4 
+0000063 100  IF      for                      Z5 
+0000064 010  UH      Ay                       Z4 
+0000064 011  !       !                        
+0000064 020  DDQ     what                     Z8 Z5 
+0000064 030  IF      for                      Z5 
+0000064 031  ,       ,                        
+0000064 040  RR      indeed                   A13.3 
+0000064 041  ,       ,                        
+0000065 010  PPY     you                      Z8mf 
+0000065 020  RR      little                   A13.7 
+0000065 030  VV0     vagabond                 S2mf 
+0000066 010  VV0     Bless                    S9 A9- 
+0000066 020  APPGE   my                       Z8 
+0000066 030  NN1     soul                     S9 E1 S2mf K2 
+0000067 010  UH      Amen                     Z4 
+0000068 010  NP1%    Who                      Z3 
+0000068 011  VBZ     's                       A3+ Z5 
+0000068 020  DD1     that                     Z8 Z5 
+0000069 010  PPIS1   I                        Z8mf 
+0000069 020  VD0     do                       Z5 A1.1.1 G2.2- X9.2+ E3- N5+ G2.1% 
+0000069 021  XX      n't                      Z6 
+0000069 030  VVI     know                     X2.2+ S3.2/B1% 
+0000069 031  ,       ,                        
+0000069 040  RR      indeed                   A13.3 
+0000069 041  ,       ,                        
+0000069 050  NN1     brother                  S4m S2.2m S9/S2.2m 
+0000070 010  RRQ     How                      Z5 A13.3 
+0000070 020  VDD     did                      Z5 A1.1.1 G2.2- X9.2+ E3- G2.1% 
+0000070 030  PPHS1   he                       Z8m 
+0000070 040  VVI     get                      M1 A9+ Z5 X9.2+ A2.1+ A2.2 M2 X2.5+ E4.1- 
+0000070 050  II      in                       Z5 
+0000071 010  APPGE   My                       Z8 
+0000071 020  JJ      dear                     E2+ I1.3+ 
+0000071 030  NN1     brother                  S4m S2.2m S9/S2.2m 
+0000072 010  PPHS1   he                       Z8m 
+0000072 020  VBDZ    was                      A3+ Z5 
+0000072 030  RG      so                       A13.3 
+0000072 040  RG      very                     A13.3 
+0000072 050  JJ      wet                      O1.2 W4 X5.2- 
+0000073 010  PNQS    Who                      Z3 
+0000073 020  VBR     are                      A3+ Z5 
+0000073 030  PPY     you                      Z8mf 
+0000073 031  ,       ,                        
+0000073 040  NN1     sir                      S7.1+/S2.2m 
+0000074 010  DDQ     What                     Z8 Z5 
+0000074 011  VBZ     's                       A3+ Z5 
+0000074 020  APPGE   your                     Z8 
+0000074 030  NN1     business                 I2.1 A1.1.1 A5.1+++ 
+0000075 010  PPIS1   I                        Z8mf 
+0000075 011  VBM     'm                       A3+ Z5 
+0000075 020  AT1     a                        Z5 
+0000075 030  JJ      poor                     I1.1- A5.1- N5- E4.1- X9.1- 
+0000075 040  JJ      old                      T3+ Z4 
+0000075 050  NN1     man                      S2.2m 
+0000075 051  ,       ,                        
+0000075 060  NN1     sir                      S7.1+/S2.2m 
+0000076 010  CC      and                      Z5 
+0000076 020  PPIS1   I                        Z8mf 
+0000076 030  VVD     saw                      X3.4 X2.1 S1.1.1 X2.5+ X2.3+ X3 A7+ S3.2 
+0000076 040  APPGE   your                     Z8 
+0000076 050  NN1     fire                     O4.6+ 
+0000076 060  II      through                  Z5 
+0000076 070  AT      the                      Z5 
+0000076 080  NN1     window                   H2 T1.3 
+0000076 081  ,       ,                        
+0000076 090  CC      and                      Z5 
+0000076 100  VVD     begged                   Q2.2/E6- 
+0000076 110  NN1     shelter                  H1/A10- H4/H1c 
+0000076 120  IF      for                      Z5 
+0000076 130  AT1     a                        Z5 
+0000077 010  NN1     quarter                  T1.3[i23.4.1 N1 N5 T1.3 
+0000077 020  IO      of                       T1.3[i23.4.2 Z5 N6+[i24.3.1 T1.2[i24.3.1 
+0000077 030  AT1     an                       T1.3[i23.4.3 Z5 N6+[i24.3.2 T1.2[i24.3.2 
+0000077 040  NNT1    hour                     T1.3[i23.4.4 T1.3 N6+[i24.3.3 T1.2[i24.3.3 
+0000078 010  VH0     Have                     A9+ Z5 A2.2 S4 
+0000078 020  AT      the                      Z5 
+0000078 030  NN1     goodness                 A5.1+ G2.2+ A1.5.2+ N3.2+ 
+0000078 040  TO      to                       Z5 
+0000078 050  VVI     walk                     M1[i25.2.1 I3.1[i25.2.1 M1 L2 X9.2+/A12+ 
+0000078 060  RP      out                      M1[i25.2.2 I3.1[i25.2.2 M6 
+0000078 070  RT      again                    N6+ Z4 
+0000078 071  ,       ,                        
+0000078 080  RT      then                     N4 Z5 T1.2 
+0000079 010  PPIS2   We                       Z8 
+0000079 011  VH0     've                      A9+ A2.2 Z5 
+0000079 020  RG      quite                    A13.5 A13.6 A13.2 
+0000080 010  RR      enough                   N5+ N6+ 
+0000080 020  NN1     water                    O1.2 W3/M4 B1 C1% 
+0000080 030  II      in                       Z5 
+0000080 040  APPGE   our                      Z8 
+0000080 050  NN1     kitchen                  F1/H2 
+0000080 051  ,       ,                        
+0000080 060  IW      without                  Z5 
+0000080 070  VVG     making                   X9.2+[i26.2.1 M1[i26.2.1 A1.1.1 A9+ A2.2 S6+ A3+ A9- X9.2+ X6+ 
+0000080 080  PPH1    it                       X9.2+[i26.2.2 M1[i26.2.2 Z8 
+0000080 090  AT1     a                        Z5 
+0000080 100  NN1     drying                   O1.2- 
+0000080 110  NN1     house                    H1 P1/S5+c G1.1c 
+0000081 010  PPH1    It                       Z8 
+0000081 020  VBZ     is                       A3+ Z5 
+0000081 030  AT1     a                        Z5 
+0000081 040  JJ      cold                     O4.6- S1.2.1- E1- A1.1.1 
+0000081 050  NNT1    day                      T1.3 
+0000081 060  TO      to                       Z5 
+0000081 070  VVI     turn                     M2 M1 O4.4 A1.1.1 A2.1+ O4.2- 
+0000081 080  AT1     an                       Z5 
+0000081 090  JJ      old                      T3+ Z4 
+0000081 100  NN1     man                      S2.2m 
+0000081 110  RP      out                      M6 
+0000081 120  II      in                       Z5 
+0000081 121  ,       ,                        
+0000081 130  NN1     sir                      S7.1+/S2.2m 
+0000081 131  ;       ;                        
+0000081 140  VV0     look                     X3.4[i27.2.1 X2.4[i27.2.1 X2.1[i27.2.1 A8 X3.4 X2.4 X7+ Z4 
+0000081 150  II      at                       X3.4[i27.2.2 X2.4[i27.2.2 X2.1[i27.2.2 Z5 
+0000081 160  APPGE   my                       Z8 
+0000081 170  JJ      grey                     O4.3 O4.2- E4.1- 
+0000082 010  NN2     hairs                    B1 
+0000083 010  UH      Ay                       Z4 
+0000084 010  RL      there                    Z5 
+0000084 020  VBR     are                      A3+ Z5 
+0000084 030  DD      enough                   N5+ N6+ 
+0000084 040  IO      of                       Z5 
+0000084 050  PPHO2   them                     Z8mfn 
+0000084 060  TO      to                       Z5 
+0000084 070  VVI     keep                     A9+ N6+ T2++ A1.7+ A2.2 F4 S8+ H4 
+0000084 080  PPY     you                      Z8mf 
+0000084 090  VV0@    warm                     O4.6+ E2+ 
+0000084 091  .       .                        
+0000084 092  -----   -----                    
+0000084 100  VV0     Walk                     M1 L2 X9.2+/A12+ 
+0000085 010  PPIS1   I                        Z8mf 
+0000085 011  VBM     'm                       A3+ Z5 
+0000085 020  RG      very                     A13.3 
+0000085 021  ,       ,                        
+0000085 030  RG      very                     A13.3 
+0000085 040  JJ      hungry                   F1-/B1 S1.2.2+ A1.5.1/N5+ 
+0000085 041  ,       ,                        
+0000085 050  NN1     sir                      S7.1+/S2.2m 
+0000085 051  ;       ;                        
+0000085 060  VM      could                    A7+ 
+0000085 061  XX      n't                      Z6 
+0000085 070  PPY     you                      Z8mf 
+0000085 080  VVI     spare                    A9+ A9- A1.9 E3+ L1+ 
+0000085 090  PPIO1   me                       Z8mf 
+0000085 100  AT1     a                        Z5 
+0000085 110  NN1     bit                      N5- N5.1- O2 Y2 
+0000085 120  IO      of                       Z5 
+0000085 130  NN1     bread                    F1 I1.1 
+0000085 140  CS      before                   Z5 
+0000086 010  PPIS1   I                        Z8mf 
+0000086 020  VV0     go                       M1 A2.1+ A1.1.1 A9- A1.8+ Q2.1 N6+ I2.2 A1.1.2 T2- S3.2 A6.3+ B2-/X1% B1% 
+0000087 010  NN1     Bread                    F1 I1.1 
+0000087 011  ,       ,                        
+0000087 020  RR      indeed                   A13.3 
+0000088 010  VD0     do                       Z5 A1.1.1 G2.2- X9.2+ E3- N5+ G2.1% 
+0000088 020  PPY     you                      Z8mf 
+0000088 030  VVI     suppose                  X2.1 X7+ 
+0000088 040  PPIS2   we                       Z8 
+0000088 041  VH0     've                      A9+ A2.2 Z5 A2.2[i28.4.1 S1.1.1[i28.4.1 
+0000088 050  PN1     nothing                  A2.2-[i29.4.1 Z6/Z8 
+0000088 060  TO      to                       A2.2-[i29.4.2 Z5 A2.2[i28.4.2 S1.1.1[i28.4.2 A2.2[i30.3.1 
+0000088 070  VDI     do                       A2.2-[i29.4.3 A1.1.1 G2.2- X9.2+ E3- N5+ G2.1% Z5 A2.2[i28.4.3 S1.1.1[i28.4.3 A2.2[i30.3.2 
+0000088 080  IW      with                     A2.2-[i29.4.4 Z5 A2.2[i28.4.4 S1.1.1[i28.4.4 A2.2[i30.3.3 
+0000089 010  APPGE   our                      Z8 
+0000089 020  NN1     bread                    F1 I1.1 
+0000089 021  ,       ,                        
+0000089 030  CCB     but                      Z5 
+0000089 040  TO      to                       Z5 
+0000089 050  VVI     give                     A9- A1.1.1 
+0000089 060  PPH1    it                       Z8 
+0000089 070  II      to                       Z5 
+0000089 080  DA      such                     Z5 Z8 
+0000089 090  JJ      red-nosed                Z99 
+0000089 100  NN2     fellows                  S2.2m P1/S2mf 
+0000089 110  CSA     as                       Z5 
+0000089 120  PPY     you                      Z8mf 
+0000090 010  RRQ     Why                      A2.2 
+0000090 020  VD0     do                       Z5 A1.1.1 G2.2- X9.2+ E3- N5+ G2.1% 
+0000090 021  XX      n't                      Z6 
+0000090 030  PPY     you                      Z8mf 
+0000090 040  VVI     sell                     I2.2 
+0000090 050  APPGE   your                     Z8 
+0000090 060  NN1     feather                  L2 
+0000091 010  RP      Out                      M6 
+0000091 020  IW      with                     Z5 
+0000092 010  PPY     you                      Z8mf 
+0000093 010  AT1     A                        N5-[i31.3.1 Z5 
+0000093 020  JJ      little                   N5-[i31.3.2 N3.2- T3- N3.7- N3.3- T1.3- A11.1- 
+0000093 030  NN1     bit                      N5-[i31.3.3 N5- N5.1- O2 Y2 
+0000094 010  VBI     Be                       B2-/I3.1-[i32.2.1 I3.1-[i32.2.1 M1[i32.2.1 A3+ Z5 
+0000094 020  RP      off                      B2-/I3.1-[i32.2.2 I3.1-[i32.2.2 M1[i32.2.2 M6 K1 A1.1.1 A1.9 
+0000095 010  VV0     Pray                     S9/Q2.2 
+0000095 011  ,       ,                        
+0000095 020  NN2     gentlemen                S2.2m 
+0000096 010  RP      Off                      M6 K1 A1.1.1 A1.9 
+0000096 011  ,       ,                        
+0000096 020  CC      and                      Z5 
+0000096 030  VBI     be                       Z5 A3+ 
+0000096 040  VVN     hanged                   G2.1 
+0000097 010  NN2     Gentlemen                S2.2m 
+0000097 011  ,       ,                        
+0000097 020  PPIS1   I                        Z8mf 
+0000097 030  VV0     wish                     X7+ 
+0000097 040  PPY     you                      Z8mf 
+0000097 050  AT1     a                        Z5 
+0000097 060  RG      very                     A13.3 
+0000097 070  JJ      good                     Z4[i33.2.1 A5.1+ G2.2+ O4.2+ A1.5.2+ N3.2+ 
+0000097 080  NNT1    morning                  Z4[i33.2.2 T1.3 
+0000097 081  .       .                        
+0000097 082  -----   -----                    
+0000097 090  II      At                       Z5 
+0000097 100  MC      twelve                   T1.2[i34.2.1 N1 T3 T1.2 
+0000097 110  RA      o'clock                  T1.2[i34.2.2 T1 
+0000098 010  RT      tonight                  T1.1.2 
+0000098 020  PPIS1   I                        Z8mf 
+0000098 021  VM      'll                      T1.1.3 
+0000098 030  VVI     call                     Q2.2 S1.1.1 Q1.3 S9% 
+0000098 040  RT      again                    N6+ Z4 
+0000098 041  ;       ;                        
+0000098 050  CS      after                    Z5 
+0000098 060  DA      such                     A13.3[i35.2.1 Z5 Z8 
+0000098 070  AT1     a                        A13.3[i35.2.2 Z5 
+0000098 080  NN1     refusal                  Q2.2/Z6 S7.4- X7- 
+0000098 090  IO      of                       Z5 
+0000098 100  NN1     hospitality              S1.2.1+ 
+0000098 110  CSA     as                       Z5 
+0000098 120  PPIS1   I                        Z8mf 
+0000098 130  VH0     have                     Z5 A9+ A2.2 S4 
+0000099 010  RR      just                     A14 T3--- T1.3- N3.3--- 
+0000099 020  VVN     experienced              A2.1+/A3+ X3 
+0000099 021  ,       ,                        
+0000099 030  PPY     you                      Z8mf 
+0000099 040  VM      will                     T1.1.3 
+0000099 050  XX      not                      Z6 
+0000099 060  VBI     be                       A3+ Z5 
+0000099 070  JJ      surprised                X2.6- 
+0000099 080  CS      if                       Z7 
+0000099 090  DD1     that                     Z5 Z8 
+0000099 100  NN1     visit                    S1.1.1 M1 
+0000099 110  VBZ     is                       A3+ Z5 
+0000099 120  AT      the                      Z5 
+0000099 130  MD      last                     N4 
+0000099 140  PPIS1   I                        Z8mf 
+0000100 010  RR      ever                     T1.1 N6+++ A13 
+0000100 020  VV0     pay                      I1.2 A9- I1.1/I3.1 
+0000100 030  PPY     you                      Z8mf 
+0000101 010  CS      If                       Z7 
+0000101 020  RR      ever                     T1.1 N6+++ A13 
+0000101 030  PPIS1   I                        Z8mf 
+0000101 040  VV0     catch                    A9+ A1.7+ G2.1 A10+ T2- A1.1.1 X3 T4 M3 
+0000101 050  PPY     you                      Z8mf 
+0000101 060  RL      here                     M6 T1.1.2 T1.2 
+0000101 070  RT      again                    N6+ Z4 
+0000102 010  AT1@    A                        Z5 
+0000102 020  RG      very                     A13.3 
+0000102 030  JJ      pretty                   O4.2+ 
+0000102 040  NN1     business                 I2.1 A1.1.1 A5.1+++ 
+0000102 041  ,       ,                        
+0000102 050  RR      indeed                   A13.3 
+0000102 051  ,       ,                        
+0000102 060  NNB     Mr.                      Z1m[i36.2.1 S2.2m 
+0000102 070  NP1     Gluck                    Z1m[i36.2.2 
+0000103 010  VV0@    Dish                     F1/A1.1.1 
+0000103 020  AT      the                      Z5 
+0000104 010  NN1     mutton                   F1 
+0000104 011  ,       ,                        
+0000104 020  NN1     sir                      S7.1+/S2.2m 
+0000104 021  .       .                        
+0000104 022  -----   -----                    
+0000104 030  CS      If                       Z7 
+0000104 040  RR      ever                     T1.1 N6+++ A13 
+0000104 050  PPIS1   I                        Z8mf 
+0000104 060  VV0     catch                    A9+ A1.7+ G2.1 A10+ T2- A1.1.1 X3 T4 M3 
+0000104 070  PPY     you                      Z8mf 
+0000104 080  II      at                       Z5 
+0000104 090  DA      such                     A13.3[i37.2.1 Z5 Z8 
+0000104 100  AT1     a                        A13.3[i37.2.2 Z5 
+0000104 110  NN1     trick                    G2.2- A1.1.1 X4.2 A6.2+ K5.2 
+0000104 120  RT      again                    N6+ Z4 
+0000104 130  NN1     --                       Z99 
+0000104 140  VV0     bless                    S9 A9- 
+0000104 150  PPIO1   me                       Z8mf 
+0000104 151  ,       ,                        
+0000104 160  RRQ     why                      A2.2 
+0000104 161  ,       ,                        
+0000105 010  AT      the                      Z5 
+0000105 020  NN1     mutton                   F1 
+0000105 021  VHZ     's                       Z5 A9+ A2.2 
+0000105 030  VBN     been                     Z5 A3+ 
+0000105 040  VVN     cut                      A1.1.1 N5-/A2.1 T2- M1 Q4.3 K5.1 B1 F3 
+0000106 010  PPY     You                      Z8mf 
+0000106 020  VVD     promised                 S6+ A7+ 
+0000106 030  PPIO1   me                       Z8mf 
+0000106 040  MC1     one                      N1 T3 T1.2 
+0000106 050  NN1     slice                    O2 N5.1- 
+0000106 051  ,       ,                        
+0000106 060  NN1     brother                  S4m S2.2m S9/S2.2m 
+0000106 061  ,       ,                        
+0000106 070  PPY     you                      Z4[i38.2.1 Z8mf 
+0000106 080  VV0     know                     Z4[i38.2.2 X2.2+ S3.2/B1% 
+0000107 010  UH      Oh                       Z4 
+0000107 011  !       !                        
+0000107 020  CC      and                      Z5 
+0000107 030  PPY     you                      Z8mf 
+0000107 040  VBDR    were                     Z5 A3+ 
+0000107 050  VVG     cutting                  A1.1.1 N5-/A2.1 T2- Q4.3 K5.1 B1 
+0000107 060  PPH1    it                       Z8 
+0000107 070  JJ      hot                      O4.6+ X9.1+ O4.2+ X5.2+ G2.1- A12- S7.3+ E6- A7+++ 
+0000107 071  ,       ,                        
+0000107 080  PPIS1   I                        Z4[i39.2.1 Z8mf 
+0000107 090  VV0     suppose                  Z4[i39.2.2 X2.1 X7+ 
+0000107 091  ,       ,                        
+0000107 100  CC      and                      Z5 
+0000107 110  VVGK    going                    T1.1.3[i40.2.1 
+0000107 120  TO      to                       T1.1.3[i40.2.2 Z5 
+0000107 130  VVI     catch                    A9+ A1.7+ G2.1 A10+ T2- A1.1.1 X3 T4 M3 
+0000107 140  DB      all                      N5.1+ 
+0000107 150  AT      the                      Z5 
+0000108 010  NN1     gravy                    F1 
+0000108 011  .       .                        
+0000108 012  -----   -----                    
+0000108 020  PPH1    It                       Z8 
+0000108 021  VM      'll                      T1.1.3 
+0000108 030  VBI     be                       A3+ Z5 
+0000108 040  JJ      long                     N3.7+ T1.3+ N3.3+ N3.2+ 
+0000108 050  CS      before                   Z5 
+0000108 060  PPIS1   I                        Z8mf 
+0000108 070  VV0     promise                  S6+ A7+ 
+0000108 080  PPY     you                      Z8mf 
+0000108 090  DA      such                     A13.3[i41.2.1 Z5 Z8 
+0000108 100  AT1     a                        A13.3[i41.2.2 Z5 
+0000108 110  NN1     thing                    O2 X4.1 A7- S2mf L2mf 
+0000108 120  RT      again                    N6+ Z4 
+0000108 121  .       .                        
+0000108 122  -----   -----                    
+0000108 130  VV0     Leave                    M1 M2 A1.1.1 A1.9 A9- T2- 
+0000108 140  AT      the                      Z5 
+0000109 010  NN1     room                     H2 N3.6 
+0000109 011  ,       ,                        
+0000109 020  NN1     sir                      S7.1+/S2.2m 
+0000109 021  ;       ;                        
+0000109 030  CC      and                      Z5 
+0000109 040  VH0     have                     A9+ Z5 A2.2 S4 
+0000109 050  AT      the                      Z5 
+0000109 060  NN1     kindness                 S1.2/S8+ S1.2.2- 
+0000109 070  TO      to                       Z5 
+0000109 080  VVI     wait                     T1.3 A3+ A11.1+ S1.1.1% 
+0000109 090  II      in                       Z5 
+0000109 100  AT      the                      Z5 
+0000109 110  NN1     coal-cellar              Z99 
+0000109 120  CS      till                     Z5 
+0000109 130  PPIS1   I                        Z8mf 
+0000109 140  VV0     call                     Q2.2 S1.1.1 Q1.3 S9% 
+0000110 010  PPY     you                      Z8mf 
+0000111 010  DDQ     What                     Z8 Z5 
+0000111 011  VBZ     's                       A3+ Z5 
+0000111 020  DD1     that                     Z5 Z8 
+0000112 010  RR      Only                     A14 
+0000112 020  MC1%    I                        Z8 
+0000113 010  JJ      Sorry                    Z4 E4.1- O4.2- 
+0000113 020  TO      to                       Z5 
+0000113 030  VVI     incommode                E6- A12- B2- E3- X8+ O4.2- M2 Q2.1 Q2.2 A1.1.1 Z5 K5.1 M6 S3.2 S8- G2.2- A2.2/E1 A2.1+ A5.4-/A8 A2.2 L2mfn I2.1/S2mf E2+ A8 A9+ B1@ A5.1+ G2.2+ X3.3 X4.2 N5- E1 E2- 
+0000113 040  PPY     you                      Z8mf 
+0000114 010  PPIS1   I                        Z4[i42.3.1 E5-[i42.3.1 Z8mf 
+0000114 011  VBM     'm                       Z4[i42.3.2 E5-[i42.3.2 A3+ Z5 
+0000114 020  JJ      afraid                   Z4[i42.3.3 E5-[i42.3.3 E5- E4.1- 
+0000115 010  APPGE   your                     Z8 
+0000115 020  NN2     beds                     H5 L3 
+0000115 030  VBR     are                      A3+ Z5 
+0000115 040  JJ      dampish                  O1.2 S1.2.5-@ O4.1/O1.2 W4 X5.2- G1.2 
+0000115 041  ;       ;                        
+0000115 050  RR      perhaps                  A7 
+0000115 060  PPY     you                      Z8mf 
+0000115 070  VHD     had                      A9+ Z5 A2.2 S4 
+0000115 080  RRR     better                   A5.1++ G2.2++ O4.2++ 
+0000115 090  VVI     go                       M1 A2.1+ A1.1.1 A9- A1.8+ Q2.1 N6+ I2.2 A1.1.2 T2- S3.2 A6.3+ B2-/X1% B1% 
+0000115 100  II      to                       Z5 
+0000115 110  APPGE   your                     Z8 
+0000115 120  NN1     brother                  S4m S2.2m S9/S2.2m 
+0000115 121  GE      's                       Z5 
+0000115 130  NN1     room                     H2 N3.6 
+0000115 131  :       :                        
+0000116 010  PPIS1   I                        Z8mf 
+0000116 011  VH0     've                      Z5 A9+ A2.2 
+0000116 020  VVN     left                     M1 M2 A1.1.1 A1.9 A9- N5.2+ T2- 
+0000116 030  AT      the                      Z5 
+0000116 040  NN1     ceiling                  H2 N5.1+ 
+0000116 050  RP@     on                       M6 A1.1.1 
+0000116 051  ,       ,                        
+0000116 060  RL      there                    M6 T1.2 
+0000117 010  PPY     You                      Z8mf 
+0000117 011  VM      'll                      T1.1.3 
+0000117 020  VVI     find                     A10+ X2.1 X6+ 
+0000117 030  APPGE   my                       Z8 
+0000117 040  NN1     card                     Q1.2 O1.1 I1.1/O2/Q1.1 K5.2 
+0000117 050  II      on                       Z5 
+0000117 060  AT      the                      Z5 
+0000117 070  NN1     kitchen                  F1/H2 
+0000117 080  NN1     table                    H5 Q1.2 N2 
+0000118 010  VV0     Remember                 X2.2+ 
+0000118 011  ,       ,                        
+0000118 020  AT      the                      Z5 
+0000118 030  MD      last                     N4 
+0000118 040  NN1     visit                    S1.1.1 M1 
+0000119 010  VV0     Pray                     S9/Q2.2 
+0000119 020  NN1     Heaven                   S9 E2+ W1 
+0000119 030  PPH1    it                       Z8 
+0000119 040  VM      may                      A7+ 
+0000120 010  VV0     Suppose                  X2.1 X7+ 
+0000120 020  PPIS2   we                       Z8 
+0000120 030  VV0     turn                     M2 M1 O4.4 A1.1.1 A2.1+ O4.2- 
+0000120 040  NN2     goldsmiths               C1/S2mf 
+0000121 010  PPH1    It                       Z8 
+0000121 020  VBZ     is                       A3+ Z5 
+0000121 030  AT1     a                        Z5 
+0000121 040  JJ      good                     A5.1+ G2.2+ O4.2+ A1.5.2+ N3.2+ 
+0000121 050  NN1     knave                    G2.2-/S2.2m K5.2 
+0000121 051  GE      's                       Z5 
+0000121 060  NN1     trade                    I2.2 I2.1 I3.1 I2.2/N5 
+0000121 061  ;       ;                        
+0000121 070  PPIS2   we                       Z8 
+0000121 080  VM      can                      A7+ 
+0000121 090  VVI     put                      M2 Q2.1 Q2.2 A1.1.1 
+0000121 100  AT1     a                        N5+[i44.3.1 Z5 N5+[i43.3.1 N6+[i43.3.1 A13.3[i43.3.1 
+0000121 110  JJ      great                    N5+[i44.3.2 A5.1+ A11.1+ N3.2+ N5+ X5.2+ A13.3 N5+[i43.3.2 N6+[i43.3.2 A13.3[i43.3.2 
+0000121 120  NN1     deal                     N5+[i44.3.3 N5 Q2.2 A1.1.1 I2.2 K5.2 F3/I2.2 N5+[i43.3.3 N6+[i43.3.3 A13.3[i43.3.3 
+0000121 130  IO      of                       Z5 
+0000122 010  NN1     copper                   O1.1 I1.1 G2.1/S2mf 
+0000122 020  II      into                     Z5 
+0000122 030  AT      the                      Z5 
+0000122 040  NN1     gold                     O1.1 O4.3 I1 
+0000122 041  ,       ,                        
+0000122 050  IW      without                  Z5 
+0000122 060  DD      any                      N5.1+ N5 
+0000122 070  MC1     one                      N1 T3 T1.2 
+0000122 071  VBZ     's                       Z5 A3+ 
+0000122 080  VVG     finding                  X2.3+[i45.2.1 A10+ X2.1 X6+ 
+0000122 090  PPH1    it                       Z8 
+0000122 100  RP      out                      X2.3+[i45.2.2 M6 
+0000123 010  CC      And                      Z5 
+0000123 020  AT      no                       Z6 
+0000123 030  NN1     wonder                   X2.6- A5.1+ 
+0000124 010  II      after                    Z5 
+0000124 020  VBG     being                    Z5 A3+ 
+0000124 030  VVN     treated                  S1.1.1 A9- X4.2 X2.1 B3 A1.1.1 
+0000124 040  II      in                       Z5[i46.2.1 Z5 
+0000124 050  DD1     that                     Z5[i46.2.2 Z5 Z8 S3.2[i47.2.1 
+0000124 060  NN1     way                      X4.2 M6 M3/H3 N3.3 A4.1 A1.1.1 T1.3 S3.2[i47.2.2 
+0000125 010  UH      Ah                       Z4 
+0000126 010  CS      if                       Z7 
+0000126 020  DD1     that                     Z5 Z8 
+0000127 010  NN1     river                    W3/M4 N5+ 
+0000127 020  VBDR    were                     A3+ Z5 
+0000127 030  RR      really                   A13.3 A5.2+ 
+0000127 040  DB      all                      N5.1+ 
+0000127 050  NN1     gold                     O1.1 O4.3 I1 
+0000127 051  ,       ,                        
+0000127 060  DDQ     what                     Z8 Z5 
+0000127 070  AT1     a                        Z5 
+0000127 080  JJ      nice                     O4.2+ S1.2.1+ 
+0000127 090  NN1     thing                    O2 X4.1 A7- S2mf L2mf 
+0000127 100  PPH1    it                       Z8 
+0000127 110  VM      would                    A7+ 
+0000127 120  VBI     be                       A3+ Z5 
+0000128 010  UH      No                       Z4 
+0000128 011  ,       ,                        
+0000128 020  PPH1    it                       Z8 
+0000128 030  VM      would                    A7+ 
+0000128 031  XX      n't                      Z6 
+0000128 032  ,       ,                        
+0000128 040  NP1     Gluck                    A4.1 T1.2 K2/S2mf 
+0000129 010  VV0     Bless                    S9 A9- 
+0000129 020  PPIO1   me                       Z8mf 
+0000129 021  ,       ,                        
+0000129 030  DDQ     what                     Z8 Z5 
+0000129 031  VBZ     's                       A3+ Z5 
+0000129 040  DD1     that                     Z5 Z8 
+0000130 010  XX      Not                      Z6[i48.3.1 Z6 
+0000130 020  RR21    at                       Z6[i48.3.2 A13.7[i49.2.1 Z4[i49.2.1 N5.1+[i49.2.1 
+0000130 030  RR22    all                      Z6[i48.3.3 A13.2 A13.7[i49.2.2 Z4[i49.2.2 N5.1+[i49.2.2 
+0000130 031  ,       ,                        
+0000130 040  APPGE   my                       Z8 
+0000130 050  NN1     boy                      S2.2m L2m@ 
+0000131 010  VV0     Bless                    S9 A9- 
+0000131 020  PPIO1   me                       Z8mf 
+0000132 010  DDQ     what                     Z8 Z5 
+0000132 020  VBZ     is                       A3+ Z5 
+0000132 030  CST     that                     Z5 Z8 
+0000133 010  NP1     Lala-lira-la             Z1mf[i51.3.1 Z3c[i51.3.1 Z1mf[i50.2.1 Z3c[i50.2.1 
+0000134 010  NP1     Lala-lira-la             Z1mf[i51.3.2 Z3c[i51.3.2 Z1mf[i53.3.1 Z3c[i53.3.1 Z1mf[i50.2.2 Z3c[i50.2.2 Z1mf[i52.2.1 Z3c[i52.2.1 
+0000135 010  NP1     Hollo                    Z3c[i51.3.3 Z1mf[i51.3.3 Z1mf[i53.3.2 Z3c[i53.3.2 Z1mf[i52.2.2 Z3c[i52.2.2 Z1mf[i54.2.1 Z3c[i54.2.1 
+0000136 010  NP1     Hollo                    Z3c[i53.3.3 Z1mf[i53.3.3 Z1mf[i54.2.2 Z3c[i54.2.2 
+0000136 011  !       !                        
+0000136 012  -----   -----                    
+0000136 020  VV0     Gluck                    Z99 
+0000136 021  ,       ,                        
+0000136 030  APPGE   my                       Z8 
+0000136 040  NN1     boy                      S2.2m L2m@ 
+0000137 010  VV0     Come                     M1 N3.1 A2.2 A3+ X2.1 A9+ S4 N4 S3.2 
+0000137 011  ,       ,                        
+0000137 020  NP1     Gluck                    A4.1 T1.2 K2/S2mf 
+0000137 021  ,       ,                        
+0000137 030  APPGE   my                       Z8 
+0000137 040  NN1     boy                      S2.2m L2m@ 
+0000138 010  PPIS1   I                        Z8mf 
+0000138 011  VBM     'm                       A3+ Z5 
+0000138 020  RR@     all                      A13.2 
+0000139 010  JJ      right                    A5.3+ A4.2+ A1.2+ G2.2+ M6 N3.2+ A13.3 A13.2 
+0000139 011  ;       ;                        
+0000139 020  VV0     pour                     M2[i55.2.1 M1[i55.2.1 Q2.1[i55.2.1 A1.1.1/O1.2 W4 M1/N5+ 
+0000139 030  PPIO1   me                       Z8mf 
+0000139 040  RP      out                      M2[i55.2.2 M1[i55.2.2 Q2.1[i55.2.2 M6 
+0000140 010  VV0     Pour                     M2[i56.2.1 M1[i56.2.1 Q2.1[i56.2.1 A1.1.1/O1.2 W4 M1/N5+ 
+0000140 020  PPIO1   me                       Z8mf 
+0000140 030  RP      out                      M2[i56.2.2 M1[i56.2.2 Q2.1[i56.2.2 M6 
+0000140 031  ,       ,                        
+0000140 040  PPIS1   I                        Z8mf 
+0000140 050  VV0     say                      Q2.1 Z4% 
+0000141 010  VM      Will                     Z1m 
+0000141 020  PPY     you                      Z8mf 
+0000141 030  VVI     pour                     M2[i57.2.1 M1[i57.2.1 Q2.1[i57.2.1 A1.1.1/O1.2 W4 M1/N5+ 
+0000141 040  PPIO1   me                       Z8mf 
+0000141 050  RP      out                      M2[i57.2.2 M1[i57.2.2 Q2.1[i57.2.2 M6 
+0000142 010  PPIS1   I                        Z8mf 
+0000142 011  VBM     'm                       A3+ Z5 
+0000142 020  RG      too                      N5.2+ A13.3 
+0000142 030  JJ      hot                      O4.6+ X9.1+ O4.2+ X5.2+ G2.1- A12- S7.3+ E6- A7+++ 
+0000143 010  DD1     That                     Z8 Z5 
+0000143 011  VBZ     's                       A3+ Z5 
+0000143 020  JJ      right                    A5.3+ A4.2+ A1.2+ G2.2+ M6 N3.2+ A13.3 A13.2 
+0000144 010  UH      No                       Z4 
+0000144 011  ,       ,                        
+0000144 020  PPH1    it                       Z8 
+0000144 030  VM      would                    A7+ 
+0000144 031  XX      n't                      Z6 
+0000144 032  ,       ,                        
+0000144 040  NP1     Gluck                    A4.1 T1.2 K2/S2mf 
+0000144 041  ,       ,                        
+0000145 010  APPGE   my                       Z8 
+0000145 020  NN1     boy                      S2.2m L2m@ 
+0000146 010  VM      Would                    A7+ 
+0000146 011  XX      n't                      Z6 
+0000146 020  PPH1    it                       Z8 
+0000146 021  ,       ,                        
+0000146 030  NN1     sir                      S7.1+/S2.2m 
+0000147 010  UH      No                       Z4 
+0000148 010  UH      no                       Z4 
+0000148 011  ,       ,                        
+0000148 020  PPH1    it                       Z8 
+0000148 030  VM      would                    A7+ 
+0000148 031  XX      n't                      Z6 
+0000149 010  VV0     Pray                     S9/Q2.2 
+0000149 011  ,       ,                        
+0000149 020  NN1     sir                      S7.1+/S2.2m 
+0000150 010  VBDR    were                     A3+ Z5 
+0000150 020  PPY     you                      Z8mf 
+0000150 030  APPGE   my                       Z8 
+0000150 040  NN1     mug                      O2 B1 S1.2.6-/S2mf 
+0000151 010  PPIS1   I                        Z8mf 
+0000152 010  VBM     am                       A3+ Z5 
+0000153 010  AT      the                      Z5 
+0000153 020  NN1     King                     S7.1+/S2.2m 
+0000153 030  IO      of                       Z5 
+0000153 040  AT      the                      Z5 
+0000153 050  JJ      Golden                   O4.3 A11.1+ A5.1+ 
+0000153 060  NN1     River                    W3/M4 N5+ 
+0000154 010  PPIS1   I                        Z8mf 
+0000154 020  VV0     hope                     X2.6+ E4.1+ X9.2+ A5.1+ 
+0000154 030  APPGE   your                     Z8 
+0000154 040  NN1     Majesty                  O4.2+ S7.1+ 
+0000154 050  VBZ     is                       A3+ Z5 
+0000155 010  RG      very                     A13.3 
+0000155 020  RR      well                     A5.1+ A13.3 A7+ B2+ Z4 
+0000156 010  VV0     Listen                   X3.2 
+0000157 010  PPIS1   I                        Z8mf 
+0000157 020  VBM     am                       A3+ Z5 
+0000157 030  AT      the                      Z5 
+0000157 040  NN1     King                     S7.1+/S2.2m 
+0000157 050  IO      of                       Z5 
+0000157 060  DDQ     what                     Z8 Z5 
+0000157 070  PPY     you                      Z8mf 
+0000157 080  NN2     mortals                  L1/S2mf 
+0000157 090  VV0     call                     Q2.2 S1.1.1 Q1.3 S9% 
+0000157 100  AT      the                      Z5 
+0000157 110  JJ      Golden                   O4.3 A11.1+ A5.1+ 
+0000157 120  NN1     River                    W3/M4 N5+ 
+0000157 121  .       .                        
+0000157 122  -----   -----                    
+0000157 130  AT      The                      Z5 
+0000157 140  NN1     shape                    O4.4 
+0000157 150  PPY     you                      Z8mf 
+0000158 010  VVD     saw                      X3.4 X2.1 S1.1.1 X2.5+ X2.3+ X3 A7+ S3.2 
+0000158 020  PPIO1   me                       Z8mf 
+0000158 030  RP@     in                       M6 
+0000158 031  ,       ,                        
+0000158 040  VBDZ    was                      Z5 A3+ 
+0000158 050  VVG     owing                    I1.2 S6+ 
+0000158 060  II      to                       Z5 
+0000158 070  AT      the                      Z5 
+0000158 080  NN1     malice                   E3- 
+0000158 090  IO      of                       Z5 
+0000158 100  AT1     a                        Z5 
+0000158 110  JJR     stronger                 S1.2.5++ N5++ A5.1++ X5.2++ S7.1++ X9.1++ O4.1 S1.2.3++ 
+0000158 120  NN1     king                     S7.1+/S2.2m 
+0000158 121  ,       ,                        
+0000158 130  II      from                     Z5 
+0000158 140  DDQGE   whose                    Z8 
+0000159 010  NN2     enchantments             S9 
+0000159 020  PPY     you                      Z8mf 
+0000159 030  VH0     have                     A9+ Z5 A2.2 S4 
+0000159 040  DD1     this                     M6 Z5 Z8 
+0000159 050  NNT1    instant                  T1.2 
+0000159 060  VVN     freed                    S6- A1.7- 
+0000159 070  PPIO1   me                       Z8mf 
+0000159 071  .       .                        
+0000159 072  -----   -----                    
+0000159 080  DDQ     What                     Z8 Z5 
+0000159 090  PPIS1   I                        Z8mf 
+0000159 100  VH0     have                     Z5 A9+ A2.2 S4 
+0000159 110  VVN     seen                     X3.4 X2.1 S1.1.1 X2.5+ A7+ 
+0000159 120  IO      of                       Z5 
+0000159 130  PPY     you                      Z8mf 
+0000159 131  ,       ,                        
+0000160 010  CC      and                      Z5 
+0000160 020  APPGE   your                     Z8 
+0000160 030  NN1     conduct                  S1.1.1 
+0000160 040  II      to                       Z5 
+0000160 050  APPGE   your                     Z8 
+0000160 060  JJ      wicked                   G2.2- A5.1+ 
+0000160 070  NN2     brothers                 S4m S2.2m S9/S2.2m 
+0000160 071  ,       ,                        
+0000160 080  VVZ     renders                  A2.2 A9- 
+0000160 090  PPIO1   me                       Z8mf 
+0000160 100  JJ      willing                  X7+ X5.2+ 
+0000160 110  TO      to                       Z5 
+0000160 120  VVI     serve                    S8+ S7.1- I2.2 A9- F1 A1.1.1 I3.1 K5.1 G2.1 
+0000161 010  PPY     you                      Z8mf 
+0000161 011  ;       ;                        
+0000161 020  RR      therefore                Z5 
+0000161 021  ,       ,                        
+0000161 030  VV0     attend                   A1.1.1[i58.2.1 S1.1.3+ 
+0000161 040  II      to                       A1.1.1[i58.2.2 Z5 
+0000161 050  DDQ     what                     Z8 Z5 
+0000161 060  PPIS1   I                        Z8mf 
+0000161 070  VV0     tell                     Q2.2 Q2.1 X3 A10+ 
+0000161 080  PPY     you                      Z8mf 
+0000161 081  .       .                        
+0000161 082  -----   -----                    
+0000161 090  PNQV    Whoever                  Z8 
+0000161 100  VM      shall                    T1.1.3 
+0000161 110  VVI     climb                    M1 N5+/A2.1 
+0000161 120  II      to                       Z5 
+0000161 130  AT      the                      Z5 
+0000162 010  NN1     top                      M6 N4 N5.1+ O2 B5 K6 N5.1- 
+0000162 020  IO      of                       Z5 
+0000162 030  DD1     that                     Z5 Z8 
+0000162 040  NN1     mountain                 W3 
+0000162 050  II      from                     Z5 
+0000162 060  DDQ     which                    Z8 Z5 
+0000162 070  PPY     you                      Z8mf 
+0000162 080  VV0     see                      X3.4 X2.1 S1.1.1 X2.5+ X2.3+ X3 A7+ Z4 S3.2 
+0000162 090  AT      the                      Z5 
+0000162 100  JJ      Golden                   O4.3 A11.1+ A5.1+ 
+0000162 110  NN1     River                    W3/M4 N5+ 
+0000162 120  NN1     issue                    X4.1 Q4.2 S4 A9- 
+0000162 121  ,       ,                        
+0000162 130  CC      and                      Z5 
+0000163 010  VM      shall                    T1.1.3 
+0000163 020  VVI     cast                     K4 A4.1 M2 G1.2 S9 A9- A1.1.1 
+0000163 030  II      into                     Z5 
+0000163 040  AT      the                      Z5 
+0000163 050  NN1     stream                   W3/M4 N5 S5+c P1c 
+0000163 060  II      at                       Z5 
+0000163 070  APPGE   its                      Z8 
+0000163 080  NN1     source                   T2+ Q1.1 X2.2 W3/M4 
+0000163 081  ,       ,                        
+0000163 090  MC      three                    N1 T1.2 T3 
+0000163 100  NN2     drops                    O1.2/N5 N5-/A2.1 N5- B3 N3.3 F1 
+0000163 110  IO      of                       Z5 
+0000163 120  JJ      holy                     S9 
+0000163 130  NN1     water                    O1.2 W3/M4 B1 C1% 
+0000163 131  ,       ,                        
+0000163 140  IF      for                      Z5 
+0000164 010  PPHO1   him                      Z8m 
+0000164 011  ,       ,                        
+0000164 020  CC      and                      Z5 
+0000164 030  IF      for                      Z5 
+0000164 040  PPHO1   him                      Z8m 
+0000164 050  RR      only                     A14 
+0000164 051  ,       ,                        
+0000164 060  AT      the                      Z5 
+0000164 070  NN1     river                    W3/M4 N5+ 
+0000164 080  VM      shall                    T1.1.3 
+0000164 090  VVI     turn                     M1[i59.2.1 S1.1.1[i59.2.1 T2+[i59.2.1 A2.1+[i59.2.1 M2 M1 O4.4 A1.1.1 A2.1+ O4.2- 
+0000164 100  II      to                       M1[i59.2.2 S1.1.1[i59.2.2 T2+[i59.2.2 A2.1+[i59.2.2 Z5 
+0000164 110  NN1     gold                     O1.1 O4.3 I1 
+0000164 111  .       .                        
+0000164 112  -----   -----                    
+0000164 120  CCB     But                      Z5 
+0000164 130  PN121   no                       Z8/Z6[i60.2.1 
+0000164 140  PN122   one                      Z8/Z6[i60.2.2 Z8 
+0000164 150  VVG     failing                  X9.2- A5.1-/A2.1 
+0000165 010  II      in                       Z5 
+0000165 020  APPGE   his                      Z8m 
+0000165 030  MD      first                    N4 
+0000165 031  ,       ,                        
+0000165 040  VM      can                      A7+ 
+0000165 050  VVI     succeed                  X9.2+ N4 
+0000165 060  II      in                       Z5 
+0000165 070  AT1     a                        Z5 
+0000165 080  MD      second                   N4 
+0000165 090  NN1     attempt                  X8+ 
+0000165 091  ;       ;                        
+0000165 100  CC      and                      Z5 
+0000165 110  CS      if                       Z7 
+0000165 120  DD      any                      N5.1+ N5 
+0000165 130  MC1     one                      N1 T3 T1.2 
+0000165 140  VM      shall                    T1.1.3 
+0000165 150  VVI     cast                     K4 A4.1 M2 G1.2 S9 A9- A1.1.1 
+0000166 010  JJ      unholy                   T1.2 S9 
+0000166 020  NN1     water                    O1.2 W3/M4 B1 C1% 
+0000166 030  II      into                     Z5 
+0000166 040  AT      the                      Z5 
+0000166 050  NN1     river                    W3/M4 N5+ 
+0000166 051  ,       ,                        
+0000166 060  PPH1    it                       Z8 
+0000166 070  VM      will                     T1.1.3 
+0000166 080  VVI     overwhelm                X9.2+/S7.3 X9.2+/G3 S7.1+ E1 
+0000166 090  PPHO1   him                      Z8m 
+0000166 091  ,       ,                        
+0000166 100  CC      and                      Z5 
+0000166 110  PPHS1   he                       Z8m 
+0000166 120  VM      will                     T1.1.3 
+0000166 130  VVI     become                   A2.1+ O4.2+ 
+0000166 140  AT1     a                        Z5 
+0000167 010  JJ      black                    O4.3 G2.2- A5.1- E4.1- S5+ 
+0000167 020  NN1     stone                    O1.1 O2 B2- N3.5 B5 
+0000168 010  UH      Oh                       Z4 
+0000169 010  UH      Oh                       Z4 
+0000169 011  ,       ,                        
+0000170 010  UH      dear                     E2+ I1.3+ E2+/S2mf 
+0000170 011  ,       ,                        
+0000170 020  UH      dear                     E2+ I1.3+ E2+/S2mf 
+0000170 021  ,       ,                        
+0000170 030  JJ      dear                     Z4[i61.2.1 E2+ I1.3+ 
+0000170 040  PPIO1   me                       Z4[i61.2.2 Z8mf 
+0000170 041  !       !                        
+0000170 042  -----   -----                    
+0000170 050  APPGE   My                       Z8 
+0000170 060  NN1     mug                      O2 B1 S1.2.6-/S2mf 
+0000170 061  !       !                        
+0000170 070  APPGE   my                       Z8 
+0000170 080  NN1     mug                      O2 B1 S1.2.6-/S2mf 
+0000170 081  !       !                        
+0000170 090  APPGE   my                       Z8 
+0000170 100  NN1     mug                      O2 B1 S1.2.6-/S2mf 
+0000171 010  JJ      Good                     Z4[i62.2.1 A5.1+ G2.2+ O4.2+ A1.5.2+ N3.2+ 
+0000171 020  NNT1    morning                  Z4[i62.2.2 T1.3 
+0000171 021  ,       ,                        
+0000171 030  NN1     brother                  S4m S2.2m S9/S2.2m 
+0000172 010  VH0     have                     A9+ Z5 A2.2 S4 
+0000172 020  PPY     you                      Z8mf 
+0000172 030  DD      any                      N5.1+ N5 
+0000172 040  NN1     message                  Q1.1 Q1.3/Y2 
+0000172 050  IF      for                      Z5 
+0000172 060  AT      the                      Z5 
+0000172 070  NN1     King                     S7.1+/S2.2m 
+0000173 010  IO      of                       Z5 
+0000173 020  AT      the                      Z5 
+0000173 030  JJ      Golden                   O4.3 A11.1+ A5.1+ 
+0000173 040  NN1     River                    W3/M4 N5+ 
+0000174 010  MC      Three                    N1 T1.2 T3 
+0000174 020  NN2     drops                    O1.2/N5 N5-/A2.1 N5- B3 N3.3 F1 
+0000174 030  VBR     are                      A3+ Z5 
+0000174 040  RR      enough                   N5+ N6+ 
+0000175 010  PPIS1   I                        Z8mf 
+0000175 020  VM      may                      A7+ 
+0000175 021  ,       ,                        
+0000175 030  RR21    at                       A13.7[i63.2.1 
+0000175 040  RR22    least                    A13.7[i63.2.2 A13.7 
+0000175 041  ,       ,                        
+0000175 050  VVI     cool                     O4.6-/A2.1 X5.2-/A2.1 
+0000175 060  APPGE   my                       Z8 
+0000175 070  NN2     lips                     B1 O2 
+0000175 080  IW      with                     Z5 
+0000175 090  PPH1    it                       Z8 
+0000176 010  NN1     Water                    O1.2 W3/M4 B1 C1% 
+0000177 010  NN1     Water                    O1.2 W3/M4 B1 C1% 
+0000177 011  !       !                        
+0000177 012  -----   -----                    
+0000177 020  PPIS1   I                        Z8mf 
+0000177 030  VBM     am                       Z5 A3+ 
+0000178 010  VVG     dying                    L1- T2- 
+0000179 010  PPIS1   I                        Z8mf 
+0000179 020  VH0     have                     A9+ Z5 A2.2 S4 
+0000179 030  PN      none                     Z6/Z8c 
+0000180 010  PPY     thou                     Z8mf 
+0000180 020  VH0     hast                     Z5 
+0000180 030  VHN@    had                      A9+ Z5 A2.2 S4 
+0000180 040  APPGE   thy                      Z8 
+0000180 050  NN1     share                    S1.1.2+ I1.1 
+0000180 060  IO      of                       Z5 
+0000180 070  NN1     life                     L1+ A3+ T1.3 S1.1.1 A1.1.1 X5.2+ Q4.1 A11.1+++ A5.4+/C1 
+0000181 010  NN1     Water                    O1.2 W3/M4 B1 C1% 
+0000181 020  RR      indeed                   A13.3 
+0000182 010  PPIS1   I                        Z8mf 
+0000182 020  VH0     have                     A9+ Z5 A2.2 S4 
+0000182 021  XX      n't                      A13.3[i64.2.1 Z6 
+0000182 030  DB      half                     A13.3[i64.2.2 N5 
+0000182 040  RR      enough                   N5+ N6+ 
+0000182 050  IF      for                      Z5 
+0000182 060  PPX1    myself                   Z8mf 
+0000183 010  NN1     Water                    O1.2 W3/M4 B1 C1% 
+0000183 011  ,       ,                        
+0000183 020  RR      indeed                   A13.3 
+0000184 010  PPIS1   I                        Z8mf 
+0000184 020  VH0     have                     A9+ Z5 A2.2 S4 
+0000184 021  XX      n't                      A13.3[i65.2.1 Z6 
+0000184 030  DB      half                     A13.3[i65.2.2 N5 
+0000184 040  RR      enough                   N5+ N6+ 
+0000184 050  IF      for                      Z5 
+0000185 010  PPX1    myself                   Z8mf 
+0000186 010  UH      Ha                       Z4 
+0000186 011  ,       ,                        
+0000186 020  UH      ha                       Z4 
+0000187 010  VBR     are                      A3+ Z5 
+0000187 020  PPY     you                      Z8mf 
+0000187 030  RL      there                    M6 T1.2 
+0000187 031  ?       ?                        
+0000187 040  VV0     remember                 X2.2+ 
+0000187 050  AT      the                      Z5 
+0000187 060  NN1     prison                   G2.1/H1 
+0000187 070  NN2     bars                     F2/H1c F2/H2 F2/H5 O2 O4.4 S8- G2.1c K2 
+0000187 071  ,       ,                        
+0000187 080  APPGE   my                       Z8 
+0000187 090  NN1     boy                      S2.2m L2m@ 
+0000187 091  .       .                        
+0000188 001  -----   -----                    
+0000188 010  NN1     Water                    O1.2 W3/M4 B1 C1% 
+0000188 011  ,       ,                        
+0000188 020  RR      indeed                   A13.3 
+0000188 021  !       !                        
+0000188 030  VD0     do                       Z5 A1.1.1 G2.2- X9.2+ E3- N5+ G2.1% 
+0000188 040  PPY     you                      Z8mf 
+0000188 050  VVI     suppose                  X2.1 X7+ 
+0000188 060  PPIS1   I                        Z8mf 
+0000188 070  VVD     carried                  M2 A9+ Q4 S7.4+ B1% B2-% 
+0000188 080  PPH1    it                       Z8 
+0000188 090  DB      all                      N5.1+[i66.3.1 N5.1+/M1[i66.3.1 N5.1+ 
+0000188 100  AT      the                      N5.1+[i66.3.2 N5.1+/M1[i66.3.2 Z5 
+0000188 110  NN1     way                      N5.1+[i66.3.3 N5.1+/M1[i66.3.3 X4.2 M6 M3/H3 N3.3 A4.1 A1.1.1 T1.3 
+0000188 120  RP      up                       M6[i67.2.1 
+0000188 130  RL      here                     M6[i67.2.2 M6 T1.1.2 T1.2 
+0000188 140  IF      for                      Z5 
+0000189 010  PPY     you                      Z8mf 
+0000190 010  AT      The                      Z5 
+0000190 020  JJ      little                   N3.2- T3- N3.7- N3.3- T1.3- A11.1- 
+0000191 010  NN1     king                     S7.1+/S2.2m 
+0000191 020  VVD     looked                   S1.2/A8[i68.2.1 A8 X3.4 X2.4 X7+ 
+0000191 030  RG      very                     A13.3 
+0000191 040  JJ@     kind                     S1.2/A8[i68.2.2 S1.2/S8+ S1.2.2- 
+0000192 010  PPIS1   I                        Z8mf 
+0000192 020  VD0     do                       Z5 A1.1.1 G2.2- X9.2+ E3- N5+ G2.1% 
+0000192 021  XX      n't                      Z6 
+0000192 030  VVI     think                    X2.1 
+0000192 040  PPHS1   he                       Z8m 
+0000192 050  VM      will                     T1.1.3 
+0000192 060  VVI     turn                     A2.1+[i69.2.1 M2 M1 O4.4 A1.1.1 A2.1+ O4.2- 
+0000192 070  PPIO1   me                       Z8mf 
+0000192 080  II      into                     A2.1+[i69.2.2 Z5 
+0000193 010  AT1     a                        Z5 
+0000193 020  JJ      black                    O4.3 G2.2- A5.1- E4.1- S5+ 
+0000193 030  NN1     stone                    O1.1 O2 B2- N3.5 B5 
+0000194 010  APPGE   My                       Z8 
+0000194 020  NN1     son                      S4m 
+0000195 010  PPIS1   I                        Z8mf 
+0000195 020  VBM     am                       A3+ Z5 
+0000195 030  JJ      faint                    A11.2- X5.2- B2- N3.2- 
+0000195 040  IW      with                     Z5 
+0000195 050  NN1     thirst                   B1/F2 X7+ 
+0000195 051  ,       ,                        
+0000195 060  VV0     give                     A9- A1.1.1 
+0000195 070  PPIO1   me                       Z8mf 
+0000195 080  DD      some                     N5 Z5 
+0000195 090  IO      of                       Z5 
+0000195 100  DD1     that                     Z5 Z8 
+0000195 110  NN1     water                    O1.2 W3/M4 B1 C1% 
+0000196 010  RR      Only                     A14 
+0000196 020  RR%     pray                     S9/Q2.2 
+0000196 030  VD0     do                       Z5 A1.1.1 G2.2- X9.2+ E3- N5+ G2.1% 
+0000196 031  XX      n't                      Z6 
+0000196 040  VVI     drink                    F2/B1 
+0000196 050  PPH1    it                       Z8 
+0000196 060  DB      all                      N5.1+ 
+0000197 010  CST     that                     Z8 Z5 
+0000197 020  PN121   no                       Z8/Z6[i70.2.1 
+0000197 030  PN122   one                      Z8/Z6[i70.2.2 Z8 
+0000197 040  VM      could                    A7+ 
+0000197 050  VVI     succeed                  X9.2+ N4 
+0000197 051  ,       ,                        
+0000197 060  CS      except                   Z5 
+0000197 070  II      in                       Z5 
+0000197 080  APPGE   his                      Z8m 
+0000197 090  MD      first                    N4 
+0000197 100  NN1     attempt                  X8+ 
+0000198 010  JJ      Poor                     I1.1- A5.1- N5- E4.1- X9.1- 
+0000198 020  NN1     beastie                  Z99 
+0000199 010  PPH1    it                       Z8 
+0000199 011  VM      'll                      T1.1.3 
+0000199 020  VBI     be                       A3+ Z5 
+0000199 030  JJ      dead                     L1- X5.2- A4.2+ A1.1.2 A1.1.1- E3+ B2- 
+0000199 040  CS      when                     Z5 
+0000199 050  PPIS1   I                        Z8mf 
+0000199 060  VV0     come                     N5-/A2.1[i71.2.1 N5-/I1.3[i71.2.1 M1[i71.2.1 M1 N3.1 A2.2 A3+ X2.1 A9+ S4 N4 S3.2 
+0000199 070  RP      down                     N5-/A2.1[i71.2.2 N5-/I1.3[i71.2.2 M1[i71.2.2 
+0000199 080  RT      again                    N6+ Z4 
+0000199 081  ,       ,                        
+0000199 090  CS      if                       Z7 
+0000199 100  PPIS1   I                        Z8mf 
+0000200 010  VD0     do                       Z5 A1.1.1 G2.2- X9.2+ E3- N5+ G2.1% 
+0000200 011  XX      n't                      Z6 
+0000200 020  VVI     help                     S8+ 
+0000200 030  PPH1    it                       Z8 
+0000201 010  VV0     Confound                 X2.5- 
+0000201 020  AT      the                      Z5 
+0000202 010  NN1     King                     S7.1+/S2.2m 
+0000202 020  CC      and                      Z5 
+0000202 030  APPGE   his                      Z8m 
+0000202 040  NN1     gold                     O1.1 O4.3 I1 
+0000202 050  RR@     too                      N5++ 
+0000203 010  VV0     Thank                    Z4[i72.2.1 S1.2.4+[i72.2.1 S1.2.4+ 
+0000203 020  PPY     you                      Z4[i72.2.2 S1.2.4+[i72.2.2 Z8mf 
+0000204 010  CCB     but                      Z5 
+0000204 020  VD0     do                       A1.1.1 G2.2- X9.2+ E3- N5+ G2.1% Z5 
+0000204 021  XX      n't                      Z6 
+0000204 030  VBI     be                       A3+ Z5 
+0000204 040  JJ      frightened               E5- 
+0000204 041  ,       ,                        
+0000204 050  PPH1    it                       Z8 
+0000204 051  VBZ     's                       A3+ Z5 
+0000204 060  RR21    all                      Z4[i73.2.1 A5.1+[i73.2.1 A13.2 
+0000205 010  RR22    right                    Z4[i73.2.2 A5.1+[i73.2.2 Z4 A5.3+ A4.2+ M6 A13.3 A13.2 
+0000206 010  RRQ     Why                      A2.2 
+0000206 020  VDD     did                      Z5 A1.1.1 G2.2- X9.2+ E3- G2.1% 
+0000206 021  XX      n't                      Z6 
+0000206 030  PPY     you                      Z8mf 
+0000206 040  VVI     come                     M1 N3.1 A2.2 A3+ X2.1 A9+ S4 N4 S3.2 
+0000207 010  CS      before                   Z5 
+0000208 010  II21    instead                  A6.1-[i74.2.1 
+0000208 020  II22    of                       A6.1-[i74.2.2 
+0000208 030  VVG     sending                  M2 A2.2 
+0000208 040  PPIO1   me                       Z8mf 
+0000208 050  DD2     those                    Z5 Z8 
+0000208 060  RR      rascally                 G2.2-/S2mf 
+0000209 010  NN2     brothers                 S4m S2.2m S9/S2.2m 
+0000209 020  IO      of                       Z5 
+0000209 030  PPGE    yours                    Z8 
+0000209 031  ,       ,                        
+0000209 040  IF      for                      Z5 
+0000209 050  PPIO1   me                       Z8mf 
+0000209 060  TO      to                       Z5 
+0000209 070  VHI     have                     A9+ Z5 A2.2 S4 
+0000209 080  AT      the                      Z5 
+0000209 090  NN1     trouble                  E6- A12- B2- E3- X8+ O4.2- 
+0000209 100  IO      of                       Z5 
+0000209 110  VVG     turning                  A2.1+[i75.2.1 M2 M1 O4.4 A1.1.1 A2.1+ O4.2- 
+0000209 120  II      into                     A2.1+[i75.2.2 Z5 
+0000209 130  NN2     stones                   O1.1 O2 B2- N3.5 B5 
+0000209 131  ?       ?                        
+0000210 001  -----   -----                    
+0000210 010  RG      Very                     A13.3 
+0000210 020  JJ      hard                     O4.5 A12- S1.2.5+ O4.1 
+0000210 030  NN2     stones                   O1.1 O2 B2- N3.5 B5 
+0000210 040  PPHS2   they                     Z8mfn 
+0000210 050  VV0     make                     A1.1.1 A9+ A2.2 S6+ A3+ A9- X9.2+ X6+ 
+0000210 060  RR@     too                      N5++ 
+0000211 010  UH      Oh                       Z4[i76.2.1 Z4 
+0000211 020  JJ      dear                     Z4[i76.2.2 E2+ I1.3+ Z4[i77.2.1 
+0000211 030  PPIO1   me                       Z8mf Z4[i77.2.2 
+0000212 010  VH0     have                     Z5 A9+ A2.2 S4 
+0000212 020  PPY     you                      Z8mf 
+0000212 030  RR      really                   A13.3 A5.2+ 
+0000212 040  VBN     been                     A3+ Z5 
+0000212 050  RG      so                       A13.3 
+0000212 060  JJ      cruel                    E3- 
+0000213 010  JJ      Cruel                    E3- 
+0000214 010  PPHS2   they                     Z8mfn 
+0000214 020  VVD     poured                   A1.1.1/O1.2 W4 M1/N5+ 
+0000214 030  JJ      unholy                   T1.2 S9 
+0000214 040  NN1     water                    O1.2 W3/M4 B1 C1% 
+0000214 050  II      into                     Z5 
+0000214 060  APPGE   my                       Z8 
+0000214 070  NN1     stream                   W3/M4 N5 S5+c P1c 
+0000214 071  :       :                        
+0000214 080  VD0     do                       Z5 A1.1.1 G2.2- X9.2+ E3- N5+ G2.1% 
+0000215 010  PPY     you                      Z8mf 
+0000215 020  VVI     suppose                  X2.1 X7+ 
+0000215 030  PPIS1   I                        Z8mf 
+0000215 031  VBM     'm                       Z5 A3+ 
+0000215 040  VVGK    going                    T1.1.3[i78.2.1 
+0000215 050  TO      to                       T1.1.3[i78.2.2 Z5 
+0000215 060  VVI     allow                    S7.4+ S8+ X2.1 
+0000215 070  CST     that                     Z5 Z8 
+0000216 010  RRQ     Why                      A2.2 
+0000217 010  PPIS1   I                        Z8mf 
+0000217 020  VBM     am                       A3+ Z5 
+0000217 030  JJ      sure                     A7+ Z4 
+0000217 031  ,       ,                        
+0000217 040  NN1     sir                      S7.1+/S2.2m 
+0000217 050  NN1     --                       Z99 
+0000217 060  APPGE   your                     Z8 
+0000217 070  NN1     majesty                  O4.2+ S7.1+ 
+0000217 071  ,       ,                        
+0000217 080  PPIS1   I                        Z4[i79.2.1 Z8mf 
+0000217 090  VV0     mean                     Z4[i79.2.2 Q1.1 X7+ 
+0000217 100  NN1     --                       Z99 
+0000217 110  PPHS2   they                     Z8mfn 
+0000217 120  VVD     got                      A9+ Z5 X9.2+ A2.1+ A2.2 M1 M2 X2.5+ E4.1- 
+0000217 130  AT      the                      Z5 
+0000218 010  NN1     water                    O1.2 W3/M4 B1 C1% 
+0000218 020  II21    out                      Z5[i80.2.1 Z5 Z5[i81.2.1 A9-[i81.2.1 
+0000218 030  II22    of                       Z5[i80.2.2 Z5[i81.2.2 A9-[i81.2.2 
+0000218 040  AT      the                      Z5 
+0000218 050  NN1     church                   S9/H1c S9c 
+0000218 060  NN1     font                     Q1.2 S9/H5 
+0000219 010  RG      Very                     A13.3 
+0000219 020  RR      probably                 A7+ 
+0000220 010  CCB     but                      Z5 
+0000221 010  AT      the                      Z5 
+0000221 020  NN1     water                    O1.2 W3/M4 B1 C1% 
+0000221 030  DDQ     which                    Z8 Z5 
+0000221 040  VHZ     has                      Z5 A9+ A2.2 S4 
+0000221 050  VBN     been                     Z5 A3+ 
+0000221 060  VVN     refused                  Q2.2/Z6 S7.4- X7- 
+0000221 070  II      to                       Z5 
+0000221 080  AT      the                      Z5 
+0000221 090  NN1     cry                      E4.1- Q2.2 
+0000221 100  IO      of                       Z5 
+0000221 110  AT      the                      Z5 
+0000222 010  JJ      weary                    B2- X5.2- 
+0000222 020  CC      and                      Z5 
+0000222 030  JJ      dying                    L1- T2- 
+0000222 031  ,       ,                        
+0000222 040  VBZ     is                       A3+ Z5 
+0000222 050  JJ      unholy                   T1.2 S9 
+0000222 051  ,       ,                        
+0000222 060  CS      though                   Z5 
+0000222 070  PPH1    it                       Z8 
+0000222 080  VHD     had                      Z5 A9+ A2.2 S4 
+0000222 090  VBN     been                     Z5 A3+ 
+0000222 100  VVN     blessed                  S9 A9- 
+0000222 110  II      by                       Z5 
+0000222 120  AT1     every                    N5.1+ 
+0000222 130  NN1     saint                    S9/S2mf G2.2+/S2mf 
+0000222 140  II      in                       Z5 
+0000223 010  NN1     heaven                   S9 E2+ W1 
+0000223 011  ;       ;                        
+0000223 020  CC      and                      Z5 
+0000223 030  AT      the                      Z5 
+0000223 040  NN1     water                    O1.2 W3/M4 B1 C1% 
+0000223 050  DDQ     which                    Z8 Z5 
+0000223 060  VBZ     is                       Z5 A3+ 
+0000223 070  VVN     found                    A10+ X2.1 X6+.1 
+0000223 080  II      in                       Z5 
+0000223 090  AT      the                      Z5 
+0000223 100  NN1     vessel                   M4fn O2 B1 
+0000223 110  IO      of                       Z5 
+0000223 120  NN1     mercy                    G2.2+ S8+ 
+0000223 130  VBZ     is                       A3+ Z5 
+0000223 140  JJ      holy                     S9 
+0000223 141  ,       ,                        
+0000224 010  CS      though                   Z5 
+0000224 020  PPH1    it                       Z8 
+0000224 030  VHD     had                      Z5 A9+ A2.2 S4 
+0000224 040  VBN     been                     Z5 A3+ 
+0000224 050  VVN@    defiled                  G2.2- A1.1.2 
+0000224 060  IW      with                     Z5 
+0000224 070  NN2     corpses                  L1-/S2mf L1- 
+0000225 010  VV0     Cast                     K4 A4.1 M2 G1.2 S9 A9- A1.1.1 
+0000225 020  DD2     these                    Z8 Z5 
+0000225 030  II      into                     Z5 
+0000226 010  AT      the                      Z5 
+0000226 020  NN1     river                    W3/M4 N5+ 
+0000227 010  CC      and                      Z5 
+0000227 020  VV0     descend                  M1 S4 N5-/A2.1 
+0000227 030  II      on                       A6.1-[i82.4.1 Z5 
+0000227 040  AT      the                      A6.1-[i82.4.2 Z5 
+0000227 050  JJ      other                    A6.1-[i82.4.3 A6.1- 
+0000227 060  NN1     side                     A6.1-[i82.4.4 A4.1 M6 N5.1- S7.3+/S5+c B1 S5+c S4c F1 S1.2 
+0000227 070  IO      of                       Z5 
+0000227 080  AT      the                      Z5 
+0000227 090  NN2     mountains                W3 
+0000228 010  II      into                     Z5 
+0000228 020  AT      the                      Z5 
+0000228 030  NN1     Treasure                 I1.1+++ O2/C1/I1.3+++ A11.1+++ A5.1+++/S2mf 
+0000228 040  NN1     Valley                   W3 
+0000228 041  .       .                        
+0000228 042  -----   -----                    
+0000228 050  CC      And                      Z5 
+0000228 060  RG      so                       A13.3 
+0000228 070  JJ      good                     A5.1+ G2.2+ O4.2+ A1.5.2+ N3.2+ 
+0000228 080  NN1     speed                    N3.8+ F3% 
+0000229 001  NULL    **8;7;text               

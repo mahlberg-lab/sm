@@ -1,0 +1,204 @@
+0000001 001  NULL    **6;0;START              
+0000001 002  -----   -----                    
+0000002 010  CC      and                      Z5 
+0000002 020  APPGE   his                      Z8m 
+0000002 030  JJ      young                    T3- 
+0000002 040  NN2     ladies                   S2.1f S7.1+/S2.1f B4/H1 
+0000003 010  VVD     said                     Q2.1 
+0000003 020  NP1     Grimes                   B4- O1.1 
+0000004 010  VVD     said                     Q2.1 
+0000004 020  NP1     Tom                      Z1m 
+0000005 010  VVD     thought                  X2.1 
+0000005 020  NP1     Tom                      Z1m 
+0000006 010  VVD     thought                  X2.1 
+0000006 020  NP1     Tom                      Z1m 
+0000007 010  VVD     thought                  X2.1 
+0000007 020  NP1     Tom                      Z1m 
+0000008 010  PPHS1   he                       Z8m 
+0000008 020  VVD     thought                  X2.1 
+0000009 010  VVD     said                     Q2.1 
+0000009 020  NP1     Tom                      Z1m 
+0000010 010  VVZ     says                     Q2.1 
+0000010 020  PPHS1   she                      Z8f 
+0000011 010  CC      and                      Z5 
+0000012 010  VVD     said                     Q2.1 
+0000012 020  NP1     Tom                      Z1m 
+0000013 010  PPH1    it                       Z8 
+0000013 020  VVD     said                     Q2.1 
+0000014 010  VVD     cried                    E4.1- Q2.2 
+0000014 020  NP1     Tom                      Z1m 
+0000015 010  VVD     said                     Q2.1 
+0000015 020  AT      the                      Z5 
+0000015 030  NN1     dragon-fly               O2 B3 L3 A1.1.1 C1 L2mfn Z3c F1/O2 A9- M2@ B3/I3.2/S2mf P1/S2mf A2.1+/G2.1- L2 I2.2/S2mf I2.2 
+0000016 010  VVD     said                     Q2.1 
+0000016 020  PPHS1   he                       Z8m 
+0000017 010  VVD     said                     Q2.1 
+0000017 020  NP1     Tom                      Z1m 
+0000018 010  VVD     said                     Q2.1 
+0000018 020  NP1     Tom                      Z1m 
+0000019 010  VVD     cried                    E4.1- Q2.2 
+0000019 020  AT      the                      Z3fnc[i1.2.1 Z5 
+0000019 030  NN1     lady                     Z3fnc[i1.2.2 S2.1f S7.1+/S2.1f 
+0000020 010  VVD     said                     Q2.1 
+0000020 020  AT      the                      Z5 
+0000020 030  NN1     gentleman                S2.2m 
+0000021 010  PPHS1   he                       Z8m 
+0000021 020  VVD     thought                  X2.1 
+0000022 010  PPHS1   he                       Z8m 
+0000022 020  VVD     thought                  X2.1 
+0000023 010  VVD     said                     Q2.1 
+0000023 020  NP1     Tom                      Z1m 
+0000024 010  VVD     said                     Q2.1 
+0000024 020  AT      the                      Z5 
+0000024 030  NN1     lobster                  L2 F1 
+0000025 010  VVD     said                     Q2.1 
+0000025 020  PPHS1   she                      Z8f 
+0000026 010  VVD     said                     Q2.1 
+0000026 020  NP1     Tom                      Z1m 
+0000027 010  VVD     cried                    E4.1- Q2.2 
+0000027 020  NP1     Tom                      Z1m 
+0000028 010  VVD     said                     Q2.1 
+0000028 020  AT      the                      Z5 
+0000028 030  NN1     baby                     T3--/S2mf E2+mfn 
+0000029 010  VVD     thought                  X2.1 
+0000029 020  NP1     Tom                      Z1m 
+0000030 010  VVD     said                     Q2.1 
+0000030 020  NP1     Tom                      Z1m 
+0000031 010  PPHS1   she                      Z8f 
+0000031 020  VVD     went                     T2++[i2.2.1 M1[i2.2.1 Q2.1/N5+[i2.2.1 A1.1.1[i2.2.1 M1 A2.1+ A1.1.1 A9- A1.8+ Q2.1 N6+ I2.2 A1.1.2 T2- S3.2 A6.3+ B2-/X1% B1% 
+0000031 030  RP@     on                       T2++[i2.2.2 M1[i2.2.2 Q2.1/N5+[i2.2.2 A1.1.1[i2.2.2 M6 A1.1.1 
+0000032 010  VVD     said                     Q2.1 
+0000032 020  DB      all                      N5.1+ 
+0000032 030  AT      the                      Z5 
+0000032 040  NN2     children                 S2mf/T3- S4mf 
+0000033 010  VVD     said                     Q2.1 
+0000033 020  AT      the                      Z5 
+0000033 030  NN1     fairy                    S9/S2mf S3.2/S2.2m 
+0000034 010  VVD     said                     Q2.1 
+0000034 020  AT      the                      Z5 
+0000034 030  JJ      little                   N3.2- T3- N3.7- N3.3- T1.3- A11.1- 
+0000034 040  NN1     girl                     S2.1f L2f@ 
+0000035 010  PPHS1   he                       Z8m 
+0000035 020  VVD     said                     Q2.1 
+0000035 030  RR21    at                       N4[i3.2.1 
+0000035 040  RR22    last                     N4[i3.2.2 
+0000036 010  VVD     said                     Q2.1 
+0000036 020  AT      the                      Z5 
+0000036 030  NN1     fairy                    S9/S2mf S3.2/S2.2m 
+0000037 010  PPHS1   he                       Z8m 
+0000037 020  VVD     said                     Q2.1 
+0000037 021  ,       ,                        
+0000037 030  RR21    at                       N4[i4.2.1 
+0000037 040  RR22    last                     N4[i4.2.2 
+0000038 010  VVD     said                     Q2.1 
+0000038 020  NP1     Ellie                    Z1f 
+0000039 010  VVD     said                     Q2.1 
+0000039 020  JJ      naughty                  G2.2- S1.2.4- 
+0000039 030  NP1     Tom                      Z1m 
+0000040 010  VVD     said                     Q2.1 
+0000040 020  AT      the                      Z5 
+0000040 030  NN1     fairy                    S9/S2mf S3.2/S2.2m 
+0000041 010  PPHS1   he                       Z8m 
+0000041 020  VVD     said                     Q2.1 
+0000042 010  VVD     said                     Q2.1 
+0000042 020  AT      the                      Z5 
+0000042 030  NN1     fairy                    S9/S2mf S3.2/S2.2m 
+0000043 010  VVD     said                     Q2.1 
+0000043 020  AT      the                      Z5 
+0000043 030  NN1     fairy                    S9/S2mf S3.2/S2.2m 
+0000044 010  VVD     said                     Q2.1 
+0000044 020  NP1     Tom                      Z1m 
+0000045 010  VVD     said                     Q2.1 
+0000045 020  NP1     Ellie                    Z1f 
+0000046 010  VVD     said                     Q2.1 
+0000046 020  AT      the                      Z5 
+0000046 030  NN1     fairy                    S9/S2mf S3.2/S2.2m 
+0000047 010  VVD     said                     Q2.1 
+0000048 010  NP1     Tom                      Z1m 
+0000049 010  VVD     said                     Q2.1 
+0000049 020  AT      the                      Z5 
+0000049 030  NN1     fairy                    S9/S2mf S3.2/S2.2m 
+0000050 010  VVD     said                     Q2.1 
+0000050 020  NP1     Ellie                    Z1f 
+0000051 010  VVD     cried                    E4.1- Q2.2 
+0000051 020  NP1     Tom                      Z1m 
+0000052 010  VVD     said                     Q2.1 
+0000052 020  NP1     Tom                      Z1m 
+0000053 010  VVD     said                     Q2.1 
+0000053 020  NP1     Tom                      Z1m 
+0000054 010  VVD     said                     Q2.1 
+0000054 020  AT      the                      Z5 
+0000054 030  NN1     fairy                    S9/S2mf S3.2/S2.2m 
+0000055 010  VVD     said                     Q2.1 
+0000055 020  NP1     Tom                      Z1m 
+0000056 010  VVD     said                     Q2.1 
+0000056 020  NP1     Ellie                    Z1f 
+0000057 010  VVD     said                     Q2.1 
+0000057 020  NP1     Tom                      Z1m 
+0000058 010  VVD     said                     Q2.1 
+0000058 020  NNB     Mother                   Z1f[i5.2.1 
+0000058 030  NP1     Carey                    Z1f[i5.2.2 Z1mf 
+0000058 031  GE      's                       Z5 
+0000059 010  NN2     chickens                 L2mfn F1 E5-/S2mf 
+0000060 010  VVD     said                     Q2.1 
+0000060 020  AT      the                      Z5 
+0000060 030  NN2     petrels                  L2mfn S2.1f 
+0000061 010  VVD     said                     Q2.1 
+0000061 020  NP1     Tom                      Z1m 
+0000062 010  VVD     said                     Q2.1 
+0000062 020  AT      the                      Z5 
+0000062 030  NN2     mollys                   Z1f 
+0000063 010  VVD     said                     Q2.1 
+0000063 020  AT      the                      Z5 
+0000063 030  NN1     whale                    L2mfn 
+0000064 010  VVD     said                     Q2.1 
+0000064 020  NP1     Tom                      Z1m 
+0000065 010  PPHS1   she                      Z8f 
+0000065 020  VVD     said                     Q2.1 
+0000066 010  VVD     said                     Q2.1 
+0000066 020  NNB     Mother                   Z1f[i6.2.1 
+0000066 030  NP1     Carey                    Z1f[i6.2.2 Z1mf 
+0000067 010  PPH1    it                       Z8 
+0000067 020  VVD     cried                    E4.1- Q2.2 
+0000067 030  RG      quite                    A13.5 A13.6 A13.2 
+0000067 040  RR      peevishly                Z99 
+0000068 010  VVD     said                     Q2.1 
+0000068 020  NP1     Tom                      Z1m 
+0000069 010  VVD     said                     Q2.1 
+0000069 020  NP1     Tom                      Z1m 
+0000070 010  VVD     thought                  X2.1 
+0000070 020  NP1     Tom                      Z1m 
+0000071 010  VVD     said                     Q2.1 
+0000071 020  AT      the                      Z5 
+0000071 030  NN1     stick                    O2 B5 Q2.2 
+0000072 010  VVD     said                     Q2.1 
+0000072 020  NP1     Tom                      Z1m 
+0000073 010  VVD     said                     Q2.1 
+0000073 020  AT      the                      Z5 
+0000073 030  JJ      little                   N3.2- T3- N3.7- N3.3- T1.3- A11.1- 
+0000073 040  NN1     boy                      S2.2m L2m@ 
+0000074 010  VVD     said                     Q2.1 
+0000074 020  AT      the                      Z5 
+0000074 030  NN1     truncheon                O2/G2.1 
+0000075 010  PPHS1   he                       Z8m 
+0000075 020  VVD     said                     Q2.1 
+0000076 010  VVD     interposed               Q2.2 
+0000076 020  AT      the                      Z5 
+0000076 030  NN1     truncheon                O2/G2.1 
+0000077 010  VVD     said                     Q2.1 
+0000077 020  NP1     Grimes                   B4- O1.1 
+0000078 010  PPHS1   he                       Z8m 
+0000078 020  VVD     said                     Q2.1 
+0000079 010  VVD     said                     Q2.1 
+0000079 020  NP1     Grimes                   B4- O1.1 
+0000080 010  VVD     said                     Q2.1 
+0000080 020  NP1     Grimes                   B4- O1.1 
+0000081 010  VVD     said                     Q2.1 
+0000081 020  NP1     Tom                      Z1m 
+0000082 010  PPHS1   she                      Z8f 
+0000082 020  VVD     said                     Q2.1 
+0000083 010  VVD     said                     Q2.1 
+0000083 020  PPHS1   he                       Z8m 
+0000084 010  VVD     said                     Q2.1 
+0000084 020  PPHS1   she                      Z8f 
+0000085 001  NULL    **8;7;text               

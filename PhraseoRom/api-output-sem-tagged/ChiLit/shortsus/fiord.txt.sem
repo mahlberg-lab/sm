@@ -1,0 +1,115 @@
+0000001 001  NULL    **6;0;START              
+0000001 002  -----   -----                    
+0000002 010  NN1     thought                  X4.1 
+0000002 020  NN1     Oddo                     Z99 
+0000003 010  VVD     added                    N5+/A2.1 N2 A1.8+ 
+0000003 020  NP1     Erlingsen                Z99 
+0000004 010  VVD     said                     Q2.1 
+0000004 020  NP1     Oddo                     Z99 
+0000005 010  VVD     said                     Q2.1 
+0000005 020  NP1     Erica                    A5.2+ A5.4+ W3/L3 Z1mf Z3c 
+0000006 010  PPHS1   she                      Z8f 
+0000006 020  VVD     cried                    E4.1- Q2.2 
+0000007 010  JJ@     declared                 Q2.2/A5.2 Q2.2 Q2.1 A4.2+ Q1.1 B1% 
+0000007 020  NN1     Frolich                  Z99 
+0000008 010  VVD     said                     Q2.1 
+0000008 020  PPHS1   he                       Z8m 
+0000009 010  VVD     repeated                 N6+ Q2.1/N6+ F1/B1@ 
+0000009 020  NP1     Orga                     Z99 
+0000010 010  VVD     said                     Q2.1 
+0000010 020  APPGE   her                      Z8f 
+0000010 030  NN1     mistress                 S7.1+/S2.1f S3.2/S2.1f P1/S2.1f 
+0000011 010  VVD     said                     Q2.1 
+0000011 020  NP1     Peder                    Z99 
+0000012 010  VVD     said                     Q2.1 
+0000012 020  PN1     one                      Z8 
+0000012 030  II      behind                   Z5 
+0000013 010  JJ      continued                T2++ 
+0000013 020  NN1@    Erica                    A5.2+ A5.4+ W3/L3 Z1mf Z3c 
+0000014 010  PPHS1   he                       Z8m 
+0000014 020  VVD     said                     Q2.1 
+0000015 010  VVD     replied                  Q2.2 Q1.1 
+0000015 020  NP1     Erica                    A5.2+ A5.4+ W3/L3 Z1mf Z3c 
+0000016 010  VVD     said                     Q2.1 
+0000016 020  NP1     Rolf                     Z1m 
+0000017 010  VVD     said                     Q2.1 
+0000017 020  NP1     Rolf                     Z1m 
+0000017 021  ,       ,                        
+0000017 030  VVG     smiling                  E4.1+ 
+0000018 010  VVD     pleaded                  Q2.2 G2.1/Q2.2 
+0000018 020  NP1     Erica                    A5.2+ A5.4+ W3/L3 Z1mf Z3c 
+0000019 010  VVD     thought                  X2.1 
+0000019 020  NP1     Rolf                     Z1m 
+0000020 010  VVD     declared                 Q2.2 K5.1% 
+0000020 020  NP1     Hund                     Z99 
+0000021 010  VVD     said                     Q2.1 
+0000021 020  NP1     Oddo                     Z99 
+0000022 010  VVD     proceeded                A1.1.1 T2++ M1 
+0000022 020  NP1     Erica                    A5.2+ A5.4+ W3/L3 Z1mf Z3c 
+0000023 010  VVD     whispered                Q2.1/X3.2- 
+0000023 020  NP1     Hund                     Z99 
+0000024 010  VVD     sighed                   Q2.2/X3.2 
+0000024 020  NP1     Erica                    A5.2+ A5.4+ W3/L3 Z1mf Z3c 
+0000025 010  VVD     said                     Q2.1 
+0000025 020  NP1     Frolich                  Z99 
+0000026 010  VVD     said                     Q2.1 
+0000026 020  NP1     Erica                    A5.2+ A5.4+ W3/L3 Z1mf Z3c 
+0000027 010  VVD     said                     Q2.1 
+0000027 020  PPHS1   he                       Z8m 
+0000028 010  VVD     said                     Q2.1 
+0000028 020  PPHS1   he                       Z8m 
+0000029 010  VVD     said                     Q2.1 
+0000029 020  NP1     Oddo                     Z99 
+0000030 010  VVD     thought                  X2.1 
+0000030 020  NP1     Oddo                     Z99 
+0000031 010  VVD     said                     Q2.1 
+0000031 020  AT      the                      Z5 
+0000031 030  NN1@    other                    A6.1-/Z8 
+0000032 010  VVD     said                     Q2.1 
+0000032 020  NP1     Rolf                     Z1m 
+0000033 010  VVD     said                     Q2.1 
+0000033 020  PPHS1   he                       Z8m 
+0000034 010  VVD     said                     Q2.1 
+0000034 020  NP1     Oddo                     Z99 
+0000035 010  VVD     said                     Q2.1 
+0000035 020  PPHS1   he                       Z8m 
+0000036 010  VVD     interrupted              Q2.2 X7- T2- 
+0000036 020  AT      the                      Z5 
+0000037 010  NN1     pirate                   G2.1-/S2mf 
+0000038 010  VVD     said                     Q2.1 
+0000038 020  NP1     Hund                     Z99 
+0000038 021  ,       ,                        
+0000038 030  VVG     trembling                M1 E5- 
+0000039 010  NN1     thought                  X4.1 
+0000039 020  NP1     Rolf                     Z1m 
+0000040 010  VVD     observed                 X3.4 Q2.1/X2.4 X2.1 G2.1+ 
+0000040 020  NP1     Rolf                     Z1m 
+0000041 010  PPHS1   she                      Z8f 
+0000041 020  VVD     said                     Q2.1 
+0000041 021  ,       ,                        
+0000041 030  VVG     yawning                  B1 
+0000042 010  PPHS1   she                      Z8f 
+0000042 020  VVD     murmured                 Q2.2/X3.2- X3.2- 
+0000043 010  VVD     cried                    E4.1- Q2.2 
+0000043 020  NP1     Erica                    A5.2+ A5.4+ W3/L3 Z1mf Z3c 
+0000044 010  VVD     said                     Q2.1 
+0000044 020  NP1     Erica                    A5.2+ A5.4+ W3/L3 Z1mf Z3c 
+0000044 021  ,       ,                        
+0000044 030  VVG     laughing                 E4.1+/X3.2 
+0000045 010  VVD     whimpered                Q2.2 X3.2 E4.1- 
+0000045 020  NP1     Stiorna                  Z99 
+0000046 010  VVD     repeated                 N6+ Q2.1/N6+ F1/B1@ 
+0000046 020  NP1     Hund                     Z99 
+0000046 030  II      to                       Z5 
+0000046 040  PPX1    himself                  Z8m 
+0000047 010  VVD     said                     Q2.1 
+0000047 020  AT      the                      Z5 
+0000047 030  NN1     bishop                   S9/S7.1+/S2mf 
+0000048 010  VVD     continued                T2++ 
+0000048 020  PPHS1   he                       Z8m 
+0000049 010  VVD     continued                T2++ 
+0000049 020  NP1     Erica                    A5.2+ A5.4+ W3/L3 Z1mf Z3c 
+0000050 010  VVD     said                     Q2.1 
+0000050 020  APPGE   his                      Z8m 
+0000050 030  NN1     mistress                 S7.1+/S2.1f S3.2/S2.1f P1/S2.1f 
+0000051 001  NULL    **8;7;text               

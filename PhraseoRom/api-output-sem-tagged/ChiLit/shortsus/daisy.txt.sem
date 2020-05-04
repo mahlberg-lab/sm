@@ -1,0 +1,1912 @@
+0000001 001  NULL    **6;0;START              
+0000001 002  -----   -----                    
+0000002 010  IW      with                     Z5 
+0000002 020  AT1     an                       Z5 
+0000002 030  JJ      impatient                X5.2+/S1.2 E3-/S1.2 
+0000002 040  NN1     twist                    O4.4 M2 A2.1+ K1 
+0000003 010  VVD     said                     Q2.1 
+0000003 020  RR      both                     Z5 
+0000003 030  RR21    at                       N3.8+[i1.2.1 T1.1.2[i1.2.1 
+0000003 040  RR22    once                     N3.8+[i1.2.2 T1.1.2[i1.2.2 N6- T1.1.1 
+0000004 010  VVD     said                     Q2.1 
+0000004 020  NP1     Flora                    Z3 
+0000005 010  VVD     said                     Q2.1 
+0000005 020  NP1     Ethel                    Z99 
+0000006 010  VVD     said                     Q2.1 
+0000006 020  NP1     Ethel                    Z99 
+0000007 010  VVD     said                     Q2.1 
+0000007 020  NP1     Flora                    Z3 
+0000008 010  VVD     said                     Q2.1 
+0000008 020  NP1     Margaret                 Z1f 
+0000009 010  VVD     said                     Q2.1 
+0000009 020  NP1     Flora                    Z3 
+0000010 010  VVD     said                     Q2.1 
+0000010 020  NP1     Ethel                    Z99 
+0000011 010  VVD     answered                 Q2.2 S1.1.1 
+0000011 020  NP1     Harry                    Z1mf 
+0000012 010  VVD     said                     Q2.1 
+0000012 020  NP1     Margaret                 Z1f 
+0000013 010  VVD     said                     Q2.1 
+0000013 020  NNB     Mrs.                     Z1f[i3.2.1 Z1m[i2.2.1 
+0000013 030  NP1     May                      Z1f[i3.2.2 Z1f Z1m[i2.2.2 
+0000014 010  VVD     said                     Q2.1 
+0000014 020  APPGE   her                      Z8f 
+0000014 030  NN1     mother                   S4f A11.1+++ 
+0000015 010  VVD     cried                    E4.1- Q2.2 
+0000015 020  NP1     Ethel                    Z99 
+0000016 010  VVD     said                     Q2.1 
+0000016 020  APPGE   her                      Z8f 
+0000016 030  NN1     mother                   S4f A11.1+++ 
+0000017 010  PPHS1   she                      Z8f 
+0000017 020  VVD     answered                 Q2.2 S1.1.1 
+0000018 010  VVD     said                     Q2.1 
+0000018 020  AT      the                      Z5 
+0000018 030  NN1     boy                      S2.2m L2m@ 
+0000018 040  RR      proudly                  E4.2+/S1.2 S1.2.3+ 
+0000019 010  VVD     said                     Q2.1 
+0000019 020  NNB     Mrs.                     Z1f[i5.2.1 Z1m[i4.2.1 
+0000020 010  NP1     May                      Z1f[i5.2.2 Z1f Z1m[i4.2.2 
+0000021 010  VVD     said                     Q2.1 
+0000021 020  NP1     Margaret                 Z1f 
+0000022 010  VVD     said                     Q2.1 
+0000022 020  AT      the                      Z5 
+0000022 030  NN1     doctor                   B3/I3.2/S2mf P1/S2mf 
+0000023 010  VVD     said                     Q2.1 
+0000023 020  NNB     Mrs.                     Z1f[i7.2.1 Z1m[i6.2.1 
+0000023 030  NP1     May                      Z1f[i7.2.2 Z1f Z1m[i6.2.2 
+0000024 010  PPHS1   he                       Z8m 
+0000024 020  VVD     said                     Q2.1 
+0000025 010  VVD     said                     Q2.1 
+0000025 020  NNB     Miss                     Z1f[i8.2.1 
+0000025 030  NP1     Winter                   Z1f[i8.2.2 Z1mf 
+0000026 010  VVD     said                     Q2.1 
+0000026 020  NP1     Norman                   Z1mf Z2/S2mf 
+0000027 010  VVD     said                     Q2.1 
+0000027 020  NP1     Ethel                    Z99 
+0000028 010  RRR     further                  N5++ N3.3++ T2++ 
+0000028 020  VVD     added                    N5+/A2.1 N2 A1.8+ 
+0000028 030  APPGE   her                      Z8f 
+0000028 040  NN1     mother                   S4f A11.1+++ 
+0000029 010  VVD     said                     Q2.1 
+0000029 020  NP1     Margaret                 Z1f 
+0000030 010  VVD     said                     Q2.1 
+0000030 020  AT      the                      Z5 
+0000030 030  NN1     doctor                   B3/I3.2/S2mf P1/S2mf 
+0000031 010  VVD     said                     Q2.1 
+0000032 010  NP1     Ethel                    Z99 
+0000033 010  VVD     said                     Q2.1 
+0000033 020  AT      the                      Z5 
+0000033 030  NN1     father                   S4m S9/S2.2m 
+0000034 010  VVD     said                     Q2.1 
+0000034 020  NP1     Ethel                    Z99 
+0000035 010  VVD     cried                    E4.1- Q2.2 
+0000036 010  NP1     Ethel                    Z99 
+0000037 010  VVD     sighed                   Q2.2/X3.2 
+0000037 020  NP1     Margaret                 Z1f 
+0000038 010  VVD     cried                    E4.1- Q2.2 
+0000038 020  NP1     Margaret                 Z1f 
+0000038 021  ,       ,                        
+0000038 030  RR      almost                   A13.4 
+0000038 040  RR      indignantly              E3- 
+0000039 010  VVD     said                     Q2.1 
+0000040 010  NP1     Margaret                 Z1f 
+0000041 010  VVD     said                     Q2.1 
+0000042 010  NP1     Margaret                 Z1f 
+0000043 010  VVD     said                     Q2.1 
+0000043 020  AT      the                      Z5 
+0000043 030  NN1     mother                   S4f A11.1+++ 
+0000044 010  VVD     said                     Q2.1 
+0000044 020  NP1     Margaret                 Z1f 
+0000045 010  VVD     said                     Q2.1 
+0000045 020  NP1     Margaret                 Z1f 
+0000046 010  VVD     said                     Q2.1 
+0000046 020  NNB     Mrs.                     Z1f[i10.2.1 Z1m[i9.2.1 
+0000046 030  NP1     May                      Z1f[i10.2.2 Z1f Z1m[i9.2.2 
+0000046 031  ,       ,                        
+0000046 040  VVG     laughing                 E4.1+/X3.2 
+0000047 010  VVD     said                     Q2.1 
+0000047 020  NP1     Margaret                 Z1f 
+0000047 030  RR      suddenly                 N3.8+ 
+0000048 010  VVD     said                     Q2.1 
+0000048 020  NNB     Mrs.                     Z1f[i12.2.1 Z1m[i11.2.1 
+0000048 030  NP1     May                      Z1f[i12.2.2 Z1f Z1m[i11.2.2 
+0000049 010  VVD     answered                 Q2.2 S1.1.1 
+0000049 020  NP1     Flora                    Z3 
+0000050 010  VVD     said                     Q2.1 
+0000051 010  NP1     Norman                   Z1mf Z2/S2mf 
+0000052 010  VVD     cried                    E4.1- Q2.2 
+0000052 020  NP1     Norman                   Z1mf Z2/S2mf 
+0000053 010  VVD     said                     Q2.1 
+0000053 020  NP1     Norman                   Z1mf Z2/S2mf 
+0000054 010  VVD     said                     Q2.1 
+0000054 020  NP1     Ethel                    Z99 
+0000055 010  VVD     replied                  Q2.2 Q1.1 
+0000056 010  NP1     Ethel                    Z99 
+0000057 010  VVD     said                     Q2.1 
+0000057 020  NP1     Norman                   Z1mf Z2/S2mf 
+0000058 010  VVD     said                     Q2.1 
+0000058 020  NP1     Ethel                    Z99 
+0000059 010  VVD     said                     Q2.1 
+0000059 020  NP1     Ethel                    Z99 
+0000060 010  VVD     cried                    E4.1- Q2.2 
+0000060 020  NP1     Ethel                    Z99 
+0000061 010  VVD     said                     Q2.1 
+0000061 020  NP1     Norman                   Z1mf Z2/S2mf 
+0000062 010  VVD     said                     Q2.1 
+0000062 020  NP1     Alan                     Z1m 
+0000063 010  VVD     said                     Q2.1 
+0000064 010  NP1     Norman                   Z1mf Z2/S2mf 
+0000065 010  VVD     said                     Q2.1 
+0000065 020  NP1     Ethel                    Z99 
+0000066 010  VVD     said                     Q2.1 
+0000066 020  NP1     Flora                    Z3 
+0000067 010  VVD     said                     Q2.1 
+0000067 020  NP1     Ethel                    Z99 
+0000068 010  PPHS1   he                       Z8m 
+0000068 020  VVD     said                     Q2.1 
+0000068 030  RR      hastily                  N3.8+ A1.3- 
+0000069 010  VVD     said                     Q2.1 
+0000069 020  NP1     Norman                   Z1mf Z2/S2mf 
+0000069 021  ,       ,                        
+0000069 030  II      in                       Z5 
+0000069 040  NN2     gasps                    B1 
+0000070 010  PPHS1   she                      Z8f 
+0000070 020  VVD     said                     Q2.1 
+0000071 010  VVD     said                     Q2.1 
+0000071 020  NP1     Flora                    Z3 
+0000072 010  VVD     said                     Q2.1 
+0000072 020  NP1     Harry                    Z1mf 
+0000073 010  VVD     said                     Q2.1 
+0000074 010  NP1     Mary                     Z1f 
+0000075 010  VVD     said                     Q2.1 
+0000075 020  NP1     Mary                     Z1f 
+0000076 010  VVD     said                     Q2.1 
+0000076 020  NNB     Mr.                      Z1m[i13.2.1 S2.2m 
+0000076 030  NP1     Wilmot                   Z1m[i13.2.2 
+0000077 010  VVD     said                     Q2.1 
+0000077 020  NNB     Mr.                      Z1m[i14.2.1 S2.2m 
+0000077 030  NP1     Wilmot                   Z1m[i14.2.2 
+0000078 010  VVD     said                     Q2.1 
+0000079 010  NP1     Alan                     Z1m 
+0000080 010  VVD     said                     Q2.1 
+0000080 020  NNB     Mr.                      Z1m[i15.2.1 S2.2m 
+0000080 030  NP1     Wilmot                   Z1m[i15.2.2 
+0000081 010  PPHS1   he                       Z8m 
+0000081 020  VVD     said                     Q2.1 
+0000082 010  PPHS1   he                       Z8m 
+0000082 020  VVD     said                     Q2.1 
+0000083 010  PPHS1   she                      Z8f 
+0000083 020  VVD     said                     Q2.1 
+0000084 010  VVD     said                     Q2.1 
+0000084 020  NP1     Ethel                    Z99 
+0000085 010  VVD     said                     Q2.1 
+0000085 020  NN      Flora                    Z3 
+0000086 010  PPHS1   she                      Z8f 
+0000086 020  VVD     said                     Q2.1 
+0000086 030  RT      again                    N6+ Z4 
+0000087 010  VVD     said                     Q2.1 
+0000087 020  PPHS1   he                       Z8m 
+0000088 010  VVD     said                     Q2.1 
+0000088 020  AT      the                      Z5 
+0000088 030  NN1     doctor                   B3/I3.2/S2mf P1/S2mf 
+0000089 010  CC      and                      Z5 
+0000089 020  APPGE   his                      Z8m 
+0000089 030  NN1     voice                    Q2.1 X2.1 S7.1+ Q3 K2 
+0000089 040  VVD     quivered                 M1 E5- 
+0000090 010  VVD     said                     Q2.1 
+0000090 020  AT      the                      Z5 
+0000090 030  NN1     doctor                   B3/I3.2/S2mf P1/S2mf 
+0000091 010  VVD     said                     Q2.1 
+0000091 020  NP1     Norman                   Z1mf Z2/S2mf 
+0000092 010  VVD     said                     Q2.1 
+0000092 020  NP1     Ethel                    Z99 
+0000093 010  VVD     said                     Q2.1 
+0000093 020  NP1     Margaret                 Z1f 
+0000094 010  VVD     said                     Q2.1 
+0000094 020  NP1     Ethel                    Z99 
+0000094 021  ,       ,                        
+0000094 030  RR      gravely                  E4.1- A1.3+ 
+0000095 010  VVD     said                     Q2.1 
+0000095 020  NP1     Margaret                 Z1f 
+0000096 010  VVD     said                     Q2.1 
+0000096 020  NP1     Ethel                    Z99 
+0000097 010  VVD     said                     Q2.1 
+0000097 020  NP1     Flora                    Z3 
+0000098 010  VVD     said                     Q2.1 
+0000098 020  NP1     Flora                    Z3 
+0000099 010  VVD     said                     Q2.1 
+0000099 020  NP1     Richard                  Z1m 
+0000100 010  VVD     exclaimed                Q2.2 
+0000100 020  NP1     Ethel                    Z99 
+0000101 010  VVD     said                     Q2.1 
+0000101 020  NP1     Ethel                    Z99 
+0000102 010  VVD     said                     Q2.1 
+0000102 020  NP1     Richard                  Z1m 
+0000102 030  RR      kindly                   S1.2/S8+ S1.2.2- 
+0000103 010  VVD     said                     Q2.1 
+0000103 020  NP1     Ethel                    Z99 
+0000104 010  VVD     said                     Q2.1 
+0000104 020  NP1     Ethel                    Z99 
+0000105 010  VVD     said                     Q2.1 
+0000105 020  NP1     Richard                  Z1m 
+0000106 010  VVD     thought                  X2.1 
+0000106 020  PPHS1   she                      Z8f 
+0000107 010  VVD     said                     Q2.1 
+0000107 020  NP1     Ethel                    Z99 
+0000108 010  VVD     said                     Q2.1 
+0000108 020  NP1     Margaret                 Z1f 
+0000108 030  RR      cheerfully               E4.1+ 
+0000109 010  VVD     said                     Q2.1 
+0000109 020  NP1     Ethel                    Z99 
+0000110 010  PPHS1   she                      Z8f 
+0000111 010  VVD     said                     Q2.1 
+0000111 020  RR      eagerly                  X5.2+ 
+0000112 010  VVD     cried                    E4.1- Q2.2 
+0000112 020  NP1     Ethel                    Z99 
+0000113 010  VVD     said                     Q2.1 
+0000113 020  NP1     Flora                    Z3 
+0000114 010  VVD     continued                T2++ 
+0000115 010  NP1     Margaret                 Z1f 
+0000116 010  VVD     said                     Q2.1 
+0000116 020  NP1     Margaret                 Z1f 
+0000117 010  VVD     said                     Q2.1 
+0000117 020  NP1     Margaret                 Z1f 
+0000118 010  VVD     said                     Q2.1 
+0000118 020  NP1     Margaret                 Z1f 
+0000119 010  VVD     said                     Q2.1 
+0000119 020  NP1     Margaret                 Z1f 
+0000119 021  ,       ,                        
+0000119 030  VVG     smiling                  E4.1+ 
+0000120 010  VVD     said                     Q2.1 
+0000120 020  NP1     Margaret                 Z1f 
+0000121 010  VVD     said                     Q2.1 
+0000121 020  NP1     Margaret                 Z1f 
+0000122 010  VVD     said                     Q2.1 
+0000122 020  NP1     Margaret                 Z1f 
+0000123 010  VVD     said                     Q2.1 
+0000123 020  APPGE   her                      Z8f 
+0000123 030  NN1     papa                     S4m 
+0000124 010  VVD     said                     Q2.1 
+0000125 010  NP1     Ethel                    Z99 
+0000126 010  VVD     said                     Q2.1 
+0000126 020  NP1     Harry                    Z1mf 
+0000127 010  VVD     said                     Q2.1 
+0000127 020  NP1     Mary                     Z1f 
+0000128 010  VVD     sighed                   Q2.2/X3.2 
+0000128 020  NP1     Ethel                    Z99 
+0000129 010  VVD     said                     Q2.1 
+0000130 010  NP1     Flora                    Z3 
+0000131 010  VVD     said                     Q2.1 
+0000132 010  NP1     Ethel                    Z99 
+0000133 010  VVD     said                     Q2.1 
+0000133 020  NP1     Richard                  Z1m 
+0000134 010  VVD     said                     Q2.1 
+0000134 020  NP1     Ethel                    Z99 
+0000135 010  VVD     said                     Q2.1 
+0000135 020  NP1     Ethel                    Z99 
+0000135 030  RR      decidedly                A13.3 
+0000136 010  VVD     said                     Q2.1 
+0000136 020  NP1     Ethel                    Z99 
+0000137 010  VVD     said                     Q2.1 
+0000137 020  NN      Flora                    Z3 
+0000138 010  PPHS1   she                      Z8f 
+0000138 020  VVD     said                     Q2.1 
+0000139 010  VVD     said                     Q2.1 
+0000140 010  NP1     Ethel                    Z99 
+0000141 010  VVD     said                     Q2.1 
+0000142 010  NP1     Richard                  Z1m 
+0000143 010  VVD     said                     Q2.1 
+0000143 020  NP1     Richard                  Z1m 
+0000144 010  VVD     said                     Q2.1 
+0000144 020  NP1     Ethel                    Z99 
+0000144 030  RR      sorrowfully              Z99 
+0000145 010  VVD     said                     Q2.1 
+0000145 020  NP1     Richard                  Z1m 
+0000145 021  ,       ,                        
+0000145 030  VVG     stopping                 T2- S8- M8 H4 A1.1.1@ 
+0000145 040  JJ      short                    T1.3- N3.7- N3.3- N5- S1.2.4- N3.8+@ F1% 
+0000146 010  RT      then                     N4 Z5 T1.2 
+0000146 020  II      on                       Z5 
+0000146 030  APPGE   his                      Z8m 
+0000146 040  NN1     entrance                 M7 M1 T2+ 
+0000147 010  VVD     said                     Q2.1 
+0000147 020  NP1     Ethel                    Z99 
+0000148 010  VVD     said                     Q2.1 
+0000148 020  NP1     Margaret                 Z1f 
+0000149 010  VVD     said                     Q2.1 
+0000149 020  NP1     Ethel                    Z99 
+0000149 030  RR      mournfully               Z99 
+0000150 010  VVD     said                     Q2.1 
+0000150 020  PPHS1   he                       Z8m 
+0000151 010  PPHS1   she                      Z8f 
+0000151 020  VVD     said                     Q2.1 
+0000152 010  PPHS1   she                      Z8f 
+0000152 020  VVD     said                     Q2.1 
+0000153 010  VVD     said                     Q2.1 
+0000153 020  PPHS1   she                      Z8f 
+0000154 010  VVD     said                     Q2.1 
+0000154 020  NP1     Margaret                 Z1f 
+0000155 010  VVD     said                     Q2.1 
+0000155 020  NP1     Ethel                    Z99 
+0000156 010  VVD     said                     Q2.1 
+0000156 020  NP1     Margaret                 Z1f 
+0000157 010  VVD     said                     Q2.1 
+0000157 020  NP1     Margaret                 Z1f 
+0000158 010  VVD     said                     Q2.1 
+0000158 020  NP1     Margaret                 Z1f 
+0000159 010  VVD     said                     Q2.1 
+0000159 020  NP1     Ethel                    Z99 
+0000160 010  VVD     said                     Q2.1 
+0000160 020  NP1     Ethel                    Z99 
+0000161 010  VVD     said                     Q2.1 
+0000161 020  NP1     Margaret                 Z1f 
+0000162 010  VVD     said                     Q2.1 
+0000162 020  NP1     Margaret                 Z1f 
+0000163 010  VVD     said                     Q2.1 
+0000163 020  NP1     Richard                  Z1m 
+0000164 010  VVD     said                     Q2.1 
+0000164 020  NP1     Margaret                 Z1f 
+0000164 021  ,       ,                        
+0000164 030  VVG     smiling                  E4.1+ 
+0000165 010  VVD     said                     Q2.1 
+0000165 020  NP1     Harry                    Z1mf 
+0000165 030  RR      indignantly              E3- 
+0000166 010  VVD     said                     Q2.1 
+0000166 020  NP1     Margaret                 Z1f 
+0000167 010  VVD     said                     Q2.1 
+0000167 020  NP1     Harry                    Z1mf 
+0000168 010  VVD     said                     Q2.1 
+0000168 020  PPHS1   she                      Z8f 
+0000169 010  VVD     said                     Q2.1 
+0000169 020  NP1     Margaret                 Z1f 
+0000170 010  VVD     said                     Q2.1 
+0000170 020  AT      the                      Z5 
+0000170 030  NN1     doctor                   B3/I3.2/S2mf P1/S2mf 
+0000171 010  VVD     said                     Q2.1 
+0000171 020  AT      the                      Z5 
+0000171 030  NN1     doctor                   B3/I3.2/S2mf P1/S2mf 
+0000171 031  ,       ,                        
+0000171 040  VVG     pausing                  T2-/T1.3 
+0000172 010  VVD     said                     Q2.1 
+0000172 020  NP1     Richard                  Z1m 
+0000173 010  PPHS1   he                       Z8m 
+0000173 020  VVD     concluded                X6+ T2- 
+0000174 010  VVD     said                     Q2.1 
+0000174 020  NP1     Margaret                 Z1f 
+0000175 010  PPHS1   he                       Z8m 
+0000175 020  VVD     said                     Q2.1 
+0000175 030  RR21    at                       N5+[i16.2.1 N4[i16.2.1 
+0000176 010  RR22    length                   N5+[i16.2.2 N4[i16.2.2 
+0000177 010  II      after                    Z5 
+0000177 020  AT1     a                        Z5 
+0000178 010  NN1     pause                    T2-/T1.3 
+0000179 010  VVD     said                     Q2.1 
+0000179 020  JJ      innocent                 G2.1+ X9.1- G2.2+ 
+0000179 030  NP1     Mary                     Z1f 
+0000180 010  VVD     said                     Q2.1 
+0000180 020  NP1     Ethel                    Z99 
+0000181 010  VVD     said                     Q2.1 
+0000181 020  NP1     Ethel                    Z99 
+0000182 010  VVD     said                     Q2.1 
+0000182 020  NP1     Norman                   Z1mf Z2/S2mf 
+0000183 010  VVD     said                     Q2.1 
+0000183 020  NP1     Flora                    Z3 
+0000184 010  VVD     said                     Q2.1 
+0000184 020  NP1     Harry                    Z1mf 
+0000185 010  VVD     said                     Q2.1 
+0000185 020  NP1     Harry                    Z1mf 
+0000186 010  VVD     said                     Q2.1 
+0000186 020  NP1     Norman                   Z1mf Z2/S2mf 
+0000186 021  ,       ,                        
+0000186 030  VVG     looking                  Q1.2[i17.2.1 X3.4[i17.2.1 E2+[i17.2.1 A5.1+/A2.1[i17.2.1 A8 X3.4 X2.4 X7+ Z4 
+0000186 040  RP      up                       Q1.2[i17.2.2 X3.4[i17.2.2 E2+[i17.2.2 A5.1+/A2.1[i17.2.2 
+0000187 010  VVD     said                     Q2.1 
+0000187 020  NP1     Ethel                    Z99 
+0000188 010  VVD     said                     Q2.1 
+0000188 020  NP1     Harry                    Z1mf 
+0000189 010  VVD     said                     Q2.1 
+0000189 020  NP1     Ethel                    Z99 
+0000189 021  ,       ,                        
+0000189 030  RR      mournfully               Z99 
+0000190 010  PPHS1   he                       Z8m 
+0000190 020  VVD     said                     Q2.1 
+0000191 010  VVD     said                     Q2.1 
+0000191 020  NP1     Norman                   Z1mf Z2/S2mf 
+0000192 010  VVD     said                     Q2.1 
+0000192 020  NP1     Norman                   Z1mf Z2/S2mf 
+0000193 010  VVD     said                     Q2.1 
+0000193 020  NP1     Norman                   Z1mf Z2/S2mf 
+0000194 010  VVD     said                     Q2.1 
+0000194 020  NP1     Ethel                    Z99 
+0000195 010  VVD     said                     Q2.1 
+0000195 020  NP1     Margaret                 Z1f 
+0000196 010  VVD     said                     Q2.1 
+0000196 020  NP1     Ethel                    Z99 
+0000197 010  VVD     exclaimed                Q2.2 
+0000197 020  APPGE   her                      Z8f 
+0000197 030  NN1     father                   S4m S9/S2.2m 
+0000198 010  VVD     said                     Q2.1 
+0000198 020  NP1     Ethel                    Z99 
+0000199 010  VVD     said                     Q2.1 
+0000199 020  NP1     Ethel                    Z99 
+0000199 030  RR      timidly                  E5- S1.2.3- 
+0000200 010  PPHS1   he                       Z8m 
+0000200 020  VVD     said                     Q2.1 
+0000201 010  VVD     said                     Q2.1 
+0000201 020  NP1     Margaret                 Z1f 
+0000201 021  GE      's                       Z5 
+0000201 030  JJ      soft                     O4.5 X3.2- O4.3 O4.1 S1.2.5- A12+ 
+0000201 040  NN1     voice                    Q2.1 X2.1 S7.1+ Q3 K2 
+0000202 010  VVD     continued                T2++ 
+0000202 020  NP1     Margaret                 Z1f 
+0000203 010  VVD     said                     Q2.1 
+0000203 020  NP1     Ethel                    Z99 
+0000204 010  FW      quod                     Z99 
+0000204 020  PPHS1   he                       Z8m 
+0000205 010  VVD     said                     Q2.1 
+0000205 020  NP1     Norman                   Z1mf Z2/S2mf 
+0000206 010  VVD     said                     Q2.1 
+0000206 020  NP1     Norman                   Z1mf Z2/S2mf 
+0000207 010  VVD     said                     Q2.1 
+0000208 010  NP1     Margaret                 Z1f 
+0000208 020  RR      cheerfully               E4.1+ 
+0000209 010  VVD     said                     Q2.1 
+0000209 020  NP1     Margaret                 Z1f 
+0000209 021  ,       ,                        
+0000209 030  VVG     smiling                  E4.1+ 
+0000210 010  PPHS1   he                       Z8m 
+0000210 020  VVD     muttered                 Q2.2/X3.2- 
+0000211 010  NP1     Norman                   Z1mf Z2/S2mf 
+0000211 020  VVD     spoke                    Q2.1 
+0000211 030  RR      vehemently               E3- S1.2.5+ 
+0000212 010  VVD     said                     Q2.1 
+0000212 020  AT      the                      Z5 
+0000212 030  NN1     doctor                   B3/I3.2/S2mf P1/S2mf 
+0000213 010  VVD     said                     Q2.1 
+0000213 020  AT      the                      Z5 
+0000213 030  NN1     doctor                   B3/I3.2/S2mf P1/S2mf 
+0000214 010  VVD     said                     Q2.1 
+0000214 020  AT      the                      Z5 
+0000214 030  NN1     doctor                   B3/I3.2/S2mf P1/S2mf 
+0000215 010  RR      almost                   A13.4 
+0000215 020  VVD     sobbed                   E4.1- 
+0000215 030  NP1     Norman                   Z1mf Z2/S2mf 
+0000216 010  II      after                    Z5 
+0000217 010  AT1     a                        Z5 
+0000217 020  JJ      long                     N3.7+ T1.3+ N3.3+ N3.2+ 
+0000217 030  NN1     silence                  X3.2- A10- 
+0000218 010  VVD     said                     Q2.1 
+0000218 020  NP1     Flora                    Z3 
+0000219 010  VVD     cried                    E4.1- Q2.2 
+0000219 020  NP1     Ethel                    Z99 
+0000219 030  RR      vehemently               E3- S1.2.5+ 
+0000220 010  VVD     said                     Q2.1 
+0000220 020  NP1     Fanny                    B1 E4.1+ O2 F3 E3- S7.1-@ M6 A5.1- O4.2-/S2.2m A9+ M1/K1 F1 F2% A7+ A1.1.1 L2fn T2- X7+ N4 S1.2.6-/S2mf B1@ S4 F4 M1 N5- S1.2.1- M4 H5 B5 S1.1.3+ S7.1+ M7 M2 N3.2/H1 L2 X2.4/S2mf X2.4 A5.1--- Z5 A6.1- S1.2.6-/S2mfn L2mfn S5+c O4.1 S2mf N5.1- I3.1 K4 A10+ B4 S3.1- S2.1 S2.1f B1/S3.2 K2 Q4.2 A10- S5- G1.1- G3/S2mf 
+0000221 010  VVD     said                     Q2.1 
+0000222 010  NP1     Ethel                    Z99 
+0000223 010  VVD     cried                    E4.1- Q2.2 
+0000223 020  NP1     Ethel                    Z99 
+0000224 010  VVD     cried                    E4.1- Q2.2 
+0000224 020  NP1     Ethel                    Z99 
+0000225 010  VVD     said                     Q2.1 
+0000225 020  NP1     Flora                    Z3 
+0000226 010  VVD     said                     Q2.1 
+0000226 020  NP1     Flora                    Z3 
+0000227 010  VVD     said                     Q2.1 
+0000227 020  NP1     Flora                    Z3 
+0000228 010  VVD     said                     Q2.1 
+0000228 020  NP1     Margaret                 Z1f 
+0000229 010  VVD     said                     Q2.1 
+0000229 020  NP1     Ethel                    Z99 
+0000229 030  RR      grudgingly               X5.2- X7- 
+0000230 010  VVD     said                     Q2.1 
+0000230 020  PPHS1   she                      Z8f 
+0000231 010  VVD     said                     Q2.1 
+0000231 020  NP1     Ethel                    Z99 
+0000231 021  ,       ,                        
+0000231 030  VVG     faltering                A7- 
+0000232 010  VVD     said                     Q2.1 
+0000233 010  NP1     Margaret                 Z1f 
+0000234 010  PPHS1   she                      Z8f 
+0000234 020  VVD     said                     Q2.1 
+0000235 010  VVD     said                     Q2.1 
+0000235 020  NP1     Ethel                    Z99 
+0000236 010  VVD     said                     Q2.1 
+0000236 020  NP1     Margaret                 Z1f 
+0000237 010  VVD     said                     Q2.1 
+0000237 020  NP1     Ethel                    Z99 
+0000238 010  RT      again                    N6+ Z4 
+0000238 020  VVD     said                     Q2.1 
+0000238 030  NP1     Ethel                    Z99 
+0000239 010  VVD     said                     Q2.1 
+0000239 020  NP1     Ethel                    Z99 
+0000240 010  VVD     said                     Q2.1 
+0000240 020  NP1     Flora                    Z3 
+0000241 010  CSA     as                       Z5 
+0000241 020  PPHS1   he                       Z8m 
+0000242 010  VVD     entered                  M1 S5+ Q1.2 T2+ A1.8+ 
+0000243 010  VVD     said                     Q2.1 
+0000243 020  NP1     Ethel                    Z99 
+0000244 010  VVD     said                     Q2.1 
+0000244 020  NP1     Norman                   Z1mf Z2/S2mf 
+0000245 010  VVD     said                     Q2.1 
+0000245 020  NP1     Norman                   Z1mf Z2/S2mf 
+0000246 010  PPHS1   he                       Z8m 
+0000246 020  VVD     said                     Q2.1 
+0000247 010  VVD     said                     Q2.1 
+0000247 020  NP1     Ethel                    Z99 
+0000248 010  VVD     said                     Q2.1 
+0000248 020  NP1     Margaret                 Z1f 
+0000249 010  VVD     said                     Q2.1 
+0000249 020  NP1     Margaret                 Z1f 
+0000250 010  CC      and                      Z5 
+0000250 020  IW      with                     Z5 
+0000250 030  AT1     a                        Z5 
+0000251 010  NN1     feeling                  X2.1 E1 X3 
+0000251 020  PPHS1   she                      Z8f 
+0000251 030  VVD     began                    T2+ 
+0000252 010  VVD     cried                    E4.1- Q2.2 
+0000252 020  AT      the                      Z5 
+0000252 030  NN1     doctor                   B3/I3.2/S2mf P1/S2mf 
+0000253 010  PPHS1   he                       Z8m 
+0000253 020  VVD     said                     Q2.1 
+0000254 010  VVD     said                     Q2.1 
+0000254 020  NP1     Margaret                 Z1f 
+0000255 010  VVD     said                     Q2.1 
+0000255 020  PPHS1   she                      Z8f 
+0000256 010  VVD     cried                    E4.1- Q2.2 
+0000256 020  NP1     Ethel                    Z99 
+0000257 010  PPHS1   she                      Z8f 
+0000257 020  VVD     thought                  X2.1 
+0000258 010  VVD     said                     Q2.1 
+0000258 020  AT      the                      Z5 
+0000258 030  NN1     doctor                   B3/I3.2/S2mf P1/S2mf 
+0000259 010  VVD     said                     Q2.1 
+0000259 020  NNB     Mr.                      Z1m[i18.2.1 S2.2m 
+0000259 030  NP1     Wilmot                   Z1m[i18.2.2 
+0000260 010  VVD     said                     Q2.1 
+0000260 020  NP1     Norman                   Z1mf Z2/S2mf 
+0000261 010  VVD     thought                  X2.1 
+0000261 020  PPHS1   he                       Z8m 
+0000262 010  CC      and                      Z5 
+0000263 010  CC      and                      Z5 
+0000264 010  PPHS1   he                       Z8m 
+0000264 020  VVD     added                    N5+/A2.1 N2 A1.8+ 
+0000264 021  ,       ,                        
+0000264 030  VVG     smiling                  E4.1+ 
+0000265 010  VVD     said                     Q2.1 
+0000265 020  NP1     Meta                     Z99 
+0000266 010  VVD     said                     Q2.1 
+0000266 020  NP1     Norman                   Z1mf Z2/S2mf 
+0000267 010  VVD     said                     Q2.1 
+0000267 020  PPHS1   she                      Z8f 
+0000268 010  VVD     said                     Q2.1 
+0000268 020  NNB     Mr.                      Z1m[i19.2.1 S2.2m 
+0000268 030  NP1     Wilmot                   Z1m[i19.2.2 
+0000269 010  VVD     said                     Q2.1 
+0000269 020  NNB     Mr.                      Z1m[i20.2.1 S2.2m 
+0000269 030  NP1     Wilmot                   Z1m[i20.2.2 
+0000270 010  PPHS1   he                       Z8m 
+0000270 020  VVD     said                     Q2.1 
+0000271 010  PPHS1   she                      Z8f 
+0000271 020  VVD     thought                  X2.1 
+0000272 010  VVD     said                     Q2.1 
+0000272 020  PPHS1   she                      Z8f 
+0000272 030  RR      coaxingly                Z99 
+0000273 010  VVD     said                     Q2.1 
+0000273 020  PPHS1   he                       Z8m 
+0000274 010  VVD     cried                    E4.1- Q2.2 
+0000274 020  NP1     Flora                    Z3 
+0000275 010  VVD     said                     Q2.1 
+0000275 020  NP1     Margaret                 Z1f 
+0000275 030  RR      thoughtfully             A1.3+ X2.1 
+0000276 010  VVD     said                     Q2.1 
+0000276 020  AT      the                      Z5 
+0000276 030  NN1     doctor                   B3/I3.2/S2mf P1/S2mf 
+0000277 010  VVD     said                     Q2.1 
+0000277 020  NP1     Norman                   Z1mf Z2/S2mf 
+0000278 010  VVD     said                     Q2.1 
+0000278 020  PPHS1   he                       Z8m 
+0000279 010  PPHS1   he                       Z8m 
+0000279 020  VVD     said                     Q2.1 
+0000280 010  VVD     said                     Q2.1 
+0000280 020  NP1     Norman                   Z1mf Z2/S2mf 
+0000280 021  ;       ;                        
+0000280 030  RT      then                     N4 Z5 T1.2 
+0000280 040  VVD     added                    N5+/A2.1 N2 A1.8+ 
+0000281 010  VVD     said                     Q2.1 
+0000281 020  AT      the                      Z5 
+0000281 030  NN1     doctor                   B3/I3.2/S2mf P1/S2mf 
+0000281 040  RR      warmly                   E2+ S1.2.1+ S7.2+ O4.6+ 
+0000282 010  VVD     said                     Q2.1 
+0000282 020  NP1     Norman                   Z1mf Z2/S2mf 
+0000283 010  VVD     said                     Q2.1 
+0000283 020  NP1     Norman                   Z1mf Z2/S2mf 
+0000284 010  VVD     said                     Q2.1 
+0000284 020  NP1     Norman                   Z1mf Z2/S2mf 
+0000285 010  VVD     said                     Q2.1 
+0000285 020  AT      the                      Z5 
+0000285 030  NN1     governess                S7.1+/S2.1f P1/S2.1f 
+0000286 010  VVD     continued                T2++ 
+0000286 020  NNB     Miss                     Z1f[i21.2.1 
+0000286 030  NP1     Winter                   Z1f[i21.2.2 Z1mf 
+0000287 010  VVD     said                     Q2.1 
+0000287 020  NNB     Miss                     Z1f[i22.2.1 
+0000287 030  NP1     Winter                   Z1f[i22.2.2 Z1mf 
+0000288 010  VVD     said                     Q2.1 
+0000288 020  NP1     Margaret                 Z1f 
+0000289 010  VVD     said                     Q2.1 
+0000289 020  NNB     Miss                     Z1f[i23.2.1 
+0000289 030  NP1     Winter                   Z1f[i23.2.2 Z1mf 
+0000290 010  VVD     said                     Q2.1 
+0000290 020  NNB     Miss                     Z1f[i24.2.1 
+0000290 030  NP1     Winter                   Z1f[i24.2.2 Z1mf 
+0000291 010  VVD     said                     Q2.1 
+0000291 020  NP1     Margaret                 Z1f 
+0000292 010  VVD     said                     Q2.1 
+0000292 020  NP1     Ethel                    Z99 
+0000293 010  VVD     said                     Q2.1 
+0000293 020  NP1     Ethel                    Z99 
+0000294 010  VVD     said                     Q2.1 
+0000294 020  NP1     Margaret                 Z1f 
+0000295 010  VVD     said                     Q2.1 
+0000295 020  NP1     Margaret                 Z1f 
+0000295 030  RR      kindly                   S1.2/S8+ S1.2.2- 
+0000296 010  VVD     said                     Q2.1 
+0000296 020  NP1     Ethel                    Z99 
+0000297 010  VVD     said                     Q2.1 
+0000297 020  NP1     Ethel                    Z99 
+0000297 021  ,       ,                        
+0000297 030  RR      much                     A13.3 N6+ 
+0000297 040  VVN     relieved                 A1.7- A9- S8+ G3 B3% 
+0000298 010  VVD     said                     Q2.1 
+0000298 020  PPHS1   he                       Z8m 
+0000299 010  VVD     said                     Q2.1 
+0000299 020  NP1     Norman                   Z1mf Z2/S2mf 
+0000300 010  VVD     said                     Q2.1 
+0000300 020  NP1     Margaret                 Z1f 
+0000301 010  VVD     exclaimed                Q2.2 
+0000301 020  PN1     one                      Z8 
+0000302 010  VVD     cried                    E4.1- Q2.2 
+0000302 020  DD1     another                  A6.1- N5++ 
+0000302 030  NN1     boy                      S2.2m L2m@ 
+0000303 010  VVD     said                     Q2.1 
+0000303 020  NP1     Norman                   Z1mf Z2/S2mf 
+0000304 010  VVD     said                     Q2.1 
+0000304 020  NP1     Norman                   Z1mf Z2/S2mf 
+0000304 021  ,       ,                        
+0000304 030  RR      disdainfully             S1.2.3+ S7.2- 
+0000305 010  VVD     said                     Q2.1 
+0000305 020  NP1     Norman                   Z1mf Z2/S2mf 
+0000306 010  PPHS1   he                       Z8m 
+0000306 020  VVD     said                     Q2.1 
+0000307 010  VVD     said                     Q2.1 
+0000307 020  PPHS1   he                       Z8m 
+0000308 010  PPHS1   he                       Z8m 
+0000308 020  VVD     murmured                 Q2.2/X3.2- X3.2- 
+0000309 010  VVD     said                     Q2.1 
+0000309 020  PPHS1   she                      Z8f 
+0000309 021  ,       ,                        
+0000309 030  DB      all                      N5.1+ 
+0000309 040  JJ      unconscious              B1 X2.2- 
+0000310 010  VVD     said                     Q2.1 
+0000310 020  NP1     Ethel                    Z99 
+0000311 010  VVD     said                     Q2.1 
+0000311 020  NP1     Flora                    Z3 
+0000312 010  VVD     said                     Q2.1 
+0000312 020  AT      the                      Z5 
+0000312 030  NN1     doctor                   B3/I3.2/S2mf P1/S2mf 
+0000313 010  PPHS1   she                      Z8f 
+0000313 020  VVD     exclaimed                Q2.2 
+0000314 010  VVD     said                     Q2.1 
+0000314 020  NP1     Richard                  Z1m 
+0000314 030  RR      quietly                  X3.2- E3+ A10- A1.1.1/N5- 
+0000315 010  VVD     said                     Q2.1 
+0000315 020  NP1     Margaret                 Z1f 
+0000316 010  VVD     exclaimed                Q2.2 
+0000316 020  NP1     Margaret                 Z1f 
+0000317 010  VVD     said                     Q2.1 
+0000317 020  NP1     Richard                  Z1m 
+0000318 010  VVD     said                     Q2.1 
+0000318 020  NP1     Margaret                 Z1f 
+0000319 010  VVD     said                     Q2.1 
+0000319 020  NP1     Richard                  Z1m 
+0000320 010  VVD     sighed                   Q2.2/X3.2 
+0000320 020  NP1     Margaret                 Z1f 
+0000321 010  VVD     said                     Q2.1 
+0000321 020  NP1     Richard                  Z1m 
+0000322 010  VVG     kissing                  S3.2 
+0000322 020  PPHO1   her                      Z8f 
+0000323 010  VVD     proceeded                A1.1.1 T2++ M1 
+0000323 020  NP1     Meta                     Z99 
+0000324 010  VVD     said                     Q2.1 
+0000324 020  PPHS1   she                      Z8f 
+0000325 010  VVD     said                     Q2.1 
+0000325 020  NNB     Mr.                      Z1m[i25.2.1 S2.2m 
+0000325 030  NP1     Wilmot                   Z1m[i25.2.2 
+0000326 010  VVD     began                    T2+ 
+0000326 020  NP1     Ethel                    Z99 
+0000327 010  VVD     said                     Q2.1 
+0000327 020  PPHS1   she                      Z8f 
+0000328 010  VVD     said                     Q2.1 
+0000328 020  NP1     Norman                   Z1mf Z2/S2mf 
+0000329 010  VVD     said                     Q2.1 
+0000329 020  NP1     Meta                     Z99 
+0000330 010  VVD     murmured                 Q2.2/X3.2- X3.2- 
+0000330 020  PPHS1   she                      Z8f 
+0000331 010  VVD     said                     Q2.1 
+0000331 020  NP1     Norman                   Z1mf Z2/S2mf 
+0000332 010  VVD     said                     Q2.1 
+0000332 020  NP1     Norman                   Z1mf Z2/S2mf 
+0000333 010  VVD     added                    N5+/A2.1 N2 A1.8+ 
+0000333 020  NP1     Norman                   Z1mf Z2/S2mf 
+0000334 010  VVD     said                     Q2.1 
+0000334 020  NP1     Harvey                   Z1mf[i26.2.1 Z3c[i26.2.1 Z1mf 
+0000334 030  NP1     Anderson                 Z1mf[i26.2.2 Z3c[i26.2.2 Z1mf 
+0000335 010  VVD     said                     Q2.1 
+0000335 020  AT      the                      Z5 
+0000335 030  NN1     doctor                   B3/I3.2/S2mf P1/S2mf 
+0000336 010  VVD     said                     Q2.1 
+0000336 020  NP1     Norman                   Z1mf Z2/S2mf 
+0000337 010  VVD     said                     Q2.1 
+0000337 020  NP1     Edward                   Z1mf[i27.2.1 Z3c[i27.2.1 Z1m 
+0000337 030  NP1     Anderson                 Z1mf[i27.2.2 Z3c[i27.2.2 Z1mf 
+0000338 010  VVD     said                     Q2.1 
+0000338 020  AT      the                      Z5 
+0000338 030  NN1     elder                    S7.1+/S2mf T3+/S2mf S9/S2mf 
+0000338 040  NP1     Anderson                 Z1mf 
+0000339 010  VVD     said                     Q2.1 
+0000339 020  NP1     Norman                   Z1mf Z2/S2mf 
+0000340 010  VVD     said                     Q2.1 
+0000340 020  AT1     a                        Z5 
+0000340 030  NN1     policeman                G2.1/I3.2/S2.2m 
+0000341 010  VVD     said                     Q2.1 
+0000341 020  NP1     Norman                   Z1mf Z2/S2mf 
+0000342 010  VVD     said                     Q2.1 
+0000342 020  AT      the                      S4m[i28.3.1 S7.1/S2m[i28.3.1 Z5 
+0000342 030  JJ      old                      S4m[i28.3.2 S7.1/S2m[i28.3.2 T3+ Z4 
+0000342 040  NN1     man                      S4m[i28.3.3 S7.1/S2m[i28.3.3 S2.2m 
+0000343 010  VVD     said                     Q2.1 
+0000343 020  NP1     Norman                   Z1mf Z2/S2mf 
+0000343 021  ,       ,                        
+0000343 030  RR      eagerly                  X5.2+ 
+0000344 010  VVD     said                     Q2.1 
+0000344 020  NP1     Margaret                 Z1f 
+0000345 010  VVD     said                     Q2.1 
+0000345 020  NP1     Margaret                 Z1f 
+0000346 010  RR      quietly                  X3.2- E3+ A10- A1.1.1/N5- 
+0000347 010  VVD     said                     Q2.1 
+0000347 020  NP1     Flora                    Z3 
+0000348 010  VVD     said                     Q2.1 
+0000348 020  NP1     Margaret                 Z1f 
+0000349 010  VVD     said                     Q2.1 
+0000349 020  NP1     Margaret                 Z1f 
+0000350 010  VVD     said                     Q2.1 
+0000350 020  PPHS1   he                       Z8m 
+0000351 010  VVD     said                     Q2.1 
+0000351 020  NP1     Norman                   Z1mf Z2/S2mf 
+0000352 010  VVD     said                     Q2.1 
+0000352 020  NP1     Meta                     Z99 
+0000353 010  VVD     said                     Q2.1 
+0000353 020  NP1     Margaret                 Z1f 
+0000354 010  VVD     said                     Q2.1 
+0000354 020  NP1     Margaret                 Z1f 
+0000355 010  VVD     said                     Q2.1 
+0000355 020  NP1     Meta                     Z99 
+0000356 010  VVD     said                     Q2.1 
+0000356 020  AT      the                      Z5 
+0000356 030  NN1     doctor                   B3/I3.2/S2mf P1/S2mf 
+0000357 010  VVD     said                     Q2.1 
+0000357 020  AT      the                      Z5 
+0000357 030  NN1     doctor                   B3/I3.2/S2mf P1/S2mf 
+0000358 010  VVD     said                     Q2.1 
+0000358 020  NP1     Margaret                 Z1f 
+0000359 010  VVD     said                     Q2.1 
+0000359 020  AT      the                      Z5 
+0000359 030  NN1     doctor                   B3/I3.2/S2mf P1/S2mf 
+0000360 010  RR      graciously               S1.2.4+ O4.2+ 
+0000360 020  VVD     inquired                 Q2.2 X2.4 
+0000360 030  NNU     'Mr                      Z99 
+0000360 031  .       .                        
+0000360 032  -----   -----                    
+0000360 040  NPM1    May                      T1.3 
+0000361 010  VVD     said                     Q2.1 
+0000361 020  PPHS1   he                       Z8m 
+0000362 010  PPHS1   he                       Z8m 
+0000362 020  VVD     muttered                 Q2.2/X3.2- 
+0000363 010  VVD     said                     Q2.1 
+0000363 020  NP1     Harry                    Z1mf 
+0000364 010  VVD     said                     Q2.1 
+0000364 020  AT      the                      Z5 
+0000364 030  NN1     doctor                   B3/I3.2/S2mf P1/S2mf 
+0000365 010  PPHS1   he                       Z8m 
+0000365 020  VVD     added                    N5+/A2.1 N2 A1.8+ 
+0000366 010  VVD     said                     Q2.1 
+0000366 020  AT      the                      Z5 
+0000366 030  NN1     doctor                   B3/I3.2/S2mf P1/S2mf 
+0000367 010  VVD     said                     Q2.1 
+0000367 020  NP1     Flora                    Z3 
+0000367 021  ,       ,                        
+0000367 030  RG      rather                   A13.5 
+0000367 040  JJ      aggrieved                E4.2- 
+0000368 010  VVD     said                     Q2.1 
+0000368 020  NP1     Ethel                    Z99 
+0000369 010  VVD     said                     Q2.1 
+0000369 020  NP1     Richard                  Z1m 
+0000370 010  VVD     said                     Q2.1 
+0000370 020  NP1     Ethel                    Z99 
+0000371 010  PPHS1   she                      Z8f 
+0000371 020  VVD     continued                T2++ 
+0000372 010  VVD     said                     Q2.1 
+0000372 020  NP1     Richard                  Z1m 
+0000373 010  VVD     exclaimed                Q2.2 
+0000373 020  NP1     Margaret                 Z1f 
+0000373 021  ,       ,                        
+0000373 030  VVN@    delighted                E4.1+ 
+0000374 010  II      after                    Z5 
+0000375 010  AT1     a                        Z5 
+0000375 020  NN1     pause                    T2-/T1.3 
+0000376 010  VVD     said                     Q2.1 
+0000376 020  NP1     Ethel                    Z99 
+0000377 010  VVD     said                     Q2.1 
+0000377 020  NP1     Ethel                    Z99 
+0000378 010  VVD     said                     Q2.1 
+0000378 020  NP1     Margaret                 Z1f 
+0000379 010  VVD     said                     Q2.1 
+0000379 020  NP1     Ethel                    Z99 
+0000380 010  VVD     said                     Q2.1 
+0000380 020  NP1     Margaret                 Z1f 
+0000381 010  VVD     said                     Q2.1 
+0000381 020  NP1     Ethel                    Z99 
+0000382 010  VVD     said                     Q2.1 
+0000382 020  NP1     Ethel                    Z99 
+0000383 010  VVD     exclaimed                Q2.2 
+0000383 020  AT      the                      Z5 
+0000383 030  NN1     doctor                   B3/I3.2/S2mf P1/S2mf 
+0000384 010  VVD     said                     Q2.1 
+0000384 020  NP1     Ethel                    Z99 
+0000385 010  VVD     said                     Q2.1 
+0000385 020  NP1     Flora                    Z3 
+0000386 010  VVD     said                     Q2.1 
+0000386 020  NP1     Ethel                    Z99 
+0000386 021  ,       ,                        
+0000386 030  RR      hastily                  N3.8+ A1.3- 
+0000387 010  VVD     said                     Q2.1 
+0000387 020  NP1     Flora                    Z3 
+0000388 010  VVD     said                     Q2.1 
+0000388 020  NP1     Flora                    Z3 
+0000389 010  CC      and                      Z5 
+0000390 010  VVD     gasped                   B1 
+0000390 020  NP1     Margaret                 Z1f 
+0000391 010  VVD     said                     Q2.1 
+0000391 020  NN      Flora                    Z3 
+0000392 010  PPHS1   he                       Z8m 
+0000392 020  VVD     said                     Q2.1 
+0000393 010  VVD     said                     Q2.1 
+0000393 020  NP1     Richard                  Z1m 
+0000394 010  VVD     said                     Q2.1 
+0000394 020  NP1     Richard                  Z1m 
+0000395 010  VVD     said                     Q2.1 
+0000395 020  NP1     Richard                  Z1m 
+0000396 010  VVD     said                     Q2.1 
+0000396 020  NP1     Richard                  Z1m 
+0000397 010  VVD     said                     Q2.1 
+0000397 020  AT      the                      Z5 
+0000397 030  NN1     doctor                   B3/I3.2/S2mf P1/S2mf 
+0000398 010  VVD     interrupted              Q2.2 X7- T2- 
+0000398 020  NP1     Harry                    Z1mf 
+0000399 010  VVD     said                     Q2.1 
+0000399 020  NNB     Mrs.                     Z1f[i30.2.1 Z1m[i29.2.1 
+0000399 030  NP1     Anderson                 Z1f[i30.2.2 Z1mf Z1m[i29.2.2 
+0000400 010  VVD     said                     Q2.1 
+0000400 020  NP1     Norman                   Z1mf Z2/S2mf 
+0000401 010  VVD     said                     Q2.1 
+0000401 020  NP1     Ethel                    Z99 
+0000402 010  VVD     said                     Q2.1 
+0000402 020  NP1     Norman                   Z1mf[i31.2.1 Z3c[i31.2.1 Z1mf Z2/S2mf 
+0000403 010  NP1     Margaret                 Z1mf[i31.2.2 Z3c[i31.2.2 Z1f 
+0000403 020  VVD     said                     Q2.1 
+0000403 030  RR21    at                       N4[i32.2.1 
+0000403 040  RR22    last                     N4[i32.2.2 
+0000404 010  VVD     said                     Q2.1 
+0000404 020  NP1     Harry                    Z1mf 
+0000405 010  PPHS1   she                      Z8f 
+0000405 020  VVD     thought                  X2.1 
+0000406 010  VVD     said                     Q2.1 
+0000406 020  NP1     Ethel                    Z99 
+0000407 010  PPHS1   he                       Z8m 
+0000407 020  VVD     said                     Q2.1 
+0000408 010  VVD     said                     Q2.1 
+0000408 020  NP1     Ethel                    Z99 
+0000409 010  VVD     added                    N5+/A2.1 N2 A1.8+ 
+0000409 020  NP1     Harry                    Z1mf 
+0000410 010  VVD     continued                T2++ 
+0000410 020  NP1     Meta                     Z99 
+0000411 010  VVD     said                     Q2.1 
+0000411 020  NP1     Ethel                    Z99 
+0000412 010  VVD     said                     Q2.1 
+0000412 020  NP1     Ethel                    Z99 
+0000413 010  VVD     said                     Q2.1 
+0000413 020  NP1     Meta                     Z99 
+0000413 030  RR      thoughtfully             A1.3+ X2.1 
+0000414 010  VVD     said                     Q2.1 
+0000414 020  NP1     Ethel                    Z99 
+0000415 010  VVD     said                     Q2.1 
+0000415 020  NP1     Meta                     Z99 
+0000416 010  VVD     said                     Q2.1 
+0000416 020  NP1     Ethel                    Z99 
+0000417 010  PPHS1   she                      Z8f 
+0000418 010  VVD     said                     Q2.1 
+0000419 010  VVD     cried                    E4.1- Q2.2 
+0000419 020  NP1     Meta                     Z99 
+0000419 021  ,       ,                        
+0000419 030  VVD     distressed               E6- E4.1- B2- 
+0000420 010  VVD     said                     Q2.1 
+0000420 020  PPHS1   she                      Z8f 
+0000421 010  PPHS1   she                      Z8f 
+0000421 020  VVD     cried                    E4.1- Q2.2 
+0000421 021  ,       ,                        
+0000421 030  VVG     springing                A8+[i33.2.1 M1[i33.2.1 M1 A2.2 Q2.1 G2.1@ T1.3% 
+0000421 040  RP      up                       A8+[i33.2.2 M1[i33.2.2 
+0000422 010  VVD     said                     Q2.1 
+0000423 010  NP1     Ethel                    Z99 
+0000424 010  VVD     added                    N5+/A2.1 N2 A1.8+ 
+0000424 020  NP1     Ethel                    Z99 
+0000425 010  VVD     said                     Q2.1 
+0000425 020  NP1     Meta                     Z99 
+0000425 021  ,       ,                        
+0000425 030  RR      much                     A13.3 N6+ 
+0000425 040  VVD     touched                  X3.3 M6 Q2.2 E1 E2- 
+0000426 010  PPHS1   he                       Z8m 
+0000426 020  VVD     said                     Q2.1 
+0000427 010  PPHS1   she                      Z8f 
+0000427 020  VVD     said                     Q2.1 
+0000428 010  VVD     said                     Q2.1 
+0000428 020  NP1     Ethel                    Z99 
+0000429 010  VVD     said                     Q2.1 
+0000429 020  NP1     Flora                    Z3 
+0000430 010  VVD     said                     Q2.1 
+0000430 020  NP1     Ethel                    Z99 
+0000431 010  PPHS1   he                       Z8m 
+0000431 020  VVD     answered                 Q2.2 S1.1.1 
+0000431 021  ,       ,                        
+0000431 030  RR      scarcely                 A13.7 
+0000431 040  RR      audibly                  X3.2+ 
+0000432 010  VVD     said                     Q2.1 
+0000432 020  NP1     Norman                   Z1mf Z2/S2mf 
+0000433 010  PPHS1   he                       Z8m 
+0000433 020  VVD     whispered                Q2.1/X3.2- 
+0000433 030  RR      huskily                  Z99 
+0000434 010  VVD     said                     Q2.1 
+0000434 020  AT      the                      Z5 
+0000434 030  NN1     doctor                   B3/I3.2/S2mf P1/S2mf 
+0000435 010  VVD     shouted                  Q2.2/X3.2++ 
+0000435 020  NP1     Harry                    Z1mf 
+0000436 010  VVD     said                     Q2.1 
+0000436 020  NP1     Ethel                    Z99 
+0000437 010  VVD     said                     Q2.1 
+0000437 020  NP1     Margaret                 Z1f 
+0000437 030  RR      fondly                   E2+ 
+0000438 010  VVD     sobbed                   E4.1- 
+0000438 020  NP1     Ethel                    Z99 
+0000439 010  PPHS1   he                       Z8m 
+0000439 020  VVD     said                     Q2.1 
+0000440 010  VVD     said                     Q2.1 
+0000440 020  AT      the                      Z5 
+0000440 030  NN1     doctor                   B3/I3.2/S2mf P1/S2mf 
+0000441 010  VVD     said                     Q2.1 
+0000441 020  NP1     Ethel                    Z99 
+0000442 010  VVD     said                     Q2.1 
+0000442 020  NP1     Flora                    Z3 
+0000443 010  VVD     said                     Q2.1 
+0000443 020  NP1     Flora                    Z3 
+0000444 010  VVD     said                     Q2.1 
+0000444 020  NP1     Ethel                    Z99 
+0000445 010  RT      again                    N6+ Z4 
+0000445 020  VVD     said                     Q2.1 
+0000445 030  NP1     Ethel                    Z99 
+0000446 010  PPHS1   she                      Z8f 
+0000446 020  VVD     added                    N5+/A2.1 N2 A1.8+ 
+0000447 010  AT      the                      Z5 
+0000447 020  NN1     word                     Q3 Q2.1 S9@ 
+0000447 030  VBDZ    was                      Z5 A3+ 
+0000447 040  VVN     lost                     X9.2- A9- M6/A5.3- L1- 
+0000448 010  PPHS1   he                       Z8m 
+0000448 020  VVD     added                    N5+/A2.1 N2 A1.8+ 
+0000448 030  RR      wistfully                Z99 
+0000449 010  PPHS1   she                      Z8f 
+0000449 020  VVD     said                     Q2.1 
+0000449 030  RR      slowly                   N3.8- 
+0000450 010  PPHS1   she                      Z8f 
+0000450 020  VVD     added                    N5+/A2.1 N2 A1.8+ 
+0000450 021  ,       ,                        
+0000450 030  VVG     smiling                  E4.1+ 
+0000451 010  PPHS1   she                      Z8f 
+0000451 020  VVD     said                     Q2.1 
+0000452 010  VVD     said                     Q2.1 
+0000452 020  NP1     Margaret                 Z1f 
+0000452 021  ,       ,                        
+0000452 030  VVG     smiling                  E4.1+ 
+0000453 010  VVD     said                     Q2.1 
+0000453 020  NP1     Alan                     Z1m 
+0000453 021  ,       ,                        
+0000453 030  VVG     musing                   X2.1 
+0000454 010  PPHS1   he                       Z8m 
+0000454 020  VVD     said                     Q2.1 
+0000454 030  RR      sadly                    E4.1- 
+0000455 010  VVD     said                     Q2.1 
+0000455 020  NP1     Cherry                   Z1mf 
+0000456 010  VVD     murmured                 Q2.2/X3.2- X3.2- 
+0000456 020  PPHS1   she                      Z8f 
+0000456 030  II      to                       Z5 
+0000456 040  PPX1    herself                  Z8f 
+0000457 010  VVD     said                     Q2.1 
+0000457 020  NP1     Flora                    Z3 
+0000458 010  VVD     said                     Q2.1 
+0000458 020  NP1     Norman                   Z1mf Z2/S2mf 
+0000459 010  VVD     pleaded                  Q2.2 G2.1/Q2.2 
+0000459 020  NP1     Ethel                    Z99 
+0000460 010  PPHS1   he                       Z8m 
+0000460 020  VVD     added                    N5+/A2.1 N2 A1.8+ 
+0000460 021  ,       ,                        
+0000460 030  DB      half                     N5 
+0000461 010  JJ      smiling                  E4.1+ 
+0000462 010  VVD     said                     Q2.1 
+0000462 020  NP1     Ethel                    Z99 
+0000463 010  VVD     said                     Q2.1 
+0000463 020  NP1     Ethel                    Z99 
+0000464 010  VVD     said                     Q2.1 
+0000464 020  AT      the                      Z5 
+0000464 030  NN1     doctor                   B3/I3.2/S2mf P1/S2mf 
+0000464 031  ,       ,                        
+0000464 040  JJ      lingering                M8 
+0000465 010  VVD     said                     Q2.1 
+0000465 020  NP1     Norman                   Z1mf Z2/S2mf 
+0000466 010  VVD     exclaimed                Q2.2 
+0000466 020  NP1     Flora                    Z3 
+0000467 010  VVD     said                     Q2.1 
+0000467 020  NP1     Flora                    Z3 
+0000468 010  VVD     continued                T2++ 
+0000468 020  NP1     Margaret                 Z1f 
+0000469 010  VVD     said                     Q2.1 
+0000469 020  NP1     Margaret                 Z1f 
+0000470 010  PPHS1   she                      Z8f 
+0000470 020  VVD     said                     Q2.1 
+0000471 010  NN1     thought                  X4.1 
+0000471 020  NN      Flora                    Z3 
+0000472 010  VVD     interposed               Q2.2 
+0000472 020  NP1     Blanche                  Z1mf 
+0000472 030  RR      knowingly                X2.2+ 
+0000473 010  VVD     said                     Q2.1 
+0000473 020  NP1     Mary                     Z1f 
+0000474 010  VVD     persisted                T2++ 
+0000474 020  NP1     Blanche                  Z1mf 
+0000475 010  VVD     repeated                 N6+ Q2.1/N6+ F1/B1@ 
+0000475 020  NP1     Norman                   Z1mf Z2/S2mf 
+0000476 010  VVD     said                     Q2.1 
+0000476 020  AT      the                      Z5 
+0000476 030  NN1     doctor                   B3/I3.2/S2mf P1/S2mf 
+0000477 010  VVD     wrote                    Q1.2 I2.1 
+0000478 010  NP1     Richard                  Z1m 
+0000479 010  VVD     said                     Q2.1 
+0000479 020  NP1     Ethel                    Z99 
+0000480 010  VVD     said                     Q2.1 
+0000480 020  NP1     Norman                   Z1mf Z2/S2mf 
+0000481 010  VVD     said                     Q2.1 
+0000481 020  NP1     Norman                   Z1mf Z2/S2mf 
+0000482 010  VVD     said                     Q2.1 
+0000482 020  NP1     Norman                   Z1mf Z2/S2mf 
+0000483 010  VVD     said                     Q2.1 
+0000483 020  NP1     Norman                   Z1mf Z2/S2mf 
+0000484 010  VVD     muttered                 Q2.2/X3.2- 
+0000484 020  NP1     Tom                      Z1m 
+0000484 021  ,       ,                        
+0000484 030  VVG     looking                  X3.4[i34.2.1 S1.2.3+[i34.2.1 A8 X3.4 X2.4 X7+ Z4 
+0000484 040  RP      down                     X3.4[i34.2.2 S1.2.3+[i34.2.2 
+0000485 010  VVD     said                     Q2.1 
+0000485 020  PPHS1   he                       Z8m 
+0000485 030  RR      hastily                  N3.8+ A1.3- 
+0000486 010  VVD     said                     Q2.1 
+0000486 020  NP1     Norman                   Z1mf Z2/S2mf 
+0000487 010  VVD     continued                T2++ 
+0000487 020  AT      the                      Z5 
+0000487 030  NN1     doctor                   B3/I3.2/S2mf P1/S2mf 
+0000488 010  VVD     said                     Q2.1 
+0000488 020  NP1     Margaret                 Z1f 
+0000489 010  VVD     said                     Q2.1 
+0000489 020  NP1     Margaret                 Z1f 
+0000490 010  VVD     said                     Q2.1 
+0000490 020  NP1     Flora                    Z3 
+0000491 010  VVD     said                     Q2.1 
+0000491 020  NP1     Norman                   Z1mf Z2/S2mf 
+0000492 010  VVD     said                     Q2.1 
+0000492 020  NP1     Ethel                    Z99 
+0000493 010  VVD     said                     Q2.1 
+0000493 020  NP1     Margaret                 Z1f 
+0000494 010  VVD     said                     Q2.1 
+0000494 020  NP1     Ethel                    Z99 
+0000494 021  ,       ,                        
+0000494 030  VVG     disregarding             X5.1- 
+0000495 010  VVD     said                     Q2.1 
+0000495 020  NP1     Margaret                 Z1f 
+0000495 030  RR      tenderly                 E3+ 
+0000496 010  VVD     said                     Q2.1 
+0000496 020  NP1     Margaret                 Z1f 
+0000497 010  VVD     said                     Q2.1 
+0000497 020  NP1     Margaret                 Z1f 
+0000497 021  ,       ,                        
+0000497 030  VVG     sighing                  Q2.2/X3.2 
+0000498 010  VVD     said                     Q2.1 
+0000498 020  NP1     Ethel                    Z99 
+0000499 010  VVD     said                     Q2.1 
+0000499 020  NP1     Margaret                 Z1f 
+0000500 010  VVD     said                     Q2.1 
+0000500 020  NP1     Margaret                 Z1f 
+0000501 010  VVD     said                     Q2.1 
+0000501 020  NP1     Ethel                    Z99 
+0000502 010  VVD     said                     Q2.1 
+0000502 020  NP1     Margaret                 Z1f 
+0000503 010  VVD     said                     Q2.1 
+0000503 020  NP1     Margaret                 Z1f 
+0000504 010  VVD     said                     Q2.1 
+0000504 020  NP1     Margaret                 Z1f 
+0000505 010  VVD     said                     Q2.1 
+0000505 020  NP1     Ethel                    Z99 
+0000506 010  VVD     said                     Q2.1 
+0000506 020  NP1     Ethel                    Z99 
+0000507 010  VVD     said                     Q2.1 
+0000507 020  NP1     Margaret                 Z1f 
+0000507 030  RR      gently                   E3+ 
+0000508 010  VVD     said                     Q2.1 
+0000508 020  NP1     Margaret                 Z1f 
+0000509 010  VVD     said                     Q2.1 
+0000509 020  NP1     Ethel                    Z99 
+0000510 010  VVD     said                     Q2.1 
+0000510 020  NP1     Margaret                 Z1f 
+0000511 010  VVD     said                     Q2.1 
+0000511 020  NP1     Ethel                    Z99 
+0000512 010  VVD     said                     Q2.1 
+0000512 020  NP1     Margaret                 Z1f 
+0000513 010  VVD     said                     Q2.1 
+0000513 020  NP1     Ethel                    Z99 
+0000514 010  VVD     said                     Q2.1 
+0000514 020  NP1     Margaret                 Z1f 
+0000515 010  VVD     said                     Q2.1 
+0000515 020  NP1     Ethel                    Z99 
+0000516 010  VVD     whispered                Q2.1/X3.2- 
+0000516 020  NP1     Margaret                 Z1f 
+0000517 010  VVD     said                     Q2.1 
+0000517 020  NP1     Norman                   Z1mf Z2/S2mf 
+0000517 030  RR      suddenly                 N3.8+ 
+0000518 010  VVD     said                     Q2.1 
+0000518 020  NP1     Ethel                    Z99 
+0000518 030  RR      fondly                   E2+ 
+0000519 010  CC      or                       Z5 
+0000519 020  IO      of                       Z5 
+0000519 030  AT      the                      Z5 
+0000519 040  JJ      venerated                S7.2+ 
+0000520 010  VVD     said                     Q2.1 
+0000520 020  NP1     Flora                    Z3 
+0000521 010  VVD     said                     Q2.1 
+0000521 020  NP1     Flora                    Z3 
+0000522 010  VVD     cried                    E4.1- Q2.2 
+0000522 020  NP1     Mary                     Z1f 
+0000523 010  VVD     said                     Q2.1 
+0000523 020  NP1     Norman                   Z1mf Z2/S2mf 
+0000524 010  RR      always                   N6+++ 
+0000524 020  VVG     starting                 T2+ E5- E3- 
+0000524 030  II      from                     Z5 
+0000525 010  JJ%     echoed                   X3.2 
+0000525 020  NP1     Mary                     Z1f 
+0000526 010  VVD     added                    N5+/A2.1 N2 A1.8+ 
+0000526 020  NP1     Meta                     Z99 
+0000527 010  VVD     said                     Q2.1 
+0000527 020  NP1     Ethel                    Z99 
+0000527 021  ,       ,                        
+0000527 030  RR      somewhat                 A13.6 
+0000528 010  VVN     exasperated              E3- 
+0000529 010  VVD     said                     Q2.1 
+0000529 020  NP1     Ethel                    Z99 
+0000530 010  VVD     said                     Q2.1 
+0000530 020  NP1     Ethel                    Z99 
+0000530 030  RR      meekly                   S1.2.3- 
+0000531 010  CC      and                      Z5 
+0000532 010  PPHS1   she                      Z8f 
+0000532 020  VVD     exclaimed                Q2.2 
+0000532 021  ,       ,                        
+0000532 030  VVD     shocked                  E5- S1.2.4- 
+0000533 010  PPHS1   he                       Z8m 
+0000533 020  VVD     said                     Q2.1 
+0000533 021  ,       ,                        
+0000533 030  VVG     smiling                  E4.1+ 
+0000534 010  PPHS1   she                      Z8f 
+0000534 020  VVD     said                     Q2.1 
+0000535 010  CC      and                      Z5 
+0000536 010  AT1     an                       Z5 
+0000536 020  NN1     interjection             K1/T1.3 T2- O2 A1.4 A1.1.2 A1.1.1 A1.9 S5- E4.1-/A2.2 A2.1+ T1.3 Q2.1@ Q2.2 X7- E3- N3.3 A6.1- A9- Z3c M1 
+0000537 010  PPHS1   she                      Z8f 
+0000537 020  VVD     said                     Q2.1 
+0000538 010  VVD     said                     Q2.1 
+0000538 020  NP1     Flora                    Z3 
+0000539 010  VVD     said                     Q2.1 
+0000539 020  NP1     Flora                    Z3 
+0000540 010  VVD     said                     Q2.1 
+0000540 020  NP1     Flora                    Z3 
+0000541 010  VVD     said                     Q2.1 
+0000541 020  NP1     Norman                   Z1mf Z2/S2mf 
+0000541 021  ,       ,                        
+0000541 030  VVG     smiling                  E4.1+ 
+0000542 010  VVD     said                     Q2.1 
+0000542 020  NP1     Norman                   Z1mf Z2/S2mf 
+0000543 010  VVD     said                     Q2.1 
+0000543 020  AT      the                      Z5 
+0000544 010  NN1     doctor                   B3/I3.2/S2mf P1/S2mf 
+0000545 010  VVD     said                     Q2.1 
+0000545 020  PPHS1   he                       Z8m 
+0000545 021  ,       ,                        
+0000545 030  VVG     laughing                 E4.1+/X3.2 
+0000546 010  VBDZ    was                      A3+ Z5 
+0000546 020  AT      the                      Z5 
+0000546 030  NN1     answer                   Q2.2 X4.1 X9.2+ 
+0000547 010  VVN     returned                 M1 A9- N6 
+0000547 020  NP1     Aubrey                   Z99 
+0000548 010  VVD     said                     Q2.1 
+0000548 020  NP1     Ethel                    Z99 
+0000549 010  VVD     said                     Q2.1 
+0000549 020  NP1     Margaret                 Z1f 
+0000550 010  VVD     said                     Q2.1 
+0000550 020  NP1     Ethel                    Z99 
+0000551 010  VVD     said                     Q2.1 
+0000551 020  NP1     Flora                    Z3 
+0000552 010  VVD     said                     Q2.1 
+0000552 020  PPHS1   she                      Z8f 
+0000553 010  VVD     said                     Q2.1 
+0000553 020  NP1     Ethel                    Z99 
+0000553 030  RR      bluntly                  A5.2+ 
+0000554 010  VVD     said                     Q2.1 
+0000554 020  NP1     Margaret                 Z1f 
+0000555 010  VVD     said                     Q2.1 
+0000555 020  NP1     Margaret                 Z1f 
+0000556 010  VVD     chimed                   X3.2 
+0000556 020  II      in                       Z5 
+0000556 030  NP1     Norman                   Z1mf Z2/S2mf 
+0000557 010  VVD     said                     Q2.1 
+0000557 020  NP1     Mary                     Z1f 
+0000558 010  VVD     said                     Q2.1 
+0000558 020  NP1     Margaret                 Z1f 
+0000559 010  VVD     said                     Q2.1 
+0000559 020  NP1     Norman                   Z1mf Z2/S2mf 
+0000560 010  VVD     said                     Q2.1 
+0000560 020  NP1     Ethel                    Z99 
+0000561 010  VVD     cried                    E4.1- Q2.2 
+0000561 020  NP1     Ethel                    Z99 
+0000561 021  ,       ,                        
+0000561 030  VVG     laughing                 E4.1+/X3.2 
+0000562 010  PPHS1   she                      Z8f 
+0000562 020  VVD     said                     Q2.1 
+0000563 010  VVN     faltered                 A7- 
+0000563 020  NN      Flora                    Z3 
+0000564 010  PPHS1   he                       Z8m 
+0000564 020  VVD     answered                 Q2.2 S1.1.1 
+0000565 010  PPHS1   he                       Z8m 
+0000565 020  VVD     said                     Q2.1 
+0000565 030  RR21    at                       N4[i35.2.1 
+0000565 040  RR22    last                     N4[i35.2.2 
+0000566 010  VVD     said                     Q2.1 
+0000566 020  NP1     Flora                    Z3 
+0000567 010  VVD     said                     Q2.1 
+0000567 020  NP1     Flora                    Z3 
+0000567 030  RR      steadily                 T2++ A2.1- 
+0000568 010  RT      then                     N4 Z5 T1.2 
+0000568 020  VVD     continued                T2++ 
+0000569 010  VVD     said                     Q2.1 
+0000569 020  NP1     Margaret                 Z1f 
+0000570 010  PPHS1   he                       Z8m 
+0000570 020  VVD     cried                    E4.1- Q2.2 
+0000571 010  VVD     said                     Q2.1 
+0000571 020  NP1     Ethel                    Z99 
+0000572 010  VVD     said                     Q2.1 
+0000572 020  NP1     Ethel                    Z99 
+0000573 010  PPHS1   he                       Z8m 
+0000573 020  VVD     said                     Q2.1 
+0000574 010  VVD     said                     Q2.1 
+0000574 020  NP1     Ethel                    Z99 
+0000575 010  VVD     said                     Q2.1 
+0000575 020  NP1     Ethel                    Z99 
+0000575 030  RR      humbly                   S1.2.3- 
+0000576 010  VVD     said                     Q2.1 
+0000576 020  NP1     Meta                     Z99 
+0000577 010  VVD     said                     Q2.1 
+0000577 020  NP1     Meta                     Z99 
+0000578 010  VVD     said                     Q2.1 
+0000578 020  NP1     Flora                    Z3 
+0000579 010  RR      consolingly              E3+ 
+0000580 010  PPHS1   he                       Z8m 
+0000580 020  VVD     said                     Q2.1 
+0000581 010  PPHS1   she                      Z8f 
+0000581 020  VVD     said                     Q2.1 
+0000581 030  RR      kindly                   S1.2/S8+ S1.2.2- 
+0000582 010  VVD     said                     Q2.1 
+0000582 020  NP1     Ethel                    Z99 
+0000583 010  VVD     said                     Q2.1 
+0000583 020  NP1     Meta                     Z99 
+0000584 010  VVD     said                     Q2.1 
+0000584 020  NP1     Richard                  Z1m 
+0000585 010  VVD     said                     Q2.1 
+0000585 020  NP1     Richard                  Z1m 
+0000586 010  PPHS1   he                       Z8m 
+0000586 020  VVD     said                     Q2.1 
+0000587 010  VVD     said                     Q2.1 
+0000587 020  NP1     Margaret                 Z1f 
+0000587 021  ,       ,                        
+0000587 030  RR      sadly                    E4.1- 
+0000587 040  JJ      smiling                  E4.1+ 
+0000588 010  VVD     said                     Q2.1 
+0000588 020  NP1     Richard                  Z1m 
+0000589 010  VVD     said                     Q2.1 
+0000589 020  PPHS1   she                      Z8f 
+0000589 021  ,       ,                        
+0000589 030  VVG     smiling                  E4.1+ 
+0000590 010  VVD     said                     Q2.1 
+0000590 020  NP1     Margaret                 Z1f 
+0000591 010  CC      or                       Z5 
+0000591 020  AT      the                      Z5 
+0000592 010  JJ%     said                     Q1.1 Q2.1 
+0000592 020  NP1     Ethel                    Z99 
+0000592 021  ,       ,                        
+0000592 030  VVG     smiling                  E4.1+ 
+0000593 010  JJ%     said                     Q1.1 Q2.1 
+0000593 020  NN      Flora                    Z3 
+0000594 010  PPHS1   she                      Z8f 
+0000594 020  VVD     continued                T2++ 
+0000594 030  RR      quaintly                 Z99 
+0000595 010  VVD     continued                T2++ 
+0000595 020  NP1     Flora                    Z3 
+0000596 010  VVD     said                     Q2.1 
+0000596 020  NP1     Ethel                    Z99 
+0000597 010  VVD     said                     Q2.1 
+0000597 020  NP1     Flora                    Z3 
+0000598 010  VVD     added                    N5+/A2.1 N2 A1.8+ 
+0000598 020  PPHS1   she                      Z8f 
+0000599 010  VVD     said                     Q2.1 
+0000599 020  PPHS1   he                       Z8m 
+0000600 010  VVD     said                     Q2.1 
+0000600 020  NP1     Ethel                    Z99 
+0000600 021  ,       ,                        
+0000600 030  VVG     smiling                  E4.1+ 
+0000601 010  PPHS1   he                       Z8m 
+0000601 020  VVD     said                     Q2.1 
+0000601 030  RR      presently                T1.1.3 T1.1.2 
+0000602 010  VVN     called                   Q2.2 S1.1.1 Q1.3 S9% 
+0000602 020  NP1     Norman                   Z1mf Z2/S2mf 
+0000603 010  VVD     said                     Q2.1 
+0000603 020  NP1     Ethel                    Z99 
+0000603 030  RR      stoutly                  E5+ 
+0000604 010  VVD     smiled                   E4.1+ 
+0000604 020  NN      Flora                    Z3 
+0000605 010  PPHS1   she                      Z8f 
+0000605 020  VVD     said                     Q2.1 
+0000606 010  VVD     exclaimed                Q2.2 
+0000606 020  NP1     Norman                   Z1mf Z2/S2mf 
+0000607 010  VVD     said                     Q2.1 
+0000607 020  NP1     Norman                   Z1mf Z2/S2mf 
+0000607 030  RT      again                    N6+ Z4 
+0000608 010  PPHS1   he                       Z8m 
+0000608 020  VVD     answered                 Q2.2 S1.1.1 
+0000609 010  VVD     said                     Q2.1 
+0000609 020  NP1     Meta                     Z99 
+0000610 010  PPHS1   she                      Z8f 
+0000610 020  VVD     said                     Q2.1 
+0000610 021  ,       ,                        
+0000610 030  RG      rather                   A13.5 
+0000610 040  JJ      bewildered               X2.5- 
+0000611 010  PPHS1   she                      Z8f 
+0000611 020  VVD     said                     Q2.1 
+0000612 010  PPHS1   he                       Z8m 
+0000612 020  VVD     said                     Q2.1 
+0000613 010  VVD     said                     Q2.1 
+0000613 020  NP1     Ethel                    Z99 
+0000613 021  ,       ,                        
+0000613 030  DB      half                     N5 
+0000613 040  JJ      smiling                  E4.1+ 
+0000614 010  VVD     said                     Q2.1 
+0000614 020  PPHS1   he                       Z8m 
+0000614 030  II      to                       Z5 
+0000614 040  NP1     Ethel                    Z99 
+0000615 010  VVD     said                     Q2.1 
+0000615 020  NP1     Ethel                    Z99 
+0000616 010  VVD     said                     Q2.1 
+0000616 020  NP1     Ethel                    Z99 
+0000617 010  VVD     thought                  X2.1 
+0000617 020  NP1     Ethel                    Z99 
+0000618 010  VVD     said                     Q2.1 
+0000618 020  NP1     Flora                    Z3 
+0000618 030  RR      composedly               Z99 
+0000619 010  VVD     said                     Q2.1 
+0000619 020  NP1     Flora                    Z3 
+0000619 030  RR      tenderly                 E3+ 
+0000620 010  PPHS1   she                      Z8f 
+0000620 020  VVD     said                     Q2.1 
+0000621 010  VVD     continued                T2++ 
+0000621 020  APPGE   her                      Z8f 
+0000621 030  NN1     cousin                   S4mf 
+0000622 010  VVD     said                     Q2.1 
+0000622 020  NNB     Dr                       Z1mf[i37.2.1 B3/S2mf P1/S2mf Z1mf[i36.2.1 
+0000622 030  NP1     May                      Z1mf[i37.2.2 Z1f Z1mf[i36.2.2 
+0000622 040  RR      hastily                  N3.8+ A1.3- 
+0000623 010  PPHS1   he                       Z8m 
+0000623 020  VVD     said                     Q2.1 
+0000623 030  RR      breathlessly             X5.2+ B1/A12- 
+0000624 010  VVD     said                     Q2.1 
+0000624 020  NP1     Ethel                    Z99 
+0000624 030  RR      kindly                   S1.2/S8+ S1.2.2- 
+0000625 010  PPHS1   she                      Z8f 
+0000625 020  VVD     said                     Q2.1 
+0000626 010  VVD     said                     Q2.1 
+0000626 020  NP1     Ethel                    Z99 
+0000626 030  RR      hastily                  N3.8+ A1.3- 
+0000627 010  PPHS1   he                       Z8m 
+0000627 020  VVD     added                    N5+/A2.1 N2 A1.8+ 
+0000628 010  RR      suddenly                 N3.8+ 
+0000629 010  VVD     said                     Q2.1 
+0000629 020  APPGE   his                      Z8m 
+0000629 030  NN1     host                     S2mf B1@ Y2@ S9% 
+0000630 010  VVD     said                     Q2.1 
+0000630 020  NP1     Mary                     Z1f 
+0000631 010  VVD     said                     Q2.1 
+0000631 020  NP1     Margaret                 Z1f 
+0000632 010  PPHS1   she                      Z8f 
+0000632 020  VVD     sighed                   Q2.2/X3.2 
+0000632 021  ,       ,                        
+0000632 030  RR      presently                T1.1.3 T1.1.2 
+0000633 010  PPHS1   he                       Z8m 
+0000634 010  VVD     continued                T2++ 
+0000635 010  PPHS1   he                       Z8m 
+0000635 020  VVD     said                     Q2.1 
+0000636 010  VVD     said                     Q2.1 
+0000636 020  NP1     Ethel                    Z99 
+0000637 010  VVD     cried                    E4.1- Q2.2 
+0000637 020  NP1     Hector                   Z1m 
+0000638 010  VVD     said                     Q2.1 
+0000638 020  NP1     Ethel                    Z99 
+0000639 010  VVD     said                     Q2.1 
+0000639 020  NP1     Ethel                    Z99 
+0000640 010  PPHS1   he                       Z8m 
+0000640 020  VVD     said                     Q2.1 
+0000640 021  ,       ,                        
+0000640 030  VVG     smiling                  E4.1+ 
+0000641 010  VVD     said                     Q2.1 
+0000641 020  NNB     Mr.                      Z1m[i38.2.1 S2.2m 
+0000641 030  NP1     Rivers                   Z1m[i38.2.2 Z1m 
+0000641 031  ,       ,                        
+0000641 040  VVG     sighing                  Q2.2/X3.2 
+0000642 010  VVD     thought                  X2.1 
+0000642 020  AT      the                      Z5 
+0000642 030  NN1     doctor                   B3/I3.2/S2mf P1/S2mf 
+0000643 010  VVD     said                     Q2.1 
+0000643 020  NP1     Ethel                    Z99 
+0000644 010  PPHS1   he                       Z8m 
+0000644 020  VVD     added                    N5+/A2.1 N2 A1.8+ 
+0000644 021  ,       ,                        
+0000644 030  VVG     recollecting             X2.2+ 
+0000644 040  PPX1    himself                  Z8m 
+0000645 010  VVD     said                     Q2.1 
+0000645 020  AT      the                      Z5 
+0000645 030  NN1     doctor                   B3/I3.2/S2mf P1/S2mf 
+0000646 010  VVD     said                     Q2.1 
+0000646 020  NP1     Ethel                    Z99 
+0000647 010  VVD     said                     Q2.1 
+0000647 020  NP1     Flora                    Z3 
+0000648 010  VVD     said                     Q2.1 
+0000648 020  NP1     Meta                     Z99 
+0000649 010  VVD     said                     Q2.1 
+0000649 020  NP1     Meta                     Z99 
+0000650 010  VVD     said                     Q2.1 
+0000650 020  NN      Flora                    Z3 
+0000651 010  PPHS1   she                      Z8f 
+0000651 020  VVD     said                     Q2.1 
+0000652 010  PPHS1   he                       Z8m 
+0000652 020  VVD     said                     Q2.1 
+0000653 010  PPHS1   he                       Z8m 
+0000653 020  VVD     added                    N5+/A2.1 N2 A1.8+ 
+0000654 010  PPHS1   she                      Z8f 
+0000654 020  VVD     said                     Q2.1 
+0000655 010  VVD     said                     Q2.1 
+0000655 020  NP1     Margaret                 Z1f 
+0000656 010  PPHS1   he                       Z8m 
+0000656 020  VVD     said                     Q2.1 
+0000657 010  PPHS1   she                      Z8f 
+0000657 020  VVD     sobbed                   E4.1- 
+0000658 010  PPHS1   she                      Z8f 
+0000658 020  VVD     said                     Q2.1 
+0000659 010  VVD     said                     Q2.1 
+0000659 020  NP1     Ethel                    Z99 
+0000659 021  ,       ,                        
+0000659 030  VVG     looking                  Q1.2[i39.2.1 X3.4[i39.2.1 E2+[i39.2.1 A5.1+/A2.1[i39.2.1 A8 X3.4 X2.4 X7+ Z4 
+0000659 040  RP      up                       Q1.2[i39.2.2 X3.4[i39.2.2 E2+[i39.2.2 A5.1+/A2.1[i39.2.2 
+0000660 010  PPHS1   he                       Z8m 
+0000660 020  VVD     said                     Q2.1 
+0000661 010  PPHS1   he                       Z8m 
+0000661 020  VVD     answered                 Q2.2 S1.1.1 
+0000661 030  RR      kindly                   S1.2/S8+ S1.2.2- 
+0000662 010  VVD     said                     Q2.1 
+0000662 020  NP1     Ethel                    Z99 
+0000663 010  VVD     said                     Q2.1 
+0000663 020  NP1     Margaret                 Z1f 
+0000664 010  VVD     said                     Q2.1 
+0000664 020  NP1     Ethel                    Z99 
+0000665 010  VVD     continued                T2++ 
+0000665 020  AT      the                      Z5 
+0000665 030  NN1     doctor                   B3/I3.2/S2mf P1/S2mf 
+0000666 010  VVD     said                     Q2.1 
+0000666 020  NP1     Margaret                 Z1f 
+0000666 021  ,       ,                        
+0000666 030  VVG     recovering               B2+ A5.1+/A2.1 A9+ 
+0000666 040  PPX1    herself                  Z8f 
+0000667 010  VVD     cried                    E4.1- Q2.2 
+0000667 020  NP1     Ethel                    Z99 
+0000668 010  VVD     said                     Q2.1 
+0000668 020  NP1     Margaret                 Z1f 
+0000669 010  VVD     said                     Q2.1 
+0000669 020  NP1     Mary                     Z1f 
+0000670 010  VVD     said                     Q2.1 
+0000670 020  NP1     Mary                     Z1f 
+0000671 010  VVD     said                     Q2.1 
+0000671 020  AT      the                      Z5 
+0000671 030  NN1     doctor                   B3/I3.2/S2mf P1/S2mf 
+0000671 031  ,       ,                        
+0000671 040  VVG     smiling                  E4.1+ 
+0000672 010  CC      or                       Z5 
+0000673 010  NP1     Flora                    Z3 
+0000673 020  VVD     described                Q2.2 
+0000674 010  PPHO1   him                      Z8m 
+0000675 010  VVD     wrote                    Q1.2 I2.1 
+0000675 020  NP1     Flora                    Z3 
+0000676 010  VVD     said                     Q2.1 
+0000676 020  NP1     Ethel                    Z99 
+0000677 010  VVD     said                     Q2.1 
+0000677 020  NP1     Ethel                    Z99 
+0000678 010  VVD     said                     Q2.1 
+0000678 020  NP1     Ethel                    Z99 
+0000679 010  PPHS1   she                      Z8f 
+0000679 020  VVD     said                     Q2.1 
+0000680 010  VVD     said                     Q2.1 
+0000680 020  APPGE   her                      Z8f 
+0000680 030  NN1     brother                  S4m S2.2m S9/S2.2m 
+0000681 010  VVD     said                     Q2.1 
+0000681 020  NP1     Norman                   Z1mf Z2/S2mf 
+0000682 010  CC      and                      Z5 
+0000682 020  NP1     James                    Z1m 
+0000683 010  VVD     said                     Q2.1 
+0000683 020  NP1     Ethel                    Z99 
+0000684 010  VVD     began                    T2+ 
+0000684 020  NP1     Mary                     Z1f 
+0000685 010  VVD     said                     Q2.1 
+0000685 020  NP1     Richard                  Z1m 
+0000686 010  VVD     said                     Q2.1 
+0000686 020  APPGE   his                      Z8m 
+0000686 030  NN1     father                   S4m S9/S2.2m 
+0000687 010  VVD     said                     Q2.1 
+0000687 020  NP1     Ethel                    Z99 
+0000688 010  VVD     said                     Q2.1 
+0000688 020  NP1     Ethel                    Z99 
+0000689 010  VVD     said                     Q2.1 
+0000689 020  NP1     Harry                    Z1mf 
+0000690 010  VVD     murmured                 Q2.2/X3.2- X3.2- 
+0000690 020  NP1     Harry                    Z1mf 
+0000691 010  VVD     said                     Q2.1 
+0000691 020  NP1     Harry                    Z1mf 
+0000692 010  PPHS1   he                       Z8m 
+0000692 020  VVD     said                     Q2.1 
+0000693 010  VVD     said                     Q2.1 
+0000693 020  NP1     Margaret                 Z1f 
+0000694 010  VVD     said                     Q2.1 
+0000694 020  NP1     Jennings                 F2/Z3c 
+0000694 030  RR      hastily                  N3.8+ A1.3- 
+0000695 010  VVD     said                     Q2.1 
+0000695 020  NP1     Harry                    Z1mf 
+0000696 010  VVD     said                     Q2.1 
+0000696 020  APPGE   her                      Z8f 
+0000696 030  NN1     father                   S4m S9/S2.2m 
+0000697 010  VVD     exclaimed                Q2.2 
+0000697 020  NP1     Harry                    Z1mf 
+0000698 010  VVD     said                     Q2.1 
+0000698 020  NP1     Harry                    Z1mf 
+0000698 030  II      to                       Z5 
+0000698 040  PPX1    himself                  Z8m 
+0000699 010  PPHS1   she                      Z8f 
+0000699 020  VVD     cried                    E4.1- Q2.2 
+0000700 010  VVD     said                     Q2.1 
+0000700 020  NP1     Meta                     Z99 
+0000701 010  VVD     said                     Q2.1 
+0000701 020  NP1     Harry                    Z1mf 
+0000702 010  VVD     said                     Q2.1 
+0000702 020  NN      Flora                    Z3 
+0000703 010  PPHS1   she                      Z8f 
+0000703 020  VVD     said                     Q2.1 
+0000704 010  JJ      continued                T2++ 
+0000704 020  NP1     Harry                    Z1mf 
+0000705 010  VVD     said                     Q2.1 
+0000705 020  NP1     Harry                    Z1mf 
+0000706 010  PPHS1   he                       Z8m 
+0000706 020  VVD     said                     Q2.1 
+0000707 010  PPHS1   he                       Z8m 
+0000707 020  VVD     burst                    M1[i40.2.1 Q2.2[i40.2.1 A1.1.2 A1.1.1 
+0000707 030  RP      out                      M1[i40.2.2 Q2.2[i40.2.2 M6 
+0000708 010  VVD     said                     Q2.1 
+0000708 020  NP1     Harry                    Z1mf 
+0000709 010  VVD     said                     Q2.1 
+0000709 020  NP1     Harry                    Z1mf 
+0000710 010  PPHS1   he                       Z8m 
+0000710 020  VVD     said                     Q2.1 
+0000711 010  VVD     said                     Q2.1 
+0000711 020  AT      the                      Z5 
+0000712 010  JJ      ubiquitous               M7/N5.1+ 
+0000712 020  NN      Flora                    Z3 
+0000713 010  VVD     asked                    Q2.2 
+0000713 020  NP1     Norman                   Z1mf Z2/S2mf 
+0000714 010  VVD     said                     Q2.1 
+0000714 020  NP1     Meta                     Z99 
+0000715 010  VVD     said                     Q2.1 
+0000715 020  NP1     Meta                     Z99 
+0000715 021  ,       ,                        
+0000715 030  VVG     smiling                  E4.1+ 
+0000716 010  VVD     said                     Q2.1 
+0000716 020  NP1     Margaret                 Z1f 
+0000717 010  VVD     said                     Q2.1 
+0000717 020  NP1     Ethel                    Z99 
+0000718 010  VVD     said                     Q2.1 
+0000718 020  NP1     Margaret                 Z1f 
+0000719 010  VVD     said                     Q2.1 
+0000719 020  APPGE   her                      Z8f 
+0000719 030  NN1     father                   S4m S9/S2.2m 
+0000720 010  APPGE   her                      Z8f 
+0000720 020  NN2     eyes                     B1 X3.4 
+0000720 030  VVD     lighted                  O4.6+[i41.2.1 O4.3[i41.2.1 E4.1+[i41.2.1 F3[i41.2.1 W2 O4.6+ 
+0000720 040  RP      up                       O4.6+[i41.2.2 O4.3[i41.2.2 E4.1+[i41.2.2 F3[i41.2.2 
+0000721 010  VVD     said                     Q2.1 
+0000721 020  NP1     Richard                  Z1m 
+0000722 010  VVD     thought                  X2.1 
+0000722 020  NP1     Meta                     Z99 
+0000723 010  VVD     thought                  X2.1 
+0000723 020  PPHS1   she                      Z8f 
+0000724 010  VVD     said                     Q2.1 
+0000724 020  NP1     Meta                     Z99 
+0000725 010  VVD     said                     Q2.1 
+0000725 020  NP1     George                   Z1m 
+0000726 010  VVD     said                     Q2.1 
+0000726 020  NP1     Flora                    Z3 
+0000726 030  II      to                       Z5 
+0000726 040  PPX1    herself                  Z8f 
+0000727 010  VVD     cried                    E4.1- Q2.2 
+0000727 020  NP1     George                   Z1m 
+0000728 010  PPHS1   he                       Z8m 
+0000728 020  VVD     said                     Q2.1 
+0000729 010  PPHS1   he                       Z8m 
+0000729 020  VVD     exclaimed                Q2.2 
+0000730 010  PPHS1   he                       Z8m 
+0000730 020  VVD     sank                     M1 M2 M4 N5-/A2.1 X3.2-/A2.1 A2.1+ E4.1- A1.1.1 
+0000730 030  APPGE   his                      Z8m 
+0000730 040  NN1     voice                    Q2.1 X2.1 S7.1+ Q3 K2 
+0000731 010  VVD     said                     Q2.1 
+0000731 020  NP1     Flora                    Z3 
+0000732 010  VVD     said                     Q2.1 
+0000732 020  NP1     Flora                    Z3 
+0000733 010  VVD     said                     Q2.1 
+0000733 020  NP1     Meta                     Z99 
+0000734 010  VVD     said                     Q2.1 
+0000734 020  NP1     Meta                     Z99 
+0000735 010  VVD     said                     Q2.1 
+0000735 020  NP1     Ethel                    Z1mf[i42.2.1 Z3c[i42.2.1 
+0000736 010  NP1     Meta                     Z1mf[i42.2.2 Z3c[i42.2.2 
+0000736 020  VVD     said                     Q2.1 
+0000737 010  VVD     said                     Q2.1 
+0000737 020  NP1     Meta                     Z99 
+0000738 010  VVD     returned                 M1 A9- N6 
+0000738 020  NP1     Meta                     Z99 
+0000739 010  VVD     said                     Q2.1 
+0000739 020  NP1     Ethel                    Z99 
+0000740 010  VVD     said                     Q2.1 
+0000740 020  NNB     Mr.                      Z1m[i43.2.1 S2.2m 
+0000740 030  NP1     Wilmot                   Z1m[i43.2.2 
+0000740 031  ,       ,                        
+0000740 040  VVG     smiling                  E4.1+ 
+0000741 010  VVD     said                     Q2.1 
+0000741 020  NP1     Ethel                    Z99 
+0000742 010  VVD     said                     Q2.1 
+0000742 020  NP1     Ethel                    Z99 
+0000743 010  VVD     said                     Q2.1 
+0000743 020  NP1     Ethel                    Z99 
+0000744 010  VVD     said                     Q2.1 
+0000744 020  PPHS1   he                       Z8m 
+0000745 010  VVD     said                     Q2.1 
+0000745 020  NP1     Margaret                 Z1f 
+0000745 021  ,       ,                        
+0000745 030  VVG     smiling                  E4.1+ 
+0000746 010  PPHS1   she                      Z8f 
+0000746 020  VVD     said                     Q2.1 
+0000747 010  VVD     said                     Q2.1 
+0000747 020  NP1     Meta                     Z99 
+0000748 010  VVD     said                     Q2.1 
+0000748 020  NP1     Norman                   Z1mf Z2/S2mf 
+0000749 010  VVD     said                     Q2.1 
+0000749 020  NP1     Meta                     Z99 
+0000750 010  PPHS1   he                       Z8m 
+0000750 020  VVD     exclaimed                Q2.2 
+0000751 010  VVD     said                     Q2.1 
+0000751 020  NP1     Meta                     Z99 
+0000752 010  VVD     said                     Q2.1 
+0000752 020  AT      the                      Z5 
+0000752 030  NN1     doctor                   B3/I3.2/S2mf P1/S2mf 
+0000752 031  ,       ,                        
+0000752 040  VVG     laughing                 E4.1+/X3.2 
+0000753 010  VVD     said                     Q2.1 
+0000753 020  NP1     Meta                     Z99 
+0000754 010  PPHS1   he                       Z8m 
+0000754 020  VVD     said                     Q2.1 
+0000755 010  VBDZ    was                      Z5 A3+ 
+0000755 020  VVG     becoming                 A2.1+ O4.2+ 
+0000755 030  AT      the                      Z5 
+0000756 010  JJ@     observed                 A10+ X6+ A2.2 A7+ 
+0000756 020  NP1     Thomas                   Z1mf 
+0000757 010  PPHS1   he                       Z8m 
+0000757 020  VVD     said                     Q2.1 
+0000758 010  VVD     said                     Q2.1 
+0000758 020  NP1     Norman                   Z1mf Z2/S2mf 
+0000759 010  VVD     said                     Q2.1 
+0000759 020  NP1     Norman                   Z1mf Z2/S2mf 
+0000760 010  VVD     said                     Q2.1 
+0000760 020  NP1     Meta                     Z99 
+0000760 021  ,       ,                        
+0000760 030  VVG     smiling                  E4.1+ 
+0000761 010  VVD     said                     Q2.1 
+0000762 010  NP1     Meta                     Z99 
+0000762 011  ,       ,                        
+0000762 020  RG      very                     A13.3 
+0000762 030  RR@     low                      N3.7- X3.2- 
+0000763 010  VVD     said                     Q2.1 
+0000764 010  NP1     Norman                   Z1mf Z2/S2mf 
+0000765 010  VVD     said                     Q2.1 
+0000765 020  NP1     Harry                    Z1mf 
+0000766 010  VVD     said                     Q2.1 
+0000766 020  NP1     Norman                   Z1mf Z2/S2mf 
+0000767 010  VVD     said                     Q2.1 
+0000767 020  NP1     Norman                   Z1mf Z2/S2mf 
+0000767 021  ,       ,                        
+0000767 030  VVG     smiling                  E4.1+ 
+0000768 010  VVD     said                     Q2.1 
+0000768 020  NP1     Norman                   Z1mf Z2/S2mf 
+0000769 010  VVD     said                     Q2.1 
+0000769 020  NP1     Norman                   Z1mf Z2/S2mf 
+0000769 021  ,       ,                        
+0000769 030  VVG     laughing                 E4.1+/X3.2 
+0000770 010  VVD     said                     Q2.1 
+0000770 020  NP1     Meta                     Z99 
+0000770 030  RR      firmly                   A1.7+ S1.2.5+ A7+ 
+0000771 010  PPHS1   she                      Z8f 
+0000771 020  VVD     added                    N5+/A2.1 N2 A1.8+ 
+0000772 010  VVD     said                     Q2.1 
+0000772 020  NP1     Ethel                    Z99 
+0000772 021  ,       ,                        
+0000772 030  VVG     breaking                 A1.1.1[i44.2.1 G2.1-[i44.2.1 A1.1.2 A1.1.1 A1.9 S5- T2- E4.1-/A2.2 A2.1+ T1.3 Q2.1@ 
+0000772 040  RP@     in                       A1.1.1[i44.2.2 G2.1-[i44.2.2 M6 
+0000773 010  VVD     said                     Q2.1 
+0000773 020  NP1     Meta                     Z99 
+0000773 021  ,       ,                        
+0000773 030  VVG     laughing                 E4.1+/X3.2 
+0000774 010  VVD     said                     Q2.1 
+0000774 020  NP1     Ethel                    Z99 
+0000775 010  VVD     said                     Q2.1 
+0000775 020  NP1     Meta                     Z99 
+0000776 010  VVD     said                     Q2.1 
+0000776 020  NP1     Ethel                    Z99 
+0000777 010  VVD     said                     Q2.1 
+0000777 020  NP1     Meta                     Z99 
+0000778 010  VVD     said                     Q2.1 
+0000778 020  NP1     Ethel                    Z99 
+0000779 010  VVD     pleaded                  Q2.2 G2.1/Q2.2 
+0000779 020  NP1     Ethel                    Z99 
+0000779 021  ,       ,                        
+0000779 030  VVD     distressed               E6- E4.1- B2- 
+0000780 010  VVD     said                     Q2.1 
+0000780 020  NP1     Ethel                    Z99 
+0000781 010  VVD     said                     Q2.1 
+0000781 020  APPGE   his                      Z8m 
+0000781 030  NN1     aunt                     S4f 
+0000782 010  VVD     said                     Q2.1 
+0000782 020  NP1     Ethel                    Z99 
+0000782 030  RR      mournfully               Z99 
+0000783 010  VVD     said                     Q2.1 
+0000783 020  NP1     Ethel                    Z99 
+0000784 010  VVD     broke                    A1.1.2 A1.1.1 A1.9 S5- T2- E4.1-/A2.2 A2.1+ T1.3 Q2.1@ 
+0000784 020  II      in                       Z5 
+0000784 030  NP1     Ethel                    Z99 
+0000785 010  VVD     said                     Q2.1 
+0000785 020  NP1     Margaret                 Z1f 
+0000786 010  VVD     said                     Q2.1 
+0000786 020  NP1     Ethel                    Z99 
+0000787 010  VVD     said                     Q2.1 
+0000787 020  NNB     Mrs.                     Z1f[i46.2.1 Z1m[i45.2.1 
+0000787 030  NP1     Arnott                   Z1f[i46.2.2 Z1m[i45.2.2 
+0000788 010  VVD     said                     Q2.1 
+0000788 020  NNB     Mrs.                     Z1f[i48.2.1 Z1m[i47.2.1 
+0000788 030  NP1     Arnott                   Z1f[i48.2.2 Z1m[i47.2.2 
+0000788 031  ,       ,                        
+0000788 040  VVG     smiling                  E4.1+ 
+0000789 010  PPHS1   she                      Z8f 
+0000789 020  VVD     said                     Q2.1 
+0000790 010  VBDZ    was                      A3+ Z5 
+0000790 020  AT      the                      Z5 
+0000790 030  NN1     answer                   Q2.2 X4.1 X9.2+ 
+0000791 010  VVN     said                     Q2.1 
+0000791 020  NP1     Margaret                 Z1f 
+0000791 030  RR      serenely                 Z99 
+0000792 010  NP1     Margaret                 Z1f 
+0000792 020  VVD     said                     Q2.1 
+0000792 021  ,       ,                        
+0000792 030  VVG     sighing                  Q2.2/X3.2 
+0000793 010  VVD     exclaimed                Q2.2 
+0000793 020  NP1     Meta                     Z99 
+0000794 010  VBDZ    was                      A3+ Z5 
+0000794 020  NP1     Meta                     Z99 
+0000794 021  GE      's                       Z5 
+0000794 030  NN1     answer                   Q2.2 X4.1 X9.2+ 
+0000795 010  DB      half                     N5 
+0000795 020  VVD     whispered                Q2.1/X3.2- 
+0000796 010  NP1     Meta                     Z99 
+0000797 010  VVD     said                     Q2.1 
+0000797 020  NP1     Margaret                 Z1f 
+0000798 010  VVD     said                     Q2.1 
+0000798 020  NP1     Margaret                 Z1f 
+0000799 010  VVD     said                     Q2.1 
+0000799 020  NP1     Cherry                   Z1mf 
+0000800 010  PPHS1   she                      Z8f 
+0000800 020  VVD     said                     Q2.1 
+0000801 010  VVD     said                     Q2.1 
+0000801 020  APPGE   her                      Z8f 
+0000801 030  NN1     father                   S4m S9/S2.2m 
+0000802 010  VVD     said                     Q2.1 
+0000802 020  NP1     Norman                   Z1mf Z2/S2mf 
+0000803 010  VVD     said                     Q2.1 
+0000803 020  NP1     Meta                     Z99 
+0000803 021  ,       ,                        
+0000803 030  VVG     smiling                  E4.1+ 
+0000804 010  VVD     said                     Q2.1 
+0000804 020  APPGE   her                      Z8f 
+0000804 030  NN1     niece                    S4f 
+0000805 010  VVD     said                     Q2.1 
+0000805 020  NP1     Flora                    Z3 
+0000806 010  VVD     continued                T2++ 
+0000806 020  NN      Flora                    Z3 
+0000807 010  PPHS1   he                       Z8m 
+0000807 020  VVD     said                     Q2.1 
+0000808 010  CC      and                      Z5 
+0000809 010  VVD     said                     Q2.1 
+0000809 020  NP1     Flora                    Z3 
+0000810 010  VVD     said                     Q2.1 
+0000810 020  NP1     Ethel                    Z99 
+0000811 010  VVD     said                     Q2.1 
+0000811 020  NP1     Flora                    Z3 
+0000812 010  VVD     said                     Q2.1 
+0000812 020  NP1     Flora                    Z3 
+0000813 010  VVD     said                     Q2.1 
+0000813 020  NP1     Ethel                    Z99 
+0000814 010  VVD     said                     Q2.1 
+0000814 020  NP1     Flora                    Z3 
+0000815 010  VVD     continued                T2++ 
+0000815 020  NP1     Flora                    Z3 
+0000816 010  VVD     said                     Q2.1 
+0000816 020  NP1     Ethel                    Z99 
+0000816 021  ,       ,                        
+0000816 030  VVG     sighing                  Q2.2/X3.2 
+0000817 010  VVD     said                     Q2.1 
+0000817 020  NP1     Ethel                    Z99 
+0000818 010  VVD     said                     Q2.1 
+0000818 020  NP1     Ethel                    Z99 
+0000819 010  VVD     said                     Q2.1 
+0000819 020  NP1     Ethel                    Z99 
+0000820 010  VVD     said                     Q2.1 
+0000820 020  NP1     Ethel                    Z99 
+0000821 010  VVD     said                     Q2.1 
+0000821 020  NP1     Flora                    Z3 
+0000822 001  NULL    **8;7;text               

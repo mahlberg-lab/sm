@@ -1,0 +1,38 @@
+0000001 001  NULL    **6;0;START              
+0000001 002  -----   -----                    
+0000002 010  DD1     another                  A6.1- N5++ 
+0000003 010  VVD     said                     Q2.1 
+0000003 020  AT      the                      Z5 
+0000003 030  NN1     teacher                  P1/I3.2/S2mf 
+0000003 040  RR      eagerly                  X5.2+ 
+0000004 010  PPHS1   he                       Z8m 
+0000004 020  VVD     cried                    E4.1- Q2.2 
+0000005 010  VVD     said                     Q2.1 
+0000005 020  NP1     Bernard                  Z1mf 
+0000006 010  VVD     said                     Q2.1 
+0000006 020  NP1     Bernard                  Z1mf 
+0000007 010  VVD     said                     Q2.1 
+0000007 020  NP1     Belton                   Z99 
+0000008 010  VVD     replied                  Q2.2 Q1.1 
+0000008 020  NP1     Belton                   Z99 
+0000009 010  VVD     laughed                  E4.1+/X3.2 
+0000009 020  AT      the                      Z5 
+0000009 030  NN1     postmaster               Q1.2/I3.1/S2.2m 
+0000010 010  VVD     shouted                  Q2.2/X3.2++ 
+0000010 020  NP1     Bernard                  Z1mf 
+0000011 010  VVD     said                     Q2.1 
+0000011 020  NP1     Belton                   Z99 
+0000012 010  VVD     said                     Q2.1 
+0000012 020  NP1     Belton                   Z99 
+0000013 010  VVD     began                    T2+ 
+0000013 020  NP1     Belton                   Z99 
+0000014 010  VVD     said                     Q2.1 
+0000014 020  NP1     Belton                   Z99 
+0000015 010  VVD     broke                    A1.1.2 A1.1.1 A1.9 S5- T2- E4.1-/A2.2 A2.1+ T1.3 Q2.1@ 
+0000015 020  II      in                       Z5 
+0000015 030  NP1     Bernard                  Z1mf[i1.2.1 Z3c[i1.2.1 Z1mf 
+0000016 010  NP1     Belton                   Z1mf[i1.2.2 Z3c[i1.2.2 
+0000016 020  VVD     continued                T2++ 
+0000017 010  VVD     said                     Q2.1 
+0000017 020  NP1     Bernard                  Z1mf 
+0000018 001  NULL    **8;7;text               

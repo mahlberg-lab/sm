@@ -1,0 +1,317 @@
+0000001 001  NULL    **6;0;START              
+0000001 002  -----   -----                    
+0000002 010  CC      and                      Z5 
+0000003 010  CC      and                      Z5 
+0000003 020  RR      also                     N5++ 
+0000004 010  PPHS1   he                       Z8m 
+0000004 020  VVD     went                     T2++[i1.2.1 M1[i1.2.1 Q2.1/N5+[i1.2.1 A1.1.1[i1.2.1 M1 A2.1+ A1.1.1 A9- A1.8+ Q2.1 N6+ I2.2 A1.1.2 T2- S3.2 A6.3+ B2-/X1% B1% 
+0000004 030  RP@     on                       T2++[i1.2.2 M1[i1.2.2 Q2.1/N5+[i1.2.2 A1.1.1[i1.2.2 M6 A1.1.1 
+0000004 040  RR      dreamily                 Z99 
+0000005 010  VVD     replied                  Q2.2 Q1.1 
+0000005 020  AT      the                      Z5 
+0000005 030  NN1     Rat                      L2mfn G2.2-/S2mf Q2.2 
+0000005 040  RR      briefly                  T1.3- 
+0000006 010  PPHS1   he                       Z8m 
+0000006 020  VVD     asked                    Q2.2 
+0000007 010  VVD     said                     Q2.1 
+0000007 020  AT      the                      Z5 
+0000007 030  NN1     Mole                     Z1mf 
+0000008 010  VVD     said                     Q2.1 
+0000008 020  AT      the                      Z5 
+0000008 030  NN1     Rat                      L2mfn G2.2-/S2mf Q2.2 
+0000009 010  VVD     remarked                 Q2.2 
+0000009 020  AT      the                      Z5 
+0000009 030  NN1     Otter                    L2 
+0000009 040  RR      reflectively             X2.1 
+0000010 010  VVD     said                     Q2.1 
+0000010 020  AT      the                      Z5 
+0000010 030  NN1     Rat                      L2mfn G2.2-/S2mf Q2.2 
+0000011 010  PPHS1   he                       Z8m 
+0000012 010  VVD     said                     Q2.1 
+0000013 010  VVD     said                     Q2.1 
+0000013 020  AT      the                      Z5 
+0000013 030  NN1     Rat                      L2mfn G2.2-/S2mf Q2.2 
+0000014 010  VVD     said                     Q2.1 
+0000014 020  NP1     Toad                     L2 
+0000014 021  ,       ,                        
+0000014 030  RR      imploringly              Q2.2 X7+ 
+0000015 010  PPHS1   he                       Z8m 
+0000015 020  VVD     said                     Q2.1 
+0000015 021  ,       ,                        
+0000015 030  RR      diplomatically           Z99 
+0000016 010  VVD     said                     Q2.1 
+0000016 020  AT      the                      Z5 
+0000016 030  NN1     Rat                      L2mfn G2.2-/S2mf Q2.2 
+0000016 040  RR      savagely                 E3- 
+0000017 010  VVD     said                     Q2.1 
+0000017 020  AT      the                      Z5 
+0000017 030  NN1     Rat                      L2mfn G2.2-/S2mf Q2.2 
+0000017 040  RR      sharply                  O4.4 A10+ X9.1+ N3.8+ E3- 
+0000018 010  PPHS1   he                       Z8m 
+0000018 020  VVD     cried                    E4.1- Q2.2 
+0000019 010  VVD     said                     Q2.1 
+0000019 020  AT      the                      Z5 
+0000019 030  NN1     Rat                      L2mfn G2.2-/S2mf Q2.2 
+0000019 040  RR      presently                T1.1.3 T1.1.2 
+0000020 010  VVD     said                     Q2.1 
+0000020 020  AT      the                      Z5 
+0000020 030  JJ      poor                     I1.1- A5.1- N5- E4.1- X9.1- 
+0000020 040  NN1     Mole                     Z1mf 
+0000021 010  VVD     replied                  Q2.2 Q1.1 
+0000021 020  AT      the                      Z5 
+0000021 030  NN1     Rat                      L2mfn G2.2-/S2mf Q2.2 
+0000021 040  RR      briefly                  T1.3- 
+0000022 010  PPHS1   he                       Z8m 
+0000022 020  VVD     went                     T2++[i2.2.1 M1[i2.2.1 Q2.1/N5+[i2.2.1 A1.1.1[i2.2.1 M1 A2.1+ A1.1.1 A9- A1.8+ Q2.1 N6+ I2.2 A1.1.2 T2- S3.2 A6.3+ B2-/X1% B1% 
+0000022 030  RP@     on                       T2++[i2.2.2 M1[i2.2.2 Q2.1/N5+[i2.2.2 A1.1.1[i2.2.2 M6 A1.1.1 
+0000023 010  CC      and                      Z5 
+0000023 020  RT      then                     N4 Z5 T1.2 
+0000024 010  PPHS1   he                       Z8m 
+0000024 020  VVD     went                     T2++[i3.2.1 M1[i3.2.1 Q2.1/N5+[i3.2.1 A1.1.1[i3.2.1 M1 A2.1+ A1.1.1 A9- A1.8+ Q2.1 N6+ I2.2 A1.1.2 T2- S3.2 A6.3+ B2-/X1% B1% 
+0000024 030  RP@     on                       T2++[i3.2.2 M1[i3.2.2 Q2.1/N5+[i3.2.2 A1.1.1[i3.2.2 M6 A1.1.1 
+0000025 010  VVD     cried                    E4.1- Q2.2 
+0000025 020  AT      the                      Z5 
+0000025 030  JJ      excited                  X5.2+ 
+0000025 040  NN1     Rat                      L2mfn G2.2-/S2mf Q2.2 
+0000026 010  PPHS1   he                       Z8m 
+0000026 020  VVD     cried                    E4.1- Q2.2 
+0000026 030  II      in                       Z5 
+0000026 040  NN1     penitence                E4.1- 
+0000027 010  VVD     cried                    E4.1- Q2.2 
+0000027 020  AT      the                      Z5 
+0000027 030  NN1     Rat                      L2mfn G2.2-/S2mf Q2.2 
+0000028 010  CC      or                       Z5 
+0000029 010  VVN     put                      M2 Q2.1 Q2.2 A1.1.1 
+0000029 020  II      in                       Z5 
+0000029 030  AT      the                      Z5 
+0000029 040  NN1     Mole                     Z1mf 
+0000030 010  VVD     went                     M1 A2.1+ A1.1.1 A9- A1.8+ Q2.1 N6+ I2.2 A1.1.2 T2- S3.2 A6.3+ B2-/X1% B1% 
+0000030 020  II      on                       Z5 
+0000030 030  AT      the                      Z5 
+0000030 040  NN1     Badger                   L2mfn 
+0000031 010  VVD     said                     Q2.1 
+0000031 020  AT      the                      Z5 
+0000031 030  NN1     Rat                      L2mfn G2.2-/S2mf Q2.2 
+0000031 040  RR      pleasantly               O4.2+ 
+0000032 010  VVD     replied                  Q2.2 Q1.1 
+0000032 020  AT      the                      Z5 
+0000032 030  NN1     hedgehog                 L2mfn 
+0000033 010  PPHS1   he                       Z8m 
+0000033 020  VVD     said                     Q2.1 
+0000034 010  PPHS1   he                       Z8m 
+0000034 020  VVD     said                     Q2.1 
+0000034 030  RR21    at                       N4[i4.2.1 
+0000034 040  RR22    last                     N4[i4.2.2 
+0000035 010  VVD     said                     Q2.1 
+0000035 020  AT      the                      Z5 
+0000035 030  NN1     Badger                   L2mfn 
+0000035 040  RR      simply                   A13.6 A14 A12+ 
+0000036 010  VVD     continued                T2++ 
+0000036 020  AT      the                      Z5 
+0000036 030  NN1     Badger                   L2mfn 
+0000037 010  VVD     replied                  Q2.2 Q1.1 
+0000037 020  AT      the                      Z5 
+0000038 010  NN1     Rat                      L2mfn G2.2-/S2mf Q2.2 
+0000038 020  RR      pleasantly               O4.2+ 
+0000039 010  PPHS1   he                       Z8m 
+0000039 020  VVD     said                     Q2.1 
+0000040 010  PPHS1   he                       Z8m 
+0000040 020  VVD     cried                    E4.1- Q2.2 
+0000041 010  RR      dismally                 O4.2- A5.1- 
+0000042 010  PPHS1   he                       Z8m 
+0000042 020  VVD     moaned                   Q2.2 
+0000043 010  VVD     groaned                  X3.2 Q2.2 
+0000043 020  AT      the                      Z5 
+0000043 030  NN1     Mole                     Z1mf 
+0000043 040  RR      dolorously               Z99 
+0000044 010  CC      and                      Z5 
+0000045 010  PPHS1   he                       Z8m 
+0000045 020  VVD     went                     T2++[i5.2.1 M1[i5.2.1 Q2.1/N5+[i5.2.1 A1.1.1[i5.2.1 M1 A2.1+ A1.1.1 A9- A1.8+ Q2.1 N6+ I2.2 A1.1.2 T2- S3.2 A6.3+ B2-/X1% B1% 
+0000045 030  RP@     on                       T2++[i5.2.2 M1[i5.2.2 Q2.1/N5+[i5.2.2 A1.1.1[i5.2.2 M6 A1.1.1 
+0000046 010  VVD     observed                 X3.4 Q2.1/X2.4 X2.1 G2.1+ 
+0000046 020  AT      the                      Z5 
+0000046 030  NN1     Rat                      L2mfn G2.2-/S2mf Q2.2 
+0000046 040  RR      dubiously                A7- 
+0000047 010  VVD     said                     Q2.1 
+0000047 020  AT      the                      Z5 
+0000047 030  NN1     Badger                   L2mfn 
+0000048 010  VVD     said                     Q2.1 
+0000048 020  AT      the                      Z5 
+0000048 030  NN1     Mole                     Z1mf 
+0000049 010  PPHS1   he                       Z8m 
+0000049 020  VVD     added                    N5+/A2.1 N2 A1.8+ 
+0000049 030  RR      incautiously             A1.3- E6+ 
+0000050 010  VVD     murmured                 Q2.2/X3.2- X3.2- 
+0000050 020  NP1     Toad                     L2 
+0000051 010  PPHS1   he                       Z8m 
+0000052 010  VVD     said                     Q2.1 
+0000052 020  II      to                       Z5 
+0000052 030  PPX1    himself                  Z8m 
+0000053 010  PPHS1   he                       Z8m 
+0000053 020  VVD     observed                 X3.4 Q2.1/X2.4 X2.1 G2.1+ 
+0000054 010  VVD     said                     Q2.1 
+0000054 020  AT      the                      Z5 
+0000054 030  NN1     Rat                      L2mfn G2.2-/S2mf Q2.2 
+0000054 040  RR      presently                T1.1.3 T1.1.2 
+0000055 010  VVD     said                     Q2.1 
+0000055 020  AT      the                      Z5 
+0000055 030  NN1     Mole                     Z1mf 
+0000056 010  PPHS1   he                       Z8m 
+0000056 020  VVD     said                     Q2.1 
+0000057 010  JJ%     said                     Q1.1 Q2.1 
+0000057 020  NN1     Rat                      L2mfn G2.2-/S2mf Q2.2 
+0000057 030  RR      slowly                   N3.8- 
+0000058 010  PPHS1   he                       Z8m 
+0000058 020  VVD     said                     Q2.1 
+0000059 010  PPHS1   he                       Z8m 
+0000059 020  VVD     said                     Q2.1 
+0000060 010  PPHS1   he                       Z8m 
+0000060 020  VVD     said                     Q2.1 
+0000061 010  VVD     said                     Q2.1 
+0000061 020  AT      the                      Z5 
+0000061 030  NN1     Toad                     L2 
+0000061 040  RR      proudly                  E4.2+/S1.2 S1.2.3+ 
+0000062 010  VVD     said                     Q2.1 
+0000062 020  AT      the                      Z5 
+0000062 030  NN1     girl                     S2.1f L2f@ 
+0000062 031  ,       ,                        
+0000062 040  VVG     laughing                 E4.1+/X3.2 
+0000063 010  PPHS1   she                      Z8f 
+0000063 020  VVD     said                     Q2.1 
+0000063 030  RR      presently                T1.1.3 T1.1.2 
+0000064 010  VVD     replied                  Q2.2 Q1.1 
+0000064 020  AT      the                      Z5 
+0000064 030  NN1     girl                     S2.1f L2f@ 
+0000065 010  PPHS1   he                       Z8m 
+0000065 020  VVD     said                     Q2.1 
+0000066 010  PPHS1   she                      Z8f 
+0000066 020  VVD     giggled                  E4.1+ 
+0000067 010  PPHS1   he                       Z8m 
+0000067 020  VVD     thought                  X2.1 
+0000068 010  PPHS1   he                       Z8m 
+0000068 020  VVD     said                     Q2.1 
+0000069 010  VVD     said                     Q2.1 
+0000069 020  AT      the                      Z5 
+0000069 030  NN1     engine-driver            Y1/I3.2/S2mf S7.1+ A1.1.1 M1 M3 M3c O2 Y2@ M3/S2mf Q1.3/S2mf A1.1.1/S2mf 
+0000070 010  VVD     said                     Q2.1 
+0000070 020  NP1     Toad                     L2 
+0000070 021  ,       ,                        
+0000070 030  VVG     crying                   E4.1- Q2.2 
+0000070 040  RR      afresh                   T3--- 
+0000071 010  VVD     said                     Q2.1 
+0000071 020  AT      the                      Z5 
+0000071 030  NN1     Rat                      L2mfn G2.2-/S2mf Q2.2 
+0000072 010  VVD     said                     Q2.1 
+0000072 020  AT      the                      Z5 
+0000072 030  MD      first                    N4 
+0000072 040  NN1@    swallow                  B1 L2mfn 
+0000073 010  VVD     asked                    Q2.2 
+0000073 020  AT      the                      Z5 
+0000073 030  MD      second                   N4 
+0000073 040  PN1     one                      Z8 
+0000074 010  VVD     said                     Q2.1 
+0000074 020  AT      the                      Z5 
+0000074 030  MD      third                    N4 N5 N1 
+0000075 010  PPHS1   he                       Z8m 
+0000075 020  VVD     remarked                 Q2.2 
+0000076 010  VVD     replied                  Q2.2 Q1.1 
+0000076 020  AT      the                      Z5 
+0000076 030  NN1     stranger                 X2.2-/S2mf 
+0000076 040  RR      cautiously               A1.3+ 
+0000077 010  VVD     said                     Q2.1 
+0000077 020  AT      the                      Z5 
+0000077 030  NN1     Water                    O1.2 W3/M4 B1 C1% 
+0000077 040  NN1     Rat                      L2mfn G2.2-/S2mf Q2.2 
+0000078 010  VVD     began                    T2+ 
+0000078 020  AT      the                      Z5 
+0000078 030  NN1     Sea                      W3/M4 
+0000078 040  NN1     Rat                      L2mfn G2.2-/S2mf Q2.2 
+0000079 010  VVD     continued                T2++ 
+0000079 020  AT      the                      Z5 
+0000079 030  NN1     Sea                      W3/M4 
+0000079 040  NN1     Rat                      L2mfn G2.2-/S2mf Q2.2 
+0000080 010  PPHS1   he                       Z8m 
+0000080 020  VVD     went                     T2++[i6.2.1 M1[i6.2.1 Q2.1/N5+[i6.2.1 A1.1.1[i6.2.1 M1 A2.1+ A1.1.1 A9- A1.8+ Q2.1 N6+ I2.2 A1.1.2 T2- S3.2 A6.3+ B2-/X1% B1% 
+0000080 030  RP@     on                       T2++[i6.2.2 M1[i6.2.2 Q2.1/N5+[i6.2.2 A1.1.1[i6.2.2 M6 A1.1.1 
+0000081 010  PPHS1   he                       Z8m 
+0000081 020  VBDZ    was                      Z5 A3+ 
+0000081 030  RR      softly                   E3+ X3.2 O4.3 
+0000081 040  VVG     saying                   Q2.1 Z4% 
+0000082 010  VVD     said                     Q2.1 
+0000082 020  AT      the                      Z5 
+0000082 030  NN1     barge-woman              Z99 
+0000083 010  PPHS1   he                       Z8m 
+0000083 020  VVD     thought                  X2.1 
+0000083 030  II      in                       Z5 
+0000084 010  NN1     desperation              E6- 
+0000085 010  PPHS1   he                       Z8m 
+0000085 020  VVD     shouted                  Q2.2/X3.2++ 
+0000086 010  PPHS1   she                      Z8f 
+0000086 020  VVD@    called                   Q2.2[i7.2.1 Q2.2 S1.1.1 Q1.3 S9% 
+0000086 030  RP      out                      Q2.2[i7.2.2 M6 
+0000087 010  PPHS1   he                       Z8m 
+0000087 020  VVD     said                     Q2.1 
+0000088 010  JJ      continued                T2++ 
+0000088 020  NN1     Toad                     L2 
+0000089 010  VVD     said                     Q2.1 
+0000089 020  AT      the                      Z5 
+0000089 030  NN1     gipsy                    S2mf 
+0000090 010  PPHS1   he                       Z8m 
+0000090 020  VVD     said                     Q2.1 
+0000091 010  PPHS2   they                     Z8mfn 
+0000091 020  VVD     cried                    E4.1- Q2.2 
+0000092 010  VVD     gasped                   B1 
+0000092 020  JJ      poor                     I1.1- A5.1- N5- E4.1- X9.1- 
+0000092 030  NN1     Toad                     L2 
+0000093 010  PPHS1   he                       Z8m 
+0000093 020  VVD     murmured                 Q2.2/X3.2- X3.2- 
+0000093 030  RR      presently                T1.1.3 T1.1.2 
+0000094 010  VVD     continued                T2++ 
+0000095 010  AT      the                      Z5 
+0000095 020  NN1     Rat                      L2mfn G2.2-/S2mf Q2.2 
+0000096 010  VVD     continued                T2++ 
+0000096 020  AT      the                      Z5 
+0000096 030  NN1     Rat                      L2mfn G2.2-/S2mf Q2.2 
+0000097 010  VVD     replied                  Q2.2 Q1.1 
+0000097 020  AT      the                      Z5 
+0000097 030  NN1     Mole                     Z1mf 
+0000097 040  RR      grumpily                 E3- 
+0000098 010  VVD     said                     Q2.1 
+0000098 020  AT      the                      Z5 
+0000098 030  NN1     Badger                   L2mfn 
+0000098 031  ,       ,                        
+0000098 040  RR      impressively             O4.2+ 
+0000099 010  PPHS1   he                       Z8m 
+0000099 020  VVD     said                     Q2.1 
+0000100 010  VVD     said                     Q2.1 
+0000100 020  AT      the                      Z5 
+0000100 030  NN1     Badger                   L2mfn 
+0000101 010  PPHS1   he                       Z8m 
+0000101 020  VVD     began                    T2+ 
+0000101 030  RR21    at                       N3.8+[i8.2.1 T1.1.2[i8.2.1 
+0000101 040  RR22    once                     N3.8+[i8.2.2 T1.1.2[i8.2.2 N6- T1.1.1 
+0000102 010  VVD     continued                T2++ 
+0000102 020  AT      the                      Z5 
+0000102 030  NN1     Mole                     Z1mf 
+0000103 010  VVD     went                     M1 A2.1+ A1.1.1 A9- A1.8+ Q2.1 N6+ I2.2 A1.1.2 T2- S3.2 A6.3+ B2-/X1% B1% 
+0000103 020  II      on                       Z5 
+0000103 030  AT      the                      Z5 
+0000103 040  NN1     Mole                     Z1mf 
+0000104 010  VVD     cried                    E4.1- Q2.2 
+0000104 020  NP1     Toad                     L2 
+0000105 010  JJ      great                    A5.1+ A11.1+ N3.2+ N5+ X5.2+ A13.3 
+0000105 020  NN1     applause                 E2+/X3.2+ 
+0000106 010  VVD     renewed                  T2+/A2.1 
+0000107 010  VVG     cheering                 Q2.2 E4.1+ 
+0000108 010  JJ      great                    A5.1+ A11.1+ N3.2+ N5+ X5.2+ A13.3 
+0000108 020  NN1     laughter                 E4.1+/X3.2 
+0000109 010  VVD     went                     M1 A2.1+ A1.1.1 A9- A1.8+ Q2.1 N6+ I2.2 A1.1.2 T2- S3.2 A6.3+ B2-/X1% B1% 
+0000109 020  II      on                       Z5 
+0000109 030  AT      the                      Z5 
+0000109 040  NN1     voice                    Q2.1 X2.1 S7.1+ Q3 K2 
+0000110 010  PPHS1   he                       Z8m 
+0000110 020  VVD     said                     Q2.1 
+0000111 010  VVD     said                     Q2.1 
+0000111 020  AT      the                      Z5 
+0000111 030  NN1     Rat                      L2mfn G2.2-/S2mf Q2.2 
+0000112 001  NULL    **8;7;text               

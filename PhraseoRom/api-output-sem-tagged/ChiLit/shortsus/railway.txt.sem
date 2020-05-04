@@ -1,0 +1,1094 @@
+0000001 001  NULL    **6;0;START              
+0000001 002  -----   -----                    
+0000002 010  VVD     said                     Q2.1 
+0000002 020  NP1     Peter                    Z1m 
+0000002 021  ,       ,                        
+0000002 030  RR      eagerly                  X5.2+ 
+0000003 010  VVD     said                     Q2.1 
+0000003 020  NN1     Father                   S4m S9/S2.2m 
+0000004 010  VVD     said                     Q2.1 
+0000004 020  NN1     Father                   S4m S9/S2.2m 
+0000004 021  ,       ,                        
+0000004 030  RR      cheerfully               E4.1+ 
+0000005 010  VVD     said                     Q2.1 
+0000005 020  NP1     Roberta                  Z99 
+0000006 010  VVD     said                     Q2.1 
+0000007 010  NN1     Mother                   S4f A11.1+++ 
+0000008 010  VVD     said                     Q2.1 
+0000008 020  NP1     Roberta                  Z99 
+0000009 010  VVD     said                     Q2.1 
+0000009 020  NP1     Phyllis                  Z1f 
+0000010 010  PPHS1   she                      Z8f 
+0000010 020  VVD     said                     Q2.1 
+0000011 010  JJ%     said                     Q1.1 Q2.1 
+0000011 020  NN1     Mother                   S4f A11.1+++ 
+0000011 030  RR      gently                   E3+ 
+0000012 010  VVD     said                     Q2.1 
+0000012 020  NP1     Peter                    Z1m 
+0000013 010  VVD     said                     Q2.1 
+0000013 020  NP1     Phyllis                  Z1f 
+0000014 010  VVD     said                     Q2.1 
+0000014 020  NNB     Mother                   Z1f[i1.2.1 
+0000015 010  NP1     Mother                   Z1f[i1.2.2 
+0000015 020  VVD     went                     M1 A2.1+ A1.1.1 A9- A1.8+ Q2.1 N6+ I2.2 A1.1.2 T2- S3.2 A6.3+ B2-/X1% B1% 
+0000015 030  II      on                       Z5 
+0000016 010  JJ%     said                     Q1.1 Q2.1 
+0000016 020  NN1     Mother                   S4f A11.1+++ 
+0000017 010  VVD     said                     Q2.1 
+0000017 020  NP1     Roberta                  Z99 
+0000018 010  VVD     said                     Q2.1 
+0000018 020  NP1     Phyllis                  Z1f 
+0000019 010  VVD     said                     Q2.1 
+0000019 020  NP1     Phyllis                  Z1f 
+0000020 010  PPHS1   she                      Z8f 
+0000020 020  VVD     said                     Q2.1 
+0000020 030  RR      furiously                E3- X5.2+ 
+0000021 010  VVD     said                     Q2.1 
+0000021 020  NN1     Mother                   S4f A11.1+++ 
+0000022 010  VVD     said                     Q2.1 
+0000022 020  NN1     Mother                   S4f A11.1+++ 
+0000023 010  VVD     said                     Q2.1 
+0000023 020  AT      the                      Z5 
+0000023 030  NN1     cart                     M3fn 
+0000023 040  NN1     man                      S2.2m 
+0000024 010  VVD     said                     Q2.1 
+0000024 020  NP1     Phyllis                  Z1f 
+0000025 010  PPHS1   she                      Z8f 
+0000025 020  VVD     said                     Q2.1 
+0000026 010  JJ%     said                     Q1.1 Q2.1 
+0000026 020  NN1     Mother                   S4f A11.1+++ 
+0000027 010  VVD     said                     Q2.1 
+0000027 020  NN1     Mother                   S4f A11.1+++ 
+0000028 010  VVD     said                     Q2.1 
+0000028 020  NP1     Roberta                  Z99 
+0000029 010  VVD     said                     Q2.1 
+0000029 020  NP1     Phyllis                  Z1f 
+0000030 010  VVD     said                     Q2.1 
+0000030 020  NN1     Mother                   S4f A11.1+++ 
+0000031 010  VVD     said                     Q2.1 
+0000031 020  NP1     Roberta                  Z99 
+0000031 021  ,       ,                        
+0000031 030  RR      suddenly                 N3.8+ 
+0000032 010  VVD     said                     Q2.1 
+0000032 020  NP1     Peter                    Z1m 
+0000033 010  VVD     said                     Q2.1 
+0000033 020  NP1     Roberta                  Z99 
+0000033 021  ,       ,                        
+0000033 030  RR      slowly                   N3.8- 
+0000034 010  VVD     cried                    E4.1- Q2.2 
+0000034 020  NP1     Peter                    Z1m 
+0000035 010  VVD     said                     Q2.1 
+0000035 020  NN1     Mother                   S4f A11.1+++ 
+0000036 010  VVD     said                     Q2.1 
+0000036 020  AT      the                      Z5 
+0000036 030  NP1     Porter                   I3.1/S2mf 
+0000037 010  VVD     said                     Q2.1 
+0000037 020  NP1     Bobbie                   Z99 
+0000038 010  VVD     said                     Q2.1 
+0000038 020  NP1     Peter                    Z1m 
+0000039 010  VVD     said                     Q2.1 
+0000039 020  NP1     Bobbie                   Z99 
+0000040 010  VVD     said                     Q2.1 
+0000040 020  NP1     Bobbie                   Z99 
+0000041 010  PPHS1   he                       Z8m 
+0000041 020  VVD     said                     Q2.1 
+0000042 010  PPHS1   he                       Z8m 
+0000042 020  VVD     said                     Q2.1 
+0000043 010  VVD     said                     Q2.1 
+0000043 020  PPHS1   he                       Z8m 
+0000044 010  VVD     said                     Q2.1 
+0000044 020  NP1     Phyllis                  Z1f 
+0000045 010  VVD     said                     Q2.1 
+0000045 020  NP1     Peter                    Z1m 
+0000046 010  VVD     said                     Q2.1 
+0000046 020  NP1     Phyllis                  Z1f 
+0000047 010  VVD     said                     Q2.1 
+0000047 020  NP1     Bobbie                   Z1mf[i2.2.1 Z3c[i2.2.1 
+0000048 010  NP1     Phyllis                  Z1mf[i2.2.2 Z3c[i2.2.2 Z1f 
+0000048 020  VVD     suggested                Q2.2 Q1.1 
+0000049 010  NP1     Peter                    Z1m 
+0000049 020  VVD     went                     T2++[i3.2.1 M1[i3.2.1 Q2.1/N5+[i3.2.1 A1.1.1[i3.2.1 M1 A2.1+ A1.1.1 A9- A1.8+ Q2.1 N6+ I2.2 A1.1.2 T2- S3.2 A6.3+ B2-/X1% B1% 
+0000049 030  RP@     on                       T2++[i3.2.2 M1[i3.2.2 Q2.1/N5+[i3.2.2 A1.1.1[i3.2.2 M6 A1.1.1 
+0000050 010  VVD     said                     Q2.1 
+0000050 020  AT      the                      Z5 
+0000050 030  NN1     Station                  M3/S2mfn[i4.2.1 M3/H1c G2.1/H1c Q4.3 M7c S7.1@ 
+0000050 040  NN1     Master                   M3/S2mfn[i4.2.2 S7.1+/S2.2m X9.1+/S2.2m P1/S2.2m P1 C1/S2.2m S9/S2.2m 
+0000051 010  VVD     said                     Q2.1 
+0000051 020  NP1     Peter                    Z1m 
+0000051 021  ,       ,                        
+0000051 030  RR      confidentially           A10- 
+0000052 010  VVD     said                     Q2.1 
+0000052 020  AT      the                      Z5 
+0000052 030  NN1     Station                  M3/S2mfn[i5.2.1 M3/H1c G2.1/H1c Q4.3 M7c S7.1@ 
+0000052 040  NN1     Master                   M3/S2mfn[i5.2.2 S7.1+/S2.2m X9.1+/S2.2m P1/S2.2m P1 C1/S2.2m S9/S2.2m 
+0000053 010  VVD     said                     Q2.1 
+0000053 020  NP1     Peter                    Z1m 
+0000054 010  VVD     said                     Q2.1 
+0000054 020  AT      the                      Z5 
+0000054 030  NN1     Station                  M3/S2mfn[i6.2.1 M3/H1c G2.1/H1c Q4.3 M7c S7.1@ 
+0000054 040  NN1     Master                   M3/S2mfn[i6.2.2 S7.1+/S2.2m X9.1+/S2.2m P1/S2.2m P1 C1/S2.2m S9/S2.2m 
+0000055 010  VVD     said                     Q2.1 
+0000055 020  NP1     Peter                    Z1m 
+0000056 010  VVD     said                     Q2.1 
+0000056 020  NP1     Bobbie                   Z99 
+0000056 021  ,       ,                        
+0000056 030  RR      honestly                 Z4 A5.2+ 
+0000057 010  VVD     said                     Q2.1 
+0000057 020  NP1     Peter                    Z1m 
+0000058 010  VVD     said                     Q2.1 
+0000058 020  NP1     Phyllis                  Z1f 
+0000058 021  ,       ,                        
+0000058 030  RR      indignantly              E3- 
+0000059 010  VVD     said                     Q2.1 
+0000059 020  NP1     Peter                    Z1m 
+0000059 021  ,       ,                        
+0000059 030  RR      impatiently              X5.2+ E3- 
+0000060 010  VVD     said                     Q2.1 
+0000060 020  PPHS1   he                       Z8m 
+0000061 010  VVD     said                     Q2.1 
+0000061 020  PPHS1   he                       Z8m 
+0000062 010  VVD     replied                  Q2.2 Q1.1 
+0000062 020  AT      the                      Z5 
+0000062 030  NP1     Porter                   I3.1/S2mf 
+0000063 010  VVD     said                     Q2.1 
+0000063 020  AT      the                      Z5 
+0000063 030  NP1     Porter                   I3.1/S2mf 
+0000064 010  VVD     said                     Q2.1 
+0000064 020  PPHS1   she                      Z8f 
+0000065 010  PPHS1   she                      Z8f 
+0000065 020  VVD     said                     Q2.1 
+0000065 030  RR21    at                       N4[i7.2.1 
+0000065 040  RR22    last                     N4[i7.2.2 
+0000066 010  VVD     said                     Q2.1 
+0000066 020  NP1     Peter                    Z1m 
+0000067 010  VVD     said                     Q2.1 
+0000067 020  NNB     Mrs.                     Z1f[i9.2.1 Z1m[i8.2.1 
+0000067 030  NP1     Viney                    Z1f[i9.2.2 Z1m[i8.2.2 
+0000068 010  VVD     said                     Q2.1 
+0000068 020  NP1     Peter                    Z1m 
+0000069 010  VVD     said                     Q2.1 
+0000069 020  NP1     Phyllis                  Z1f 
+0000070 010  VVD     said                     Q2.1 
+0000070 020  NP1     Bobbie                   Z99 
+0000070 021  ,       ,                        
+0000070 030  VVG     frowning                 B1 E2- 
+0000071 010  NN1     Mother                   S4f A11.1+++ 
+0000071 020  VVD     said                     Q2.1 
+0000072 010  VVD     said                     Q2.1 
+0000072 020  NP1     Bobbie                   Z99 
+0000073 010  VVD     said                     Q2.1 
+0000073 020  NP1     Bobbie                   Z99 
+0000073 021  ,       ,                        
+0000073 030  RR      firmly                   A1.7+ S1.2.5+ A7+ 
+0000074 010  PPHS1   she                      Z8f 
+0000074 020  VVD     said                     Q2.1 
+0000075 010  PPHS1   he                       Z8m 
+0000075 020  VVD     said                     Q2.1 
+0000076 010  VVD     said                     Q2.1 
+0000076 020  NP1     Peter                    Z1m 
+0000077 010  PPH1    it                       Z8 
+0000077 020  VVD     said                     Q2.1 
+0000078 010  VVD     said                     Q2.1 
+0000078 020  NP1     Bobbie                   Z99 
+0000079 010  VVD     said                     Q2.1 
+0000079 020  NN1     Mother                   S4f A11.1+++ 
+0000080 010  VVD     said                     Q2.1 
+0000080 020  NP1     Peter                    Z1m 
+0000081 010  VVD     whispered                Q2.1/X3.2- 
+0000081 020  NP1     Phyllis                  Z1f 
+0000082 010  VVD     said                     Q2.1 
+0000082 020  NP1     Perks                    A9-/N5.2+ 
+0000083 010  VVD     said                     Q2.1 
+0000083 020  NP1     Bobbie                   Z99 
+0000084 010  VVD     said                     Q2.1 
+0000084 020  NP1     Bobbie                   Z99 
+0000085 010  VVD     said                     Q2.1 
+0000085 020  AT      the                      Z5 
+0000085 030  NN1     Doctor                   B3/I3.2/S2mf P1/S2mf 
+0000086 010  VVD     said                     Q2.1 
+0000086 020  NP1     Phyllis                  Z1f 
+0000087 010  VVD     said                     Q2.1 
+0000087 020  NN1     Mother                   S4f A11.1+++ 
+0000088 010  VVD     said                     Q2.1 
+0000088 020  NP1     Peter                    Z1m 
+0000088 021  ,       ,                        
+0000088 030  RG      very                     A13.3 
+0000088 040  RR      promptly                 N3.8+ 
+0000089 010  VVD     cried                    E4.1- Q2.2 
+0000089 020  NP1     Bobbie                   Z99 
+0000090 010  VVD     said                     Q2.1 
+0000090 020  AT      the                      Z5 
+0000090 030  NN1     fireman                  O4.6+/S2.2m M3/S2.2m 
+0000091 010  PPHS1   she                      Z8f 
+0000091 020  VVD     said                     Q2.1 
+0000092 010  VVD     said                     Q2.1 
+0000092 020  AT      the                      Z5 
+0000092 030  NN1     fireman                  O4.6+/S2.2m M3/S2.2m 
+0000093 010  VVD     agreed                   A6.1+ Q2.2 
+0000093 020  AT      the                      Z5 
+0000093 030  NN1     engine-driver            Y1/I3.2/S2mf S7.1+ A1.1.1 M1 M3 M3c O2 Y2@ M3/S2mf Q1.3/S2mf A1.1.1/S2mf 
+0000094 010  PPHS1   she                      Z8f 
+0000094 020  VVD     said                     Q2.1 
+0000094 030  RR      wistfully                Z99 
+0000095 010  VVD     said                     Q2.1 
+0000095 020  AT      the                      Z5 
+0000095 030  NN1     engine-driver            Y1/I3.2/S2mf S7.1+ A1.1.1 M1 M3 M3c O2 Y2@ M3/S2mf Q1.3/S2mf A1.1.1/S2mf 
+0000096 010  VVD     said                     Q2.1 
+0000096 020  NP1     Bobbie                   Z1mf[i10.2.1 Z3c[i10.2.1 
+0000097 010  NP1     Phyllis                  Z1mf[i10.2.2 Z3c[i10.2.2 Z1f 
+0000097 020  VVD     said                     Q2.1 
+0000098 010  VVD     said                     Q2.1 
+0000098 020  NP1     Bobbie                   Z99 
+0000099 010  VVD     said                     Q2.1 
+0000099 020  NP1     Peter                    Z1m 
+0000100 010  VVD     said                     Q2.1 
+0000100 020  NP1     Bobbie                   Z99 
+0000101 010  VVD     said                     Q2.1 
+0000101 020  AT      the                      Z5 
+0000101 030  NN1     Station                  M3/S2mfn[i11.2.1 M3/H1c G2.1/H1c Q4.3 M7c S7.1@ 
+0000101 040  NN1     Master                   M3/S2mfn[i11.2.2 S7.1+/S2.2m X9.1+/S2.2m P1/S2.2m P1 C1/S2.2m S9/S2.2m 
+0000102 010  NP1     Phyllis                  Z1f 
+0000102 020  VBDZ    was                      Z5 A3+ 
+0000102 030  VVG     saying                   Q2.1 Z4% 
+0000103 010  PPHS1   he                       Z8m 
+0000103 020  VVD     said                     Q2.1 
+0000104 010  VVD     cried                    E4.1- Q2.2 
+0000104 020  NP1     Peter                    Z1m 
+0000105 010  VVD     said                     Q2.1 
+0000105 020  NNB     Mother                   Z1f[i12.2.1 
+0000106 010  NP1     Mother                   Z1f[i12.2.2 
+0000106 020  VVD     said                     Q2.1 
+0000107 010  VVD     said                     Q2.1 
+0000107 020  NP1     Bobbie                   Z99 
+0000107 021  ,       ,                        
+0000107 030  RR      unexpectedly             X2.6- 
+0000108 010  VVD     said                     Q2.1 
+0000108 020  NP1     Bobbie                   Z99 
+0000109 010  PPHS1   she                      Z8f 
+0000109 020  VVD     said                     Q2.1 
+0000110 010  PPHS1   he                       Z8m 
+0000110 020  VVD     said                     Q2.1 
+0000111 010  JJ%     said                     Q1.1 Q2.1 
+0000111 020  NN1     Mother                   S4f A11.1+++ 
+0000112 010  VVD     said                     Q2.1 
+0000112 020  NP1     Peter                    Z1m 
+0000113 010  VVD     said                     Q2.1 
+0000113 020  NP1     Peter                    Z1m 
+0000114 010  VVD     said                     Q2.1 
+0000114 020  NN1     Mother                   S4f A11.1+++ 
+0000115 010  VVD     said                     Q2.1 
+0000115 020  NP1     Peter                    Z1m 
+0000116 010  VVD     cried                    E4.1- Q2.2 
+0000116 020  NP1     Bobbie                   Z99 
+0000117 010  PPHS1   she                      Z8f 
+0000117 020  VVD     said                     Q2.1 
+0000118 010  NP1     Bobbie                   Z99 
+0000118 020  VVD     repeated                 N6+ Q2.1/N6+ F1/B1@ 
+0000118 030  RR      slowly                   N3.8- 
+0000119 010  VVD     said                     Q2.1 
+0000119 020  NN1     Mother                   S4f A11.1+++ 
+0000120 010  VVD     said                     Q2.1 
+0000120 020  NP1     Perks                    A9-/N5.2+ 
+0000120 030  RR      loftily                  Z99 
+0000121 010  VVD     said                     Q2.1 
+0000122 010  NP1     Perks                    A9-/N5.2+ 
+0000123 010  VVD     said                     Q2.1 
+0000123 020  NP1     Perks                    A9-/N5.2+ 
+0000124 010  VVD     said                     Q2.1 
+0000124 020  NP1     Phyllis                  Z1f 
+0000124 021  ,       ,                        
+0000124 030  II      in                       Z5 
+0000124 040  NN1     despair                  E4.1- 
+0000125 010  VVD     said                     Q2.1 
+0000125 020  NP1     Peter                    Z1m 
+0000125 021  ,       ,                        
+0000125 030  RR      suddenly                 N3.8+ 
+0000126 010  VVD     said                     Q2.1 
+0000126 020  NP1     Perks                    A9-/N5.2+ 
+0000126 021  ,       ,                        
+0000126 030  RR      indignantly              E3- 
+0000127 010  PPHS1   she                      Z8f 
+0000127 020  VVD     said                     Q2.1 
+0000128 010  VVD     said                     Q2.1 
+0000128 020  NP1     Peter                    Z1m 
+0000129 010  VVD     said                     Q2.1 
+0000129 020  AT      the                      Z5 
+0000129 030  NP1     Porter                   I3.1/S2mf 
+0000130 010  VVD     said                     Q2.1 
+0000130 020  NP1     Perks                    A9-/N5.2+ 
+0000130 021  ,       ,                        
+0000130 030  RR      cautiously               A1.3+ 
+0000131 010  VVD     said                     Q2.1 
+0000131 020  NP1     Phyllis                  Z1f 
+0000132 010  PPHS1   she                      Z8f 
+0000132 020  VVD     said                     Q2.1 
+0000133 010  VVD     said                     Q2.1 
+0000133 020  AT      the                      Z5 
+0000133 030  NP1     Porter                   I3.1/S2mf 
+0000134 010  VVD     said                     Q2.1 
+0000134 020  NP1     Peter                    Z1m 
+0000135 010  VVD     cried                    E4.1- Q2.2 
+0000135 020  NP1     Peter                    Z1m 
+0000135 021  ,       ,                        
+0000135 030  RR      suddenly                 N3.8+ 
+0000136 010  VVD     said                     Q2.1 
+0000136 020  NP1     Phyllis                  Z1f 
+0000137 010  PPHS1   he                       Z8m 
+0000137 020  VVD     said                     Q2.1 
+0000138 010  VVD     suggested                Q2.2 Q1.1 
+0000138 020  NP1     Phyllis                  Z1f 
+0000138 021  ,       ,                        
+0000138 030  RR      breathlessly             X5.2+ B1/A12- 
+0000139 010  VVD     said                     Q2.1 
+0000139 020  NP1     Phyllis                  Z1f 
+0000140 010  VVD     said                     Q2.1 
+0000140 020  NP1     Peter                    Z1m 
+0000141 010  VVD     said                     Q2.1 
+0000141 020  NP1     Phyllis                  Z1mf[i13.2.1 Z3c[i13.2.1 Z1f 
+0000142 010  NP1     Peter                    Z1mf[i13.2.2 Z3c[i13.2.2 Z1m 
+0000142 020  VVD     repeated                 N6+ Q2.1/N6+ F1/B1@ 
+0000143 010  PPHS1   she                      Z8f 
+0000143 020  VVD     said                     Q2.1 
+0000144 010  PPHS1   she                      Z8f 
+0000144 020  VVD     cried                    E4.1- Q2.2 
+0000145 010  NP1     Phyllis                  Z1f 
+0000145 020  VVD     faltered                 A7- 
+0000146 010  VVD     said                     Q2.1 
+0000146 020  NP1     Bobbie                   Z99 
+0000147 010  VVD     said                     Q2.1 
+0000147 020  NP1     Peter                    Z1m 
+0000148 010  VVD     said                     Q2.1 
+0000148 020  NP1     Peter                    Z1m 
+0000149 010  PPHS1   he                       Z8m 
+0000149 020  VVD     said                     Q2.1 
+0000150 010  APPGE   their                    Z8 
+0000151 010  APPGE   their                    Z8 
+0000152 010  VVD     cried                    E4.1- Q2.2 
+0000152 020  NP1     Phyllis                  Z1f 
+0000153 010  VVD     said                     Q2.1 
+0000153 020  NP1     Phyllis                  Z1f 
+0000154 010  CC      and                      Z5 
+0000154 020  DD      some                     N5 Z5 
+0000155 010  VV0     call                     Q2.2 S1.1.1 Q1.3 S9% 
+0000155 020  PPH1    it                       Z8 
+0000156 010  CC      and                      Z5 
+0000157 010  CC      and                      Z5 
+0000158 010  CC      and                      Z5 
+0000159 010  CC      and                      Z5 
+0000160 010  VBDZ    was                      A3+ Z5 
+0000160 011  ,       ,                        
+0000160 020  NP1     Bobbie                   Z99 
+0000160 030  VVD     felt                     X2.1 E1 X3 
+0000161 010  VVD     said                     Q2.1 
+0000161 020  NP1     Bobbie                   Z99 
+0000162 010  VVD     said                     Q2.1 
+0000162 020  NP1     Phyllis                  Z1f 
+0000163 010  VVD     said                     Q2.1 
+0000163 020  NP1     Phyllis                  Z1f 
+0000164 010  VVD     said                     Q2.1 
+0000164 020  NP1     Bobbie                   Z99 
+0000164 021  ,       ,                        
+0000164 030  RR      greatly                  A13.3 A5.1+ 
+0000164 040  JJ      shocked                  E5- S1.2.4- 
+0000165 010  VVD     said                     Q2.1 
+0000165 020  NP1     Phyllis                  Z1f 
+0000166 010  VVD     suggested                Q2.2 Q1.1 
+0000167 010  NP1     Peter                    Z1m 
+0000168 010  VVD     said                     Q2.1 
+0000168 020  NP1     Peter                    Z1m 
+0000168 021  ,       ,                        
+0000168 030  RR      downrightly              Z99 
+0000169 010  VVD     said                     Q2.1 
+0000169 020  NP1     Bobbie                   Z99 
+0000169 021  ,       ,                        
+0000169 030  RR      doubtfully               A7- 
+0000170 010  VVD     said                     Q2.1 
+0000170 020  APPGE   her                      Z8f 
+0000170 030  NN1     brother                  S4m S2.2m S9/S2.2m 
+0000171 010  VVD     warned                   X2.2+/A15- A1.3+ 
+0000171 020  NP1     Phyllis                  Z1f 
+0000172 010  VVD     said                     Q2.1 
+0000172 020  NP1     Peter                    Z1m 
+0000173 010  VVD     said                     Q2.1 
+0000173 020  NP1     Phyllis                  Z1f 
+0000174 010  VVD     said                     Q2.1 
+0000174 020  NP1     Bobbie                   Z99 
+0000175 010  VVD     said                     Q2.1 
+0000176 010  NP1     Bobbie                   Z99 
+0000177 010  PPH1    it                       Z8 
+0000177 020  VVD     said                     Q2.1 
+0000178 010  VVD     said                     Q2.1 
+0000178 020  NP1     Phyllis                  Z1f 
+0000179 010  VVD     said                     Q2.1 
+0000179 020  NP1     Peter                    Z1m 
+0000180 010  VVD     said                     Q2.1 
+0000180 020  NP1     Peter                    Z1m 
+0000181 010  VVD     said                     Q2.1 
+0000181 020  NP1     Roberta                  Z99 
+0000182 010  VVD     said                     Q2.1 
+0000182 020  NP1     Bobbie                   Z99 
+0000183 010  PPHS1   he                       Z8m 
+0000183 020  VVD     said                     Q2.1 
+0000184 010  PPHS1   he                       Z8m 
+0000184 020  VVD     said                     Q2.1 
+0000185 010  VVD     said                     Q2.1 
+0000185 020  AT      the                      Z5 
+0000185 030  JJ      old                      T3+ Z4 
+0000185 040  NN1     gentleman                S2.2m 
+0000186 010  VVD     said                     Q2.1 
+0000186 020  AT      the                      Z5 
+0000186 030  JJ      old                      T3+ Z4 
+0000186 040  NN1     gentleman                S2.2m 
+0000187 010  VVD     said                     Q2.1 
+0000187 020  NP1     Bobbie                   Z99 
+0000188 010  PPHS1   he                       Z8m 
+0000188 020  VVD     said                     Q2.1 
+0000188 030  II      to                       Z5 
+0000188 040  APPGE   her                      Z8f 
+0000189 010  JJ%     said                     Q1.1 Q2.1 
+0000189 020  NN1     Mother                   S4f A11.1+++ 
+0000190 010  PPHS1   she                      Z8f 
+0000190 020  VVD     said                     Q2.1 
+0000191 010  VVD     said                     Q2.1 
+0000191 020  NP1     Phyllis                  Z1f 
+0000191 021  ,       ,                        
+0000191 030  VVG     skipping                 M1 A1.9 K5.1 
+0000191 040  RR      joyfully                 E4.1+ 
+0000192 010  VVD     said                     Q2.1 
+0000192 020  NN1     Mother                   S4f A11.1+++ 
+0000193 010  VVD     said                     Q2.1 
+0000193 020  NP1     Perks                    A9-/N5.2+ 
+0000193 030  AT      the                      Z5 
+0000194 010  NP1     Porter                   I3.1/S2mf 
+0000195 010  VVD     said                     Q2.1 
+0000195 020  NP1     Bobbie                   Z99 
+0000196 010  VVD     said                     Q2.1 
+0000196 020  NP1     Phyllis                  Z1f 
+0000196 021  ,       ,                        
+0000197 010  RR      thoughtfully             A1.3+ X2.1 
+0000198 010  VVD     said                     Q2.1 
+0000198 020  NP1     Perks                    A9-/N5.2+ 
+0000199 010  VVD     said                     Q2.1 
+0000199 020  NP1     Phyllis                  Z1f 
+0000199 021  ,       ,                        
+0000199 030  II      in                       Z5 
+0000199 040  NN1     haste                    N3.8+ A1.3- 
+0000200 010  VVD     said                     Q2.1 
+0000200 020  NP1     Bobbie                   Z99 
+0000201 010  VVD     said                     Q2.1 
+0000201 020  NP1     Peter                    Z1m 
+0000201 021  ,       ,                        
+0000201 030  RR      grandly                  O4.2+ A11.1+ 
+0000202 010  VVD     said                     Q2.1 
+0000202 020  NP1     Peter                    Z1m 
+0000203 010  VVD     said                     Q2.1 
+0000203 020  NP1     Peter                    Z1m 
+0000204 010  VVD     said                     Q2.1 
+0000204 020  NP1     Bobbie                   Z99 
+0000205 010  VVD     said                     Q2.1 
+0000205 020  AT      the                      Z5 
+0000205 030  NN1     man                      S2.2m 
+0000206 010  VVD     said                     Q2.1 
+0000206 020  NP1     Peter                    Z1m 
+0000207 010  VVD     said                     Q2.1 
+0000207 020  NP1     Bobbie                   Z99 
+0000207 021  ,       ,                        
+0000207 030  JJ      breathless               B1/A12- X5.2+ 
+0000208 010  VVD     said                     Q2.1 
+0000208 020  NP1     Bobbie                   Z99 
+0000208 021  ,       ,                        
+0000208 030  RR      earnestly                A13.3 E4.1- 
+0000209 010  PPHS1   he                       Z8m 
+0000209 020  VVD     said                     Q2.1 
+0000210 010  VVD     said                     Q2.1 
+0000210 020  NP1     Peter                    Z1mf[i14.2.1 Z3c[i14.2.1 Z1m 
+0000211 010  NP1     Phyllis                  Z1mf[i14.2.2 Z3c[i14.2.2 Z1f 
+0000211 020  VVD     said                     Q2.1 
+0000211 030  RR      soothingly               Z99 
+0000212 010  VVD     said                     Q2.1 
+0000212 020  AT      the                      Z5 
+0000212 030  NN1     woman                    S2.1f 
+0000213 010  VVD     said                     Q2.1 
+0000213 020  NP1     Bobbie                   Z99 
+0000214 010  VVD     said                     Q2.1 
+0000214 020  AT      the                      Z5 
+0000214 030  NN1     woman                    S2.1f 
+0000215 010  PPHS1   he                       Z8m 
+0000215 020  VVD     shouted                  Q2.2/X3.2++ 
+0000215 030  II      to                       Z5 
+0000215 040  NP1     Bobbie                   Z99 
+0000216 010  VVD     said                     Q2.1 
+0000216 020  NP1     Bobbie                   Z99 
+0000216 021  ,       ,                        
+0000216 030  RR      quickly                  N3.8+ 
+0000217 010  VVD     said                     Q2.1 
+0000217 020  NP1     Peter                    Z1m 
+0000217 021  ,       ,                        
+0000217 030  RR      firmly                   A1.7+ S1.2.5+ A7+ 
+0000218 010  VVD     said                     Q2.1 
+0000218 020  NP1     Bobbie                   Z99 
+0000219 010  VVD     said                     Q2.1 
+0000219 020  NP1     Phyllis                  Z1f 
+0000219 021  ,       ,                        
+0000219 030  RR      reproachfully            G2.2- Q2.2 
+0000220 010  PPHS1   he                       Z8m 
+0000220 020  VHD     had                      Z5 A9+ A2.2 S4 
+0000220 030  VVN     said                     Q2.1 
+0000221 010  JJ%     said                     Q1.1 Q2.1 
+0000221 020  NN1     Mother                   S4f A11.1+++ 
+0000222 010  VVD     said                     Q2.1 
+0000222 020  NP1     Bobbie                   Z99 
+0000223 010  VVD     said                     Q2.1 
+0000223 020  NP1     Phyllis                  Z1f 
+0000224 010  VVD     said                     Q2.1 
+0000224 020  NP1     Peter                    Z1mf[i15.2.1 Z3c[i15.2.1 Z1m 
+0000225 010  NP1     Phyllis                  Z1mf[i15.2.2 Z3c[i15.2.2 Z1f 
+0000225 020  VVD     interrupted              Q2.2 X7- T2- 
+0000226 010  JJ%     said                     Q1.1 Q2.1 
+0000226 020  NN1     Mother                   S4f A11.1+++ 
+0000227 010  VVD     said                     Q2.1 
+0000227 020  NP1     Bobbie                   Z99 
+0000228 010  VVD     said                     Q2.1 
+0000228 020  NP1     Bobbie                   Z99 
+0000229 010  VVD     said                     Q2.1 
+0000229 020  NP1     Phyllis                  Z1f 
+0000230 010  VVD     said                     Q2.1 
+0000230 020  NN1     Mother                   S4f A11.1+++ 
+0000231 010  PPHS1   she                      Z8f 
+0000231 020  VVD     said                     Q2.1 
+0000232 010  JJ%     said                     Q1.1 Q2.1 
+0000232 020  NN1     Mother                   S4f A11.1+++ 
+0000233 010  VVD     said                     Q2.1 
+0000233 020  NP1     Bobbie                   Z99 
+0000234 010  VVD     said                     Q2.1 
+0000234 020  NP1     Phyllis                  Z1f 
+0000235 010  VVD     said                     Q2.1 
+0000235 020  NP1     Peter                    Z1m 
+0000236 010  VVD     said                     Q2.1 
+0000236 020  NP1     Peter                    Z1m 
+0000237 010  VVD     said                     Q2.1 
+0000237 020  NP1     Phyllis                  Z1f 
+0000238 010  VVD     said                     Q2.1 
+0000238 020  NN1     Mother                   S4f A11.1+++ 
+0000239 010  VVD     said                     Q2.1 
+0000239 020  NP1     Bobbie                   Z99 
+0000240 010  VVD     said                     Q2.1 
+0000240 020  NP1     Phyllis                  Z1f 
+0000241 010  VVD     cried                    E4.1- Q2.2 
+0000241 020  NP1     Peter                    Z1m 
+0000241 021  ,       ,                        
+0000241 030  RR      suddenly                 N3.8+ 
+0000242 010  VVD     said                     Q2.1 
+0000242 020  NP1     Peter                    Z1m 
+0000243 010  VVD     said                     Q2.1 
+0000243 020  NP1     Bobbie                   Z99 
+0000244 010  VVD     said                     Q2.1 
+0000244 020  AT      the                      Z5 
+0000244 030  JJ      old                      T3+ Z4 
+0000244 040  NN1     lady                     S2.1f S7.1+/S2.1f 
+0000245 010  VVD     said                     Q2.1 
+0000245 020  NN1     Mother                   S4f A11.1+++ 
+0000246 010  VVD     said                     Q2.1 
+0000246 020  NP1     Phyllis                  Z1f 
+0000247 010  VVD     said                     Q2.1 
+0000247 020  NN1     Mother                   S4f A11.1+++ 
+0000248 010  VVD     said                     Q2.1 
+0000248 020  NP1     Phyllis                  Z1f 
+0000249 010  PPHS1   she                      Z8f 
+0000249 020  VVD     said                     Q2.1 
+0000249 030  II      to                       Z5 
+0000249 040  NP1     Bobbie                   Z99 
+0000250 010  VVD     said                     Q2.1 
+0000250 020  NP1     Peter                    Z1m 
+0000251 010  VVD     said                     Q2.1 
+0000251 020  PN1     everybody                Z8/N5.1+c 
+0000252 010  PPHS1   she                      Z8f 
+0000252 020  VVD     said                     Q2.1 
+0000253 010  VVD     whispered                Q2.1/X3.2- 
+0000253 020  NP1     Bobbie                   Z99 
+0000254 010  VVD     said                     Q2.1 
+0000254 020  NNB     Mrs.                     Z1f[i17.2.1 Z1m[i16.2.1 
+0000254 030  NP1     Perks                    Z1f[i17.2.2 Z1m[i16.2.2 
+0000255 010  PPHS1   he                       Z8m 
+0000255 020  VVD     said                     Q2.1 
+0000256 010  VVD     said                     Q2.1 
+0000256 020  NNB     Mrs.                     Z1f[i19.2.1 Z1m[i18.2.1 
+0000256 030  NP1     Perks                    Z1f[i19.2.2 Z1m[i18.2.2 
+0000257 010  VVD     said                     Q2.1 
+0000257 020  NP1     Perks                    A9-/N5.2+ 
+0000257 021  ,       ,                        
+0000257 030  RR      firmly                   A1.7+ S1.2.5+ A7+ 
+0000258 010  VVD     said                     Q2.1 
+0000258 020  JJ      poor                     I1.1- A5.1- N5- E4.1- X9.1- 
+0000258 030  NNB     Mrs                      Z1f[i22.2.1 Z1f[i21.2.1 Z1m[i20.2.1 
+0000258 040  NP1     Perks                    Z1f[i22.2.2 Z1f[i21.2.2 Z1m[i20.2.2 
+0000259 010  VVD     said                     Q2.1 
+0000259 020  AT      the                      Z5 
+0000259 030  JJ      angry                    E3- W4 
+0000259 040  NP1     Perks                    A9-/N5.2+ 
+0000260 010  VVD     said                     Q2.1 
+0000260 020  NP1     Perks                    A9-/N5.2+ 
+0000261 010  VVD     said                     Q2.1 
+0000261 020  NP1     Phyllis                  Z1f 
+0000262 010  VVD     said                     Q2.1 
+0000262 020  NP1     Perks                    A9-/N5.2+ 
+0000263 010  VVD     said                     Q2.1 
+0000263 020  NP1     Perks                    A9-/N5.2+ 
+0000264 010  VVD     said                     Q2.1 
+0000264 020  NP1     Peter                    Z1m 
+0000265 010  PPHS1   she                      Z8f 
+0000265 020  VVD     said                     Q2.1 
+0000266 010  VVD     said                     Q2.1 
+0000266 020  NP1     Bobbie                   Z99 
+0000266 021  ,       ,                        
+0000266 030  RR      desperately              A13.3 X5.2+ 
+0000267 010  NP1     Bobbie                   Z99 
+0000267 020  VVD     went                     T2++[i23.2.1 M1[i23.2.1 Q2.1/N5+[i23.2.1 A1.1.1[i23.2.1 M1 A2.1+ A1.1.1 A9- A1.8+ Q2.1 N6+ I2.2 A1.1.2 T2- S3.2 A6.3+ B2-/X1% B1% 
+0000267 030  RP@     on                       T2++[i23.2.2 M1[i23.2.2 Q2.1/N5+[i23.2.2 A1.1.1[i23.2.2 M6 A1.1.1 
+0000267 040  RR      desperately              A13.3 X5.2+ 
+0000268 010  VVD     said                     Q2.1 
+0000268 020  NP1     Perks                    A9-/N5.2+ 
+0000269 010  VVD     said                     Q2.1 
+0000269 020  NP1     Peter                    Z1m 
+0000270 010  VVD     whined                   X3.2 Q2.2 
+0000270 020  NP1     Phyllis                  Z1f 
+0000271 010  VVD     said                     Q2.1 
+0000271 020  NP1     Perks                    A9-/N5.2+ 
+0000272 010  VVD     said                     Q2.1 
+0000272 020  NP1     Bobbie                   Z1mf[i24.2.1 Z3c[i24.2.1 
+0000273 010  NP1     Bobbie                   Z1mf[i24.2.2 Z3c[i24.2.2 
+0000273 020  VVD     added                    N5+/A2.1 N2 A1.8+ 
+0000274 010  VVD     said                     Q2.1 
+0000274 020  NNB     Mrs                      Z1f[i27.2.1 Z1f[i26.2.1 Z1m[i25.2.1 
+0000274 030  NP1     Perks                    Z1f[i27.2.2 Z1f[i26.2.2 Z1m[i25.2.2 
+0000274 031  ,       ,                        
+0000274 040  RR      firmly                   A1.7+ S1.2.5+ A7+ 
+0000275 010  VVD     said                     Q2.1 
+0000275 020  NP1     Bobbie                   Z99 
+0000275 021  ,       ,                        
+0000275 030  II      in                       Z5 
+0000275 040  NN1     haste                    N3.8+ A1.3- 
+0000276 010  VVD     said                     Q2.1 
+0000276 020  NP1     Peter                    Z1m 
+0000277 010  VVD     said                     Q2.1 
+0000277 020  NP1     Perks                    A9-/N5.2+ 
+0000278 010  VVD     said                     Q2.1 
+0000278 020  NNB     Mrs.                     Z1f[i29.2.1 Z1m[i28.2.1 
+0000278 030  NP1     Perks                    Z1f[i29.2.2 Z1m[i28.2.2 
+0000279 010  VVD     said                     Q2.1 
+0000279 020  NP1     Perks                    A9-/N5.2+ 
+0000279 021  ,       ,                        
+0000279 030  RR      firmly                   A1.7+ S1.2.5+ A7+ 
+0000280 010  VVD     said                     Q2.1 
+0000280 020  NP1     Bobbie                   Z99 
+0000281 010  VVD     said                     Q2.1 
+0000281 020  APPGE   his                      Z8m 
+0000281 030  NN1     wife                     S4f 
+0000282 010  VVD     said                     Q2.1 
+0000282 020  NP1     Perks                    A9-/N5.2+ 
+0000282 021  ,       ,                        
+0000282 030  RR      reflectively             X2.1 
+0000283 010  VVD     said                     Q2.1 
+0000283 020  NNB     Mrs.                     Z1f[i31.2.1 Z1m[i30.2.1 
+0000283 030  NP1     Perks                    Z1f[i31.2.2 Z1m[i30.2.2 
+0000284 010  VVD     said                     Q2.1 
+0000284 020  AT      the                      Z5 
+0000284 030  NN1     clergyman                S9/S2.2m 
+0000285 010  VVD     said                     Q2.1 
+0000285 020  NP1     Bobbie                   Z99 
+0000286 010  VVD     said                     Q2.1 
+0000286 020  NP1     Bobbie                   Z99 
+0000287 010  VVD     said                     Q2.1 
+0000287 020  NP1     Bobbie                   Z99 
+0000288 010  VVD     said                     Q2.1 
+0000288 020  NN1     Mother                   S4f A11.1+++ 
+0000289 010  PPHS1   she                      Z8f 
+0000289 020  VVD     said                     Q2.1 
+0000290 010  JJ%     said                     Q1.1 Q2.1 
+0000290 020  NN1     Mother                   S4f A11.1+++ 
+0000291 010  PPHS1   she                      Z8f 
+0000291 020  VVD     told                     Q2.1 S7.1+/Q2.2 X3 A10+ 
+0000291 030  PPX1    herself                  Z8f 
+0000292 010  VVD     said                     Q2.1 
+0000292 020  NN1     Mother                   S4f A11.1+++ 
+0000293 010  PPHS1   she                      Z8f 
+0000293 020  VVD     said                     Q2.1 
+0000294 010  VVD     said                     Q2.1 
+0000294 020  NP1     Perks                    A9-/N5.2+ 
+0000295 010  VVD     said                     Q2.1 
+0000295 020  NP1     Bobbie                   Z99 
+0000295 021  ,       ,                        
+0000295 030  II      in                       E4.1-[i32.2.1 Z5 
+0000295 040  NN2     tears                    E4.1-[i32.2.2 B1 O4.2- 
+0000296 010  VVD     said                     Q2.1 
+0000296 020  NP1     Peter                    Z1m 
+0000296 021  ,       ,                        
+0000296 030  RR      firmly                   A1.7+ S1.2.5+ A7+ 
+0000297 010  VVD     said                     Q2.1 
+0000297 020  NP1     Peter                    Z1m 
+0000298 010  VVD     said                     Q2.1 
+0000298 020  NP1     Peter                    Z1m 
+0000298 030  RR      unexpectedly             X2.6- 
+0000299 010  VVD     said                     Q2.1 
+0000299 020  NP1     Bobbie                   Z99 
+0000300 010  VVD     said                     Q2.1 
+0000300 020  NP1     Peter                    Z1m 
+0000300 021  ,       ,                        
+0000300 030  RR      magnanimously            Z99 
+0000301 010  VVD     said                     Q2.1 
+0000301 020  NP1     Phyllis                  Z1f 
+0000302 010  VVD     said                     Q2.1 
+0000302 020  NP1     Bobbie                   Z99 
+0000303 010  VVD     said                     Q2.1 
+0000303 020  PPHS1   he                       Z8m 
+0000304 010  VVD     said                     Q2.1 
+0000304 020  NP1     Phyllis                  Z1f 
+0000304 030  II      to                       Z5 
+0000304 040  NP1     Peter                    Z1m 
+0000305 010  VVD     said                     Q2.1 
+0000305 020  NP1     Peter                    Z1m 
+0000306 010  CC      or                       Z5 
+0000307 010  CC      or                       Z5 
+0000308 010  CC      and                      Z5 
+0000309 010  VVD     said                     Q2.1 
+0000309 020  NN1     Mother                   S4f A11.1+++ 
+0000310 010  VVD     said                     Q2.1 
+0000310 020  NP1     Bobbie                   Z99 
+0000311 010  VVD     cried                    E4.1- Q2.2 
+0000311 020  NP1     Bobbie                   Z99 
+0000312 010  VVD     said                     Q2.1 
+0000312 020  NNB     Mother                   Z1f[i33.2.1 
+0000313 010  NP1     Mother                   Z1f[i33.2.2 
+0000313 020  VVD     said                     Q2.1 
+0000313 030  RR      hotly                    E3- N3.3- 
+0000314 010  VVD     said                     Q2.1 
+0000314 020  NN1     Mother                   S4f A11.1+++ 
+0000314 021  ,       ,                        
+0000314 030  RG      very                     A13.3 
+0000314 040  RR      bitterly                 A13.3 E3- 
+0000315 010  PPHS1   she                      Z8f 
+0000315 020  VVD     spoke                    Q2.1 
+0000315 030  RG      very                     A13.3 
+0000315 040  RR      softly                   E3+ X3.2 O4.3 
+0000316 010  VVD     said                     Q2.1 
+0000316 020  NP1     Bobbie                   Z99 
+0000317 010  VVD     said                     Q2.1 
+0000317 020  NN1     Mother                   S4f A11.1+++ 
+0000318 010  VVD     said                     Q2.1 
+0000318 020  NP1     Bobbie                   Z99 
+0000319 010  VVD     said                     Q2.1 
+0000319 020  NP1     Peter                    Z1m 
+0000320 010  VVD     said                     Q2.1 
+0000320 020  NP1     Phyllis                  Z1f 
+0000321 010  VVD     said                     Q2.1 
+0000321 020  NP1     Bobbie                   Z99 
+0000321 021  ,       ,                        
+0000321 030  RR      vaguely                  A4.2- A13.5 
+0000322 010  VVD     said                     Q2.1 
+0000322 020  NP1     Phyllis                  Z1f 
+0000323 010  VVD     retorted                 Q2.2 
+0000323 020  NP1     Phyllis                  Z1f 
+0000324 010  VVD     rejoined                 S5+/N6+ A1.8+/N6+ 
+0000324 020  NP1     Peter                    Z1m 
+0000325 010  VVD     said                     Q2.1 
+0000325 020  NP1     Bobbie                   Z99 
+0000326 010  VVD     interrupted              Q2.2 X7- T2- 
+0000326 020  NP1     Bobbie                   Z99 
+0000327 010  VVD     said                     Q2.1 
+0000327 020  NP1     Peter                    Z1m 
+0000328 010  VVD     said                     Q2.1 
+0000328 020  AT      the                      Z5 
+0000328 030  JJT     oldest                   T3+++ 
+0000328 040  NN1     workman                  I3.1/S2.2m 
+0000329 010  VVD     said                     Q2.1 
+0000329 020  AT      the                      Z5 
+0000329 030  JJT     oldest                   T3+++ 
+0000329 040  NN1     workman                  I3.1/S2.2m 
+0000330 010  VVD     said                     Q2.1 
+0000330 020  AT      the                      Z5 
+0000330 030  NN1     foreman                  S7.1+/I3.1/S2.2m S7.1+/G2.1/S2.2m 
+0000331 010  VVD     said                     Q2.1 
+0000331 020  NP1     Peter                    Z1m 
+0000332 010  VVD     panted                   B1 
+0000332 020  NP1     Peter                    Z1mf[i34.2.1 Z3c[i34.2.1 Z1m 
+0000333 010  NP1     Peter                    Z1mf[i34.2.2 Z3c[i34.2.2 Z1m 
+0000333 020  VVD     panted                   B1 
+0000334 010  VVD     said                     Q2.1 
+0000334 020  NP1     Phyllis                  Z1f 
+0000335 010  VVD     said                     Q2.1 
+0000335 020  NP1     Peter                    Z1m 
+0000336 010  VVD     said                     Q2.1 
+0000336 020  NP1     Bobbie                   Z99 
+0000337 010  VVD     said                     Q2.1 
+0000337 020  NP1     Phyllis                  Z1f 
+0000338 010  VVD     said                     Q2.1 
+0000338 020  NP1     Phyllis                  Z1f 
+0000339 010  VVD     said                     Q2.1 
+0000339 020  NP1     Bobbie                   Z99 
+0000340 010  VVD     said                     Q2.1 
+0000340 020  NP1     Peter                    Z1m 
+0000341 010  VVD     said                     Q2.1 
+0000341 020  NP1     Bobbie                   Z99 
+0000342 010  VVD     said                     Q2.1 
+0000342 020  NP1     Phyllis                  Z1f 
+0000343 010  VVD     said                     Q2.1 
+0000343 020  NP1     Phyllis                  Z1f 
+0000344 010  VVD     said                     Q2.1 
+0000344 020  NP1     Peter                    Z1m 
+0000345 010  VVD     replied                  Q2.2 Q1.1 
+0000345 020  NP1     Peter                    Z1m 
+0000345 021  ,       ,                        
+0000345 030  RR      impressively             O4.2+ 
+0000346 010  VVD     pleaded                  Q2.2 G2.1/Q2.2 
+0000346 020  NP1     Phyllis                  Z1f 
+0000347 010  VVD     said                     Q2.1 
+0000347 020  NP1     Peter                    Z1m 
+0000348 010  PPHS1   she                      Z8f 
+0000348 020  VVD     said                     Q2.1 
+0000349 010  VVD     said                     Q2.1 
+0000349 020  NP1     Peter                    Z1m 
+0000350 010  VVD     said                     Q2.1 
+0000350 020  NP1     Bobbie                   Z99 
+0000351 010  VVD     said                     Q2.1 
+0000351 020  NP1     Phyllis                  Z1f 
+0000352 010  VVD     said                     Q2.1 
+0000352 020  NP1     Peter                    Z1m 
+0000353 010  VVD     said                     Q2.1 
+0000353 020  NP1     Peter                    Z1m 
+0000354 010  VVD     said                     Q2.1 
+0000354 020  NP1     Bobbie                   Z99 
+0000354 021  ,       ,                        
+0000354 030  RR      gently                   E3+ 
+0000355 010  NP1     Peter                    Z1m 
+0000355 020  VVD     whispered                Q2.1/X3.2- 
+0000356 010  VVD     said                     Q2.1 
+0000356 020  AT      the                      Z5 
+0000356 030  NN1     boy                      S2.2m L2m@ 
+0000356 031  ,       ,                        
+0000356 040  RR      indignantly              E3- 
+0000357 010  VVD     said                     Q2.1 
+0000357 020  NP1     Bobbie                   Z99 
+0000357 021  ,       ,                        
+0000357 030  RR      quickly                  N3.8+ 
+0000358 010  VVD     said                     Q2.1 
+0000358 020  NP1     Bobbie                   Z99 
+0000359 010  VVD     said                     Q2.1 
+0000359 020  NP1     Bobbie                   Z99 
+0000360 010  PPHS1   she                      Z8f 
+0000360 020  VVD     told                     Q2.1 S7.1+/Q2.2 X3 A10+ 
+0000360 030  PPX1    herself                  Z8f 
+0000361 010  PPHS1   she                      Z8f 
+0000361 020  VVD     said                     Q2.1 
+0000362 010  VVD     said                     Q2.1 
+0000362 020  NP1     Bobbie                   Z99 
+0000363 010  VVD     said                     Q2.1 
+0000363 020  NP1     Jim                      Z1m 
+0000364 010  PPHS1   she                      Z8f 
+0000364 020  VVD     explained                Q2.2/A7+ A2.2 
+0000365 010  PPHS1   he                       Z8m 
+0000365 020  VVD     said                     Q2.1 
+0000366 010  VVD     said                     Q2.1 
+0000366 020  NP1     Bobbie                   Z99 
+0000367 010  VVD     said                     Q2.1 
+0000367 020  PPHS1   he                       Z8m 
+0000368 010  VVD     said                     Q2.1 
+0000368 020  NP1     Peter                    Z1m 
+0000369 010  VVD     said                     Q2.1 
+0000369 020  NP1     Peter                    Z1m 
+0000369 021  ,       ,                        
+0000369 030  RR      suddenly                 N3.8+ 
+0000370 010  VVD     said                     Q2.1 
+0000370 020  PPHS1   she                      Z8f 
+0000371 010  VVD     said                     Q2.1 
+0000371 020  NP1     Peter                    Z1m 
+0000372 010  VVD     said                     Q2.1 
+0000372 020  NP1     Peter                    Z1m 
+0000373 010  VVD     cried                    E4.1- Q2.2 
+0000373 020  NP1     Peter                    Z1m 
+0000374 010  VVD     said                     Q2.1 
+0000374 020  NP1     Phyllis                  Z1f 
+0000375 010  PPHS1   he                       Z8m 
+0000375 020  VVD     said                     Q2.1 
+0000376 010  VVD     said                     Q2.1 
+0000376 020  NP1     Phyllis                  Z1f 
+0000377 010  VVD     said                     Q2.1 
+0000377 020  NP1     Peter                    Z1m 
+0000378 010  VVD     said                     Q2.1 
+0000378 020  AT      the                      Z5 
+0000378 030  NN1     man                      S2.2m 
+0000379 010  PPHS1   she                      Z8f 
+0000379 020  VVD     said                     Q2.1 
+0000380 010  VVD     said                     Q2.1 
+0000380 020  AT      the                      Z5 
+0000380 030  NN1     man                      S2.2m 
+0000381 010  PPHS1   she                      Z8f 
+0000381 020  VVD     said                     Q2.1 
+0000382 010  VVD     said                     Q2.1 
+0000382 020  AT      the                      Z5 
+0000382 030  NN1     bailiff                  G2.1/I3.2/S2mf 
+0000383 010  PPHS1   she                      Z8f 
+0000383 020  VVD     cried                    E4.1- Q2.2 
+0000384 010  VVD     said                     Q2.1 
+0000384 020  NP1     Bobbie                   Z99 
+0000385 010  VVD     said                     Q2.1 
+0000385 020  NN1     Mother                   S4f A11.1+++ 
+0000386 010  VVD     said                     Q2.1 
+0000386 020  NN1     Mother                   S4f A11.1+++ 
+0000387 010  VVD     said                     Q2.1 
+0000387 020  NP1     Peter                    Z1m 
+0000388 010  VVD     said                     Q2.1 
+0000388 020  NP1     Peter                    Z1m 
+0000389 010  VVD     said                     Q2.1 
+0000389 020  NP1     Peter                    Z1m 
+0000390 010  VVD     said                     Q2.1 
+0000390 020  NP1     Peter                    Z1m 
+0000391 010  VVD     said                     Q2.1 
+0000391 020  NP1     Bobbie                   Z99 
+0000392 010  VVD     said                     Q2.1 
+0000392 020  NP1     Peter                    Z1m 
+0000393 010  PPHS1   he                       Z8m 
+0000393 020  VVD     said                     Q2.1 
+0000394 010  VVD     said                     Q2.1 
+0000394 020  NP1     Bobbie                   Z99 
+0000395 010  VVD     said                     Q2.1 
+0000395 020  NP1     Phyllis                  Z1f 
+0000396 010  VVD     said                     Q2.1 
+0000396 020  NP1     Bobbie                   Z99 
+0000397 010  VVD     said                     Q2.1 
+0000397 020  NP1     Peter                    Z1mf[i35.2.1 Z3c[i35.2.1 Z1m 
+0000398 010  NP1     Peter                    Z1mf[i35.2.2 Z3c[i35.2.2 Z1m 
+0000398 020  VVD     liked                    E2+ 
+0000398 030  AT      the                      Z5 
+0000399 010  PPHS1   he                       Z8m 
+0000399 020  VVD     added                    N5+/A2.1 N2 A1.8+ 
+0000400 010  VVD     said                     Q2.1 
+0000400 020  NP1     Peter                    Z1m 
+0000400 021  ,       ,                        
+0000400 030  VVD@    interested               X5.2+ 
+0000401 010  AT      the                      Z5 
+0000401 020  NN1     Doctor                   B3/I3.2/S2mf P1/S2mf 
+0000401 030  VVD     went                     T2++[i36.2.1 M1[i36.2.1 Q2.1/N5+[i36.2.1 A1.1.1[i36.2.1 M1 A2.1+ A1.1.1 A9- A1.8+ Q2.1 N6+ I2.2 A1.1.2 T2- S3.2 A6.3+ B2-/X1% B1% 
+0000401 040  RP@     on                       T2++[i36.2.2 M1[i36.2.2 Q2.1/N5+[i36.2.2 A1.1.1[i36.2.2 M6 A1.1.1 
+0000402 010  VVD     said                     Q2.1 
+0000402 020  NP1     Bobbie                   Z99 
+0000403 010  VVD     said                     Q2.1 
+0000403 020  NP1     Phyllis                  Z1f 
+0000403 021  ,       ,                        
+0000403 030  RR      doubtfully               A7- 
+0000404 010  VVD     said                     Q2.1 
+0000404 020  NP1     Bobbie                   Z99 
+0000405 010  VVD     said                     Q2.1 
+0000405 020  NP1     Peter                    Z1m 
+0000405 021  ,       ,                        
+0000405 030  RR      firmly                   A1.7+ S1.2.5+ A7+ 
+0000406 010  VVD     said                     Q2.1 
+0000406 020  NN1     Mother                   S4f A11.1+++ 
+0000406 021  ,       ,                        
+0000406 030  RR      absently                 X5.1- 
+0000407 010  VVD     said                     Q2.1 
+0000407 020  NN1     Mother                   S4f A11.1+++ 
+0000407 021  ,       ,                        
+0000407 030  VVG     laughing                 E4.1+/X3.2 
+0000408 010  NP1     Peter                    Z1m 
+0000408 020  VVD     went                     T2++[i37.2.1 M1[i37.2.1 Q2.1/N5+[i37.2.1 A1.1.1[i37.2.1 M1 A2.1+ A1.1.1 A9- A1.8+ Q2.1 N6+ I2.2 A1.1.2 T2- S3.2 A6.3+ B2-/X1% B1% 
+0000408 030  RP@     on                       T2++[i37.2.2 M1[i37.2.2 Q2.1/N5+[i37.2.2 A1.1.1[i37.2.2 M6 A1.1.1 
+0000409 010  VVD     said                     Q2.1 
+0000409 020  NNB     Mother                   Z1f[i38.2.1 
+0000410 010  NP1     Peter                    Z1f[i38.2.2 Z1m 
+0000410 020  VVD     confessed                Q2.2/A10+ 
+0000411 010  JJ%     said                     Q1.1 Q2.1 
+0000411 020  NN1     Mother                   S4f A11.1+++ 
+0000412 010  VVD     said                     Q2.1 
+0000412 020  NP1     Peter                    Z1m 
+0000412 021  ,       ,                        
+0000412 030  RR      musingly                 Z99 
+0000413 010  NP1     Peter                    Z1m 
+0000413 020  VVD     went                     T2++[i39.2.1 M1[i39.2.1 Q2.1/N5+[i39.2.1 A1.1.1[i39.2.1 M1 A2.1+ A1.1.1 A9- A1.8+ Q2.1 N6+ I2.2 A1.1.2 T2- S3.2 A6.3+ B2-/X1% B1% 
+0000413 030  RP@     on                       T2++[i39.2.2 M1[i39.2.2 Q2.1/N5+[i39.2.2 A1.1.1[i39.2.2 M6 A1.1.1 
+0000413 040  RR      slowly                   N3.8- 
+0000414 010  PPHS1   she                      Z8f 
+0000414 020  VVD     said                     Q2.1 
+0000415 010  JJ%     said                     Q1.1 Q2.1 
+0000415 020  NN1     Mother                   S4f A11.1+++ 
+0000416 010  VVD     said                     Q2.1 
+0000416 020  NP1     Peter                    Z1m 
+0000416 030  RR21    at                       N4[i40.2.1 
+0000416 040  RR22    last                     N4[i40.2.2 
+0000417 010  VVD     said                     Q2.1 
+0000417 020  NP1     Phyllis                  Z1f 
+0000418 010  VVD     said                     Q2.1 
+0000418 020  NP1     Peter                    Z1m 
+0000418 021  ,       ,                        
+0000418 030  RR      briskly                  N3.8+ 
+0000419 010  PPHS1   she                      Z8f 
+0000419 020  VVD     said                     Q2.1 
+0000420 010  VVD     said                     Q2.1 
+0000420 020  NP1     Peter                    Z1m 
+0000421 010  VVD     said                     Q2.1 
+0000421 020  NP1     Peter                    Z1m 
+0000422 010  VVD     said                     Q2.1 
+0000422 020  NN1     Mother                   S4f A11.1+++ 
+0000422 021  ,       ,                        
+0000422 030  VVG     smiling                  E4.1+ 
+0000423 010  VVD     said                     Q2.1 
+0000423 020  NP1     Phyllis                  Z1f 
+0000424 010  VVD     said                     Q2.1 
+0000424 020  NP1     Peter                    Z1m 
+0000425 010  PPHS1   he                       Z8m 
+0000425 020  VVD     said                     Q2.1 
+0000426 010  VVD     said                     Q2.1 
+0000426 020  NP1     Phyllis                  Z1f 
+0000426 021  ,       ,                        
+0000426 030  RR      blankly                  X5.2- X2.2- 
+0000427 010  VVD     said                     Q2.1 
+0000427 020  AT      the                      Z5 
+0000427 030  JJ      old                      T3+ Z4 
+0000428 010  NN1     gentleman                S2.2m 
+0000429 010  VVD     said                     Q2.1 
+0000429 020  AT      the                      Z5 
+0000429 030  JJ      old                      T3+ Z4 
+0000429 040  NN1     gentleman                S2.2m 
+0000430 010  VVD     said                     Q2.1 
+0000430 020  NN1     Mother                   S4f A11.1+++ 
+0000431 010  VVD     said                     Q2.1 
+0000431 020  NP1     Peter                    Z1m 
+0000432 010  VVD     said                     Q2.1 
+0000432 020  NP1     Bobbie                   Z99 
+0000433 010  PPHS1   he                       Z8m 
+0000433 020  VVD     said                     Q2.1 
+0000434 010  PPHS1   he                       Z8m 
+0000434 020  VVD     said                     Q2.1 
+0000435 010  VVD     said                     Q2.1 
+0000435 020  NP1     Bobbie                   Z99 
+0000435 021  ,       ,                        
+0000435 030  RR      dreamily                 Z99 
+0000436 010  VVD     said                     Q2.1 
+0000436 020  NP1     Bobbie                   Z99 
+0000437 010  VVD     said                     Q2.1 
+0000437 020  NP1     Peter                    Z1m 
+0000438 010  VVD     explained                Q2.2/A7+ A2.2 
+0000438 020  NP1     Phyllis                  Z1f 
+0000439 010  VVD     said                     Q2.1 
+0000439 020  NP1     Peter                    Z1m 
+0000440 010  VVD     said                     Q2.1 
+0000440 020  NP1     Peter                    Z1mf[i41.2.1 Z3c[i41.2.1 Z1m 
+0000441 010  NP1     Bobbie                   Z1mf[i41.2.2 Z3c[i41.2.2 
+0000441 020  VVD     answered                 Q2.2 S1.1.1 
+0000442 010  VVD     said                     Q2.1 
+0000442 020  NP1     Peter                    Z1m 
+0000443 010  VVD     said                     Q2.1 
+0000443 020  NN1     Mother                   S4f A11.1+++ 
+0000444 010  PPHS1   she                      Z8f 
+0000444 020  VVD     said                     Q2.1 
+0000445 010  CC      and                      Z5 
+0000445 011  ,       ,                        
+0000445 020  CS      after                    Z5 
+0000445 030  AT1     a                        Z5 
+0000445 040  NN1     pause                    T2-/T1.3 
+0000446 010  PPHS1   he                       Z8m 
+0000446 020  VVD     said                     Q2.1 
+0000447 010  VVD     said                     Q2.1 
+0000447 020  NP1     Bobbie                   Z99 
+0000448 010  PPHS1   he                       Z8m 
+0000448 020  VVD     said                     Q2.1 
+0000449 001  NULL    **8;7;text               

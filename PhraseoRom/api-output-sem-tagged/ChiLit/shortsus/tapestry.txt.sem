@@ -1,0 +1,372 @@
+0000001 001  NULL    **6;0;START              
+0000001 002  -----   -----                    
+0000002 010  PPHS1   she                      Z8f 
+0000002 020  VVD     said                     Q2.1 
+0000003 010  PPHS1   she                      Z8f 
+0000003 020  VVD     cried                    E4.1- Q2.2 
+0000004 010  PPHS1   she                      Z8f 
+0000004 020  VVD     said                     Q2.1 
+0000004 030  II      by                       S5-[i1.2.1 Z5 
+0000004 040  PPX1    herself                  S5-[i1.2.2 Z8f 
+0000005 010  VVD     repeated                 N6+ Q2.1/N6+ F1/B1@ 
+0000005 020  APPGE   her                      Z8f 
+0000006 010  NN1     father                   S4m S9/S2.2m 
+0000007 010  PPHS1   he                       Z8m 
+0000007 020  VVD     continued                T2++ 
+0000008 010  VVD     exclaimed                Q2.2 
+0000008 020  NP1     Marcelline               Z99 
+0000009 010  VVD     cried                    E4.1- Q2.2 
+0000009 020  NP1     Jeanne                   Z99 
+0000010 010  VVD     repeated                 N6+ Q2.1/N6+ F1/B1@ 
+0000010 020  NP1     Hugh                     Z1m 
+0000011 010  VVD     said                     Q2.1 
+0000011 020  NP1     Jeanne                   Z99 
+0000012 010  PPHS1   he                       Z8m 
+0000012 020  VVD     exclaimed                Q2.2 
+0000013 010  PPHS1   she                      Z8f 
+0000013 020  VVD     said                     Q2.1 
+0000014 010  VVD     said                     Q2.1 
+0000014 020  NP1     Hugh                     Z1m 
+0000015 010  PPHS1   he                       Z8m 
+0000015 020  VVD     said                     Q2.1 
+0000016 010  PPHS1   she                      Z8f 
+0000016 020  VVD     went                     T2++[i2.2.1 M1[i2.2.1 Q2.1/N5+[i2.2.1 A1.1.1[i2.2.1 M1 A2.1+ A1.1.1 A9- A1.8+ Q2.1 N6+ I2.2 A1.1.2 T2- S3.2 A6.3+ B2-/X1% B1% 
+0000016 030  RP@     on                       T2++[i2.2.2 M1[i2.2.2 Q2.1/N5+[i2.2.2 A1.1.1[i2.2.2 M6 A1.1.1 
+0000017 010  PPHS1   she                      Z8f 
+0000017 020  VVD@    called                   Q2.2 S1.1.1 Q1.3 S9% 
+0000017 030  RR      softly                   E3+ X3.2 O4.3 
+0000018 010  PPHS1   she                      Z8f 
+0000018 020  VVD     said                     Q2.1 
+0000019 010  PPHS1   she                      Z8f 
+0000019 020  VVD     said                     Q2.1 
+0000020 010  VVD     said                     Q2.1 
+0000020 020  NP1     Hugh                     Z1m 
+0000021 010  VVD     said                     Q2.1 
+0000021 020  NP1     Hugh                     Z1m 
+0000021 021  ,       ,                        
+0000021 030  RR      meditatively             Z99 
+0000022 010  PPHS1   she                      Z8f 
+0000022 020  VVD     said                     Q2.1 
+0000022 030  RR      solemnly                 O4.2 A5.2+ 
+0000023 010  VVD     said                     Q2.1 
+0000023 020  NP1     Jeanne                   Z99 
+0000024 010  VVD     said                     Q2.1 
+0000024 020  NP1     Hugh                     Z1m 
+0000025 010  VVD     said                     Q2.1 
+0000025 020  NP1     Jeanne                   Z99 
+0000026 010  PPHS1   she                      Z8f 
+0000026 020  VVD     thought                  X2.1 
+0000027 010  VVD     said                     Q2.1 
+0000027 020  NP1     Hugh                     Z1m 
+0000028 010  VVD     said                     Q2.1 
+0000028 020  NP1     Jeanne                   Z99 
+0000029 010  VVD     said                     Q2.1 
+0000029 020  NP1     Jeanne                   Z99 
+0000030 010  VVD     said                     Q2.1 
+0000030 020  NP1     Jeanne                   Z99 
+0000031 010  VVD     said                     Q2.1 
+0000031 020  NP1     Hugh                     Z1m 
+0000031 021  ,       ,                        
+0000031 030  RR      consideringly            Z99 
+0000032 010  VVD     said                     Q2.1 
+0000032 020  NP1     Jeanne                   Z99 
+0000032 021  ,       ,                        
+0000032 030  RR      indignantly              E3- 
+0000033 010  VVD     said                     Q2.1 
+0000033 020  NP1     Jeanne                   Z99 
+0000034 010  VVD     said                     Q2.1 
+0000034 020  NP1     Jeanne                   Z99 
+0000035 010  VVD     said                     Q2.1 
+0000035 020  NP1     Hugh                     Z1m 
+0000036 010  VVD     said                     Q2.1 
+0000036 020  NP1     Hugh                     Z1m 
+0000037 010  VVD     exclaimed                Q2.2 
+0000037 020  NP1     Hugh                     Z1m 
+0000038 010  PPHS1   she                      Z8f 
+0000038 020  VVD     said                     Q2.1 
+0000039 010  VVD     said                     Q2.1 
+0000039 020  NP1     Hugh                     Z1m 
+0000039 021  ,       ,                        
+0000039 030  RG      rather                   A13.5 
+0000039 040  JJ@     mortified                E5- 
+0000040 010  VVD     said                     Q2.1 
+0000040 020  NP1     Jeanne                   Z99 
+0000041 010  VVD     repeated                 N6+ Q2.1/N6+ F1/B1@ 
+0000041 020  NP1     Hugh                     Z1m 
+0000041 030  II      in                       Z5 
+0000041 040  NN1     amazement                X2.6- 
+0000042 010  VVD     said                     Q2.1 
+0000042 020  NP1     Hugh                     Z1m 
+0000043 010  PPHS1   he                       Z8m 
+0000043 020  VVD     added                    N5+/A2.1 N2 A1.8+ 
+0000043 021  ,       ,                        
+0000043 030  RG      rather                   A13.5 
+0000043 040  RR      timidly                  E5- S1.2.3- 
+0000044 010  VVD     observed                 X3.4 Q2.1/X2.4 X2.1 G2.1+ 
+0000044 020  AT      the                      Z5 
+0000044 030  NN1     raven                    L2 
+0000044 031  ,       ,                        
+0000044 040  RR      drily                    Z99 
+0000045 010  PPHS1   he                       Z8m 
+0000045 020  VVD     said                     Q2.1 
+0000045 030  II      to                       Z5 
+0000045 040  PPX1    himself                  Z8m 
+0000046 010  VVD     said                     Q2.1 
+0000046 020  AT      the                      Z5 
+0000046 030  NN1     raven                    L2 
+0000047 010  VVD     said                     Q2.1 
+0000047 020  AT      the                      Z5 
+0000047 030  NN1     raven                    L2 
+0000048 010  VVD     said                     Q2.1 
+0000048 020  AT      the                      Z5 
+0000048 030  NN1     raven                    L2 
+0000049 010  PPHS1   he                       Z8m 
+0000049 020  VVD     said                     Q2.1 
+0000049 030  II      to                       Z5 
+0000049 040  PPX1    himself                  Z8m 
+0000050 010  PPHS1   he                       Z8m 
+0000050 020  VVD     said                     Q2.1 
+0000050 030  II      to                       Z5 
+0000050 040  PPX1    himself                  Z8m 
+0000051 010  PPHS1   she                      Z8f 
+0000051 020  VVD     said                     Q2.1 
+0000052 010  PPHS1   he                       Z8m 
+0000052 020  VVD     exclaimed                Q2.2 
+0000053 010  VVD     replied                  Q2.2 Q1.1 
+0000053 020  NP1     Jeanne                   Z99 
+0000053 021  ,       ,                        
+0000053 030  VVG     laughing                 E4.1+/X3.2 
+0000053 040  RT      again                    N6+ Z4 
+0000054 010  PPHS1   he                       Z8m 
+0000054 020  VVD     said                     Q2.1 
+0000055 010  VVD     said                     Q2.1 
+0000055 020  NP1     Jeanne                   Z99 
+0000056 010  VVD     said                     Q2.1 
+0000056 020  NP1     Hugh                     Z1m 
+0000057 010  VVD     exclaimed                Q2.2 
+0000057 020  NP1     Jeanne                   Z99 
+0000058 010  VVD     said                     Q2.1 
+0000058 020  NP1     Hugh                     Z1m 
+0000059 010  VVD     said                     Q2.1 
+0000059 020  NP1     Jeanne                   Z99 
+0000060 010  CC      or                       Z5 
+0000060 020  IF      for                      Z5 
+0000060 030  DD1     that                     Z8 Z5 
+0000060 040  IO      of                       Z5 
+0000061 010  JJ@     whispered                Q2.1/X3.2- 
+0000061 020  NP1     Hugh                     Z1m 
+0000062 010  VVD     said                     Q2.1 
+0000062 020  NP1     Hugh                     Z1m 
+0000063 010  PPHS1   he                       Z8m 
+0000063 020  VVD     said                     Q2.1 
+0000064 010  VVD     said                     Q2.1 
+0000064 020  PPHS1   she                      Z8f 
+0000065 010  VVD     said                     Q2.1 
+0000065 020  NP1     Hugh                     Z1m 
+0000066 010  VVD     said                     Q2.1 
+0000066 020  NP1     Jeanne                   Z99 
+0000067 010  PPHS1   he                       Z8m 
+0000067 020  VVD     said                     Q2.1 
+0000067 030  RR21    at                       N4[i3.2.1 
+0000067 040  RR22    last                     N4[i3.2.2 
+0000068 010  PPHS1   she                      Z8f 
+0000068 020  VVD     cried                    E4.1- Q2.2 
+0000069 010  PPHS1   she                      Z8f 
+0000069 020  VVD     cried                    E4.1- Q2.2 
+0000070 010  PPHS1   he                       Z8m 
+0000070 020  VVD     said                     Q2.1 
+0000071 010  PPHS1   she                      Z8f 
+0000071 020  VVD     said                     Q2.1 
+0000072 010  PPHS1   she                      Z8f 
+0000073 010  VVD     added                    N5+/A2.1 N2 A1.8+ 
+0000074 010  PPHS1   he                       Z8m 
+0000074 020  VVD     began                    T2+ 
+0000075 010  VVD     whispered                Q2.1/X3.2- 
+0000075 020  NP1     Jeanne                   Z99 
+0000076 010  VVD     repeated                 N6+ Q2.1/N6+ F1/B1@ 
+0000076 020  NP1     Hugh                     Z1m 
+0000076 021  ,       ,                        
+0000076 030  RG      rather                   A13.5 
+0000076 040  JJ      puzzled                  X2.5- 
+0000077 010  PPHS1   he                       Z8m 
+0000077 020  VVD     said                     Q2.1 
+0000078 010  VVD     agreed                   A6.1+ Q2.2 
+0000078 020  NP1     Hugh                     Z1m 
+0000079 010  VVD     said                     Q2.1 
+0000079 020  NP1     Hugh                     Z1m 
+0000080 010  VVD     said                     Q2.1 
+0000080 020  NP1     Hugh                     Z1m 
+0000081 010  VVD     said                     Q2.1 
+0000081 020  NP1     Hugh                     Z1m 
+0000082 010  VVD     said                     Q2.1 
+0000082 020  AT      the                      Z5 
+0000082 030  NN1     frog                     L2mfn Z2/S2mf B5 
+0000083 010  VVD     said                     Q2.1 
+0000083 020  NP1     Jeanne                   Z99 
+0000084 010  PPH1    it                       Z8 
+0000084 020  VVD     said                     Q2.1 
+0000085 010  PPHS1   she                      Z8f 
+0000085 020  VVD     said                     Q2.1 
+0000085 021  ,       ,                        
+0000085 030  RR      merrily                  E4.1+ 
+0000086 010  PPHS1   she                      Z8f 
+0000086 020  VVD     repeated                 N6+ Q2.1/N6+ F1/B1@ 
+0000087 010  PPHS1   he                       Z8m 
+0000087 020  VVD     said                     Q2.1 
+0000088 010  PPHS1   she                      Z8f 
+0000088 020  VVD     said                     Q2.1 
+0000089 010  PPHS1   he                       Z8m 
+0000089 020  VVD     said                     Q2.1 
+0000090 010  PPHS1   she                      Z8f 
+0000090 020  VVD     said                     Q2.1 
+0000091 010  PPHS1   he                       Z8m 
+0000091 020  VVD     said                     Q2.1 
+0000092 010  VVD     cried                    E4.1- Q2.2 
+0000092 020  NP1     Jeanne                   Z99 
+0000092 021  ,       ,                        
+0000092 030  RR      greatly                  A13.3 A5.1+ 
+0000092 040  JJ      concerned                E6- A1.8+ A2.2 S1.1.3+ 
+0000093 010  VVD     cried                    E4.1- Q2.2 
+0000093 020  NP1     Jeanne                   Z99 
+0000094 010  VVD     said                     Q2.1 
+0000094 020  NP1     Hugh                     Z1m 
+0000095 010  VVD     said                     Q2.1 
+0000095 020  NP1     Marcelline               Z99 
+0000095 021  ,       ,                        
+0000095 030  VVG     smiling                  E4.1+ 
+0000096 010  VVD     said                     Q2.1 
+0000096 020  NP1     Hugh                     Z1m 
+0000097 010  PPHS1   she                      Z8f 
+0000097 020  VVD     said                     Q2.1 
+0000098 010  VVD     exclaimed                Q2.2 
+0000098 020  NP1     Jeanne                   Z99 
+0000099 010  VVD     said                     Q2.1 
+0000099 020  NP1     Marcelline               Z99 
+0000100 010  PPHS1   she                      Z8f 
+0000100 020  VVD     said                     Q2.1 
+0000101 010  VVD     said                     Q2.1 
+0000101 020  NP1     Hugh                     Z1m 
+0000101 021  ,       ,                        
+0000101 030  DB      half                     N5 
+0000101 040  RR      timidly                  E5- S1.2.3- 
+0000102 010  VVD     said                     Q2.1 
+0000102 020  NP1     Marcelline               Z99 
+0000103 010  PPHS1   he                       Z8m 
+0000103 020  VVD     said                     Q2.1 
+0000103 030  II      to                       Z5 
+0000103 040  PPX1    himself                  Z8m 
+0000104 010  PPHS1   she                      Z8f 
+0000104 020  VVD     said                     Q2.1 
+0000105 010  VVD     said                     Q2.1 
+0000105 020  NP1     Marcelline               Z99 
+0000106 010  VVD     said                     Q2.1 
+0000106 020  AT      the                      Z5 
+0000106 030  JJ      old                      T3+ Z4 
+0000106 040  NN1     nurse                    B3/S2mf 
+0000107 010  VVD     said                     Q2.1 
+0000107 020  NP1     Hugh                     Z1m 
+0000108 010  PPH1    it                       Z8 
+0000109 010  VVD     said                     Q2.1 
+0000110 010  PPHS1   he                       Z8m 
+0000110 020  VVD     said                     Q2.1 
+0000111 010  PPHS1   she                      Z8f 
+0000111 020  VVD     said                     Q2.1 
+0000112 010  VVD     said                     Q2.1 
+0000112 020  NP1     Jeanne                   Z99 
+0000113 010  VVD     said                     Q2.1 
+0000113 020  NP1     Jeanne                   Z99 
+0000114 010  VVD     said                     Q2.1 
+0000114 020  NP1     Jeanne                   Z99 
+0000115 010  VVD     said                     Q2.1 
+0000115 020  NP1     Dudu                     Z99 
+0000116 010  VVD     said                     Q2.1 
+0000116 020  NP1     Dudu                     Z99 
+0000117 010  VVD     said                     Q2.1 
+0000117 020  NP1     Dudu                     Z99 
+0000118 010  PPHS1   he                       Z8m 
+0000118 020  VVD     said                     Q2.1 
+0000119 010  VVD     said                     Q2.1 
+0000119 020  NP1     Jeanne                   Z99 
+0000120 010  VVD     said                     Q2.1 
+0000120 020  NP1     Jeanne                   Z99 
+0000121 010  PPHS1   he                       Z8m 
+0000121 020  VVD     said                     Q2.1 
+0000122 010  VVD     said                     Q2.1 
+0000122 020  NP1     Jeanne                   Z99 
+0000123 010  PPHS1   she                      Z8f 
+0000123 020  VVD     said                     Q2.1 
+0000124 010  VVD     said                     Q2.1 
+0000124 020  NP1     Hugh                     Z1m 
+0000125 010  PPHS1   she                      Z8f 
+0000125 020  VVD     said                     Q2.1 
+0000126 010  PPHS1   she                      Z8f 
+0000126 020  VVD     said                     Q2.1 
+0000127 010  PPHS1   she                      Z8f 
+0000127 020  VVD     said                     Q2.1 
+0000128 010  PPHS1   he                       Z8m 
+0000128 020  VVD     said                     Q2.1 
+0000129 010  PPHS1   he                       Z8m 
+0000129 020  VVD     exclaimed                Q2.2 
+0000130 010  VVD     said                     Q2.1 
+0000130 020  NP1     Hugh                     Z1m 
+0000131 010  PPHS1   she                      Z8f 
+0000131 020  VVD     said                     Q2.1 
+0000132 010  VVD     said                     Q2.1 
+0000132 020  NP1     Marcelline               Z99 
+0000133 010  PPHS1   she                      Z8f 
+0000133 020  VVD     said                     Q2.1 
+0000134 010  NP1     Hugh                     Z1m 
+0000134 020  VVD     replied                  Q2.2 Q1.1 
+0000135 010  VVD     said                     Q2.1 
+0000135 020  NP1     Hugh                     Z1m 
+0000136 010  VVD     said                     Q2.1 
+0000136 020  NP1     Jeanne                   Z99 
+0000137 010  PPHS1   she                      Z8f 
+0000137 020  VVD     cried                    E4.1- Q2.2 
+0000137 021  ,       ,                        
+0000137 030  RR      reproachfully            G2.2- Q2.2 
+0000138 010  VVD     said                     Q2.1 
+0000138 020  NP1     Hugh                     Z1m 
+0000139 010  PPHS1   she                      Z8f 
+0000139 020  VVD     cried                    E4.1- Q2.2 
+0000140 010  VVD     said                     Q2.1 
+0000140 020  NP1     Jeanne                   Z99 
+0000141 010  VVD     said                     Q2.1 
+0000141 020  NP1     Jeanne                   Z99 
+0000142 010  VVD     replied                  Q2.2 Q1.1 
+0000142 020  NP1     Jeanne                   Z99 
+0000143 010  PPHS1   he                       Z8m 
+0000143 020  VVD     said                     Q2.1 
+0000144 010  VVD     said                     Q2.1 
+0000144 020  NP1     Jeanne                   Z99 
+0000145 010  VVD     said                     Q2.1 
+0000145 020  NP1     Jeanne                   Z99 
+0000146 010  VVD     said                     Q2.1 
+0000146 020  NP1     Dudu                     Z99 
+0000147 010  VVD     cried                    E4.1- Q2.2 
+0000147 020  AT      the                      Z5 
+0000147 030  NN2     children                 S2mf/T3- S4mf 
+0000148 010  VVD     said                     Q2.1 
+0000148 020  NP1     Dudu                     Z99 
+0000149 010  PPHS1   he                       Z8m 
+0000149 020  VVD     said                     Q2.1 
+0000150 010  JJ      continued                T2++ 
+0000150 020  NN1     Dudu                     Z99 
+0000151 010  VVD     continued                T2++ 
+0000151 020  NP1     Dudu                     Z1mf[i4.2.1 Z3c[i4.2.1 
+0000152 010  NP1     Dudu                     Z1mf[i4.2.2 Z3c[i4.2.2 
+0000152 020  VVD     observed                 X3.4 Q2.1/X2.4 X2.1 G2.1+ 
+0000152 030  II      in                       A4.2-[i5.2.1 Z5 
+0000152 040  VVG     passing                  A4.2-[i5.2.2 M1 A9- M2 K5.1 T1.3 T2- X9.2+ N5.2+ S7.4+ A5.4+/A8 
+0000153 010  PPHS1   he                       Z8m 
+0000153 020  VVD     went                     M1 A2.1+ A1.1.1 A9- A1.8+ Q2.1 N6+ I2.2 A1.1.2 T2- S3.2 A6.3+ B2-/X1% B1% 
+0000153 030  II      on                       Z5 
+0000154 010  JJ      added                    N5+/A2.1 A1.8+ 
+0000154 020  NN1     Dudu                     Z99 
+0000155 010  VVD     continued                T2++ 
+0000155 020  NP1     Dudu                     Z99 
+0000156 010  VVD     said                     Q2.1 
+0000156 020  NP1     Dudu                     Z99 
+0000157 010  VVD     added                    N5+/A2.1 N2 A1.8+ 
+0000157 020  NP1     Dudu                     Z99 
+0000158 001  NULL    **8;7;text               

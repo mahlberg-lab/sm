@@ -1,0 +1,21 @@
+0000001 001  NULL    **6;0;START              
+0000001 002  -----   -----                    
+0000002 010  II      as                       Z5 
+0000002 020  AT      the                      Z5 
+0000003 010  NN1     speaker                  Q2.1/S2mf G1.1/S2mf O3 
+0000003 020  II      from                     Z5 
+0000003 030  AT      the                      Z5 
+0000003 040  NN1     town                     M7 
+0000003 050  VHD     had                      Z5 A9+ A2.2 S4 
+0000003 060  VVN     observed                 X3.4 Q2.1/X2.4 X2.1 G2.1+ 
+0000004 010  VVD     added                    N5+/A2.1 N2 A1.8+ 
+0000004 020  NNB     Miss                     Z1f[i1.2.1 
+0000004 030  NP1     Jessamine                Z1f[i1.2.2 
+0000004 031  ,       ,                        
+0000004 040  JJ      desperate                E4.1- X5.2+ 
+0000004 050  IW      with                     Z5 
+0000004 060  AT      the                      Z5 
+0000004 070  NN2     results                  A2.2 X9.2 N2 A5.1 K5 Q1.1/A2.2 
+0000004 080  IO      of                       Z5 
+0000005 010  NN1     experience               X2.2+ X9.1+ I3.2 A2.1+/A3+ X3 
+0000006 001  NULL    **8;7;text               

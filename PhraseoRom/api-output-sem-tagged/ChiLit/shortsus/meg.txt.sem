@@ -1,0 +1,188 @@
+0000001 001  NULL    **6;0;START              
+0000001 002  -----   -----                    
+0000002 010  VVD     continued                T2++ 
+0000002 020  APPGE   her                      Z8f 
+0000002 030  NN1     mother                   S4f A11.1+++ 
+0000003 010  VVD     answered                 Q2.2 S1.1.1 
+0000003 020  APPGE   her                      Z8f 
+0000003 030  NN1     mother                   S4f A11.1+++ 
+0000004 010  VVD     said                     Q2.1 
+0000004 020  APPGE   her                      Z8f 
+0000004 030  NN1     mother                   S4f A11.1+++ 
+0000005 010  PPHS1   she                      Z8f 
+0000005 020  VVD     said                     Q2.1 
+0000005 030  RR      faintly                  A11.2- 
+0000006 010  VVD     said                     Q2.1 
+0000006 020  APPGE   her                      Z8f 
+0000006 030  NN1     mother                   S4f A11.1+++ 
+0000007 010  PPHS1   she                      Z8f 
+0000007 020  VVD     said                     Q2.1 
+0000008 010  VVD     said                     Q2.1 
+0000008 020  NP1     Robin                    Z1mf 
+0000009 010  PPHS1   she                      Z8f 
+0000009 020  VVD     answered                 Q2.2 S1.1.1 
+0000009 030  RR      sadly                    E4.1- 
+0000010 010  VVD     cried                    E4.1- Q2.2 
+0000010 020  NP1     Meg                      Z1f 
+0000011 010  PPHS1   he                       Z8m 
+0000011 020  VVD     said                     Q2.1 
+0000011 030  RR21    at                       N4[i1.2.1 
+0000011 040  RR22    last                     N4[i1.2.2 
+0000012 010  VVD     sighed                   Q2.2/X3.2 
+0000012 020  RR      little                   A13.7 
+0000012 030  NP1     Meg                      Z1f 
+0000013 010  PPHS1   she                      Z8f 
+0000013 020  VVD     said                     Q2.1 
+0000014 010  PPHS1   he                       Z8m 
+0000014 020  VVD     said                     Q2.1 
+0000015 010  VVD     replied                  Q2.2 Q1.1 
+0000015 020  NP1     Meg                      Z1f 
+0000016 010  VVD     cried                    E4.1- Q2.2 
+0000016 020  NP1     Meg                      Z1f 
+0000017 010  VVD     answered                 Q2.2 S1.1.1 
+0000017 020  NP1     Meg                      Z1f 
+0000017 030  RR      quickly                  N3.8+ 
+0000018 010  VVD     answered                 Q2.2 S1.1.1 
+0000018 020  AT      the                      Z5 
+0000018 030  NN1     girl                     S2.1f L2f@ 
+0000019 010  PPHS1   she                      Z8f 
+0000019 020  VVD     said                     Q2.1 
+0000020 010  PPHS1   she                      Z8f 
+0000021 010  VVD     said                     Q2.1 
+0000022 010  PPHS1   she                      Z8f 
+0000022 020  VVD     said                     Q2.1 
+0000023 010  VVD     said                     Q2.1 
+0000023 020  NP1     Meg                      Z1f 
+0000023 030  RR      mournfully               Z99 
+0000024 010  PPHS1   she                      Z8f 
+0000024 020  VVD     cried                    E4.1- Q2.2 
+0000025 010  VVN     answered                 Q2.2 S1.1.1 
+0000025 020  RR      little                   A13.7 
+0000025 030  NP1     Meg                      Z1f 
+0000026 010  VVD     replied                  Q2.2 Q1.1 
+0000026 020  NP1     Meg                      Z1f 
+0000026 030  RR      meekly                   S1.2.3- 
+0000027 010  VVD     continued                T2++ 
+0000027 020  NP1     Meg                      Z1f 
+0000028 010  VVD     said                     Q2.1 
+0000028 020  NP1     Kitty                    I1.1 L2mfn 
+0000028 030  RR      gently                   E3+ 
+0000029 010  VVD     answered                 Q2.2 S1.1.1 
+0000029 020  NP1     Meg                      Z1f 
+0000030 010  PPHS1   she                      Z8f 
+0000030 020  VVD     said                     Q2.1 
+0000030 030  RR      earnestly                A13.3 E4.1- 
+0000031 010  VVD     said                     Q2.1 
+0000031 020  NP1     Kitty                    I1.1 L2mfn 
+0000032 010  PPHS1   she                      Z8f 
+0000032 020  VVD     said                     Q2.1 
+0000033 010  VVD     said                     Q2.1 
+0000033 020  RR      little                   A13.7 
+0000033 030  NP1     Meg                      Z1f 
+0000034 010  PPHS1   she                      Z8f 
+0000034 020  VVD     said                     Q2.1 
+0000035 010  PPH1    it                       Z8 
+0000035 020  VVD     shouted                  Q2.2/X3.2++ 
+0000036 010  VVD     said                     Q2.1 
+0000036 020  APPGE   her                      Z8f 
+0000036 030  NN1     friend                   S3.1/S2mf 
+0000037 010  PPHS1   she                      Z8f 
+0000037 020  VVD     said                     Q2.1 
+0000038 010  PPHS1   she                      Z8f 
+0000038 020  VVD     said                     Q2.1 
+0000039 010  AT      the                      Z5 
+0000039 020  NN1     window                   H2 T1.3 
+0000040 010  VVD     repeated                 N6+ Q2.1/N6+ F1/B1@ 
+0000040 020  NNB     Mrs                      Z1f[i4.2.1 Z1f[i3.2.1 Z1m[i2.2.1 
+0000040 030  NP1     Blossom                  Z1f[i4.2.2 Z1f Z1f[i3.2.2 Z1m[i2.2.2 
+0000041 010  PPHS1   she                      Z8f 
+0000041 020  VVD     said                     Q2.1 
+0000042 010  VVN     faltered                 A7- 
+0000042 020  RR      little                   A13.7 
+0000042 030  NP1     Meg                      Z1f 
+0000043 010  VVD     resumed                  T2+/N6+ 
+0000043 020  NNB     Mrs                      Z1f[i7.2.1 Z1f[i6.2.1 Z1m[i5.2.1 
+0000043 030  NP1     Blossom                  Z1f[i7.2.2 Z1f Z1f[i6.2.2 Z1m[i5.2.2 
+0000044 010  VVD     said                     Q2.1 
+0000044 020  NP1     Robin                    Z1mf 
+0000045 010  VVD     said                     Q2.1 
+0000045 020  NNB     Mrs                      Z1f[i10.2.1 Z1f[i9.2.1 Z1m[i8.2.1 
+0000045 030  NP1     Blossom                  Z1f[i10.2.2 Z1f Z1f[i9.2.2 Z1m[i8.2.2 
+0000046 010  VVD     answered                 Q2.2 S1.1.1 
+0000046 020  NNB     Mrs                      Z1f[i13.2.1 Z1f[i12.2.1 Z1m[i11.2.1 
+0000046 030  NP1     Blossom                  Z1f[i13.2.2 Z1f Z1f[i12.2.2 Z1m[i11.2.2 
+0000047 010  VVD     said                     Q2.1 
+0000047 020  NP1     Kitty                    I1.1 L2mfn 
+0000048 010  NN1     ud                       Z99 
+0000048 020  VV0     choke                    S8- A1.1.2 G2.1- 
+0000048 030  PPIO1   me                       Z8mf 
+0000049 010  VVD     answered                 Q2.2 S1.1.1 
+0000049 020  NP1     Meg                      Z1f 
+0000050 010  VVD     argued                   Q2.1 Q2.1/A6.1- Q2.1/E3- Q2.1/A2.2 
+0000050 020  NP1     Kitty                    I1.1 L2mfn 
+0000051 010  VVD     said                     Q2.1 
+0000051 020  NP1     Robbie                   Z1m 
+0000051 030  RR      thoughtfully             A1.3+ X2.1 
+0000052 010  PPHS1   she                      Z8f 
+0000052 020  VVD     cried                    E4.1- Q2.2 
+0000052 030  II      to                       Z5 
+0000052 040  PPX1    herself                  Z8f 
+0000053 010  PPHS1   she                      Z8f 
+0000053 020  VVD     cried                    E4.1- Q2.2 
+0000054 010  PPHS1   she                      Z8f 
+0000054 020  VVD     said                     Q2.1 
+0000055 010  VVD     exclaimed                Q2.2 
+0000055 020  NNB     Mrs                      Z1f[i16.2.1 Z1f[i15.2.1 Z1m[i14.2.1 
+0000055 030  NP1     Blossom                  Z1f[i16.2.2 Z1f Z1f[i15.2.2 Z1m[i14.2.2 
+0000056 010  VVD     pleaded                  Q2.2 G2.1/Q2.2 
+0000056 020  NP1     Meg                      Z1f 
+0000056 030  RR      urgently                 A11.1+ 
+0000057 010  PPHS1   she                      Z8f 
+0000057 020  VVD     said                     Q2.1 
+0000058 010  VVD     said                     Q2.1 
+0000058 020  NP1     Robin                    Z1mf 
+0000059 010  PPHS1   she                      Z8f 
+0000059 020  VVD     said                     Q2.1 
+0000059 030  RR      soothingly               Z99 
+0000060 010  VVD     answered                 Q2.2 S1.1.1 
+0000060 020  NP1     Meg                      Z1f 
+0000060 030  RR      earnestly                A13.3 E4.1- 
+0000061 010  VVD     said                     Q2.1 
+0000061 020  NNB     Dr                       Z1mf[i18.2.1 B3/S2mf P1/S2mf Z1mf[i17.2.1 
+0000061 030  NP1     Christie                 Z1mf[i18.2.2 Z1mf Z1mf[i17.2.2 
+0000061 040  RR      kindly                   S1.2/S8+ S1.2.2- 
+0000062 010  VVD     replied                  Q2.2 Q1.1 
+0000062 020  NP1     Meg                      Z1f 
+0000063 010  PPHS1   she                      Z8f 
+0000063 020  VVD     answered                 Q2.2 S1.1.1 
+0000064 010  PPHS1   she                      Z8f 
+0000064 020  VVD     said                     Q2.1 
+0000065 010  VVD     said                     Q2.1 
+0000065 020  NP1     Meg                      Z1f 
+0000066 010  PPHS1   she                      Z8f 
+0000066 020  VVD     said                     Q2.1 
+0000066 030  RR      falteringly              Z99 
+0000067 010  VVD     said                     Q2.1 
+0000067 020  NP1     Meg                      Z1f 
+0000068 010  PPHS1   she                      Z8f 
+0000068 020  VVD     cried                    E4.1- Q2.2 
+0000069 010  PPHS1   he                       Z8m 
+0000069 020  VVD     said                     Q2.1 
+0000070 010  VVD     said                     Q2.1 
+0000070 020  NP1     Meg                      Z1f 
+0000071 010  PPHS1   she                      Z8f 
+0000071 020  VVD     said                     Q2.1 
+0000072 010  VVD     said                     Q2.1 
+0000072 020  NNB     Mrs                      Z1f[i21.2.1 Z1f[i20.2.1 Z1m[i19.2.1 
+0000072 030  NP1     Blossom                  Z1f[i21.2.2 Z1f Z1f[i20.2.2 Z1m[i19.2.2 
+0000072 040  RR      cheerfully               E4.1+ 
+0000073 010  VVD     continued                T2++ 
+0000073 020  NNB     Mrs                      Z1f[i24.2.1 Z1f[i23.2.1 Z1m[i22.2.1 
+0000073 030  NP1     Blossom                  Z1f[i24.2.2 Z1f Z1f[i23.2.2 Z1m[i22.2.2 
+0000073 040  RR      heartily                 A13.3 
+0000074 010  VVD     said                     Q2.1 
+0000074 020  NNB     Mrs                      Z1f[i27.2.1 Z1f[i26.2.1 Z1m[i25.2.1 
+0000074 030  NP1     Blossom                  Z1f[i27.2.2 Z1f Z1f[i26.2.2 Z1m[i25.2.2 
+0000075 010  PPHS1   he                       Z8m 
+0000075 020  VVD     said                     Q2.1 
+0000076 001  NULL    **8;7;text               

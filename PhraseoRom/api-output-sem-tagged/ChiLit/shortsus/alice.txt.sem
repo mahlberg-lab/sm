@@ -1,0 +1,487 @@
+0000001 001  NULL    **6;0;START              
+0000001 002  -----   -----                    
+0000002 010  NN1     thought                  X4.1 
+0000002 020  NP1     Alice                    Z1f 
+0000003 010  VVD     thought                  X2.1 
+0000003 020  NP1     Alice                    Z1f 
+0000003 030  II      to                       Z5 
+0000003 040  PPX1    herself                  Z8f 
+0000004 010  CC      and                      Z5 
+0000004 020  RT      sometimes                N6 
+0000005 010  VVD     thought                  X2.1 
+0000005 020  JJ      poor                     I1.1- A5.1- N5- E4.1- X9.1- 
+0000005 030  NP1     Alice                    Z1f 
+0000006 010  PPHS1   she                      Z8f 
+0000006 020  VVD     said                     Q2.1 
+0000007 010  VVD     said                     Q2.1 
+0000007 020  NP1     Alice                    Z1f 
+0000008 010  VVD     said                     Q2.1 
+0000009 010  NP1     Alice                    Z1f 
+0000009 020  II      to                       Z5 
+0000009 030  PPX1    herself                  Z8f 
+0000010 010  VVD     thought                  X2.1 
+0000010 020  JJ      poor                     I1.1- A5.1- N5- E4.1- X9.1- 
+0000010 030  NP1     Alice                    Z1f 
+0000011 010  VVD     said                     Q2.1 
+0000012 010  NP1     Alice                    Z1f 
+0000013 010  VVD     thought                  X2.1 
+0000013 020  NP1     Alice                    Z1f 
+0000014 010  VVD     said                     Q2.1 
+0000014 020  NP1     Alice                    Z1f 
+0000015 010  PPHS1   she                      Z8f 
+0000015 020  VVD     said                     Q2.1 
+0000016 010  VVD     thought                  X2.1 
+0000016 020  AT      the                      Z5 
+0000016 030  JJ      poor                     I1.1- A5.1- N5- E4.1- X9.1- 
+0000016 040  NN1     child                    S2mf/T3- S4mf 
+0000017 010  VVD     thought                  X2.1 
+0000017 020  NP1     Alice                    Z1f 
+0000018 010  VVD     thought                  X2.1 
+0000018 020  NP1     Alice                    Z1f 
+0000019 010  VVD     said                     Q2.1 
+0000019 020  AT      the                      Z5 
+0000020 010  NN      Duck                     L2mfnc F1 K5.1 E2+/S2mf 
+0000021 010  VVD     said                     Q2.1 
+0000021 020  AT      the                      Z5 
+0000021 030  NP1     Dodo                     Z3mn 
+0000022 010  VVD     said                     Q2.1 
+0000022 020  NP1     Alice                    Z1f 
+0000023 010  VVD     said                     Q2.1 
+0000023 020  NP1     Alice                    Z1f 
+0000023 030  RG      very                     A13.3 
+0000023 040  RR      humbly                   S1.2.3- 
+0000024 010  NP1     Alice                    Z1f 
+0000024 020  VVD     said                     Q2.1 
+0000024 030  II      to                       Z5 
+0000024 040  PPX1    herself                  Z8f 
+0000025 010  NP1     Alice                    Z1f 
+0000025 020  VVD     went                     T2++[i1.2.1 M1[i1.2.1 Q2.1/N5+[i1.2.1 A1.1.1[i1.2.1 M1 A2.1+ A1.1.1 A9- A1.8+ Q2.1 N6+ I2.2 A1.1.2 T2- S3.2 A6.3+ B2-/X1% B1% 
+0000025 030  RP@     on                       T2++[i1.2.2 M1[i1.2.2 Q2.1/N5+[i1.2.2 A1.1.1[i1.2.2 M6 A1.1.1 
+0000026 010  PPHS1   she                      Z8f 
+0000026 020  VVD     said                     Q2.1 
+0000027 010  II      to                       Z5 
+0000027 020  PPX1    herself                  Z8f 
+0000028 010  VVD     thought                  X2.1 
+0000028 020  JJ      poor                     I1.1- A5.1- N5- E4.1- X9.1- 
+0000028 030  NP1     Alice                    Z1f 
+0000029 010  VVD     thought                  X2.1 
+0000029 020  NP1     Alice                    Z1f 
+0000030 010  AT1     a                        Z5 
+0000030 020  JJ      loud                     X3.2+ O4.3 
+0000030 030  NN1     crash                    A1.1.2 X3.2 I2.1/X9.2- Y2 B3% 
+0000031 010  VVD     thought                  X2.1 
+0000032 010  NP1     Alice                    Z1f 
+0000033 010  PPHS1   she                      Z8f 
+0000033 020  VVD     thought                  X2.1 
+0000034 010  VVD     said                     Q2.1 
+0000034 020  NP1     Alice                    Z1mf[i2.2.1 Z3c[i2.2.1 Z1f 
+0000035 010  NP1     Alice                    Z1mf[i2.2.2 Z3c[i2.2.2 Z1f 
+0000035 020  VVD     replied                  Q2.2 Q1.1 
+0000035 030  RG      very                     A13.3 
+0000035 040  RR      politely                 S1.2.4+ 
+0000036 010  VVD     said                     Q2.1 
+0000036 020  NP1     Alice                    Z1f 
+0000037 010  VVD     said                     Q2.1 
+0000037 020  NP1     Alice                    Z1f 
+0000038 010  VVD     said                     Q2.1 
+0000038 020  NP1     Alice                    Z1f 
+0000039 010  AT      the                      Z5 
+0000039 020  JJ      young                    T3- 
+0000039 030  NN1     man                      S2.2m 
+0000039 040  VVD     said                     Q2.1 
+0000040 010  VVD     said                     Q2.1 
+0000040 020  AT      the                      Z5 
+0000040 030  NN1     youth                    T3-/S2mf T3- 
+0000041 010  VVD     said                     Q2.1 
+0000041 020  AT      the                      Z5 
+0000041 030  NN1     youth                    T3-/S2mf T3- 
+0000042 010  VVD     said                     Q2.1 
+0000042 020  APPGE   his                      Z8m 
+0000042 030  NN1     father                   S4m S9/S2.2m 
+0000043 010  VVD     said                     Q2.1 
+0000043 020  AT      the                      Z5 
+0000043 030  NN1     youth                    T3-/S2mf T3- 
+0000044 010  VVD     Said                     Q2.1 
+0000044 020  APPGE   his                      Z8m 
+0000044 030  NN1     father                   S4m S9/S2.2m 
+0000045 010  VVD     said                     Q2.1 
+0000045 020  NP1     Alice                    Z1f 
+0000045 021  ,       ,                        
+0000045 030  RR      timidly                  E5- S1.2.3- 
+0000046 010  NP1     Alice                    Z1f 
+0000046 020  RR      hastily                  N3.8+ A1.3- 
+0000046 030  VVD     replied                  Q2.2 Q1.1 
+0000047 010  VVD     said                     Q2.1 
+0000047 020  NP1     Alice                    Z1f 
+0000048 010  VVD     said                     Q2.1 
+0000048 020  AT      the                      Z5 
+0000048 030  NN1     Pigeon                   L2mfn F1 
+0000049 010  VVD     said                     Q2.1 
+0000049 020  AT      the                      Z5 
+0000049 030  NN1     Pigeon                   L2mfn F1 
+0000050 010  VVD     said                     Q2.1 
+0000050 020  NP1     Alice                    Z1f 
+0000050 030  RR      hastily                  N3.8+ A1.3- 
+0000051 010  VVD     thought                  X2.1 
+0000051 020  NP1     Alice                    Z1f 
+0000052 010  VVD     said                     Q2.1 
+0000052 020  AT      the                      Z5 
+0000052 030  NN1     Footman                  S7.1-/S2.2m 
+0000053 010  VVD     said                     Q2.1 
+0000053 020  NP1     Alice                    Z1f 
+0000054 010  PPHS1   she                      Z8f 
+0000055 010  VVD     said                     Q2.1 
+0000055 020  II      to                       Z5 
+0000055 030  PPX1    herself                  Z8f 
+0000056 010  AT      the                      Z5 
+0000056 020  NN1     Footman                  S7.1-/S2.2m 
+0000056 030  VVD     remarked                 Q2.2 
+0000057 010  PPHS1   she                      Z8f 
+0000057 020  VVD     muttered                 Q2.2/X3.2- 
+0000057 030  II      to                       Z5 
+0000057 040  PPX1    herself                  Z8f 
+0000058 010  PPHS1   he                       Z8m 
+0000058 020  VVD     said                     Q2.1 
+0000059 010  VVD     said                     Q2.1 
+0000059 020  NP1     Alice                    Z1f 
+0000059 030  RR      desperately              A13.3 X5.2+ 
+0000060 010  VVD     said                     Q2.1 
+0000060 020  AT      the                      Z5 
+0000060 030  NN1     Duchess                  S7.1+/S2.1f 
+0000061 010  VVD     said                     Q2.1 
+0000061 020  AT      the                      Z5 
+0000061 030  NN1     Duchess                  S7.1+/S2.1f 
+0000062 010  VVD     said                     Q2.1 
+0000062 020  AT      the                      Z5 
+0000062 030  NN1     Duchess                  S7.1+/S2.1f 
+0000063 010  VVD     said                     Q2.1 
+0000063 020  AT      the                      Z5 
+0000063 030  NN1     Duchess                  S7.1+/S2.1f 
+0000064 010  VVD     said                     Q2.1 
+0000064 020  AT      the                      Z5 
+0000064 030  NN1     Duchess                  S7.1+/S2.1f 
+0000065 010  VVD     thought                  X2.1 
+0000065 020  NP1     Alice                    Z1f 
+0000066 010  VVD     said                     Q2.1 
+0000066 020  NP1     Alice                    Z1f 
+0000067 010  VVD     said                     Q2.1 
+0000067 020  NP1     Alice                    Z1f 
+0000067 021  ,       ,                        
+0000067 030  RR      seriously                A13.3 Z4 E4.1- 
+0000068 010  PPHS1   she                      Z8f 
+0000068 020  VVD     said                     Q2.1 
+0000069 010  II      to                       Z5 
+0000069 020  PPX1    herself                  Z8f 
+0000070 010  VVD     said                     Q2.1 
+0000070 020  AT      the                      Z5 
+0000070 030  NN1     Cat                      Z3 
+0000071 010  VVG     waving                   Q1.1 M2 M1 
+0000071 020  AT      the                      Z5 
+0000071 030  JJ      other                    A6.1- 
+0000071 040  NN1     paw                      L2 B1@ 
+0000072 010  VVD     said                     Q2.1 
+0000072 020  AT      the                      Z5 
+0000072 030  NN1     Cat                      Z3 
+0000073 010  VVD     said                     Q2.1 
+0000073 020  AT      the                      Z5 
+0000073 030  NN1     Cat                      Z3 
+0000074 010  VVD     said                     Q2.1 
+0000074 020  AT      the                      Z5 
+0000074 030  NN1     Cat                      Z3 
+0000075 010  AT      the                      Z5 
+0000075 020  NN1     Cat                      Z3 
+0000075 030  VVD     went                     T2++[i3.2.1 M1[i3.2.1 Q2.1/N5+[i3.2.1 A1.1.1[i3.2.1 M1 A2.1+ A1.1.1 A9- A1.8+ Q2.1 N6+ I2.2 A1.1.2 T2- S3.2 A6.3+ B2-/X1% B1% 
+0000075 040  RP@     on                       T2++[i3.2.2 M1[i3.2.2 Q2.1/N5+[i3.2.2 A1.1.1[i3.2.2 M6 A1.1.1 
+0000076 010  VVD     said                     Q2.1 
+0000076 020  NP1     Alice                    Z1f 
+0000077 010  PPHS1   she                      Z8f 
+0000078 010  VVD     said                     Q2.1 
+0000078 020  II      to                       Z5 
+0000078 030  PPX1    herself                  Z8f 
+0000079 010  VVD     replied                  Q2.2 Q1.1 
+0000079 020  NP1     Alice                    Z1f 
+0000080 010  VVD     thought                  X2.1 
+0000080 020  NP1     Alice                    Z1f 
+0000081 010  VVD     thought                  X2.1 
+0000081 020  NP1     Alice                    Z1f 
+0000082 010  VVD     said                     Q2.1 
+0000082 020  NP1     Alice                    Z1mf[i4.2.1 Z3c[i4.2.1 Z1f 
+0000083 010  NP1     Alice                    Z1mf[i4.2.2 Z3c[i4.2.2 Z1f 
+0000083 020  RR      hastily                  N3.8+ A1.3- 
+0000083 030  VVD     replied                  Q2.2 Q1.1 
+0000084 010  VVD     added                    N5+/A2.1 N2 A1.8+ 
+0000084 020  AT      the                      Z5 
+0000084 030  NP1@    March                    M1 G3 G1.2 T1.3 
+0000084 040  NN1     Hare                     L2mfn F1 
+0000085 010  AT      the                      Z5 
+0000085 020  NP1     Hatter                   B5/S2mf 
+0000085 030  VVD     grumbled                 E2-/Q2.2 
+0000086 010  NP1     Alice                    Z1f 
+0000086 020  VVD     replied                  Q2.2 Q1.1 
+0000086 030  RG      very                     A13.3 
+0000086 040  RR      readily                  X5.2+ A12+ 
+0000087 010  NP1     Alice                    Z1f 
+0000087 020  VVD     replied                  Q2.2 Q1.1 
+0000088 010  PPHS1   she                      Z8f 
+0000088 020  VVD     said                     Q2.1 
+0000089 010  VVD     said                     Q2.1 
+0000089 020  AT      the                      Z5 
+0000089 030  NP1     Hatter                   Z1mf[i5.2.1 Z3c[i5.2.1 
+0000090 010  NP1     Alice                    Z1mf[i5.2.2 Z3c[i5.2.2 Z1f 
+0000090 020  RR      cautiously               A1.3+ 
+0000090 030  VVD     replied                  Q2.2 Q1.1 
+0000091 010  VVD     said                     Q2.1 
+0000091 020  NP1     Alice                    Z1f 
+0000091 030  RR      thoughtfully             A1.3+ X2.1 
+0000092 010  VVD     said                     Q2.1 
+0000092 020  AT      the                      Z5 
+0000092 030  NN1     Hatter                   B5/S2mf 
+0000093 010  AT      the                      Z5 
+0000093 020  NP1     Hatter                   B5/S2mf 
+0000093 030  VVD     continued                T2++ 
+0000094 010  VVD     said                     Q2.1 
+0000094 020  AT      the                      Z5 
+0000094 030  NP1     Hatter                   B5/S2mf 
+0000095 010  VVD     said                     Q2.1 
+0000095 020  AT      the                      Z5 
+0000095 030  NP1     Hatter                   B5/S2mf 
+0000096 010  VVD     added                    N5+/A2.1 N2 A1.8+ 
+0000096 020  AT      the                      Z5 
+0000096 030  NP1     Hatter                   Z1mf[i6.2.1 Z3c[i6.2.1 
+0000097 010  NP1     Alice                    Z1mf[i6.2.2 Z3c[i6.2.2 Z1f 
+0000097 020  RR      gently                   E3+ 
+0000097 030  VVN     remarked                 Q2.2 
+0000098 010  VVD     said                     Q2.1 
+0000098 020  AT      the                      Z5 
+0000098 030  NP1     Dormouse                 L2mfn 
+0000099 010  VVD     said                     Q2.1 
+0000099 020  AT      the                      Z5 
+0000099 030  NP1     Hatter                   B5/S2mf 
+0000100 010  VVD     interrupted              Q2.2 X7- T2- 
+0000100 020  AT      the                      Z5 
+0000100 030  NP1     Hatter                   B5/S2mf 
+0000101 010  VVD     said                     Q2.1 
+0000101 020  AT      the                      Z5 
+0000101 030  NP1     Hatter                   B5/S2mf 
+0000102 010  VVD     said                     Q2.1 
+0000102 020  MC      Five                     N1 T3 T1.2 
+0000103 010  VVD     thought                  X2.1 
+0000103 020  PPHS1   she                      Z8f 
+0000104 010  VVD     said                     Q2.1 
+0000104 020  NP1     Alice                    Z1f 
+0000105 010  VVD     said                     Q2.1 
+0000105 020  NP1     Alice                    Z1f 
+0000106 010  CC      or                       Z5 
+0000107 010  VVD     thought                  X2.1 
+0000107 020  PPHS1   she                      Z8f 
+0000108 010  PPHS1   she                      Z8f 
+0000108 020  VVD     thought                  X2.1 
+0000109 010  VVD     said                     Q2.1 
+0000109 020  NP1     Alice                    Z1f 
+0000110 010  VVD     said                     Q2.1 
+0000110 020  NP1     Alice                    Z1f 
+0000111 010  VVD     said                     Q2.1 
+0000111 020  AT      the                      Z5 
+0000111 030  NN1     King                     S7.1+/S2.2m 
+0000112 010  VVD     said                     Q2.1 
+0000112 020  AT      the                      Z5 
+0000112 030  NN1     King                     S7.1+/S2.2m 
+0000113 010  VVD     thought                  X2.1 
+0000113 020  NP1     Alice                    Z1mf[i7.2.1 Z3c[i7.2.1 Z1f 
+0000114 010  NP1     Alice                    Z1mf[i7.2.2 Z3c[i7.2.2 Z1f 
+0000114 020  VVD     whispered                Q2.1/X3.2- 
+0000115 010  VVD     said                     Q2.1 
+0000115 020  AT      the                      Z5 
+0000115 030  NN1     Duchess                  S7.1+/S2.1f 
+0000116 010  VVD     said                     Q2.1 
+0000116 020  AT      the                      Z5 
+0000116 030  NN1     Duchess                  S7.1+/S2.1f 
+0000117 010  VVD     said                     Q2.1 
+0000117 020  AT      the                      Z5 
+0000117 030  NNB     Duchess                  S7.1+/S2.1f 
+0000118 010  NP1     Alice                    Z1f 
+0000118 020  VVD     said                     Q2.1 
+0000118 030  RG      very                     A13.3 
+0000118 040  RR      politely                 S1.2.4+ 
+0000119 010  VVD     said                     Q2.1 
+0000119 020  AT      the                      Z5 
+0000119 030  NN1     Duchess                  S7.1+/S2.1f 
+0000120 010  CC      or                       Z5 
+0000121 010  VVD     said                     Q2.1 
+0000121 020  AT      the                      Z5 
+0000121 030  NN1     Queen                    Z3c 
+0000122 010  VVD     said                     Q2.1 
+0000122 020  AT      the                      Z5 
+0000122 030  NN1     Queen                    Z3c 
+0000123 010  VVD     said                     Q2.1 
+0000123 020  AT      the                      Z5 
+0000123 030  NP1     Gryphon                  S9 A5.2- N3.2++ L2/S9mfn G2.2-/S2mf L2 
+0000124 010  VVD     said                     Q2.1 
+0000124 020  NP1     Alice                    Z1f 
+0000125 010  VVD     said                     Q2.1 
+0000125 020  NP1     Alice                    Z1f 
+0000126 010  VVD     said                     Q2.1 
+0000126 020  NP1     Alice                    Z1f 
+0000127 010  AT      the                      Z5 
+0000127 020  JJ      Mock                     A5.4- 
+0000127 030  NN1     Turtle                   Z3 
+0000128 010  VVD     replied                  Q2.2 Q1.1 
+0000129 010  VVD     said                     Q2.1 
+0000129 020  NP1     Alice                    Z1f 
+0000129 030  RR      doubtfully               A7- 
+0000130 010  AT      the                      Z5 
+0000130 020  NP1     Gryphon                  S9 A5.2- N3.2++ L2/S9mfn G2.2-/S2mf L2 
+0000130 030  VVD     went                     M1 A2.1+ A1.1.1 A9- A1.8+ Q2.1 N6+ I2.2 A1.1.2 T2- S3.2 A6.3+ B2-/X1% B1% 
+0000130 040  II      on                       Z5 
+0000131 010  AT      the                      Z5 
+0000131 020  JJ      Mock                     A5.4- 
+0000131 030  NN1     Turtle                   Z3 
+0000131 040  VVD     said                     Q2.1 
+0000132 010  VVD     said                     Q2.1 
+0000132 020  AT      the                      Z5 
+0000132 030  NP1     Gryphon                  S9 A5.2- N3.2++ L2/S9mfn G2.2-/S2mf L2 
+0000133 010  VVD     said                     Q2.1 
+0000133 020  AT      the                      Z5 
+0000133 030  JJ      Mock                     A5.4- 
+0000133 040  NN1     Turtle                   Z3 
+0000134 010  AT      the                      Z5 
+0000134 020  NP1     Gryphon                  S9 A5.2- N3.2++ L2/S9mfn G2.2-/S2mf L2 
+0000134 030  VVD     remarked                 Q2.2 
+0000135 010  VVD     said                     Q2.1 
+0000136 010  NP1     Alice                    Z1mf[i8.2.1 Z3c[i8.2.1 Z1f 
+0000137 010  NP1     Alice                    Z1mf[i8.2.2 Z3c[i8.2.2 Z1f 
+0000137 020  VVD     began                    T2+ 
+0000137 030  TO      to                       Z5 
+0000137 040  VVI     say                      Q2.1 Z4% 
+0000138 010  VVD     said                     Q2.1 
+0000138 020  AT      the                      Z5 
+0000138 030  NN1     Gryphon                  S9 A5.2- N3.2++ L2/S9mfn G2.2-/S2mf L2 
+0000139 010  AT      the                      Z5 
+0000139 020  JJ      Mock                     A5.4- 
+0000139 030  NN1     Turtle                   Z3 
+0000139 040  VVD     said                     Q2.1 
+0000140 010  VVD     said                     Q2.1 
+0000140 020  AT      the                      Z5 
+0000140 030  JJ      Mock                     A5.4- 
+0000140 040  NN1     Turtle                   Z3 
+0000141 010  VVD     said                     Q2.1 
+0000141 020  NP1     Alice                    Z1f 
+0000142 010  VVD     said                     Q2.1 
+0000142 020  AT      the                      Z5 
+0000142 030  JJ      Mock                     A5.4- 
+0000142 040  NN1     Turtle                   Z3 
+0000143 010  VVD     said                     Q2.1 
+0000143 020  AT      the                      Z5 
+0000143 030  JJ      Mock                     A5.4- 
+0000143 040  NN1     Turtle                   Z3 
+0000144 010  VVD     said                     Q2.1 
+0000144 020  AT      the                      Z5 
+0000144 030  NP1     Gryphon                  S9 A5.2- N3.2++ L2/S9mfn G2.2-/S2mf L2 
+0000145 010  VVD     said                     Q2.1 
+0000145 020  NP1     Alice                    Z1f 
+0000146 010  AT      the                      Z5 
+0000146 020  JJ      Mock                     A5.4- 
+0000146 030  NN1     Turtle                   Z3 
+0000146 040  VVD     said                     Q2.1 
+0000147 010  VVD     said                     Q2.1 
+0000147 020  AT      the                      Z5 
+0000147 030  JJ      Mock                     A5.4- 
+0000147 040  NN1     Turtle                   Z3 
+0000148 010  VVD     thought                  X2.1 
+0000148 020  NP1     Alice                    Z1f 
+0000149 010  VVD     said                     Q2.1 
+0000149 020  AT      the                      Z5 
+0000149 030  JJ      Mock                     A5.4- 
+0000149 040  NN1     Turtle                   Z3 
+0000150 010  AT      the                      Z5 
+0000150 020  NP1     Gryphon                  S9 A5.2- N3.2++ L2/S9mfn G2.2-/S2mf L2 
+0000150 030  VVD     repeated                 N6+ Q2.1/N6+ F1/B1@ 
+0000150 040  RR      impatiently              X5.2+ E3- 
+0000151 010  AT      the                      Z5 
+0000151 020  JJ      Mock                     A5.4- 
+0000151 030  NN1     Turtle                   Z3 
+0000152 010  VVD     interrupted              Q2.2 X7- T2- 
+0000153 010  PPHS1   she                      Z8f 
+0000153 020  VVD     thought                  X2.1 
+0000154 010  PPHS1   she                      Z8f 
+0000154 020  VVD     said                     Q2.1 
+0000154 030  II      to                       Z5 
+0000155 010  PPX1    herself                  Z8f 
+0000156 010  VVD     thought                  X2.1 
+0000156 020  NP1     Alice                    Z1f 
+0000157 010  PPHS1   he                       Z8m 
+0000157 020  VVD     began                    T2+ 
+0000158 010  VVD     said                     Q2.1 
+0000158 020  AT      the                      Z5 
+0000158 030  NN1     King                     S7.1+/S2.2m 
+0000159 010  VVD     said                     Q2.1 
+0000159 020  NP1     Alice                    Z1f 
+0000159 030  RG      very                     A13.3 
+0000159 040  RR      meekly                   S1.2.3- 
+0000160 010  VVD     said                     Q2.1 
+0000160 020  NP1     Alice                    Z1f 
+0000160 030  RRR     more                     A13.3 N6++ 
+0000160 040  RR      boldly                   E5+ 
+0000161 010  VVD     said                     Q2.1 
+0000161 020  AT      the                      Z5 
+0000161 030  NN1     Dormouse                 L2mfn 
+0000162 010  AT      the                      Z5 
+0000162 020  NN1     King                     S7.1+/S2.2m 
+0000162 030  VVD     repeated                 N6+ Q2.1/N6+ F1/B1@ 
+0000162 040  RR      angrily                  E3- 
+0000163 010  AT      the                      Z5 
+0000163 020  NP1     Hatter                   B5/S2mf 
+0000163 030  VVD     went                     T2++[i9.2.1 M1[i9.2.1 Q2.1/N5+[i9.2.1 A1.1.1[i9.2.1 M1 A2.1+ A1.1.1 A9- A1.8+ Q2.1 N6+ I2.2 A1.1.2 T2- S3.2 A6.3+ B2-/X1% B1% 
+0000163 040  RP@     on                       T2++[i9.2.2 M1[i9.2.2 Q2.1/N5+[i9.2.2 A1.1.1[i9.2.2 M6 A1.1.1 
+0000164 010  VVD     said                     Q2.1 
+0000164 020  AT      the                      Z5 
+0000164 030  NN1     King                     S7.1+/S2.2m 
+0000165 010  VVD     continued                T2++ 
+0000165 020  AT      the                      Z5 
+0000165 030  NP1     Hatter                   B5/S2mf 
+0000166 010  VVD     remarked                 Q2.2 
+0000166 020  AT      the                      Z5 
+0000166 030  NN1     King                     S7.1+/S2.2m 
+0000167 010  VVD     said                     Q2.1 
+0000167 020  AT      the                      Z5 
+0000167 030  NN1     Hatter                   B5/S2mf 
+0000168 010  PPHS1   she                      Z8f 
+0000168 020  VVD     said                     Q2.1 
+0000169 010  II      to                       Z5 
+0000169 020  PPX1    herself                  Z8f 
+0000170 010  CC      and                      Z5 
+0000170 020  DD      some                     N5 Z5 
+0000171 010  VVD     said                     Q2.1 
+0000171 020  NP1     Alice                    Z1f 
+0000172 010  VVD     said                     Q2.1 
+0000172 020  AT      the                      Z5 
+0000172 030  JJ      White                    Z1mf 
+0000172 040  NN1     Rabbit                   L2mfn F1 
+0000173 010  VVD     said                     Q2.1 
+0000173 020  AT      the                      Z5 
+0000173 030  NN1     King                     S7.1+/S2.2m 
+0000174 010  VVD     said                     Q2.1 
+0000174 020  AT      the                      Z5 
+0000174 030  JJ      White                    Z1mf 
+0000174 040  NN1     Rabbit                   L2mfn F1 
+0000175 010  VVD     said                     Q2.1 
+0000175 020  AT      the                      Z5 
+0000175 030  JJ      White                    Z1mf 
+0000175 040  NN1     Rabbit                   L2mfn F1 
+0000176 010  VVD     said                     Q2.1 
+0000176 020  AT      the                      Z5 
+0000176 030  NN1     Knave                    G2.2-/S2.2m K5.2 
+0000177 010  VVD     said                     Q2.1 
+0000177 020  AT      the                      Z5 
+0000177 030  NN1     King                     S7.1+/S2.2m 
+0000178 010  AT      the                      Z5 
+0000178 020  NN1     King                     S7.1+/S2.2m 
+0000178 030  VVD     said                     Q2.1 
+0000178 040  RR      gravely                  E4.1- A1.3+ 
+0000179 010  VVD     said                     Q2.1 
+0000179 020  AT      the                      Z5 
+0000179 030  NN1     King                     S7.1+/S2.2m 
+0000180 010  VVD     said                     Q2.1 
+0000180 020  APPGE   her                      Z8f 
+0000180 030  NN1     sister                   S4f S9/S2.1f B3/S2.1f S2.1f A2.2 
+0000181 001  NULL    **8;7;text               

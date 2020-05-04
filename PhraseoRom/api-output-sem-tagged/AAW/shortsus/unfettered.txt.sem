@@ -1,0 +1,72 @@
+0000001 001  NULL    **6;0;START              
+0000001 002  -----   -----                    
+0000002 010  VVD     said                     Q2.1 
+0000002 020  PPHS1   he                       Z8m 
+0000003 010  VVD     said                     Q2.1 
+0000003 020  PPHS1   he                       Z8m 
+0000004 010  VVD     said                     Q2.1 
+0000004 020  PPHS1   she                      Z8f 
+0000005 010  VVD     said                     Q2.1 
+0000005 020  PPHS1   she                      Z8f 
+0000006 010  VVD     said                     Q2.1 
+0000007 010  PPHS1   he                       Z8m 
+0000008 010  PPHS1   he                       Z8m 
+0000008 020  VVD     said                     Q2.1 
+0000009 010  VVD     said                     Q2.1 
+0000009 020  PPHS1   he                       Z8m 
+0000010 010  VVD     replied                  Q2.2 Q1.1 
+0000010 020  NNB     Mrs.                     Z1f[i2.2.1 Z1m[i1.2.1 
+0000010 030  NP1     Morgan                   Z1f[i2.2.2 Z1mf Z1m[i1.2.2 
+0000011 010  VVD     spoke                    Q2.1 
+0000011 020  RP      out                      M6 
+0000011 030  NN1     Congressman              G1.2/S2.2m 
+0000011 040  NP1     Bloodworth               Z99 
+0000012 010  VVD     asked                    Q2.2 
+0000012 020  NP1     Dorlan                   Z99 
+0000013 010  VVD     said                     Q2.1 
+0000013 020  PPHS1   he                       Z8m 
+0000014 010  VVD     said                     Q2.1 
+0000014 020  AT      the                      Z5 
+0000014 030  NN1     editor                   Q4/I3.2/S2mf Y2 
+0000015 010  VVD     sobbed                   E4.1- 
+0000015 020  NP1     Bloodworth               Z99 
+0000016 010  VVD     said                     Q2.1 
+0000016 020  PPHS1   she                      Z8f 
+0000017 010  VVD     began                    T2+ 
+0000017 020  NP1     Morlene                  Z99 
+0000018 010  PPHS1   she                      Z8f 
+0000018 020  VVD     said                     Q2.1 
+0000019 010  VVD     said                     Q2.1 
+0000019 020  PPHS1   she                      Z8f 
+0000020 010  VVD     said                     Q2.1 
+0000020 020  NNB     Aunt                     Z1f[i3.2.1 
+0000020 030  NP1     Catherine                Z1f[i3.2.2 Z1f 
+0000021 010  VVD     interposed               Q2.2 
+0000021 020  NP1     Morlene                  Z99 
+0000022 010  PPHS1   he                       Z8m 
+0000022 020  VVD     exclaimed                Q2.2 
+0000023 010  JJ      continued                T2++ 
+0000023 020  NN1     Kumi                     Z99 
+0000024 010  VVD     said                     Q2.1 
+0000024 020  NP1     Dorlan                   Z99 
+0000025 010  VVD     said                     Q2.1 
+0000025 020  NP1     Dorlan                   Z99 
+0000025 021  ,       ,                        
+0000025 030  VVG     rising                   M1 N5+/A2.1 N3.2+/A2.1 S7.1+/A2.1 N3.7+/A2.1 
+0000026 010  VVD     said                     Q2.1 
+0000026 020  NP1     Dorlan                   Z99 
+0000027 010  VVD     said                     Q2.1 
+0000027 020  NP1     Dorlan                   Z99 
+0000028 010  VVD     said                     Q2.1 
+0000028 020  PPHS1   he                       Z8m 
+0000029 010  VVD     said                     Q2.1 
+0000029 020  NP1     Tony                     Z1mf 
+0000030 010  PPHS1   he                       Z8m 
+0000030 020  VVD     continued                T2++ 
+0000031 010  RL      here                     M6 T1.1.2 T1.2 
+0000031 020  AT1     a                        Z5 
+0000031 030  NN1     pause                    T2-/T1.3 
+0000032 010  VH0     have                     Z5 A9+ A2.2 S4 
+0000032 020  VBN     been                     A3+ Z5 
+0000033 010  CC      and                      Z5 
+0000034 001  NULL    **8;7;text               

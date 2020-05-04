@@ -1,0 +1,84 @@
+0000001 001  NULL    **6;0;START              
+0000001 002  -----   -----                    
+0000002 010  VVD     said                     Q2.1 
+0000002 020  NP1     Gluck                    A4.1 T1.2 K2/S2mf 
+0000002 030  RR21    at                       N5+[i1.2.1 N4[i1.2.1 
+0000002 040  RR22    length                   N5+[i1.2.2 N4[i1.2.2 
+0000002 041  ,       ,                        
+0000002 050  II      after                    Z5 
+0000002 060  VVG     watching                 X3.4 S7.1 X2.4 A1.3+ 
+0000002 070  AT      the                      Z5 
+0000002 080  NN1     water                    O1.2 W3/M4 B1 C1% 
+0000003 010  VVG     spreading                A1.1.1 N3.6+/A2.1 N3.3+/A2.1 N5+/A2.1 N5 T1.3 
+0000003 020  RP@     in                       M6 
+0000003 030  RR      long                     T1.3+ 
+0000003 031  ,       ,                        
+0000003 040  JJ      quicksilverlike          Z99 
+0000003 050  NN2     streams                  W3/M4 N5 S5+c P1c 
+0000003 060  II      over                     Z5 
+0000003 070  AT      the                      Z5 
+0000003 080  NN1     floor                    H2 S5+ 
+0000003 090  IF      for                      Z5 
+0000003 100  AT1     a                        Z5 
+0000003 110  NN1     quarter                  T1.3[i2.4.1 N1 N5 T1.3 
+0000004 010  IO      of                       T1.3[i2.4.2 Z5 N6+[i3.3.1 T1.2[i3.3.1 
+0000004 020  AT1     an                       T1.3[i2.4.3 Z5 N6+[i3.3.2 T1.2[i3.3.2 
+0000004 030  NNT1    hour                     T1.3[i2.4.4 T1.3 N6+[i3.3.3 T1.2[i3.3.3 
+0000005 010  AT      the                      Z5 
+0000005 020  JJ      little                   N3.2- T3- N3.7- N3.3- T1.3- A11.1- 
+0000005 030  NN1     gentleman                S2.2m 
+0000005 040  VVD     began                    T2+ 
+0000005 050  RG      very                     A13.3 
+0000005 060  RR      modestly                 S1.2.3- A13.5 
+0000006 010  VVD     said                     Q2.1 
+0000006 020  NP1     Gluck                    A4.1 T1.2 K2/S2mf 
+0000006 030  RR      aloud                    X3.2 
+0000006 031  ,       ,                        
+0000006 040  CS      after                    Z5 
+0000006 050  PPHS1   he                       Z8m 
+0000006 060  VHD     had                      Z5 A9+ A2.2 S4 
+0000006 070  VVN     looked                   X3.4[i4.2.1 X2.4[i4.2.1 X2.1[i4.2.1 A8 X3.4 X2.4 X7+ 
+0000006 080  II      at                       X3.4[i4.2.2 X2.4[i4.2.2 X2.1[i4.2.2 Z5 A1.1.1[i5.2.1 
+0000006 090  PPH1    it                       Z8 A1.1.1[i5.2.2 
+0000006 100  IF      for                      T1.3[i6.3.1 Z5 
+0000006 110  AT1     a                        T1.3[i6.3.2 Z5 
+0000006 120  NNT1@   while                    T1.3[i6.3.3 T1.3 
+0000007 010  VVD     said                     Q2.1 
+0000007 020  AT      the                      Z5 
+0000007 030  NN1     voice                    Q2.1 X2.1 S7.1+ Q3 K2 
+0000007 040  II21    out                      Z5[i7.2.1 Z5 Z5[i8.2.1 A9-[i8.2.1 
+0000007 050  II22    of                       Z5[i7.2.2 Z5[i8.2.2 A9-[i8.2.2 
+0000007 060  AT      the                      Z5 
+0000007 070  NN1     pot                      O2 O1.1 I1.1 F3 
+0000007 080  RT      again                    N6+ Z4 
+0000008 010  VVD     cried                    E4.1- Q2.2 
+0000008 020  JJ      poor                     I1.1- A5.1- N5- E4.1- X9.1- 
+0000008 030  NN1     Gluck                    A4.1 T1.2 K2/S2mf 
+0000008 031  ,       ,                        
+0000008 040  VVG     running                  M1/N3.8+ G1.2 G2.1- X3.3 S7.1+ A1.1.1 T2++ M3 S4 A6.3+ K4 
+0000008 050  TO      to                       Z5 
+0000008 060  VVI     look                     Q1.2[i9.2.1 X3.4[i9.2.1 E2+[i9.2.1 A5.1+/A2.1[i9.2.1 A8 X3.4 X2.4 X7+ Z4 
+0000008 070  RP      up                       Q1.2[i9.2.2 X3.4[i9.2.2 E2+[i9.2.2 A5.1+/A2.1[i9.2.2 
+0000008 080  AT      the                      Z5 
+0000008 090  NN1     chimney                  H2 
+0000008 100  II      after                    Z5 
+0000008 110  PPHO1   him                      Z8m 
+0000009 010  PPHS1   he                       Z8m 
+0000009 020  VVD     stretched                N3.6 M1 N3.7+/A2.1 A4.2-/A2.1 T1.3 A12- A2.1+ X8+ 
+0000009 030  APPGE   his                      Z8m 
+0000009 040  NN2     arms                     B1 S5+ G3 O2 B5 
+0000009 050  II      to                       Z5 
+0000009 060  NP1     Hans                     Z1m 
+0000009 061  ,       ,                        
+0000009 070  CC      and                      Z5 
+0000009 080  VVD     cried                    E4.1- Q2.2 
+0000009 090  RR      feebly                   S1.2.5- A5.1- 
+0000010 010  CC      and                      Z5 
+0000010 020  APPGE   his                      Z8m 
+0000010 030  NN1     countenance              A6.1+ B1 
+0000010 040  VVD     grew                     N3.2+/A2.1 A2.1+ A5.1+/A2.1 F4 
+0000011 010  JJ      stern                    S1.2.1- 
+0000011 020  CSA     as                       Z5 
+0000011 030  PPHS1   he                       Z8m 
+0000011 040  VVD     spoke                    Q2.1 
+0000012 001  NULL    **8;7;text               

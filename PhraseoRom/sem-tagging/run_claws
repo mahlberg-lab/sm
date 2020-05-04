@@ -1,0 +1,60 @@
+#!/bin/csh -f
+
+# test for args
+if ($#argv != 1) then
+	echo "Usage: run_claws filename"
+	echo "Quitting"
+	exit(1)
+endif
+
+# rdirectory is the resources directory
+set rdirectory = "/usr/local/bin/"
+
+# if ((-e idiomlist1) || (-e idiomlist2) || (-e idiomlist3) || (-e idiomlist4)) then
+# 	rm idiomlist1 idiomlist2 idiomlist3 idiomlist4 >& /dev/null
+# endif
+#
+# if ((-e wordlist) || (-e wordlist1) || (-e supp_wordlist)) then
+# 	rm wordlist wordlist1 >& /dev/null
+# endif
+
+set gen_resource = $rdirectory
+set lex_resource = $rdirectory
+set id_resource = $rdirectory
+
+echo "Using resources from $rdirectory"
+
+ln -sf $id_resource/idiomlist1.ee idiomlist1
+ln -sf $id_resource/idiomlist2.ee idiomlist2
+ln -sf $id_resource/idiomlist3.ee idiomlist3
+ln -sf $id_resource/idiomlist4.ee idiomlist4
+ln -sf $gen_resource/clawstags.ee clawstags
+ln -sf $gen_resource/SGML_table.c7 SGML_table
+ln -sf $lex_resource/wordlist.ee wordlist
+ln -sf $gen_resource/suffixlist.ee suffixlist
+ln -sf $gen_resource/misctables.ee misctables
+ln -sf $gen_resource/pairs_written.ee pairprobs
+
+
+$rdirectory/claws4 -r07 -ib -e $1.c7.errors < $1 -o $1.c7
+
+set errit = "$status"
+
+if ($errit == "0") then
+	echo "CLAWS completed tagging successfully"
+else
+	echo "CLAWS error"
+endif
+
+# run convert to horizontal format
+# $rdirectory/convert -v2hsupp -nosos -rare $1.c7 $1.c7h $1.c7.supp
+# run convert to XML format
+# $rdirectory/convert -v2x -nosos -rare $1.c7 $1.c7x $1.c7.supp
+
+# rm clawstags
+# rm SGML_table
+# rm wordlist
+# rm suffixlist
+# rm misctables
+# rm idiomlist1 idiomlist2 idiomlist3 idiomlist4
+# rm pairprobs

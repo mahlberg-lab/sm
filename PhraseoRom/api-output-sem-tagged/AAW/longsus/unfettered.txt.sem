@@ -1,0 +1,143 @@
+0000001 001  NULL    **6;0;START              
+0000001 002  -----   -----                    
+0000002 010  VVD     said                     Q2.1 
+0000002 020  PPHS1   she                      Z8f 
+0000002 021  ,       ,                        
+0000002 030  APPGE   her                      Z8f 
+0000002 040  NN2     eyes                     B1 X3.4 
+0000002 050  VVN     filled                   N5.1+ I3.1 Q1.2@ 
+0000002 060  IW      with                     Z5 
+0000002 070  NN2     tears                    B1 O4.2- 
+0000003 010  VVD     said                     Q2.1 
+0000003 020  NP1     Morlene                  Z99 
+0000003 021  ,       ,                        
+0000003 030  VVG     taking                   A9+ T1.3 C1 A1.1.1 M2 S7.1- A2.1+ X2.4 S6+ S7.4+ N3 P1 M1 X2.5+ F1@ F2@ Q1.2@ B3@ 
+0000003 040  APPGE   her                      Z8f 
+0000003 050  NN2     hands                    B1 O2 S8+ K5.2 I3.1/S2mf X9.1+/S2mf 
+0000003 060  II      from                     Z5 
+0000003 070  APPGE   her                      Z8f 
+0000003 080  NN1     face                     B1 W3 O2 A8 S1.2.3+ 
+0000004 010  VVD     said                     Q2.1 
+0000004 020  NP1     Morlene                  Z99 
+0000004 021  ,       ,                        
+0000004 030  VVG     rising                   M1 N5+/A2.1 N3.2+/A2.1 S7.1+/A2.1 N3.7+/A2.1 
+0000004 031  ,       ,                        
+0000004 040  AT      the                      Z5 
+0000004 050  NN1     picture                  C1 Q4.3 X4.1 
+0000004 060  IO      of                       Z5 
+0000004 070  NN1     excitement               X5.2+ 
+0000005 010  VVD     said                     Q2.1 
+0000005 020  NP1     Morlene                  Z99 
+0000005 021  ,       ,                        
+0000005 030  AT      the                      Z5 
+0000005 040  NN1     glow                     O4.3 
+0000005 050  IO      of                       Z5 
+0000005 060  NN1     eloquence                Q3/X9.1+ 
+0000005 070  II      on                       Z5 
+0000005 080  APPGE   her                      Z8f 
+0000005 090  NN1     face                     B1 W3 O2 A8 S1.2.3+ 
+0000006 010  VVD     said                     Q2.1 
+0000006 020  PPHS1   he                       Z8m 
+0000006 030  II      to                       Z5 
+0000006 040  AT      the                      Z5 
+0000006 050  JJ      select                   X7+/A5.1+++ 
+0000006 060  NN1     audience                 K1/S2mfc S2mfc S1.1.3+ 
+0000007 010  PPHS1   he                       Z8m 
+0000007 020  VVD     said                     Q2.1 
+0000007 030  II      between                  Z5 
+0000007 040  APPGE   his                      Z8m 
+0000007 050  NN2     sobs                     E4.1- 
+0000008 010  VVD     said                     Q2.1 
+0000008 020  PPHS1   she                      Z8f 
+0000008 021  ,       ,                        
+0000008 030  VVG     leaning                  M6 S5+ 
+0000008 040  II      toward                   Z5 
+0000008 050  NP1     Morlene                  Z99 
+0000008 051  ,       ,                        
+0000008 060  AT1     a                        Z5 
+0000008 070  RGT     most                     A13.2 
+0000008 080  JJ      serious                  A11.1+ A15- E4.1- 
+0000008 090  NN1     look                     A8 X3.4 X2.4 O4.1 
+0000008 100  II      upon                     Z5 
+0000008 110  APPGE   her                      Z8f 
+0000009 010  NN1     face                     B1 W3 O2 A8 S1.2.3+ 
+0000010 010  VVD     cried                    E4.1- Q2.2 
+0000010 020  NP1     Dorlan                   Z99 
+0000010 021  ,       ,                        
+0000010 030  II      in                       Z5 
+0000010 040  AT1     a                        Z5 
+0000010 050  NN1     rush                     N3.8+ L3 N5 
+0000010 060  IO      of                       Z5 
+0000010 070  NN1     enthusiasm               X5.2+ 
+0000011 010  PPHS1   he                       Z8m 
+0000011 020  VVD     resumed                  T2+/N6+ 
+0000011 030  II      in                       Z5 
+0000011 040  JJ      sober                    F2 S1.2.6+ O4.2 
+0000011 050  NN1     tone                     E1 X3.2 K2 A4.1 O4.3 B1 
+0000012 010  CC      and                      Z5 
+0000012 020  II      among                    Z5 
+0000012 030  AT      the                      Z5 
+0000012 040  JJR     older                    T3++ 
+0000012 050  NN2     ones                     Z8 
+0000012 060  CSA     as                       Z5 
+0000013 010  VVN@    said                     Q2.1 
+0000013 020  NP1     Tony                     Z1mf 
+0000013 021  ,       ,                        
+0000013 030  VV0     fear                     E5- 
+0000013 040  II      in                       Z5 
+0000013 050  AT1     every                    N5.1+ 
+0000013 060  NN1     lineament                A5.1 A5.1+ O4.1 S2mf K4/S2mf S1.2 S2mf/A6.2- Q1.2 A4.1 O4.2+ A9+ H1/H3 A2.2/Q2.2 N3.2 Q4.2 Q4.3 W3 A10+ B1 O2 S5+c N5.1- M7 I3.1 S1.1.3+ K4 B4 S3.1- 
+0000013 070  IO      of                       Z5 
+0000013 080  APPGE   his                      Z8m 
+0000013 090  NN1     face                     B1 W3 O2 A8 S1.2.3+ 
+0000014 010  PPHS1   he                       Z8m 
+0000015 010  VVD     repeated                 N6+ Q2.1/N6+ F1/B1@ 
+0000015 011  ,       ,                        
+0000015 020  II      in                       Z5 
+0000015 030  JJ      anxious                  E6- 
+0000015 040  NN2     tones                    E1 X3.2 K2 A4.1 O4.3 B1 
+0000016 010  VVD     said                     Q2.1 
+0000016 020  NP1     Dorlan                   Z99 
+0000016 021  ,       ,                        
+0000016 030  CSA     as                       Z5 
+0000016 040  PPHS1   he                       Z8m 
+0000016 050  VVD     stood                    M6 M2 M8 T2++ N3 A3+ X2.1 A7 G1.2 S8+ S7.4+ I2.2 S1.2.5+ 
+0000016 060  II      in                       Z5 
+0000017 010  AT      the                      Z5 
+0000017 020  NN1     balloon                  M5 K6 O4.4 
+0000017 030  CC      and                      Z5 
+0000017 040  VVD     gazed                    X3.4 
+0000017 050  II      into                     Z5 
+0000017 060  AT      the                      Z5 
+0000017 070  JJ      stellar                  A11.1+ N3.2+ G3/S7.1+/S2mf P1 P1/S2mf S9 W1 
+0000017 080  NN2     depths                   N3.3+ N5+ A4.2+ Q2.2 S1.2 
+0000018 010  VV0     constitute               A3+ A1.8+ A1.1.1 
+0000018 020  AT      the                      Z5 
+0000018 030  NN1     difference               A6.1- 
+0000018 040  II      between                  Z5 
+0000018 050  AT      the                      Z5 
+0000018 060  NN1     'higher'                 Z99 
+0000018 070  CC      and                      Z5 
+0000018 080  AT      the                      Z5 
+0000018 090  JJ      'lower'                  Z99 
+0000018 100  NN2     races                    K5.1 S7.3+ S5+c 
+0000018 101  ,       ,                        
+0000018 110  CCB     but                      Z5 
+0000019 010  DD1     that                     Z5 Z8 
+0000020 010  AT1     a                        Z5 
+0000020 020  JJ      leading                  S7.1+ A11.1+ A2.2 M2 A1.1.1 
+0000021 010  NN1     newspaper                Q4.2 
+0000021 020  II      in                       Z5 
+0000021 030  AT      the                      Z5 
+0000021 040  NN1     nation                   G1.1c S5+c 
+0000021 041  GE      's                       Z5 
+0000021 050  NN1     capital                  I1.1 M7/G1.1 Q1.2 
+0000021 051  ,       ,                        
+0000021 060  CC      and                      Z5 
+0000021 070  AT1     a                        Z5 
+0000021 080  JJ@     recognized               X2.2+ X2.5+ S7.4+ G2.1+ S1.1.1 
+0000021 090  NN1     champion                 X9.2+/S7.3/S2mf S8+/S2mf 
+0000021 100  IO      of                       Z5 
+0000021 110  JJ      Southern                 M6 
+0000022 010  NN2     interests                X5.2+ I1.1 S8+ S1.1.3+ 
+0000023 001  NULL    **8;7;text               

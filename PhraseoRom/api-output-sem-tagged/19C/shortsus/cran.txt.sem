@@ -1,0 +1,97 @@
+0000001 001  NULL    **6;0;START              
+0000001 002  -----   -----                    
+0000002 010  VVN     asked                    Q2.2 
+0000002 020  NNB     Miss                     Z1f[i1.2.1 
+0000002 030  NP1     Jenkyns                  Z1f[i1.2.2 
+0000003 010  VVD     said                     Q2.1 
+0000003 020  PPHS1   she                      Z8f 
+0000004 010  PPHS1   she                      Z8f 
+0000004 020  VVD     said                     Q2.1 
+0000005 010  PPHS1   she                      Z8f 
+0000005 020  VVD     added                    N5+/A2.1 N2 A1.8+ 
+0000006 010  VVD     said                     Q2.1 
+0000006 020  NP1     Martha                   Z1f 
+0000007 010  PPHS1   he                       Z8m 
+0000007 020  VVD     said                     Q2.1 
+0000008 010  VVD     replied                  Q2.2 Q1.1 
+0000008 020  PPHS1   he                       Z8m 
+0000009 010  VVD     said                     Q2.1 
+0000009 020  NNB     Miss                     Z1f[i2.2.1 
+0000009 030  NP1     Pole                     Z1f[i2.2.2 
+0000010 010  VVD     said                     Q2.1 
+0000010 020  PPHS1   he                       Z8m 
+0000011 010  PPHS1   she                      Z8f 
+0000011 020  VVD     said                     Q2.1 
+0000011 021  ,       ,                        
+0000011 030  RR21    at                       N4[i3.2.1 
+0000011 040  RR22    last                     N4[i3.2.2 
+0000012 010  PPH1    it                       Z8 
+0000012 020  VBDZ    was                      A3+ Z5 
+0000012 030  II      from                     Z5 
+0000013 010  CC      and                      Z5 
+0000013 020  AT      the                      Z5 
+0000014 010  JJ%     said                     Q1.1 Q2.1 
+0000014 020  NN1     Mist                     W4 O1.3 
+0000014 030  NP1     Matilda                  Z99 
+0000015 010  PPHS1   she                      Z8f 
+0000015 020  VVD     said                     Q2.1 
+0000016 010  VVD     said                     Q2.1 
+0000016 020  NNB     Miss                     Z1f[i4.2.1 
+0000016 030  NP1     Matty                    Z1f[i4.2.2 
+0000017 010  VVD     thought                  X2.1 
+0000017 020  PPIS1   I                        Z8mf 
+0000018 010  VVD     said                     Q2.1 
+0000018 020  NNB     Miss                     Z1f[i5.2.1 
+0000018 030  NP1     Pole                     Z1f[i5.2.2 
+0000019 010  VVD     said                     Q2.1 
+0000019 020  NNB     Miss                     Z1f[i6.2.1 
+0000019 030  NP1     Matty                    Z1f[i6.2.2 
+0000020 010  VVD     said                     Q2.1 
+0000020 020  NNB     Miss                     Z1f[i7.2.1 
+0000020 030  NP1     Matty                    Z1f[i7.2.2 
+0000021 010  II21    instead                  A6.1-[i8.2.1 
+0000021 020  II22    of                       A6.1-[i8.2.2 
+0000022 010  VVD     said                     Q2.1 
+0000022 020  NNB     Mrs                      Z1f[i11.2.1 Z1f[i10.2.1 Z1m[i9.2.1 
+0000022 030  NP1     Jamieson                 Z1f[i11.2.2 Z1f[i10.2.2 Z1m[i9.2.2 
+0000023 010  CC      and                      Z5 
+0000024 010  CC      and                      Z5 
+0000024 020  VVD     said                     Q2.1 
+0000024 021  "       "                        
+0000024 030  NP1     Basto                    Z99 
+0000024 031  !       !                        
+0000024 040  NN1     ma'am                    S2.1f 
+0000025 010  VVD     said                     Q2.1 
+0000025 020  PPHS1   she                      Z8f 
+0000026 010  VVD     said                     Q2.1 
+0000026 020  NNB     Miss                     Z1f[i12.2.1 
+0000026 030  NP1     Matty                    Z1f[i12.2.2 
+0000027 010  VVD     said                     Q2.1 
+0000027 020  PPHS1   she                      Z8f 
+0000028 010  PPHS1   she                      Z8f 
+0000028 020  VVD     began                    T2+ 
+0000029 010  PPHS1   she                      Z8f 
+0000029 020  VVD     continued                T2++ 
+0000030 010  VVD     said                     Q2.1 
+0000030 020  NNB     Miss                     Z1f[i13.2.1 
+0000030 030  NP1     Matty                    Z1f[i13.2.2 
+0000031 010  PPHS1   she                      Z8f 
+0000031 020  VVD     said                     Q2.1 
+0000032 010  VVD     said                     Q2.1 
+0000032 020  PPHS1   she                      Z8f 
+0000032 021  ,       ,                        
+0000032 030  VVG     hesitating               A7- 
+0000033 010  NN1     turning                  M1[i14.2.1 S1.1.1[i14.2.1 T2+[i14.2.1 A2.1+[i14.2.1 M2 M1 O4.4 A1.1.1 A2.1+ O4.2- 
+0000033 020  II      to                       M1[i14.2.2 S1.1.1[i14.2.2 T2+[i14.2.2 A2.1+[i14.2.2 Z5 
+0000033 030  AT      the                      Z5 
+0000033 040  NN1     farmer                   F4/S2mf 
+0000034 010  VVD     continued                T2++ 
+0000034 020  PPHS1   she                      Z8f 
+0000035 010  CC      and                      Z5 
+0000036 010  CC      and                      Z5 
+0000037 010  VVD     continued                T2++ 
+0000037 020  NP1     Martha                   Z1f 
+0000037 021  ,       ,                        
+0000037 030  VVG     crying                   E4.1- Q2.2 
+0000037 040  RR      hysterically             E3- A1.7- 
+0000038 001  NULL    **8;7;text               

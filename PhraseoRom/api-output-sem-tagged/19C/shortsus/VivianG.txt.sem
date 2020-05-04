@@ -1,0 +1,843 @@
+0000001 001  NULL    **6;0;START              
+0000001 002  -----   -----                    
+0000002 010  VVD     answered                 Q2.2 S1.1.1 
+0000002 020  NNB     Mrs.                     Z1f[i6.3.1 Z1f[i4.3.1 Z1m[i2.3.1 Z1m[i1.2.1 Z1f[i3.2.1 Z1f[i5.2.1 
+0000002 030  NP1     Grey                     Z1f[i6.3.2 Z1mf Z1f[i4.3.2 Z1m[i2.3.2 Z1m[i1.2.2 Z1f[i3.2.2 Z1f[i5.2.2 Z1mf[i7.2.1 Z3c[i7.2.1 
+0000003 010  NP1     Agrigentum               Z1f[i6.3.3 Z1f[i4.3.3 Z1m[i2.3.3 Z1mf[i7.2.2 Z3c[i7.2.2 
+0000003 011  ,       ,                        
+0000003 012  "       "                        
+0000003 020  CC      and                      Z5 
+0000004 010  VVD     said                     Q2.1 
+0000004 020  NP1     Augustus                 Z1mf[i8.2.1 Z3c[i8.2.1 Z1m 
+0000004 030  NP1     Etherege                 Z1mf[i8.2.2 Z3c[i8.2.2 
+0000005 010  VVD     said                     Q2.1 
+0000005 020  NP1     Vivian                   Z1mf[i9.2.1 Z3c[i9.2.1 Z1mf 
+0000005 030  NP1     Grey                     Z1mf[i9.2.2 Z3c[i9.2.2 Z1mf 
+0000006 010  VVD     said                     Q2.1 
+0000006 020  NP1     Vivian                   Z1mf 
+0000007 010  VVD     halloed                  Z4 
+0000007 020  AT      the                      Z5 
+0000007 030  NN2     Greyites                 Z99 
+0000008 010  VVD     halloed                  Z4 
+0000008 020  NP1@    King                     S7.1+/S2.2m 
+0000009 010  VVD     said                     Q2.1 
+0000009 020  NP1     Eardley                  Z99 
+0000010 010  VVD     said                     Q2.1 
+0000010 020  NNB     Mr.                      Z1m[i10.2.1 S2.2m 
+0000010 030  NP1     Grey                     Z1m[i10.2.2 Z1mf 
+0000011 010  VVD     said                     Q2.1 
+0000011 020  AT      the                      Z5 
+0000011 030  JJ      fascinated               X5.2+ 
+0000011 040  NN1@    noble                    G2.2+ S7.1+ O4.2+ 
+0000012 010  VVD     said                     Q2.1 
+0000012 020  APPGE   his                      Z8m 
+0000012 030  NN1     lordship                 S7.1+ 
+0000012 031  ,       ,                        
+0000012 040  VVG     returning                M1 A9- N6 
+0000013 010  VVD     said                     Q2.1 
+0000013 020  AT      the                      Z5 
+0000013 030  JJ      young                    T3- 
+0000013 040  NN1     man                      S2.2m 
+0000014 010  VVD     said                     Q2.1 
+0000014 020  NP1     Vivian                   Z1mf 
+0000014 021  ,       ,                        
+0000014 030  VVG     rising                   M1 N5+/A2.1 N3.2+/A2.1 S7.1+/A2.1 N3.7+/A2.1 
+0000015 010  RR      carelessly               A1.3- E6+ 
+0000015 020  VVD     remarked                 Q2.2 
+0000015 030  NP1     Vivian                   Z1mf 
+0000016 010  CC      and                      Z5 
+0000016 020  APPGE   his                      Z8m 
+0000016 030  NN1     voice                    Q2.1 X2.1 S7.1+ Q3 K2 
+0000016 040  VVD     faltered                 A7- 
+0000017 010  RR      eagerly                  X5.2+ 
+0000017 020  VVD     rejoined                 S5+/N6+ A1.8+/N6+ 
+0000017 030  NP1     Vivian                   Z1mf 
+0000018 010  CSA     as                       Z5 
+0000018 020  NP1     Vivian                   Z1mf 
+0000018 030  VVD     assured                  A7+ Q2.2 
+0000018 040  PPHO1   her                      Z8f 
+0000019 010  VVD     said                     Q2.1 
+0000019 020  AT      the                      Z5 
+0000019 030  JJ      agitated                 E3- 
+0000019 040  NN1     Peer                     A6.1+/S2mf S7.1+/S2mf 
+0000020 010  PPHS1   she                      Z8f 
+0000020 020  VVD     continued                T2++ 
+0000021 010  VVD     exclaimed                Q2.2 
+0000021 020  NNB     Mrs.                     Z1f[i14.3.1 Z1m[i12.3.1 Z1m[i11.2.1 Z1f[i13.2.1 
+0000021 030  NP1     Felix                    Z1f[i14.3.2 Z1m[i12.3.2 Z1m[i11.2.2 Z1f[i13.2.2 Z1mf[i15.2.1 Z3c[i15.2.1 
+0000021 040  NP1     Lorraine                 Z1f[i14.3.3 Z1f Z2 Z1m[i12.3.3 Z1mf[i15.2.2 Z3c[i15.2.2 
+0000022 010  VVD     thought                  X2.1 
+0000022 020  NP1     Vivian                   Z1mf 
+0000023 010  VVD     said                     Q2.1 
+0000023 020  NNB     Mrs.                     Z1f[i19.3.1 Z1m[i17.3.1 Z1m[i16.2.1 Z1f[i18.2.1 
+0000023 030  NP1     Felix                    Z1f[i19.3.2 Z1m[i17.3.2 Z1m[i16.2.2 Z1f[i18.2.2 Z1mf[i20.2.1 Z3c[i20.2.1 
+0000023 040  NP1     Lorraine                 Z1f[i19.3.3 Z1f Z2 Z1m[i17.3.3 Z1mf[i20.2.2 Z3c[i20.2.2 
+0000024 010  VVD     said                     Q2.1 
+0000024 020  AT      the                      Z3fnc[i21.2.1 Z5 
+0000024 030  NN1     lady                     Z3fnc[i21.2.2 S2.1f S7.1+/S2.1f 
+0000025 010  VVD     said                     Q2.1 
+0000025 020  PPHS1   he                       Z8m 
+0000026 010  VVD     said                     Q2.1 
+0000026 020  AT      the                      Z5 
+0000026 030  NN1     Marquess                 S7.1+/S2.1f 
+0000027 010  VVD     moaned                   Q2.2 
+0000027 020  AT      the                      Z5 
+0000027 030  NN1     husbandman               F4/S2mf A1.1.1/S2mf A2.2/S2mf 
+0000028 010  VVD     said                     Q2.1 
+0000028 020  NP1     Vivian                   Z1mf 
+0000029 010  VVD     said                     Q2.1 
+0000029 020  NNB     Mr.                      Z1m[i23.3.1 S2.2m Z1m[i22.2.1 
+0000029 030  NP1     Buckhurst                Z1m[i23.3.2 Z1m[i22.2.2 Z1mf[i24.2.1 Z3c[i24.2.1 
+0000029 040  NP1     Stanhope                 Z1m[i23.3.3 Z1mf[i24.2.2 Z3c[i24.2.2 
+0000030 010  VVD     said                     Q2.1 
+0000030 020  JJ@     Fool                     S1.2.6- E4.1+ 
+0000030 030  NN1     Stanhope                 M2 M3fn M4/H1 B5 G2.2- M4 A1.1.1 
+0000031 010  VVD     drawled                  Q2.2 
+0000031 020  NNB     Mr.                      Z1m[i25.2.1 S2.2m 
+0000031 030  NP1     Partenopex               Z1m[i25.2.2 
+0000032 010  VVD     said                     Q2.1 
+0000032 020  NNB     Sir                      Z1m[i27.3.1 Z1m[i26.2.1 
+0000032 030  NP1     Hanway                   Z1m[i27.3.2 Z1m[i26.2.2 Z1mf[i28.2.1 Z3c[i28.2.1 
+0000032 040  NP1     Etherington              Z1m[i27.3.3 Z1mf[i28.2.2 Z3c[i28.2.2 
+0000033 010  VVD     continued                T2++ 
+0000033 020  NP1     Vivian                   Z1mf 
+0000034 010  VVD     persevered               T2++ X8+ 
+0000034 020  AT      the                      Z5 
+0000034 030  JJ      indefatigable            X5.2+ 
+0000034 040  NP1     Boreall                  Z99 
+0000035 010  VVD     said                     Q2.1 
+0000035 020  NP1     Boreall                  Z99 
+0000036 010  VVD     said                     Q2.1 
+0000036 020  NNB     Mr.                      Z1m[i29.2.1 S2.2m 
+0000036 030  NP1     Boreall                  Z1m[i29.2.2 
+0000037 010  CC      and                      Z5 
+0000038 010  RR      triumphantly             X9.2+ 
+0000038 020  VVD     exclaimed                Q2.2 
+0000038 030  AT      the                      Z5 
+0000038 040  NN1     member                   S5+/S2mf B1 
+0000039 010  RR      eagerly                  X5.2+ 
+0000039 020  VVD     exclaimed                Q2.2 
+0000039 030  NP1     Vivian                   Z1mf 
+0000040 010  VVD     said                     Q2.1 
+0000040 020  NNB     Mrs.                     Z1f[i33.3.1 Z1m[i31.3.1 Z1m[i30.2.1 Z1f[i32.2.1 
+0000040 030  NP1     Felix                    Z1f[i33.3.2 Z1m[i31.3.2 Z1m[i30.2.2 Z1f[i32.2.2 Z1mf[i34.2.1 Z3c[i34.2.1 
+0000040 040  NP1     Lorraine                 Z1f[i33.3.3 Z1f Z2 Z1m[i31.3.3 Z1mf[i34.2.2 Z3c[i34.2.2 
+0000041 010  VVD     said                     Q2.1 
+0000041 020  NP1     Vivian                   Z1mf 
+0000042 010  VVD     continued                T2++ 
+0000042 020  NP1     Vivian                   Z1mf 
+0000043 010  VVD     thought                  X2.1 
+0000043 020  NNB     Mrs.                     S4/H1c[i35.2.1 S4f S2.1f 
+0000043 030  NNO     Million                  S4/H1c[i35.2.2 N1 I1 
+0000044 010  VVD     said                     Q2.1 
+0000044 020  NNB     Miss                     Z1f[i36.2.1 
+0000044 030  NP1     Gusset                   Z1f[i36.2.2 
+0000045 010  VVD     rejoined                 S5+/N6+ A1.8+/N6+ 
+0000045 020  NNB     Miss                     Z1f[i37.2.1 
+0000045 030  NP1     Graves                   Z1f[i37.2.2 
+0000046 010  VVD     said                     Q2.1 
+0000046 020  NNB     Miss                     Z1f[i38.2.1 
+0000046 030  NP1     Graves                   Z1f[i38.2.2 
+0000047 010  VVD     said                     Q2.1 
+0000047 020  NNB     Miss                     Z1f[i39.2.1 
+0000047 030  NP1     Graves                   Z1f[i39.2.2 
+0000048 010  PPHS1   he                       Z8m 
+0000048 020  VVD     began                    T2+ 
+0000049 010  AT      the                      Z5 
+0000049 020  NN1     Marquess                 S7.1+/S2.1f 
+0000049 030  VVD     continued                T2++ 
+0000050 010  VVD     said                     Q2.1 
+0000050 020  NP1     Vivian                   Z1mf 
+0000051 010  VVD     exclaimed                Q2.2 
+0000051 020  AT      the                      Z5 
+0000051 030  NN1     Marquess                 S7.1+/S2.1f 
+0000052 010  VVD     said                     Q2.1 
+0000052 020  NP1     Vivian                   Z1mf 
+0000053 010  VVD     thought                  X2.1 
+0000053 020  NP1     Vivian                   Z1mf 
+0000054 010  VVD     continued                T2++ 
+0000054 020  AT      the                      Z5 
+0000054 030  NP1     Newfoundland             L2mfn E6- H4 S4 E3+/L2 M6 B4/S2mf A4.1 T1.2 W3 
+0000054 031  GE      's                       Z5 
+0000054 040  NN1     master                   S7.1+/S2.2m X9.1+/S2.2m P1/S2.2m P1 C1/S2.2m S9/S2.2m 
+0000055 010  VVD     thought                  X2.1 
+0000055 020  NP1     Vivian                   Z1mf 
+0000056 010  VVD     said                     Q2.1 
+0000056 020  PPHS1   he                       Z8m 
+0000057 010  VVD     continued                T2++ 
+0000057 020  NP1     Vivian                   Z1mf 
+0000058 010  VVD     exclaimed                Q2.2 
+0000058 020  NP1     Vivian                   Z1mf 
+0000059 010  VVD     said                     Q2.1 
+0000059 020  NNB     Mrs.                     Z1f[i41.2.1 Z1m[i40.2.1 
+0000059 030  NP1     Felix                    Z1f[i41.2.2 Z1m[i40.2.2 
+0000060 010  VVD     said                     Q2.1 
+0000060 020  NP1     Vivian                   Z1mf 
+0000061 010  VVD     continued                T2++ 
+0000061 020  APPGE   her                      Z8f 
+0000061 030  NN1     companion                S3.1/S2mf 
+0000062 010  PPHS1   he                       Z8m 
+0000062 020  VVD     said                     Q2.1 
+0000062 021  ,       ,                        
+0000062 030  VVG     smiling                  E4.1+ 
+0000063 010  PPHS1   she                      Z8f 
+0000063 020  RR      softly                   E3+ X3.2 O4.3 
+0000063 030  VVD     whispered                Q2.1/X3.2- 
+0000064 010  JJ      continued                T2++ 
+0000064 020  NP1     Vivian                   Z1mf 
+0000065 010  VVD     said                     Q2.1 
+0000065 020  NNB     Miss                     Z1f[i42.2.1 
+0000065 030  NP1     Graves                   Z1f[i42.2.2 
+0000066 010  VVD     continued                T2++ 
+0000066 020  AT      the                      Z5 
+0000066 030  NN1     Marchioness              S4f S4 A2.2 S2.1f S7.1+/S2.1f Z3c 
+0000067 010  VVD     said                     Q2.1 
+0000067 020  NNB     Mr.                      Z1m[i43.2.1 S2.2m 
+0000067 030  NP1     Mackaw                   Z1m[i43.2.2 
+0000068 010  VVD     said                     Q2.1 
+0000068 020  NP1     Vivian                   Z1mf 
+0000069 010  VVD     continued                T2++ 
+0000069 020  NP1     Vivian                   Z1mf 
+0000070 010  VVD     said                     Q2.1 
+0000070 020  NNB     Mr.                      S2.2m 
+0000070 030  NP1     Mackaw                   Z99 
+0000071 010  VVD     thought                  X2.1 
+0000071 020  NP1     Vivian                   Z1mf 
+0000072 010  VVD     howled                   Q2.2 X3.2+ 
+0000072 020  AT      the                      Z5 
+0000072 030  NN1     Marquess                 S7.1+/S2.1f 
+0000073 010  VVD     said                     Q2.1 
+0000073 020  NNB     Mrs.                     Z1f[i45.2.1 Z1m[i44.2.1 
+0000073 030  NP1     Lorraine                 Z1f[i45.2.2 Z1f Z2 Z1m[i44.2.2 
+0000074 010  PPHS1   he                       Z8m 
+0000074 020  VVD     sobbed                   E4.1- 
+0000075 010  NN1     thought                  X4.1 
+0000075 020  NP1     Vivian                   Z1mf 
+0000076 010  CC      or                       Z5 
+0000077 010  VVD     continued                T2++ 
+0000077 020  AT      the                      Z5 
+0000077 030  NN1     Baron                    Z1mf 
+0000078 010  VVD     said                     Q2.1 
+0000078 020  AT      the                      Z5 
+0000078 030  NN1     Baron                    Z1mf 
+0000079 010  VVD     continued                T2++ 
+0000079 020  AT      the                      Z5 
+0000079 030  NN1     Baron                    Z1mf 
+0000080 010  VVD     said                     Q2.1 
+0000080 020  AT      the                      Z5 
+0000080 030  NN1     Baron                    Z1mf 
+0000081 010  VVD     commenced                T2+ 
+0000081 020  AT      the                      Z5 
+0000081 030  JJ      Polish                   Z2 Z2/Q3 Z2/S2mfnc 
+0000081 040  NN1     Prince                   Z1mf Z3m 
+0000082 010  VVD     said                     Q2.1 
+0000082 020  AT      the                      Z5 
+0000082 030  JJ      Plenipotentiary          Z99 
+0000083 010  VVD     continued                T2++ 
+0000083 020  AT      the                      Z5 
+0000083 030  NN1     conjuror                 K4/S2mf S9/S2mf X9.2+/S2mf K1 A1.1.1 K4 X9.2+ C1/S2mf K2/S2mf A10+ S9 S2.2m I3.1 S9/S2.1f O4.2-/S2.1f B3/I3.2/S2mf P1/S2mf B3 A2.1+/G2.1- 
+0000084 010  VVD     continued                T2++ 
+0000084 020  AT      the                      Z5 
+0000084 030  NN1     conjuror                 K4/S2mf S9/S2mf X9.2+/S2mf K1 A1.1.1 K4 X9.2+ C1/S2mf K2/S2mf A10+ S9 S2.2m I3.1 S9/S2.1f O4.2-/S2.1f B3/I3.2/S2mf P1/S2mf B3 A2.1+/G2.1- 
+0000085 010  VVD     said                     Q2.1 
+0000085 020  AT      the                      Z5 
+0000085 030  NN1     conjuror                 K4/S2mf S9/S2mf X9.2+/S2mf K1 A1.1.1 K4 X9.2+ C1/S2mf K2/S2mf A10+ S9 S2.2m I3.1 S9/S2.1f O4.2-/S2.1f B3/I3.2/S2mf P1/S2mf B3 A2.1+/G2.1- 
+0000086 010  VVD     cried                    E4.1- Q2.2 
+0000086 020  AT      the                      Z5 
+0000086 030  NN1     conjuror                 K4/S2mf S9/S2mf X9.2+/S2mf K1 A1.1.1 K4 X9.2+ C1/S2mf K2/S2mf A10+ S9 S2.2m I3.1 S9/S2.1f O4.2-/S2.1f B3/I3.2/S2mf P1/S2mf B3 A2.1+/G2.1- 
+0000087 010  VVD     bellowed                 Q2.2/E3- X3.2+ 
+0000087 020  AT      the                      Z5 
+0000087 030  NN1     judge                    G2.1/I3.2/S2mf X6/S2mf 
+0000088 010  VVD     shrieked                 Q2.2/X3.2+ 
+0000088 020  NP1     Essper                   Z99 
+0000089 010  VVD     said                     Q2.1 
+0000089 020  AT      the                      Z5 
+0000089 030  NN1     Baron                    Z1mf 
+0000090 010  VVD     said                     Q2.1 
+0000090 020  AT      the                      Z5 
+0000090 030  NN1     Baron                    Z1mf 
+0000091 010  VVD     said                     Q2.1 
+0000091 020  APPGE   his                      Z8m 
+0000091 030  NN1     Highness                 S7.1+/S2mf N3.7+ 
+0000092 010  VVD     said                     Q2.1 
+0000092 020  AT      the                      Z5 
+0000092 030  NN1     Baron                    Z1mf 
+0000093 010  VVD     said                     Q2.1 
+0000093 020  AT      the                      Z5 
+0000093 030  JJ      Grand                    O4.2+ A11.1+ A5.1+ N3.2+ S1.2.3+ 
+0000093 040  NN1     Duke                     Z1mf 
+0000094 010  VVD     asked                    Q2.2 
+0000094 020  APPGE   her                      Z8f 
+0000094 030  NN1     Ladyship                 S7.1+/S2.1f 
+0000095 010  VVD     said                     Q2.1 
+0000095 020  AT      the                      Z5 
+0000095 030  NN1     Baron                    Z1mf 
+0000096 010  VVD     said                     Q2.1 
+0000096 020  AT      the                      Z5 
+0000096 030  NN1     Baron                    Z1mf 
+0000097 010  VVD     said                     Q2.1 
+0000097 020  PPHS1   he                       Z8m 
+0000097 021  ,       ,                        
+0000097 030  RR      coolly                   O4.6- S1.2.1- O4.2+ E6+ 
+0000098 010  VVD     said                     Q2.1 
+0000098 020  AT      the                      Z5 
+0000098 030  NN1     Baron                    Z1mf 
+0000099 010  VVD     said                     Q2.1 
+0000099 020  NNB     Lady                     Z1mf[i46.2.1 Z3c[i46.2.1 Z3c 
+0000099 030  NP1     Madeleine                Z1mf[i46.2.2 Z3c[i46.2.2 
+0000099 031  ,       ,                        
+0000099 040  VVG     smiling                  E4.1+ 
+0000100 010  VVD     said                     Q2.1 
+0000100 020  NNB     Lady                     Z1mf[i47.2.1 Z3c[i47.2.1 Z3c 
+0000100 030  NP1     Madeleine                Z1mf[i47.2.2 Z3c[i47.2.2 
+0000101 010  VVD     said                     Q2.1 
+0000101 020  NP1     Vivian                   Z1mf 
+0000101 021  ,       ,                        
+0000101 030  VVN     agitated                 E3- 
+0000102 010  VVD     said                     Q2.1 
+0000102 020  NNB     Lady                     Z1mf[i48.2.1 Z3c[i48.2.1 Z3c 
+0000102 030  NP1     Madeleine                Z1mf[i48.2.2 Z3c[i48.2.2 
+0000103 010  VVD     answered                 Q2.2 S1.1.1 
+0000103 020  NP1     Essper                   Z99 
+0000103 021  ,       ,                        
+0000103 030  VVG     looking                  A8 X3.4 X2.4 X7+ Z4 
+0000103 040  NN1     disconsolate             E4.1- 
+0000104 010  VVD     said                     Q2.1 
+0000104 020  AT      the                      Z5 
+0000104 030  NN1     Baron                    Z1mf 
+0000105 010  VVD     said                     Q2.1 
+0000105 020  NNB     Lady                     Z1mf[i49.2.1 Z3c[i49.2.1 Z3c 
+0000105 030  NP1     Madeleine                Z1mf[i49.2.2 Z3c[i49.2.2 
+0000106 010  VVD     thought                  X2.1 
+0000106 020  NP1     Vivian                   Z1mf 
+0000107 010  VVD     sobbed                   E4.1- 
+0000107 020  NP1     Essper                   Z99 
+0000108 010  VVD     said                     Q2.1 
+0000108 020  NNB     Miss                     Z1f[i50.2.1 
+0000108 030  NP1     Fane                     Z1f[i50.2.2 
+0000109 010  VVD     said                     Q2.1 
+0000109 020  NP1     Vivian                   Z1mf 
+0000110 010  VVD     said                     Q2.1 
+0000110 020  NP1     Violet                   O4.3 L3 
+0000111 010  VVD     said                     Q2.1 
+0000111 020  NNB     Miss                     Z1f[i51.2.1 
+0000111 030  NP1     Fane                     Z1f[i51.2.2 
+0000112 010  VVD     said                     Q2.1 
+0000112 020  NP1     Vivian                   Z1mf 
+0000113 010  VVD     said                     Q2.1 
+0000113 020  NNB     Miss                     Z1f[i52.2.1 
+0000113 030  NP1     Fane                     Z1f[i52.2.2 
+0000114 010  VVD     muttered                 Q2.2/X3.2- 
+0000114 020  NP1     Vivian                   Z1mf 
+0000115 010  VVD     said                     Q2.1 
+0000115 020  NNB     Lady                     Z1mf[i53.2.1 Z3c[i53.2.1 Z3c 
+0000115 030  NP1     Madeleine                Z1mf[i53.2.2 Z3c[i53.2.2 
+0000116 010  VVD     said                     Q2.1 
+0000116 020  APPGE   her                      Z8f 
+0000116 030  NN1     Ladyship                 S7.1+/S2.1f 
+0000117 010  VVD     said                     Q2.1 
+0000117 020  NP1     Vivian                   Z1mf 
+0000118 010  VVD     continued                T2++ 
+0000118 020  APPGE   her                      Z8f 
+0000118 030  NN1     Ladyship                 S7.1+/S2.1f 
+0000119 010  VVD     said                     Q2.1 
+0000119 020  NP1     Vivian                   Z1mf 
+0000120 010  VVD     said                     Q2.1 
+0000120 020  NNB     Lady                     Z1mf[i54.2.1 Z3c[i54.2.1 Z3c 
+0000120 030  NP1     Madeleine                Z1mf[i54.2.2 Z3c[i54.2.2 
+0000121 010  VVD     said                     Q2.1 
+0000121 020  NP1     Vivian                   Z1mf 
+0000122 010  VVD     continued                T2++ 
+0000122 020  NNB     Lady                     Z1mf[i55.2.1 Z3c[i55.2.1 Z3c 
+0000122 030  NP1     Madeleine                Z1mf[i55.2.2 Z3c[i55.2.2 
+0000123 010  VVD     said                     Q2.1 
+0000123 020  NNB     Mr.                      Z1m[i56.2.1 S2.2m 
+0000123 030  NP1     Fitzloom                 Z1m[i56.2.2 
+0000124 010  VVD     said                     Q2.1 
+0000124 020  NP1     Vivian                   Z1mf 
+0000125 010  VVD     continued                T2++ 
+0000125 020  NNB     Miss                     Z1f[i57.2.1 
+0000125 030  NP1     Fane                     Z1f[i57.2.2 
+0000126 010  VVD     continued                T2++ 
+0000126 020  NNB     Miss                     Z1f[i58.2.1 
+0000126 030  NP1     Fane                     Z1f[i58.2.2 
+0000127 010  VVD     said                     Q2.1 
+0000127 020  NNB     Miss                     Z1f[i59.2.1 
+0000127 030  NP1     Fane                     Z1f[i59.2.2 
+0000128 010  VVD     said                     Q2.1 
+0000128 020  AT      the                      Z5 
+0000128 030  NN1     Baron                    Z1mf 
+0000129 010  VVD     said                     Q2.1 
+0000129 020  AT      the                      Z5 
+0000129 030  NN1     Chevalier                Z1m A4.1 T1.2 K4/S2.2m A1.1.1/S2mf@ K6/S2mf K5.2/S2mf K2/S2mf S1.1.3+/S2mf K4/S2mf K3 I3.1 K4 S1.1.1 A1.1.1 A1.3- G3/S2.2m T1.1.1/S2.2m Z3 S2.2 S2.2m S7.1+/S2mf 
+0000130 010  VVD     said                     Q2.1 
+0000130 020  AT      the                      Z5 
+0000130 030  NN1     Chevalier                Z1m A4.1 T1.2 K4/S2.2m A1.1.1/S2mf@ K6/S2mf K5.2/S2mf K2/S2mf S1.1.3+/S2mf K4/S2mf K3 I3.1 K4 S1.1.1 A1.1.1 A1.3- G3/S2.2m T1.1.1/S2.2m Z3 S2.2 S2.2m S7.1+/S2mf 
+0000131 010  VVD     said                     Q2.1 
+0000131 020  AT      the                      Z5 
+0000131 030  NN1     Chevalier                Z1m A4.1 T1.2 K4/S2.2m A1.1.1/S2mf@ K6/S2mf K5.2/S2mf K2/S2mf S1.1.3+/S2mf K4/S2mf K3 I3.1 K4 S1.1.1 A1.1.1 A1.3- G3/S2.2m T1.1.1/S2.2m Z3 S2.2 S2.2m S7.1+/S2mf 
+0000132 010  VVD     said                     Q2.1 
+0000132 020  NP1     De                       Z1mf[i60.2.1 Z3c[i60.2.1 
+0000132 030  NP1     Boeffleurs               Z1mf[i60.2.2 Z3c[i60.2.2 
+0000133 010  VVD     said                     Q2.1 
+0000133 020  AT      the                      Z5 
+0000133 030  NN1     Baron                    Z1mf 
+0000134 010  VVD     said                     Q2.1 
+0000134 020  NP1     De                       Z1mf[i61.2.1 Z3c[i61.2.1 
+0000134 030  NP1     Boeffleurs               Z1mf[i61.2.2 Z3c[i61.2.2 
+0000135 010  VVD     continued                T2++ 
+0000135 020  NP1     Vivian                   Z1mf 
+0000136 010  VVD     answered                 Q2.2 S1.1.1 
+0000136 020  NP1     Vivian                   Z1mf 
+0000136 021  ,       ,                        
+0000136 030  RR      sternly                  S1.2.1- 
+0000137 010  VVD     said                     Q2.1 
+0000137 020  NP1     Vivian                   Z1mf 
+0000138 010  VVD     said                     Q2.1 
+0000138 020  AT      the                      Z5 
+0000138 030  NN1     Chevalier                Z1m A4.1 T1.2 K4/S2.2m A1.1.1/S2mf@ K6/S2mf K5.2/S2mf K2/S2mf S1.1.3+/S2mf K4/S2mf K3 I3.1 K4 S1.1.1 A1.1.1 A1.3- G3/S2.2m T1.1.1/S2.2m Z3 S2.2 S2.2m S7.1+/S2mf 
+0000139 010  VVD     said                     Q2.1 
+0000139 020  NP1     Vivian                   Z1mf 
+0000140 010  VVD     said                     Q2.1 
+0000140 020  NP1     Vivian                   Z1mf 
+0000141 010  VVD     asked                    Q2.2 
+0000141 020  NNB     Lady                     Z1mf[i62.2.1 Z3c[i62.2.1 Z3c 
+0000141 030  NP1     Madeleine                Z1mf[i62.2.2 Z3c[i62.2.2 
+0000142 010  VVD     said                     Q2.1 
+0000142 020  NNB     Miss                     Z1f[i63.2.1 
+0000142 030  NP1     Fane                     Z1f[i63.2.2 
+0000143 010  VVD     said                     Q2.1 
+0000143 020  NNB     Miss                     Z1f[i64.2.1 
+0000143 030  NP1     Fane                     Z1f[i64.2.2 
+0000144 010  VVD     said                     Q2.1 
+0000144 020  NNB     Miss                     Z1f[i65.2.1 
+0000144 030  NP1     Fane                     Z1f[i65.2.2 
+0000145 010  VVD     said                     Q2.1 
+0000145 020  NNB     Lady                     Z1mf[i66.2.1 Z3c[i66.2.1 Z3c 
+0000145 030  NP1     Madeleine                Z1mf[i66.2.2 Z3c[i66.2.2 
+0000146 010  VVD     said                     Q2.1 
+0000146 020  NNB     Miss                     Z1f[i67.2.1 
+0000146 030  NP1     Fane                     Z1f[i67.2.2 
+0000147 010  VVD     continued                T2++ 
+0000147 020  NP1     Violet                   O4.3 L3 
+0000148 010  VVD     asked                    Q2.2 
+0000148 020  NNB     Lady                     Z1mf[i68.2.1 Z3c[i68.2.1 Z3c 
+0000148 030  NP1     Madeleine                Z1mf[i68.2.2 Z3c[i68.2.2 
+0000149 010  VVD     said                     Q2.1 
+0000149 020  NP1     Violet                   O4.3 L3 
+0000150 010  VVD     said                     Q2.1 
+0000150 020  NNB     Miss                     Z1f[i69.2.1 
+0000150 030  NP1     Fane                     Z1f[i69.2.2 
+0000151 010  VVD     said                     Q2.1 
+0000151 020  NP1     Essper                   Z99 
+0000152 010  VVD     said                     Q2.1 
+0000152 020  NP1     Vivian                   Z1mf 
+0000153 010  VVD     continued                T2++ 
+0000153 020  NP1     Essper                   Z99 
+0000154 010  VVD     said                     Q2.1 
+0000154 020  NP1     Vivian                   Z1mf 
+0000155 010  VVD     said                     Q2.1 
+0000155 020  NP1     Essper                   Z99 
+0000156 010  VVD     said                     Q2.1 
+0000156 020  AT      the                      Z5 
+0000156 030  JJ      enraged                  E3- 
+0000156 040  NN1     Essper                   Z99 
+0000157 010  VVD     said                     Q2.1 
+0000157 020  NP1     Essper                   Z99 
+0000158 010  VVD     continued                T2++ 
+0000158 020  AT      the                      Z5 
+0000158 030  JJ      Grand                    O4.2+ A11.1+ A5.1+ N3.2+ S1.2.3+ 
+0000158 040  NN1     Duke                     Z1mf 
+0000159 010  VVD     continued                T2++ 
+0000159 020  AT      the                      Z5 
+0000159 030  JJ      Grand                    O4.2+ A11.1+ A5.1+ N3.2+ S1.2.3+ 
+0000159 040  NN1     Duke                     Z1mf 
+0000160 010  VVD     answered                 Q2.2 S1.1.1 
+0000160 020  NP1     Vivian                   Z1mf 
+0000161 010  VVD     said                     Q2.1 
+0000161 020  NP1     Vivian                   Z1mf 
+0000162 010  VVD     said                     Q2.1 
+0000162 020  AT      the                      Z5 
+0000162 030  JJ      Grand                    O4.2+ A11.1+ A5.1+ N3.2+ S1.2.3+ 
+0000162 040  NN1     Duke                     Z1mf 
+0000163 010  VVD     said                     Q2.1 
+0000163 020  NP1     Vivian                   Z1mf 
+0000164 010  VVD     said                     Q2.1 
+0000164 020  NP1     Essper                   Z99 
+0000164 030  II      to                       Z5 
+0000164 040  NP1     Vivian                   Z1mf 
+0000165 010  VVD     shouted                  Q2.2/X3.2++ 
+0000165 020  NP1     Essper                   Z99 
+0000166 010  VVD     said                     Q2.1 
+0000166 020  AT      the                      Z5 
+0000166 030  NN1     huntsman                 K5.1/S2mf L2mfn O2 Z1mf X9.1+ I3.2+ I3.1/S2mf P1 I3.1/S2.2m 
+0000167 010  VVD     continued                T2++ 
+0000167 020  AT      the                      Z5 
+0000167 030  NN1     huntsman                 K5.1/S2mf L2mfn O2 Z1mf X9.1+ I3.2+ I3.1/S2mf P1 I3.1/S2.2m 
+0000168 010  VVD     said                     Q2.1 
+0000168 020  NP1     Vivian                   Z1mf 
+0000169 010  VVD     said                     Q2.1 
+0000169 020  NP1     Essper                   Z1mf[i70.2.1 Z3c[i70.2.1 
+0000169 030  NP1     George                   Z1mf[i70.2.2 Z3c[i70.2.2 Z1m 
+0000170 010  PN1     everything               Z8/N5.1+ 
+0000170 020  CCB     but                      Z5 
+0000171 010  VVD     said                     Q2.1 
+0000171 020  PPHS1   he                       Z8m 
+0000172 010  VVD     repeated                 N6+ Q2.1/N6+ F1/B1@ 
+0000172 020  AT      the                      Z5 
+0000172 030  NN1     stranger                 X2.2-/S2mf 
+0000173 010  VVD     said                     Q2.1 
+0000173 020  NP1     Essper                   Z99 
+0000174 010  VVD     said                     Q2.1 
+0000174 020  AT      the                      Z5 
+0000174 030  NN1     Prince                   Z1mf Z3m 
+0000175 010  VVD     said                     Q2.1 
+0000175 020  AT      the                      Z5 
+0000175 030  NN1     Prince                   Z1mf Z3m 
+0000176 010  VVD     said                     Q2.1 
+0000176 020  AT      the                      Z5 
+0000176 030  NN1     Prince                   Z1mf Z3m 
+0000177 010  VVD     said                     Q2.1 
+0000177 020  AT      the                      Z5 
+0000177 030  NN1     Prince                   Z1mf Z3m 
+0000178 010  VVD     continued                T2++ 
+0000178 020  APPGE   his                      Z8m 
+0000178 030  NN1     Highness                 S7.1+/S2mf N3.7+ 
+0000179 010  VVD     said                     Q2.1 
+0000179 020  NP1     Vivian                   Z1mf 
+0000180 010  VVD     continued                T2++ 
+0000180 020  AT      the                      Z5 
+0000180 030  NN1     Prince                   Z1mf Z3m 
+0000181 010  VVD     said                     Q2.1 
+0000181 020  NP1     Vivian                   Z1mf 
+0000182 010  VVD     asked                    Q2.2 
+0000182 020  AT      the                      Z5 
+0000182 030  NN1     Prince                   Z1mf Z3m 
+0000183 010  VVD     answered                 Q2.2 S1.1.1 
+0000183 020  NNB     Mr.                      Z1m[i71.2.1 S2.2m 
+0000183 030  NP1     Sievers                  Z1m[i71.2.2 
+0000184 010  VVD     said                     Q2.1 
+0000184 020  APPGE   his                      Z8m 
+0000184 030  NN1     master                   S7.1+/S2.2m X9.1+/S2.2m P1/S2.2m P1 C1/S2.2m S9/S2.2m 
+0000185 010  VVD     said                     Q2.1 
+0000185 020  AT      the                      Z5 
+0000185 030  NP1     Jagd                     Z1mf[i72.2.1 Z3c[i72.2.1 
+0000185 040  NP1     Junker                   Z1mf[i72.2.2 Z3c[i72.2.2 
+0000186 010  VVD     said                     Q2.1 
+0000186 020  AT      the                      Z5 
+0000186 030  NN1     Prince                   Z1mf Z3m 
+0000187 010  VVD     said                     Q2.1 
+0000187 020  NP1     Vivian                   Z1mf 
+0000188 010  VVD     said                     Q2.1 
+0000188 020  APPGE   his                      Z8m 
+0000188 030  NN1     Highness                 S7.1+/S2mf N3.7+ 
+0000189 010  VVD     said                     Q2.1 
+0000189 020  AT      the                      Z5 
+0000189 030  NN1     messenger                Q2.1/S2mf 
+0000190 010  VVD     said                     Q2.1 
+0000190 020  APPGE   his                      Z8m 
+0000190 030  NN1     Highness                 S7.1+/S2mf N3.7+ 
+0000191 010  VVD     said                     Q2.1 
+0000191 020  NNB     Mr.                      Z1m[i73.2.1 S2.2m 
+0000191 030  NP1     Sievers                  Z1m[i73.2.2 
+0000192 010  VVD     continued                T2++ 
+0000192 020  NNB     Mr.                      Z1m[i74.2.1 S2.2m 
+0000192 030  NP1     Sievers                  Z1m[i74.2.2 
+0000193 010  VVD     said                     Q2.1 
+0000193 020  NP1     Vivian                   Z1mf 
+0000194 010  VVD     answered                 Q2.2 S1.1.1 
+0000194 020  NP1     Vivian                   Z1mf 
+0000195 010  VVD     replied                  Q2.2 Q1.1 
+0000195 020  AT      the                      Z5 
+0000195 030  NN1     Prince                   Z1mf Z3m 
+0000196 010  VVD     said                     Q2.1 
+0000196 020  AT      the                      Z5 
+0000196 030  NN1     Prince                   Z1mf Z3m 
+0000197 010  VVD     continued                T2++ 
+0000197 020  AT      the                      Z5 
+0000197 030  NN1     Prince                   Z1mf Z3m 
+0000198 010  VVD     said                     Q2.1 
+0000198 020  NP1     Vivian                   Z1mf 
+0000199 010  VVD     said                     Q2.1 
+0000199 020  NP1     Vivian                   Z1mf 
+0000200 010  VVD     said                     Q2.1 
+0000200 020  AT      the                      Z5 
+0000200 030  NN1     Prince                   Z1mf Z3m 
+0000201 010  VVD     said                     Q2.1 
+0000201 020  NP1     Vivian                   Z1mf 
+0000202 010  VVD     asked                    Q2.2 
+0000202 020  NP1     Vivian                   Z1mf 
+0000203 010  VVD     said                     Q2.1 
+0000203 020  AT      the                      Z5 
+0000203 030  NN1     Prince                   Z1mf Z3m 
+0000204 010  VVD     said                     Q2.1 
+0000204 020  NP1     Vivian                   Z1mf 
+0000205 010  VVD     said                     Q2.1 
+0000205 020  APPGE   his                      Z8m 
+0000205 030  NN1     Highness                 S7.1+/S2mf N3.7+ 
+0000206 010  VVD     said                     Q2.1 
+0000206 020  NNB     Mr.                      Z1m[i75.2.1 S2.2m 
+0000206 030  NP1     Beckendorff              Z1m[i75.2.2 
+0000207 010  PPHS1   he                       Z8m 
+0000207 020  VVD     thought                  X2.1 
+0000208 010  VVD     said                     Q2.1 
+0000208 020  NNB     Mr.                      Z1m[i76.2.1 S2.2m 
+0000208 030  NP1     Beckendorff              Z1m[i76.2.2 
+0000209 010  VVD     said                     Q2.1 
+0000209 020  NP1     Beckendorff              Z99 
+0000210 010  VVD     thought                  X2.1 
+0000210 020  PPHS1   he                       Z8m 
+0000211 010  VVD     continued                T2++ 
+0000211 020  NP1     Beckendorff              Z99 
+0000212 010  VVD     said                     Q2.1 
+0000212 020  NNB     Mr.                      Z1m[i77.2.1 S2.2m 
+0000212 030  NP1     Beckendorff              Z1m[i77.2.2 
+0000213 010  VVD     said                     Q2.1 
+0000213 020  PPHS1   he                       Z8m 
+0000214 010  VVD     said                     Q2.1 
+0000214 020  AT      the                      Z5 
+0000214 030  NN1     Prince                   Z1mf Z3m 
+0000214 031  ,       ,                        
+0000214 040  RR      slowly                   N3.8- 
+0000215 010  VVD     said                     Q2.1 
+0000215 020  AT      the                      Z5 
+0000215 030  NN1     Prince                   Z1mf Z3m 
+0000216 010  VVD     said                     Q2.1 
+0000216 020  AT      the                      Z5 
+0000216 030  NN1     Prince                   Z1mf Z3m 
+0000217 010  VVD     continued                T2++ 
+0000217 020  APPGE   his                      Z8m 
+0000217 030  NN1     Highness                 S7.1+/S2mf N3.7+ 
+0000218 010  VVD     said                     Q2.1 
+0000218 020  NP1     Vivian                   Z1mf 
+0000219 010  VVD     added                    N5+/A2.1 N2 A1.8+ 
+0000219 020  NP1     Vivian                   Z1mf 
+0000219 021  ,       ,                        
+0000219 030  VVG     smiling                  E4.1+ 
+0000220 010  VVD     inquired                 Q2.2 X2.4 
+0000220 020  AT      the                      Z5 
+0000220 030  NN1     Prince                   Z1mf Z3m 
+0000221 010  VVD     answered                 Q2.2 S1.1.1 
+0000221 020  AT      the                      Z5 
+0000221 030  NN1     housekeeper              B4/S2mf 
+0000222 010  VVD     said                     Q2.1 
+0000222 020  AT      the                      Z5 
+0000222 030  NN1     Prince                   Z1mf Z3m 
+0000223 010  VVD     said                     Q2.1 
+0000223 020  AT      the                      Z5 
+0000223 030  NN1     Prince                   Z1mf Z3m 
+0000224 010  VVD     said                     Q2.1 
+0000224 020  NP1     Beckendorff              Z99 
+0000225 010  VVD     said                     Q2.1 
+0000225 020  AT      the                      Z5 
+0000225 030  NN1     Prince                   Z1mf Z3m 
+0000226 010  VVD     said                     Q2.1 
+0000226 020  PPHS1   he                       Z8m 
+0000227 010  VVD     continued                T2++ 
+0000227 020  NNB     Mr.                      Z1m[i78.2.1 S2.2m 
+0000227 030  NP1     Beckendorff              Z1m[i78.2.2 
+0000228 010  VVD     said                     Q2.1 
+0000228 020  NNB     Mr.                      Z1m[i79.2.1 S2.2m 
+0000228 030  NP1     Beckendorff              Z1m[i79.2.2 
+0000229 010  VVD     continued                T2++ 
+0000229 020  AT      the                      Z5 
+0000229 030  NN1     Prince                   Z1mf Z3m 
+0000230 010  VVD     said                     Q2.1 
+0000230 020  NP1     Vivian                   Z1mf 
+0000231 010  VVD     said                     Q2.1 
+0000231 020  NP1     Beckendorff              Z99 
+0000232 010  VVD     continued                T2++ 
+0000232 020  NP1     Vivian                   Z1mf 
+0000233 010  VVD     said                     Q2.1 
+0000233 020  NNB     Mr.                      Z1m[i80.2.1 S2.2m 
+0000233 030  NP1     Beckendorff              Z1m[i80.2.2 
+0000234 010  VVD     said                     Q2.1 
+0000234 020  NP1     Vivian                   Z1mf 
+0000235 010  VVD     said                     Q2.1 
+0000235 020  NNB     Mr.                      Z1m[i81.2.1 S2.2m 
+0000235 030  NP1     Beckendorff              Z1m[i81.2.2 
+0000236 010  VVD     said                     Q2.1 
+0000236 020  PPHS1   he                       Z8m 
+0000237 010  VVD     said                     Q2.1 
+0000237 020  NP1     Vivian                   Z1mf 
+0000238 010  RR21    at                       N5+[i82.2.1 N4[i82.2.1 
+0000238 020  RR22    length                   N5+[i82.2.2 N4[i82.2.2 
+0000238 030  NP1     Vivian                   Z1mf 
+0000238 040  VVD     said                     Q2.1 
+0000239 010  VVD     said                     Q2.1 
+0000239 020  AT      the                      Z5 
+0000239 030  NN1     Prince                   Z1mf Z3m 
+0000240 010  VVD     said                     Q2.1 
+0000240 020  AT      the                      Z5 
+0000240 030  NN1     Prince                   Z1mf Z3m 
+0000241 010  VVD     said                     Q2.1 
+0000241 020  NNB     Mr.                      Z1m[i83.2.1 S2.2m 
+0000241 030  NP1     Beckendorff              Z1m[i83.2.2 
+0000242 010  VVD     said                     Q2.1 
+0000242 020  NP1     Beckendorff              Z99 
+0000243 010  VVD     thought                  X2.1 
+0000243 020  NP1     Vivian                   Z1mf 
+0000244 010  VVD     continued                T2++ 
+0000244 020  NP1     Essper                   Z99 
+0000245 010  VVD     said                     Q2.1 
+0000245 020  NP1     Vivian                   Z1mf 
+0000246 010  VVD     said                     Q2.1 
+0000246 020  NP1     Sievers                  Z99 
+0000247 010  VVD     said                     Q2.1 
+0000247 020  NP1     Sievers                  Z99 
+0000247 021  ,       ,                        
+0000247 030  VVG     bowing                   O4.1/B1 S7.2+ S1.2.4+ S7.1- 
+0000248 010  VVD     said                     Q2.1 
+0000248 020  NNB     Mr.                      Z1m[i84.2.1 S2.2m 
+0000248 030  NP1     Sievers                  Z1m[i84.2.2 
+0000249 010  VVD     said                     Q2.1 
+0000249 020  NNB     Mr.                      Z1m[i85.2.1 S2.2m 
+0000249 030  NP1     Sievers                  Z1m[i85.2.2 
+0000250 010  VVD     said                     Q2.1 
+0000250 020  NNB     Mr.                      Z1m[i86.2.1 S2.2m 
+0000250 030  NP1     Sievers                  Z1m[i86.2.2 
+0000251 010  VVD     said                     Q2.1 
+0000251 020  NP1     Vivian                   Z1mf 
+0000252 010  VVD     continued                T2++ 
+0000252 020  NNB     Mr.                      Z1m[i87.2.1 S2.2m 
+0000252 030  NP1     Sievers                  Z1m[i87.2.2 
+0000253 010  VVD     said                     Q2.1 
+0000253 020  NP1     Vivian                   Z1mf 
+0000254 010  VVD     said                     Q2.1 
+0000254 020  NP1     Vivian                   Z1mf 
+0000255 010  VVD     continued                T2++ 
+0000255 020  NNB     Mr.                      Z1m[i88.2.1 S2.2m 
+0000255 030  NP1     Sievers                  Z1m[i88.2.2 
+0000256 010  VVD     continued                T2++ 
+0000256 020  PPHS1   he                       Z8m 
+0000257 010  VVD     thought                  X2.1 
+0000257 020  PPHS1   he                       Z8m 
+0000258 010  VVD     exclaimed                Q2.2 
+0000258 020  NNB     Madame                   S2.1f 
+0000258 030  NP1     Carolina                 Z2 
+0000259 010  VVD     said                     Q2.1 
+0000259 020  NP1     Vivian                   Z1mf 
+0000260 010  VVD     said                     Q2.1 
+0000260 020  NP1     Vivian                   Z1mf 
+0000261 010  VVD     said                     Q2.1 
+0000261 020  AT      the                      Z5 
+0000261 030  NN1     Prince                   Z1mf Z3m 
+0000262 010  VVD     whispered                Q2.1/X3.2- 
+0000262 020  APPGE   his                      Z8m 
+0000262 030  NN1     Excellency               S7.1+/S2.2m 
+0000263 010  VVD     said                     Q2.1 
+0000263 020  NP1     Vivian                   Z1mf 
+0000264 010  VVD     said                     Q2.1 
+0000264 020  NP1     Vivian                   Z1mf 
+0000265 010  VVD     said                     Q2.1 
+0000265 020  APPGE   his                      Z8m 
+0000265 030  NN1     companion                S3.1/S2mf 
+0000265 040  RR      eagerly                  X5.2+ 
+0000266 010  VVD     said                     Q2.1 
+0000266 020  NP1     Vivian                   Z1mf 
+0000267 010  VVD     said                     Q2.1 
+0000267 020  NNB     Madame                   S2.1f 
+0000267 030  NP1     Carolina                 Z2 
+0000268 010  VVD     said                     Q2.1 
+0000268 020  AT      the                      Z5 
+0000268 030  NN1     Baroness                 S7.1+/S2.1f 
+0000269 010  VVD     said                     Q2.1 
+0000269 020  NNB     Madame                   S2.1f 
+0000269 030  NP1     Carolina                 Z2 
+0000270 010  VVD     continued                T2++ 
+0000270 020  NNB     Madame                   S2.1f 
+0000270 030  NP1     Carolina                 Z2 
+0000271 010  VVD     said                     Q2.1 
+0000271 020  NN1     Madame                   S2.1f 
+0000271 030  IW      with                     Z5 
+0000271 040  NN1     fervour                  X5.2+ 
+0000272 010  CC      and                      Z5 
+0000272 020  VV0     burn                     O4.6+ E1 A1.5.1 
+0000272 030  TO      to                       Z5 
+0000272 040  VVI     answer                   Q2.2 S1.1.1 
+0000273 010  JJ%     said                     Q1.1 Q2.1 
+0000273 020  NN1     Madame                   S2.1f 
+0000274 010  VVD     thought                  X2.1 
+0000274 020  NP1     Vivian                   Z1mf 
+0000275 010  VVD     said                     Q2.1 
+0000275 020  NNB     Madame                   S2.1f 
+0000275 030  NP1     Carolina                 Z2 
+0000276 010  VVD     said                     Q2.1 
+0000276 020  AT      the                      Z5 
+0000276 030  JJ      Grand                    O4.2+ A11.1+ A5.1+ N3.2+ S1.2.3+ 
+0000276 040  NN1     Duke                     Z1mf 
+0000277 010  VVD     continued                T2++ 
+0000277 020  APPGE   his                      S7.1+/S2.2m[i89.3.1 Z8m 
+0000277 030  JJ      Royal                    S7.1+/S2.2m[i89.3.2 S7.1+ 
+0000277 040  NN1     Highness                 S7.1+/S2.2m[i89.3.3 S7.1+/S2mf N3.7+ 
+0000278 010  VVD     said                     Q2.1 
+0000278 020  NP1     Vivian                   Z1mf 
+0000279 010  VVD     said                     Q2.1 
+0000279 020  PPHS1   he                       Z8m 
+0000280 010  VVD     said                     Q2.1 
+0000280 020  AT      the                      Z5 
+0000280 030  NN1     Baroness                 S7.1+/S2.1f 
+0000281 010  VVD     said                     Q2.1 
+0000281 020  NP1     Vivian                   Z1mf 
+0000282 010  VVD     said                     Q2.1 
+0000282 020  NP1     Vivian                   Z1mf 
+0000283 010  VVD     continued                T2++ 
+0000283 020  AT      the                      Z5 
+0000283 030  NN1     Baroness                 S7.1+/S2.1f 
+0000284 010  VVD     answered                 Q2.2 S1.1.1 
+0000284 020  NP1     Beckendorff              Z99 
+0000284 021  ,       ,                        
+0000284 030  IW      with                     Z5 
+0000284 040  NN1     firmness                 O4.5 A1.7+ S1.2.5+ A7+ 
+0000285 010  VVD     said                     Q2.1 
+0000285 020  NP1     Vivian                   Z1mf 
+0000286 010  VVD     said                     Q2.1 
+0000286 020  NP1     Essper                   Z1mf[i90.2.1 Z3c[i90.2.1 
+0000286 030  NP1     George                   Z1mf[i90.2.2 Z3c[i90.2.2 Z1m 
+0000286 031  ,       ,                        
+0000286 040  VVG     laughing                 E4.1+/X3.2 
+0000287 010  VVD     said                     Q2.1 
+0000287 020  AT      the                      Z5 
+0000287 030  NN1     innkeeper                F1/S2mf 
+0000288 010  VVD     said                     Q2.1 
+0000288 020  NP1     Essper                   Z99 
+0000288 021  ,       ,                        
+0000288 030  RR      earnestly                A13.3 E4.1- 
+0000289 010  VVD     said                     Q2.1 
+0000289 020  APPGE   his                      Z8m 
+0000289 030  NN1     host                     S2mf B1@ Y2@ S9% 
+0000290 010  VVD     thought                  X2.1 
+0000290 020  PPHS1   he                       Z8m 
+0000291 010  VVD     continued                T2++ 
+0000291 020  PPHS1   he                       Z8m 
+0000292 010  VVD     continued                T2++ 
+0000292 020  AT      the                      Z5 
+0000292 030  JJ      young                    T3- 
+0000292 040  NN1     man                      S2.2m 
+0000293 010  VVD     said                     Q2.1 
+0000293 020  AT      the                      Z5 
+0000293 030  NN1     father-in-law            S4m 
+0000294 010  VVD     said                     Q2.1 
+0000294 020  AT      the                      Z5 
+0000294 030  JJ      old                      T3+ Z4 
+0000294 040  NN1     Lord                     S7.1+/S2.2m S9/S2.2m 
+0000295 010  VVD     said                     Q2.1 
+0000295 020  NP1     Vivian                   Z1mf 
+0000295 021  ,       ,                        
+0000295 030  VVG     laughing                 E4.1+/X3.2 
+0000296 010  VVD     said                     Q2.1 
+0000296 020  NP1     Essper                   Z99 
+0000297 010  VVD     said                     Q2.1 
+0000297 020  NP1     Vivian                   Z1mf 
+0000298 010  VVD     said                     Q2.1 
+0000298 020  NP1     Essper                   Z99 
+0000299 010  VVD     said                     Q2.1 
+0000299 020  NP1     Essper                   Z99 
+0000300 010  RT      again                    N6+ Z4 
+0000300 020  VVD     said                     Q2.1 
+0000300 030  NP1     Essper                   Z99 
+0000301 010  VVD     said                     Q2.1 
+0000301 020  NP1     Vivian                   Z1mf 
+0000302 010  VVD     said                     Q2.1 
+0000302 020  NP1     Essper                   Z99 
+0000303 001  NULL    **8;7;text               

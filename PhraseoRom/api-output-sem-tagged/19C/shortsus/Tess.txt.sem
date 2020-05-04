@@ -1,0 +1,215 @@
+0000001 001  NULL    **6;0;START              
+0000001 002  -----   -----                    
+0000002 010  PPHS1   she                      Z8f 
+0000002 020  VVD     said                     Q2.1 
+0000002 030  RR      hastily                  N3.8+ A1.3- 
+0000003 010  VVD     said                     Q2.1 
+0000003 020  AT      the                      Z5 
+0000003 030  DA      latter                   N4 
+0000003 040  RR      touchily                 Z99 
+0000004 010  VVD     said                     Q2.1 
+0000004 020  AT      the                      Z5 
+0000004 030  NN1     landlady                 H4/S2.1f 
+0000005 010  VVD     continued                T2++ 
+0000005 020  NNB     Mrs                      Z1f[i3.2.1 Z1f[i2.2.1 Z1m[i1.2.1 
+0000005 030  NP1     Durbeyfield              Z1f[i3.2.2 Z1f[i2.2.2 Z1m[i1.2.2 
+0000006 010  VVD     said                     Q2.1 
+0000006 020  PPHS1   he                       Z8m 
+0000006 030  RR      stoically                Z99 
+0000007 010  VVD     said                     Q2.1 
+0000007 020  PPHS1   she                      Z8f 
+0000008 010  PPHS1   she                      Z8f 
+0000008 020  VVD     said                     Q2.1 
+0000008 030  RR      mournfully               Z99 
+0000009 010  PPHS1   she                      Z8f 
+0000009 020  VVD     stammered                Z2[i4.2.1 Z3c[i4.2.1 Z1mf[i4.2.1 Q2.2/B2- 
+0000010 010  NP1     Tess                     Z2[i4.2.2 Z3c[i4.2.2 Z1mf[i4.2.2 Z1f 
+0000010 020  VVD     continued                T2++ 
+0000011 010  JJ%     said                     Q1.1 Q2.1 
+0000011 020  NN1     Tess                     Z1f 
+0000012 010  PPHS1   she                      Z8f 
+0000012 020  VVD     murmured                 Q2.2/X3.2- X3.2- 
+0000013 010  PPHS1   he                       Z8m 
+0000013 020  VVD     admitted                 Q2.2 B3 A1.8+ S7.4+/M1 
+0000014 010  VVD     said                     Q2.1 
+0000014 020  PPHS1   she                      Z8f 
+0000014 030  RR      exultingly               Z99 
+0000015 010  VVD     said                     Q2.1 
+0000015 020  NP1     Tess                     Z1f 
+0000016 010  VVD     cried                    E4.1- Q2.2 
+0000016 020  PPHS1   he                       Z8m 
+0000017 010  VVD     said                     Q2.1 
+0000017 020  AT      the                      Z5 
+0000017 030  DA      latter                   N4 
+0000017 040  RR      majestically             Z99 
+0000018 010  PPHS1   he                       Z8m 
+0000018 020  VVD     whispered                Q2.1/X3.2- 
+0000019 010  PPHS1   he                       Z8m 
+0000019 020  VVD     burst                    M1[i5.2.1 Q2.2[i5.2.1 A1.1.2 A1.1.1 
+0000019 030  RP      out                      M1[i5.2.2 Q2.2[i5.2.2 M6 
+0000020 010  PPHS1   he                       Z8m 
+0000020 020  VVD     said                     Q2.1 
+0000020 021  ,       ,                        
+0000020 030  VVG     laughing                 E4.1+/X3.2 
+0000021 010  PPHS1   he                       Z8m 
+0000021 020  VVD     added                    N5+/A2.1 N2 A1.8+ 
+0000022 010  VVD     said                     Q2.1 
+0000022 020  PPHS1   she                      Z8f 
+0000022 030  RR      tremulously              Z99 
+0000023 010  RR31    and                      Z4[i6.3.1 
+0000023 020  RR32    so                       Z4[i6.3.2 Z5 A13.3 
+0000023 030  RR33    forth                    Z4[i6.3.3 M6 
+0000024 010  PPHS1   she                      Z8f 
+0000024 020  VVD     added                    N5+/A2.1 N2 A1.8+ 
+0000024 030  RR      earnestly                A13.3 E4.1- 
+0000025 010  PPHS1   he                       Z8m 
+0000025 020  VVD     said                     Q2.1 
+0000026 010  PPHS1   she                      Z8f 
+0000026 020  VVD     burst                    M1[i7.2.1 Q2.2[i7.2.1 A1.1.2 A1.1.1 
+0000026 030  RP      out                      M1[i7.2.2 Q2.2[i7.2.2 M6 
+0000027 010  VVZ     says                     Q2.1 
+0000027 020  NP1     Roger                    Z1mf[i8.2.1 Z3c[i8.2.1 Z1m 
+0000027 030  NP1     Ascham                   Z1mf[i8.2.2 Z3c[i8.2.2 
+0000028 010  VVD     interposed               Q2.2 
+0000028 020  AT      the                      Z5 
+0000028 030  NN1     milkmaid                 F4 W3 M7 K5.1/M7 G3@ A4.1 K5.1 A1.1.1 B1 O2 S8+ K5.2 I3.1/S2mf X9.1+/S2mf A9- F4/M7 
+0000029 010  PPHS1   she                      Z8f 
+0000029 020  VBDZ    was                      Z5 A3+ 
+0000029 030  VVG     saying                   Q2.1 Z4% 
+0000030 010  JJ      continued                T2++ 
+0000030 020  NN1     Tess                     Z1f 
+0000031 010  VVD     said                     Q2.1 
+0000031 020  AT      the                      Z5 
+0000031 030  NN1     dairyman                 F4/S2.2m 
+0000031 040  RR      emphatically             E6+ 
+0000032 010  PPHS1   he                       Z8m 
+0000032 020  VVD     resumed                  T2+/N6+ 
+0000033 010  VVD     said                     Q2.1 
+0000033 020  NP1     Marian                   Z1f 
+0000034 010  PPHS1   he                       Z8m 
+0000034 020  VVD     continued                T2++ 
+0000035 010  VVD     said                     Q2.1 
+0000035 020  NP1     Izz                      Z99 
+0000036 010  VVD     murmured                 Q2.2/X3.2- X3.2- 
+0000036 020  NP1     Izz                      Z99 
+0000037 010  VVD     said                     Q2.1 
+0000037 020  NN1     Angel                    Z2 
+0000037 030  RR      drily                    Z99 
+0000038 010  VVD     continued                T2++ 
+0000038 020  APPGE   his                      Z8m 
+0000038 030  NN1     mother                   S4f A11.1+++ 
+0000039 010  VVD     continued                T2++ 
+0000039 020  APPGE   his                      Z8m 
+0000039 030  NN1     father                   S4m S9/S2.2m 
+0000040 010  PPHS1   he                       Z8m 
+0000040 020  VVD     said                     Q2.1 
+0000041 010  JJ%     said                     Q1.1 Q2.1 
+0000041 020  NN1     Angel                    Z2 
+0000041 021  ,       ,                        
+0000041 030  RR      unflinchingly            Z99 
+0000042 010  PPHS1   he                       Z8m 
+0000042 020  VVD     said                     Q2.1 
+0000042 030  RR      sadly                    E4.1- 
+0000043 010  PPHS1   she                      Z8f 
+0000043 020  VVD     pleaded                  Q2.2 G2.1/Q2.2 
+0000044 010  PPHS1   he                       Z8m 
+0000044 020  VVD     went                     T2++[i9.2.1 M1[i9.2.1 Q2.1/N5+[i9.2.1 A1.1.1[i9.2.1 M1 A2.1+ A1.1.1 A9- A1.8+ Q2.1 N6+ I2.2 A1.1.2 T2- S3.2 A6.3+ B2-/X1% B1% 
+0000044 030  RP@     on                       T2++[i9.2.2 M1[i9.2.2 Q2.1/N5+[i9.2.2 A1.1.1[i9.2.2 M6 A1.1.1 
+0000045 010  VVD     said                     Q2.1 
+0000045 020  AT      the                      Z5 
+0000045 030  NN1     dairyman                 F4/S2.2m 
+0000046 010  PPHS1   she                      Z8f 
+0000046 020  VVD     began                    T2+ 
+0000047 010  VVD     continued                T2++ 
+0000047 020  AT      the                      Z5 
+0000047 030  JJ      unwitting                N5++ X9.1- S1.2.4- X2.2- 
+0000047 040  NP1     Clare                    Z1f Z2 
+0000048 010  PPHS1   she                      Z8f 
+0000048 020  RR      timidly                  E5- S1.2.3- 
+0000048 030  VVN     answered                 Q2.2 S1.1.1 
+0000049 010  VVD     said                     Q2.1 
+0000049 020  NP1     Marian                   Z1f 
+0000050 010  PPHS1   she                      Z8f 
+0000050 020  VVD     said                     Q2.1 
+0000051 010  JJ%     said                     Q1.1 Q2.1 
+0000051 020  NN1     Tess                     Z1f 
+0000052 010  PPHS1   he                       Z8m 
+0000052 020  VVD     continued                T2++ 
+0000053 010  PPHS1   he                       Z8m 
+0000053 020  VVD     said                     Q2.1 
+0000054 010  PPHS1   she                      Z8f 
+0000054 020  VVD     whispered                Q2.1/X3.2- 
+0000054 030  RL      there                    M6 T1.2 
+0000054 040  RR      alone                    S5- A14 
+0000055 010  VVD     said                     Q2.1 
+0000055 020  PPHS1   she                      Z8f 
+0000056 010  PPHS1   she                      Z8f 
+0000056 020  VVD     said                     Q2.1 
+0000057 010  VVD     said                     Q2.1 
+0000057 020  NP1     Clare                    Z1f Z2 
+0000058 010  VVD     said                     Q2.1 
+0000058 020  NP1     Clare                    Z1f Z2 
+0000059 010  PPHS1   she                      Z8f 
+0000059 020  VVD     said                     Q2.1 
+0000060 010  PPHS1   she                      Z8f 
+0000060 020  VVD     cried                    E4.1- Q2.2 
+0000061 010  PPHS1   she                      Z8f 
+0000061 020  VVD     answered                 Q2.2 S1.1.1 
+0000062 010  PPHS1   she                      Z8f 
+0000062 020  VVD     continued                T2++ 
+0000063 010  PPHS1   he                       Z8m 
+0000063 020  VVD     said                     Q2.1 
+0000064 010  VVD     said                     Q2.1 
+0000064 020  NNB     Mrs                      Z1f[i12.2.1 Z1f[i11.2.1 Z1m[i10.2.1 
+0000064 030  NP1     Clare                    Z1f[i12.2.2 Z1f Z2 Z1f[i11.2.2 Z1m[i10.2.2 
+0000065 010  PPHS1   he                       Z8m 
+0000065 020  VVD     said                     Q2.1 
+0000066 010  PPHS1   she                      Z8f 
+0000066 020  VVD     asked                    Q2.2 
+0000067 010  PPHS1   he                       Z8m 
+0000067 020  VVD     said                     Q2.1 
+0000068 010  PPHS1   she                      Z8f 
+0000068 020  VVD     said                     Q2.1 
+0000069 010  PPHS1   he                       Z8m 
+0000069 020  VVD     said                     Q2.1 
+0000070 010  PPHS1   she                      Z8f 
+0000070 020  VVD     murmured                 Q2.2/X3.2- X3.2- 
+0000071 010  PPHS1   she                      Z8f 
+0000071 020  VVD     said                     Q2.1 
+0000072 010  PPHS1   she                      Z8f 
+0000072 020  VVD     said                     Q2.1 
+0000073 010  VVD     said                     Q2.1 
+0000073 020  NP1     Marian                   Z1f 
+0000074 010  PPHS1   she                      Z8f 
+0000074 020  VVD     said                     Q2.1 
+0000075 010  PPHS1   he                       Z8m 
+0000075 020  VVD     insisted                 S7.1+/Q2.2 
+0000076 010  PPHS1   he                       Z8m 
+0000076 020  VVD     went                     T2++[i13.2.1 M1[i13.2.1 Q2.1/N5+[i13.2.1 A1.1.1[i13.2.1 M1 A2.1+ A1.1.1 A9- A1.8+ Q2.1 N6+ I2.2 A1.1.2 T2- S3.2 A6.3+ B2-/X1% B1% 
+0000076 030  RP@     on                       T2++[i13.2.2 M1[i13.2.2 Q2.1/N5+[i13.2.2 A1.1.1[i13.2.2 M6 A1.1.1 
+0000077 010  PPHS1   he                       Z8m 
+0000077 020  VVD     continued                T2++ 
+0000078 010  PPHS1   she                      Z8f 
+0000078 020  VVD     said                     Q2.1 
+0000078 030  RR      breathlessly             X5.2+ B1/A12- 
+0000079 010  PPHS1   she                      Z8f 
+0000079 020  VVD     said                     Q2.1 
+0000080 010  VVD     said                     Q2.1 
+0000080 020  NP1     d'Urberville             Z99 
+0000080 030  RR      drily                    Z99 
+0000081 010  PPHS1   he                       Z8m 
+0000081 020  VVD     said                     Q2.1 
+0000081 030  RR      aridly                   Z99 
+0000082 010  PPHS1   he                       Z8m 
+0000082 020  VVD     said                     Q2.1 
+0000083 010  PPHS1   he                       Z8m 
+0000083 020  VVD     said                     Q2.1 
+0000083 030  JJ      smiling                  E4.1+ 
+0000084 010  CC      and                      Z5 
+0000084 020  VVD     signed                   Q1.2 Q1.1 G2.1 I3.1 S9 
+0000085 010  PPHS1   he                       Z8m 
+0000085 020  VVD     said                     Q2.1 
+0000086 010  PPHS1   he                       Z8m 
+0000086 020  VVD     said                     Q2.1 
+0000086 030  RR      huskily                  Z99 
+0000087 001  NULL    **8;7;text               

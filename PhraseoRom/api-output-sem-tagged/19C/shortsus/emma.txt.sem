@@ -1,0 +1,741 @@
+0000001 001  NULL    **6;0;START              
+0000001 002  -----   -----                    
+0000002 010  VVD     said                     Q2.1 
+0000002 020  NNB     Mr.                      Z1m[i2.2.1 S2.2m Z1m[i1.2.1 
+0000002 030  NP1     Knightley                Z1m[i2.2.2 Z1m[i1.2.2 
+0000003 010  VVD     said                     Q2.1 
+0000003 020  NP1     Emma                     Z1f 
+0000004 010  VVD     said                     Q2.1 
+0000004 020  NNB     Mr.                      Z1m[i3.2.1 S2.2m 
+0000004 030  NP1     Knightley                Z1m[i3.2.2 
+0000004 031  ,       ,                        
+0000004 040  VVG     laughing                 E4.1+/X3.2 
+0000005 010  VVD     said                     Q2.1 
+0000005 020  NNB     Mr.                      Z1m[i4.2.1 S2.2m 
+0000005 030  NP1     Knightley                Z1m[i4.2.2 
+0000006 010  VVD     replied                  Q2.2 Q1.1 
+0000006 020  NNB     Mrs.                     Z1f[i6.2.1 Z1m[i5.2.1 
+0000006 030  NP1     Weston                   Z1f[i6.2.2 Z2 Z1mf Z1m[i5.2.2 
+0000006 031  ,       ,                        
+0000006 040  VVG     smiling                  E4.1+ 
+0000007 010  PPHS1   he                       Z8m 
+0000007 020  RR      soon                     T1.1.3/N3.8+ 
+0000007 030  VVN     added                    N5+/A2.1 N2 A1.8+ 
+0000008 010  VVD     cried                    E4.1- Q2.2 
+0000008 020  PPHS1   he                       Z8m 
+0000009 010  VVD     said                     Q2.1 
+0000009 020  PPHS1   he                       Z8m 
+0000010 010  VVD     said                     Q2.1 
+0000010 020  NNB     Mrs.                     Z1f[i8.2.1 Z1m[i7.2.1 
+0000010 030  NP1     Weston                   Z1f[i8.2.2 Z2 Z1mf Z1m[i7.2.2 
+0000010 040  RR      gently                   E3+ 
+0000011 010  VVD     said                     Q2.1 
+0000011 020  NNB     Mrs.                     Z1f[i10.2.1 Z1m[i9.2.1 
+0000011 030  NP1     Weston                   Z1f[i10.2.2 Z2 Z1mf Z1m[i9.2.2 
+0000012 010  VVD     said                     Q2.1 
+0000012 020  PPHS1   he                       Z8m 
+0000013 010  VVD     cried                    E4.1- Q2.2 
+0000013 020  NNB     Mr.                      Z1m[i11.2.1 S2.2m 
+0000013 030  NP1     Elton                    Z1m[i11.2.2 Z1mf 
+0000014 010  VVD     cried                    E4.1- Q2.2 
+0000014 020  NNB     Mr.                      Z1m[i12.2.1 S2.2m 
+0000014 030  NP1     Elton                    Z1m[i12.2.2 Z1mf 
+0000015 010  PPHS1   she                      Z8f 
+0000015 020  VVD     cried                    E4.1- Q2.2 
+0000016 010  VVD     replied                  Q2.2 Q1.1 
+0000016 020  NP1     Emma                     Z1f 
+0000016 030  RG      rather                   A13.5 
+0000016 040  RR      slowly                   N3.8- 
+0000017 010  VVD     said                     Q2.1 
+0000017 020  NP1     Emma                     Z1f 
+0000017 021  ,       ,                        
+0000017 030  VVG     smiling                  E4.1+ 
+0000017 040  RR      graciously               S1.2.4+ O4.2+ 
+0000018 010  VVD     said                     Q2.1 
+0000018 020  PPHS1   he                       Z8m 
+0000019 010  VVD     said                     Q2.1 
+0000019 020  PPHS1   he                       Z8m 
+0000020 010  PPHS1   he                       Z8m 
+0000020 020  VVD     replied                  Q2.2 Q1.1 
+0000021 010  VVD     said                     Q2.1 
+0000021 020  NP1     Emma                     Z1f 
+0000022 010  VVD     replied                  Q2.2 Q1.1 
+0000022 020  PPHS1   he                       Z8m 
+0000022 021  ,       ,                        
+0000022 030  VVD     surprized                Z99 
+0000023 010  VVD     said                     Q2.1 
+0000023 020  PPHS1   she                      Z8f 
+0000024 010  VVD     cried                    E4.1- Q2.2 
+0000024 020  NP1     Emma                     Z1f 
+0000025 010  VVD     said                     Q2.1 
+0000025 020  NNB     Mr.                      Z1m[i13.2.1 S2.2m 
+0000025 030  NP1     Knightley                Z1m[i13.2.2 
+0000026 010  VVD     said                     Q2.1 
+0000026 020  NNB     Mr.                      Z1m[i14.2.1 S2.2m 
+0000026 030  NP1     Knightley                Z1m[i14.2.2 
+0000026 040  RR      presently                T1.1.3 T1.1.2 
+0000027 010  VVD     cried                    E4.1- Q2.2 
+0000027 020  NNB     Mr.                      Z1m[i15.2.1 S2.2m 
+0000027 030  NP1     Knightley                Z1m[i15.2.2 
+0000028 010  VVD     said                     Q2.1 
+0000028 020  PPHS1   she                      Z8f 
+0000029 010  PPHS1   he                       Z8m 
+0000029 020  VV0     stopt                    Z99 
+0000029 030  AT1     a                        Z5 
+0000029 040  NN1     moment                   T1.2 T1.1.2 N3 
+0000030 010  VVD     said                     Q2.1 
+0000030 020  PPHS1   she                      Z8f 
+0000031 010  CC      and                      Z5 
+0000032 010  VVD     cried                    E4.1- Q2.2 
+0000032 020  NP1     Harriet                  Z1f 
+0000033 010  VVD     continued                T2++ 
+0000033 020  NP1     Harriet                  Z1f 
+0000034 010  VVD     replied                  Q2.2 Q1.1 
+0000034 020  NP1     Emma                     Z1f 
+0000035 010  VVD     said                     Q2.1 
+0000035 020  NP1     Emma                     Z1f 
+0000036 010  VVD     said                     Q2.1 
+0000036 020  PPHS1   she                      Z8f 
+0000037 010  VVD     thought                  X2.1 
+0000037 020  NP1     Emma                     Z1f 
+0000038 010  VBDZ    was                      A3+ Z5 
+0000038 020  APPGE   her                      Z8f 
+0000038 030  JJ      consoling                E3+ E6+ 
+0000038 040  NN1     reflection               X3.4 Y1/M2 A2.2/A10+ X2.1 
+0000039 010  VVD     said                     Q2.1 
+0000039 020  PPHS1   she                      Z8f 
+0000040 010  VVD     thought                  X2.1 
+0000040 020  NP1     Emma                     Z1f 
+0000041 010  VVD     said                     Q2.1 
+0000041 020  PPHS1   he                       Z8m 
+0000042 010  VVD     said                     Q2.1 
+0000042 020  NNB     Mr.                      Z1m[i17.3.1 S2.2m Z1m[i16.2.1 
+0000042 030  NP1     John                     Z1m[i17.3.2 Z1m S9/O1.2 Z1m[i16.2.2 Z1mf[i18.2.1 Z3c[i18.2.1 
+0000042 040  NP1     Knightley                Z1m[i17.3.3 Z1mf[i18.2.2 Z3c[i18.2.2 
+0000043 010  VVD     said                     Q2.1 
+0000043 020  NNB     Mr.                      Z1m[i19.2.1 S2.2m 
+0000043 030  NP1     Woodhouse                Z1m[i19.2.2 Z1mf 
+0000044 010  VVD     said                     Q2.1 
+0000044 020  NP1     John                     Z1mf[i20.2.1 Z3c[i20.2.1 Z1m S9/O1.2 
+0000044 030  NP1     Knightley                Z1mf[i20.2.2 Z3c[i20.2.2 
+0000044 040  RR      pleasantly               O4.2+ 
+0000045 010  VVD     said                     Q2.1 
+0000045 020  PPHS1   he                       Z8m 
+0000045 021  ,       ,                        
+0000045 030  VVG     smiling                  E4.1+ 
+0000046 010  PPHS1   she                      Z8f 
+0000046 020  VVD     replied                  Q2.2 Q1.1 
+0000047 010  PPHS1   she                      Z8f 
+0000047 020  VVD     cried                    E4.1- Q2.2 
+0000048 010  CC      and                      Z5 
+0000049 010  VVD     said                     Q2.1 
+0000049 020  NP1     Emma                     Z1f 
+0000050 010  VVD     exclaimed                Q2.2 
+0000050 020  PPHS1   he                       Z8m 
+0000050 030  RR      hastily                  N3.8+ A1.3- 
+0000051 010  VVD     cried                    E4.1- Q2.2 
+0000051 020  NP1     Emma                     Z1f 
+0000052 010  VVD     said                     Q2.1 
+0000052 020  NNB     Mrs.                     Z1f[i24.3.1 Z1m[i22.3.1 Z1m[i21.2.1 Z1f[i23.2.1 
+0000052 030  NP1     John                     Z1f[i24.3.2 Z1m S9/O1.2 Z1m[i22.3.2 Z1m[i21.2.2 Z1f[i23.2.2 Z1mf[i25.2.1 Z3c[i25.2.1 
+0000052 040  NP1     Knightley                Z1f[i24.3.3 Z1m[i22.3.3 Z1mf[i25.2.2 Z3c[i25.2.2 
+0000053 010  VVD     said                     Q2.1 
+0000053 020  PPHS1   she                      Z8f 
+0000054 010  VVD     said                     Q2.1 
+0000054 020  PPHS1   she                      Z8f 
+0000054 030  II      to                       Z5 
+0000054 040  PPX1    herself                  Z8f 
+0000055 010  VVD     replied                  Q2.2 Q1.1 
+0000055 020  NP1     Emma                     Z1f 
+0000056 010  VVD     said                     Q2.1 
+0000056 020  PPHS1   he                       Z8m 
+0000057 010  VVD     said                     Q2.1 
+0000057 020  PPHS1   she                      Z8f 
+0000057 030  RR      presently                T1.1.3 T1.1.2 
+0000058 010  VVD     said                     Q2.1 
+0000058 020  PPHS1   he                       Z8m 
+0000059 010  VVD     said                     Q2.1 
+0000059 020  NP1     John                     Z1mf[i26.2.1 Z3c[i26.2.1 Z1m S9/O1.2 
+0000059 030  NP1     Knightley                Z1mf[i26.2.2 Z3c[i26.2.2 
+0000060 010  VVD     continued                T2++ 
+0000060 020  PPHS1   he                       Z8m 
+0000061 010  CC      and                      Z5 
+0000062 010  CC      and                      Z5 
+0000063 010  VVD     continued                T2++ 
+0000063 020  NNB     Mr.                      Z1m[i27.2.1 S2.2m 
+0000063 030  NP1     Weston                   Z1m[i27.2.2 Z2 Z1mf 
+0000064 010  VVD     replied                  Q2.2 Q1.1 
+0000064 020  NP1     Emma                     Z1f 
+0000065 010  VVD     replied                  Q2.2 Q1.1 
+0000065 020  NNB     Mrs.                     Z1f[i29.2.1 Z1m[i28.2.1 
+0000065 030  NP1     Weston                   Z1f[i29.2.2 Z2 Z1mf Z1m[i28.2.2 
+0000065 031  ,       ,                        
+0000065 040  VVG     smiling                  E4.1+ 
+0000066 010  JJ      continued                T2++ 
+0000066 020  NNB     Mrs.                     Z1f[i31.2.1 Z1m[i30.2.1 
+0000066 030  NP1     Weston                   Z1f[i31.2.2 Z2 Z1mf Z1m[i30.2.2 
+0000067 010  PPHS1   he                       Z8m 
+0000067 020  VVD     continued                T2++ 
+0000068 010  VVD     said                     Q2.1 
+0000068 020  PPHS1   he                       Z8m 
+0000069 010  VVD     said                     Q2.1 
+0000069 020  PPHS1   she                      Z8f 
+0000070 010  VVD     cried                    E4.1- Q2.2 
+0000070 020  NNB     Mr.                      Z1m[i32.2.1 S2.2m 
+0000070 030  NP1     Elton                    Z1m[i32.2.2 Z1mf 
+0000071 010  VVD     cried                    E4.1- Q2.2 
+0000071 020  NP1     Emma                     Z1f 
+0000072 010  CCB     but                      Z5 
+0000072 020  RT      then                     N4 Z5 T1.2 
+0000072 030  AT      the                      Z5 
+0000073 010  JJ%     said                     Q1.1 Q2.1 
+0000073 020  PPHS1   she                      Z8f 
+0000074 010  VVD     said                     Q2.1 
+0000074 020  NNB     Mr.                      Z1m[i33.2.1 S2.2m 
+0000074 030  NP1     Knightley                Z1m[i33.2.2 
+0000074 031  ,       ,                        
+0000074 040  RR      coolly                   O4.6- S1.2.1- O4.2+ E6+ 
+0000075 010  VVD     said                     Q2.1 
+0000075 020  NP1     Emma                     Z1f 
+0000075 021  ,       ,                        
+0000075 030  VVG     laughing                 E4.1+/X3.2 
+0000076 010  VVD     cried                    E4.1- Q2.2 
+0000076 020  NP1     Emma                     Z1f 
+0000077 010  VVD     said                     Q2.1 
+0000077 020  NNB     Mr.                      Z1m[i35.2.1 S2.2m Z1m[i34.2.1 
+0000077 030  NP1     Knightley                Z1m[i35.2.2 Z1m[i34.2.2 
+0000077 040  RR      warmly                   E2+ S1.2.1+ S7.2+ O4.6+ 
+0000078 010  VVD     cried                    E4.1- Q2.2 
+0000078 020  NP1     Emma                     Z1f 
+0000079 010  VVG     addressing               Q1.2 Q2.2 A1.1.1 
+0000079 020  PPHO1   her                      Z8f 
+0000080 010  VVD     said                     Q2.1 
+0000080 020  NP1     Emma                     Z1f 
+0000080 021  ,       ,                        
+0000080 030  VVG     smiling                  E4.1+ 
+0000081 010  VVD     said                     Q2.1 
+0000081 020  APPGE   her                      Z8f 
+0000081 030  NN1     father                   S4m S9/S2.2m 
+0000081 040  RR      instantly                N3.8+++ 
+0000082 010  CCB     but                      Z5 
+0000082 020  PPHS1   she                      Z8f 
+0000082 030  VVD     said                     Q2.1 
+0000082 040  RR      only                     A14 
+0000083 010  VVD     said                     Q2.1 
+0000083 020  NNB     Mr.                      Z1m[i36.2.1 S2.2m 
+0000083 030  NP1     Knightley                Z1m[i36.2.2 
+0000083 040  RR      presently                T1.1.3 T1.1.2 
+0000084 010  VVD     replied                  Q2.2 Q1.1 
+0000084 020  NNB     Mr.                      Z1m[i37.2.1 S2.2m 
+0000084 030  NP1     Woodhouse                Z1m[i37.2.2 Z1mf 
+0000085 010  VVD     said                     Q2.1 
+0000085 020  NNB     Miss                     Z1f[i38.2.1 
+0000085 030  NP1     Bates                    Z1f[i38.2.2 Z1mf 
+0000085 031  ,       ,                        
+0000085 040  RR      joyfully                 E4.1+ 
+0000086 010  VVG     turning                  M1[i39.2.1 S1.1.1[i39.2.1 T2+[i39.2.1 A2.1+[i39.2.1 M2 M1 O4.4 A1.1.1 A2.1+ O4.2- 
+0000086 020  II      to                       M1[i39.2.2 S1.1.1[i39.2.2 T2+[i39.2.2 A2.1+[i39.2.2 Z5 
+0000086 030  NNB     Mr.                      Z1m[i40.2.1 S2.2m 
+0000086 040  NP1     Woodhouse                Z1m[i40.2.2 Z1mf 
+0000087 010  VVD     said                     Q2.1 
+0000087 020  NP1     Emma                     Z1f 
+0000088 010  VVD     replied                  Q2.2 Q1.1 
+0000088 020  NP1     Jane                     Z1f 
+0000089 010  VVD     said                     Q2.1 
+0000089 020  NNB     Miss                     Z1f[i41.2.1 
+0000089 030  NP1     Bates                    Z1f[i41.2.2 Z1mf 
+0000090 010  VVD     said                     Q2.1 
+0000090 020  PPHS1   she                      Z8f 
+0000091 010  CC      and                      Z5 
+0000091 020  PPHS1   she                      Z8f 
+0000092 010  VVD     said                     Q2.1 
+0000092 020  PPHS1   she                      Z8f 
+0000093 010  VVD     said                     Q2.1 
+0000093 020  AT      the                      Z5 
+0000093 030  JJ      young                    T3- 
+0000093 040  NN1     man                      S2.2m 
+0000094 010  PPHS1   he                       Z8m 
+0000094 020  VVD     said                     Q2.1 
+0000095 010  VVD     said                     Q2.1 
+0000095 020  PPHS1   he                       Z8m 
+0000096 010  VVD     said                     Q2.1 
+0000096 020  NP1     Emma                     Z1f 
+0000097 010  PPHS1   he                       Z8m 
+0000097 020  VVD     replied                  Q2.2 Q1.1 
+0000098 010  VVD     cried                    E4.1- Q2.2 
+0000098 020  APPGE   his                      Z8m 
+0000098 030  NN1     father                   S4m S9/S2.2m 
+0000099 010  VVD     said                     Q2.1 
+0000099 020  AT      the                      Z5 
+0000099 030  JJ      young                    T3- 
+0000099 040  NN1     man                      S2.2m 
+0000100 010  VVD     said                     Q2.1 
+0000100 020  NP1     Emma                     Z1f 
+0000101 010  VVD     said                     Q2.1 
+0000101 020  PPHS1   she                      Z8f 
+0000102 010  PPHS1   he                       Z8m 
+0000102 020  VVD     replied                  Q2.2 Q1.1 
+0000103 010  VVD     said                     Q2.1 
+0000103 020  NP1     Emma                     Z1f 
+0000104 010  VVD     said                     Q2.1 
+0000104 020  NNB     Mrs.                     Z1f[i43.2.1 Z1m[i42.2.1 
+0000104 030  NP1     Weston                   Z1f[i43.2.2 Z2 Z1mf Z1m[i42.2.2 
+0000104 040  JJ      smiling                  E4.1+ 
+0000105 010  VVD     said                     Q2.1 
+0000105 020  NP1     Emma                     Z1f 
+0000106 010  VVD     said                     Q2.1 
+0000106 020  NP1     Emma                     Z1f 
+0000106 021  ,       ,                        
+0000106 030  RR      highly                   A13.3 
+0000106 040  JJ      amused                   E4.1+ 
+0000107 010  VVD     said                     Q2.1 
+0000107 020  PPHS1   he                       Z8m 
+0000108 010  VVD     cried                    E4.1- Q2.2 
+0000108 020  NNB     Mr.                      Z1m[i44.2.1 S2.2m 
+0000108 030  NP1     Weston                   Z1m[i44.2.2 Z2 Z1mf 
+0000109 010  VVD     cried                    E4.1- Q2.2 
+0000109 020  NNB     Mr.                      Z1m[i45.2.1 S2.2m 
+0000109 030  NP1     Weston                   Z1m[i45.2.2 Z2 Z1mf 
+0000110 010  VVD     said                     Q2.1 
+0000110 020  PPHS1   she                      Z8f 
+0000111 010  VVD     added                    N5+/A2.1 N2 A1.8+ 
+0000111 020  NNB     Mrs.                     Z1f[i47.2.1 Z1m[i46.2.1 
+0000111 030  NP1     Cole                     Z1f[i47.2.2 Z1mf Z3c Z1m[i46.2.2 
+0000112 010  VVD     said                     Q2.1 
+0000112 020  PPHS1   he                       Z8m 
+0000112 021  ,       ,                        
+0000112 030  VVG     smiling                  E4.1+ 
+0000113 010  VVD     said                     Q2.1 
+0000113 020  PPHS1   she                      Z8f 
+0000114 010  VVD     said                     Q2.1 
+0000114 020  NP1     Emma                     Z1f 
+0000115 010  VVD     said                     Q2.1 
+0000115 020  NNB     Mrs.                     Z1f[i49.2.1 Z1m[i48.2.1 
+0000115 030  NP1     Weston                   Z1f[i49.2.2 Z2 Z1mf Z1m[i48.2.2 
+0000115 031  ,       ,                        
+0000115 040  VVG     smiling                  E4.1+ 
+0000116 010  VVD     said                     Q2.1 
+0000116 020  NNB     Mrs.                     Z1f[i51.2.1 Z1m[i50.2.1 
+0000116 030  NP1     Weston                   Z1f[i51.2.2 Z2 Z1mf Z1m[i50.2.2 
+0000116 031  ,       ,                        
+0000116 040  VVG     laughing                 E4.1+/X3.2 
+0000117 010  VVD     said                     Q2.1 
+0000117 020  PPHS1   she                      Z8f 
+0000118 010  PPHS1   he                       Z8m 
+0000118 020  VVD     replied                  Q2.2 Q1.1 
+0000119 010  VVD     said                     Q2.1 
+0000119 020  PPHS1   she                      Z8f 
+0000120 010  VVD     said                     Q2.1 
+0000120 020  PPHS1   he                       Z8m 
+0000120 021  ,       ,                        
+0000120 030  RR      indignantly              E3- 
+0000121 010  VVD     said                     Q2.1 
+0000121 020  NP1     Harriet                  Z1f 
+0000121 030  RG      rather                   A13.5 
+0000121 040  RR      hesitatingly             A7- 
+0000122 010  VVD     said                     Q2.1 
+0000122 020  PPHS1   she                      Z8f 
+0000123 010  VVD     said                     Q2.1 
+0000123 020  NP1     Frank                    Z1mf[i52.2.1 Z3c[i52.2.1 Z1 
+0000123 030  NP1     Churchill                Z1mf[i52.2.2 Z3c[i52.2.2 Z1mf 
+0000124 010  VVD     said                     Q2.1 
+0000124 020  NP1     Emma                     Z1f 
+0000125 010  VVD     replied                  Q2.2 Q1.1 
+0000125 020  NP1     Emma                     Z1f 
+0000126 010  VVD     said                     Q2.1 
+0000126 020  NNB     Mrs.                     Z1f[i54.2.1 Z1m[i53.2.1 
+0000126 030  NP1     Weston                   Z1f[i54.2.2 Z2 Z1mf Z1m[i53.2.2 
+0000127 010  VVD     asked                    Q2.2 
+0000127 020  NNB     Mrs.                     Z1f[i56.2.1 Z1m[i55.2.1 
+0000127 030  NP1     Ford                     Z1f[i56.2.2 Z1mf Z3c/M3 Z1m[i55.2.2 
+0000128 010  VVD     said                     Q2.1 
+0000128 020  NP1     Harriet                  Z1f 
+0000128 021  ,       ,                        
+0000128 030  RG      quite                    A13.5 A13.6 A13.2 
+0000128 040  JJ      satisfied                E4.2+ A1.2+ 
+0000129 010  VVD     said                     Q2.1 
+0000129 020  AT      the                      Z5 
+0000129 030  DA      latter                   N4 
+0000130 010  VVD     said                     Q2.1 
+0000130 020  NNB     Mrs.                     Z1f[i58.2.1 Z1m[i57.2.1 
+0000130 030  NP1     Weston                   Z1f[i58.2.2 Z2 Z1mf Z1m[i57.2.2 
+0000131 010  PPHS1   he                       Z8m 
+0000131 020  VVD     replied                  Q2.2 Q1.1 
+0000132 010  VVD     said                     Q2.1 
+0000132 020  PPHS1   he                       Z8m 
+0000133 010  VVD     said                     Q2.1 
+0000133 020  NP1     Jane                     Z1f 
+0000134 010  VVD     said                     Q2.1 
+0000134 020  PPHS1   he                       Z8m 
+0000135 010  PPHS1   he                       Z8m 
+0000135 020  RR      gravely                  E4.1- A1.3+ 
+0000135 030  VVD     replied                  Q2.2 Q1.1 
+0000136 010  VVD     said                     Q2.1 
+0000136 020  PPHS1   she                      Z8f 
+0000137 010  PPHS1   he                       Z8m 
+0000137 020  RR      almost                   A13.4 
+0000137 030  RR      immediately              N3.8+ T1.1.2/A11.1+ N4 
+0000137 040  VVD     began                    T2+ 
+0000138 010  VVD     said                     Q2.1 
+0000138 020  NP1     Frank                    Z1mf[i59.2.1 Z3c[i59.2.1 Z1 
+0000138 030  NP1     Churchill                Z1mf[i59.2.2 Z3c[i59.2.2 Z1mf 
+0000139 010  VVD     interrupted              Q2.2 X7- T2- 
+0000139 020  NP1     Emma                     Z1f 
+0000140 010  VVD     said                     Q2.1 
+0000140 020  NP1     Frank                    Z1mf[i60.2.1 Z3c[i60.2.1 Z1 
+0000140 030  NP1     Churchill                Z1mf[i60.2.2 Z3c[i60.2.2 Z1mf 
+0000141 010  VVD     said                     Q2.1 
+0000141 020  PPHS1   she                      Z8f 
+0000142 010  VVD     said                     Q2.1 
+0000142 020  NNB     Mrs.                     Z1f[i62.2.1 Z1m[i61.2.1 
+0000142 030  NP1     Weston                   Z1f[i62.2.2 Z2 Z1mf Z1m[i61.2.2 
+0000143 010  VVD     cried                    E4.1- Q2.2 
+0000143 020  NP1     Frank                    Z1 
+0000144 010  PPHS1   he                       Z8m 
+0000144 020  VVD     continued                T2++ 
+0000145 010  VVD     said                     Q2.1 
+0000145 020  NP1     Emma                     Z1f 
+0000145 021  ,       ,                        
+0000145 030  VVG     laughing                 E4.1+/X3.2 
+0000146 010  VVD     said                     Q2.1 
+0000146 020  PPHS1   he                       Z8m 
+0000147 010  VVD     said                     Q2.1 
+0000147 020  PPHS1   he                       Z8m 
+0000148 010  VVD     said                     Q2.1 
+0000148 020  PPHS1   she                      Z8f 
+0000149 010  VVD     said                     Q2.1 
+0000149 020  PPHS1   she                      Z8f 
+0000150 010  VVD     returned                 M1 A9- N6 
+0000150 020  NP1     Harriet                  Z1f 
+0000150 021  ,       ,                        
+0000150 030  VVG     sighing                  Q2.2/X3.2 
+0000150 040  RT      again                    N6+ Z4 
+0000151 010  VVD     said                     Q2.1 
+0000151 020  NP1     Harriet                  Z1f 
+0000151 030  RR      earnestly                A13.3 E4.1- 
+0000152 010  VVD     continued                T2++ 
+0000152 020  NNB     Mrs.                     Z1f[i64.2.1 Z1m[i63.2.1 
+0000152 030  NP1     Elton                    Z1f[i64.2.2 Z1mf Z1m[i63.2.2 
+0000153 010  VVD     said                     Q2.1 
+0000153 020  NP1     Emma                     Z1f 
+0000153 021  ,       ,                        
+0000153 030  VVG     smiling                  E4.1+ 
+0000154 010  VVD     said                     Q2.1 
+0000154 020  NP1     Emma                     Z1f 
+0000155 010  VVD     said                     Q2.1 
+0000155 020  NNB     Mrs.                     Z1f[i66.2.1 Z1m[i65.2.1 
+0000155 030  NP1     Elton                    Z1f[i66.2.2 Z1mf Z1m[i65.2.2 
+0000155 031  ,       ,                        
+0000155 040  VVG     laughing                 E4.1+/X3.2 
+0000156 010  VVD     said                     Q2.1 
+0000156 020  PPHS1   she                      Z8f 
+0000157 010  VVD     said                     Q2.1 
+0000157 020  NP1     Emma                     Z1f 
+0000158 010  VVD     continued                T2++ 
+0000158 020  NNB     Mrs.                     Z1f[i68.2.1 Z1m[i67.2.1 
+0000158 030  NP1     Elton                    Z1f[i68.2.2 Z1mf Z1m[i67.2.2 
+0000159 010  PPHS1   he                       Z8m 
+0000159 020  RR      deliberately             X7+ A1.3+ 
+0000159 030  VVD     began                    T2+ 
+0000160 010  VBDZ    was                      A3+ Z5 
+0000160 020  NP1     Emma                     Z1f 
+0000160 021  GE      's                       Z5 
+0000160 030  JJ      calm                     E3+ E4.2+ 
+0000160 040  NN1     answer                   Q2.2 X4.1 X9.2+ 
+0000161 010  VVD     thought                  X2.1 
+0000161 020  NP1     Emma                     Z1f 
+0000162 010  VVD     said                     Q2.1 
+0000162 020  PPHS1   she                      Z8f 
+0000163 010  VVD     said                     Q2.1 
+0000163 020  NNB     Mr.                      Z1m[i69.2.1 S2.2m 
+0000163 030  NP1     Knightley                Z1m[i69.2.2 
+0000163 040  RR      warmly                   E2+ S1.2.1+ S7.2+ O4.6+ 
+0000164 010  VVD     said                     Q2.1 
+0000164 020  NNB     Mrs.                     Z1f[i71.2.1 Z1m[i70.2.1 
+0000164 030  NP1     Weston                   Z1f[i71.2.2 Z2 Z1mf Z1m[i70.2.2 
+0000165 010  PPHS1   he                       Z8m 
+0000165 020  VVD     replied                  Q2.2 Q1.1 
+0000166 010  VVD     said                     Q2.1 
+0000166 020  PPHS1   she                      Z8f 
+0000167 010  VVD     said                     Q2.1 
+0000167 020  NNB     Mr.                      Z1m[i72.2.1 S2.2m 
+0000167 030  NP1     Knightley                Z1m[i72.2.2 
+0000168 010  VVD     said                     Q2.1 
+0000168 020  PPHS1   she                      Z8f 
+0000169 010  VVD     said                     Q2.1 
+0000169 020  PPHS1   she                      Z8f 
+0000170 010  VVD     said                     Q2.1 
+0000170 020  NP1     John                     Z1mf[i73.2.1 Z3c[i73.2.1 Z1m S9/O1.2 
+0000170 030  NP1     Knightley                Z1mf[i73.2.2 Z3c[i73.2.2 
+0000171 010  CC      and                      Z5 
+0000171 020  VVG     nodding                  M1 
+0000171 030  RR      significantly            A11.1+ 
+0000172 010  VVD     said                     Q2.1 
+0000172 020  NP1     Jane                     Z1f 
+0000173 010  VVD     said                     Q2.1 
+0000173 020  NP1     Jane                     Z1f 
+0000173 030  RR      earnestly                A13.3 E4.1- 
+0000174 010  VVD     said                     Q2.1 
+0000174 020  PPHS1   she                      Z8f 
+0000175 010  VVD     continued                T2++ 
+0000175 020  PPHS1   he                       Z8m 
+0000175 021  ,       ,                        
+0000175 030  VVG     smiling                  E4.1+ 
+0000176 010  VVD     said                     Q2.1 
+0000176 020  NP1     John                     Z1mf[i74.2.1 Z3c[i74.2.1 Z1m S9/O1.2 
+0000176 030  NP1     Knightley                Z1mf[i74.2.2 Z3c[i74.2.2 
+0000177 010  VVD     said                     Q2.1 
+0000177 020  APPGE   his                      Z8m 
+0000177 030  NN1     brother                  S4m S2.2m S9/S2.2m 
+0000177 040  RR      hesitatingly             A7- 
+0000178 010  VVD     said                     Q2.1 
+0000178 020  NNB     Mr.                      Z1m[i75.2.1 S2.2m 
+0000178 030  NP1     Woodhouse                Z1m[i75.2.2 Z1mf 
+0000179 010  VVD     said                     Q2.1 
+0000179 020  NP1     Emma                     Z1f 
+0000180 010  VVD     said                     Q2.1 
+0000180 020  NNB     Mr.                      Z1m[i76.2.1 S2.2m 
+0000180 030  NP1     Knightley                Z1m[i76.2.2 
+0000180 040  RR      dryly                    Z99 
+0000181 010  VVD     said                     Q2.1 
+0000181 020  PPHS1   she                      Z8f 
+0000182 010  VVD     replied                  Q2.2 Q1.1 
+0000182 020  NP1     Jane                     Z1f 
+0000183 010  VVD     said                     Q2.1 
+0000183 020  NP1     Jane                     Z1f 
+0000184 010  VVD     replied                  Q2.2 Q1.1 
+0000184 020  NNB     Mrs.                     Z1f[i78.2.1 Z1m[i77.2.1 
+0000184 030  NP1     Elton                    Z1f[i78.2.2 Z1mf Z1m[i77.2.2 
+0000184 040  RR      gaily                    E4.1+ O4.3 
+0000185 010  VVD     said                     Q2.1 
+0000185 020  PPHS1   he                       Z8m 
+0000186 010  PPHS1   he                       Z8m 
+0000186 020  VVD     continued                T2++ 
+0000187 010  VVD     said                     Q2.1 
+0000187 020  NNB     Mr.                      Z1m[i79.2.1 S2.2m 
+0000187 030  NP1     Weston                   Z1m[i79.2.2 Z2 Z1mf 
+0000188 010  VVD     continued                T2++ 
+0000188 020  PPHS1   he                       Z8m 
+0000189 010  VVD     said                     Q2.1 
+0000189 020  PPHS1   he                       Z8m 
+0000189 030  RR      presently                T1.1.3 T1.1.2 
+0000190 010  VVD     said                     Q2.1 
+0000190 020  NP1     Emma                     Z1f 
+0000191 010  VVD     said                     Q2.1 
+0000191 020  APPGE   his                      Z8m 
+0000191 030  NN1     brother                  S4m S2.2m S9/S2.2m 
+0000191 040  RR      quickly                  N3.8+ 
+0000192 010  VVD     cried                    E4.1- Q2.2 
+0000192 020  NNB     Mr.                      Z1m[i80.2.1 S2.2m 
+0000192 030  NP1     Knightley                Z1m[i80.2.2 
+0000193 010  VVD     exclaimed                Q2.2 
+0000193 020  NP1     Emma                     Z1f 
+0000194 010  VVD     said                     Q2.1 
+0000194 020  PPHS1   he                       Z8m 
+0000195 010  VVD     replied                  Q2.2 Q1.1 
+0000195 020  NP1     Emma                     Z1f 
+0000196 010  VVD     said                     Q2.1 
+0000196 020  NP1     Emma                     Z1f 
+0000197 010  PPHS1   she                      Z8f 
+0000197 020  VVD     continued                T2++ 
+0000198 010  VVD     said                     Q2.1 
+0000198 020  NP1     Emma                     Z1f 
+0000199 010  VVD     said                     Q2.1 
+0000199 020  NP1     Harriet                  Z1f 
+0000200 010  VVD     said                     Q2.1 
+0000200 020  NP1     Harriet                  Z1f 
+0000201 010  VVD     cried                    E4.1- Q2.2 
+0000201 020  NP1     Emma                     Z1f 
+0000202 010  VVD     thought                  X2.1 
+0000202 020  NP1     Emma                     Z1f 
+0000203 010  VVD     cried                    E4.1- Q2.2 
+0000203 020  NP1     Harriet                  Z1f 
+0000203 030  RR      indignantly              E3- 
+0000204 010  VVD     cried                    E4.1- Q2.2 
+0000204 020  NNB     Mr.                      Z1m[i81.2.1 S2.2m 
+0000204 030  NP1     Weston                   Z1m[i81.2.2 Z2 Z1mf 
+0000205 010  VVD     replied                  Q2.2 Q1.1 
+0000205 020  APPGE   his                      Z8m 
+0000205 030  NN1     son                      S4m 
+0000205 031  ,       ,                        
+0000205 040  VVG     laughing                 E4.1+/X3.2 
+0000206 010  VVD     observed                 X3.4 Q2.1/X2.4 X2.1 G2.1+ 
+0000206 020  APPGE   his                      Z8m 
+0000206 030  NN1     father                   S4m S9/S2.2m 
+0000207 010  VVD     said                     Q2.1 
+0000207 020  PPHS1   he                       Z8m 
+0000208 010  PPHS1   he                       Z8m 
+0000208 020  VVD     replied                  Q2.2 Q1.1 
+0000208 030  RR      gravely                  E4.1- A1.3+ 
+0000209 010  PPHS1   she                      Z8f 
+0000209 020  VVD     cried                    E4.1- Q2.2 
+0000210 010  VVD     said                     Q2.1 
+0000210 020  PPHS1   he                       Z8m 
+0000211 010  PPHS1   he                       Z8m 
+0000211 020  RR      calmly                   E3+ E4.2+ 
+0000211 030  VVD     replied                  Q2.2 Q1.1 
+0000212 010  VVD     said                     Q2.1 
+0000212 020  PPHS1   she                      Z8f 
+0000213 010  PPHS1   she                      Z8f 
+0000213 020  VVD     answered                 Q2.2 S1.1.1 
+0000214 010  VVD     said                     Q2.1 
+0000214 020  PPHS1   he                       Z8m 
+0000215 010  VVD     cried                    E4.1- Q2.2 
+0000215 020  NNB     Mrs.                     Z1f[i83.2.1 Z1m[i82.2.1 
+0000215 030  NP1     Elton                    Z1f[i83.2.2 Z1mf Z1m[i82.2.2 
+0000215 040  RR      emphatically             E6+ 
+0000216 010  VVD     whispered                Q2.1/X3.2- 
+0000216 020  NP1     Frank                    Z1 
+0000216 030  II      to                       Z5 
+0000216 040  NP1     Emma                     Z1f 
+0000217 010  VVD     exclaimed                Q2.2 
+0000217 020  NNB     Miss                     Z1f[i84.2.1 
+0000217 030  NP1     Bates                    Z1f[i84.2.2 Z1mf 
+0000218 010  VVD     answered                 Q2.2 S1.1.1 
+0000218 020  APPGE   his                      Z8m 
+0000218 030  NN1     son                      S4m 
+0000219 010  VVD     said                     Q2.1 
+0000219 020  NP1     Emma                     Z1f 
+0000220 010  VVD     cried                    E4.1- Q2.2 
+0000220 020  NP1     Emma                     Z1f 
+0000221 010  VVD     said                     Q2.1 
+0000221 020  PPHS1   he                       Z8m 
+0000222 010  VVD     said                     Q2.1 
+0000222 020  PPHS1   she                      Z8f 
+0000223 010  VVD     cried                    E4.1- Q2.2 
+0000223 020  NP1     Emma                     Z1f 
+0000224 010  PPHS1   he                       Z8m 
+0000224 020  RR      gravely                  E4.1- A1.3+ 
+0000224 030  VVD     replied                  Q2.2 Q1.1 
+0000225 010  VVD     said                     Q2.1 
+0000225 020  PPHS1   he                       Z8m 
+0000225 030  RG      very                     A13.3 
+0000225 040  RR      seriously                A13.3 Z4 E4.1- 
+0000226 010  PPHS1   he                       Z8m 
+0000226 020  VVD     continued                T2++ 
+0000227 010  VVD     resumed                  T2+/N6+ 
+0000227 020  NNB     Mrs.                     Z1f[i86.2.1 Z1m[i85.2.1 
+0000227 030  NP1     Weston                   Z1f[i86.2.2 Z2 Z1mf Z1m[i85.2.2 
+0000228 010  PPHS1   she                      Z8f 
+0000228 020  VVD     continued                T2++ 
+0000229 010  VVD     replied                  Q2.2 Q1.1 
+0000229 020  NP1     Emma                     Z1f 
+0000229 030  RR      dryly                    Z99 
+0000230 010  VVD     thought                  X2.1 
+0000230 020  NP1     Emma                     Z1f 
+0000231 010  VVD     said                     Q2.1 
+0000231 020  NP1     Emma                     Z1f 
+0000232 010  PPHS1   she                      Z8f 
+0000232 020  VVD     added                    N5+/A2.1 N2 A1.8+ 
+0000233 010  VVD     cried                    E4.1- Q2.2 
+0000233 020  NP1     Harriet                  Z1f 
+0000234 010  VVD     said                     Q2.1 
+0000234 020  NP1     Emma                     Z1f 
+0000235 010  VVD     replied                  Q2.2 Q1.1 
+0000235 020  NP1     Emma                     Z1f 
+0000235 021  ,       ,                        
+0000235 030  VVG     smiling                  E4.1+ 
+0000236 010  PPHS1   she                      Z8f 
+0000236 020  VVD     began                    T2+ 
+0000237 010  VVD     cried                    E4.1- Q2.2 
+0000237 020  NP1     Harriet                  Z1f 
+0000238 010  VVD     cried                    E4.1- Q2.2 
+0000238 020  NP1     Emma                     Z1f 
+0000239 010  PPHS1   she                      Z8f 
+0000239 020  VVD     resumed                  T2+/N6+ 
+0000240 010  VVD     said                     Q2.1 
+0000240 020  PPHS1   she                      Z8f 
+0000241 010  PPHS1   he                       Z8m 
+0000241 020  VVD     observed                 X3.4 Q2.1/X2.4 X2.1 G2.1+ 
+0000242 010  JJ      continued                T2++ 
+0000242 020  NNB     Mrs.                     Z1f[i88.2.1 Z1m[i87.2.1 
+0000242 030  NP1     Weston                   Z1f[i88.2.2 Z2 Z1mf Z1m[i87.2.2 
+0000243 010  VVD     returned                 M1 A9- N6 
+0000243 020  NP1     Emma                     Z1f 
+0000243 021  ,       ,                        
+0000243 030  VVG     sighing                  Q2.2/X3.2 
+0000244 010  PPHS1   she                      Z8f 
+0000244 020  VVD     said                     Q2.1 
+0000245 010  VVD     said                     Q2.1 
+0000245 020  NP1     Emma                     Z1f 
+0000245 021  ,       ,                        
+0000245 030  RR      seriously                A13.3 Z4 E4.1- 
+0000246 010  CCB     but                      Z5 
+0000246 020  VVG     checking                 X2.4/A5.3 A15 Q1.2 T2- M5 
+0000246 030  PPX1    himself                  Z8m 
+0000247 010  VVD     said                     Q2.1 
+0000247 020  NP1     Emma                     Z1f 
+0000248 010  VVD     repeated                 N6+ Q2.1/N6+ F1/B1@ 
+0000248 020  NNB     Mr.                      Z1m[i89.2.1 S2.2m 
+0000248 030  NP1     Knightley                Z1m[i89.2.2 
+0000249 010  VVD     said                     Q2.1 
+0000249 020  PPHS1   he                       Z8m 
+0000250 010  VVD     said                     Q2.1 
+0000250 020  PPHS1   he                       Z8m 
+0000251 010  PPHS1   he                       Z8m 
+0000251 020  VVD     replied                  Q2.2 Q1.1 
+0000252 010  PPHS1   he                       Z8m 
+0000252 020  VVD     added                    N5+/A2.1 N2 A1.8+ 
+0000252 030  RR      shortly                  N3.8+ 
+0000252 040  RT      afterwards               N4 
+0000253 010  VVD     said                     Q2.1 
+0000253 020  PPHS1   he                       Z8m 
+0000254 010  VVD     said                     Q2.1 
+0000254 020  NP1     Emma                     Z1f 
+0000255 010  VBDZ    was                      A3+ Z5 
+0000255 020  APPGE   his                      Z8m 
+0000255 030  MD      next                     N4 
+0000255 040  NN1     observation              X3.4 Q2.1/X2.4 X2.1 
+0000256 010  PPHS1   she                      Z8f 
+0000256 020  RR      shortly                  N3.8+ 
+0000256 030  RT      afterwards               N4 
+0000256 040  VVD     began                    T2+ 
+0000257 010  PPHS1   she                      Z8f 
+0000257 020  VVD     continued                T2++ 
+0000258 010  VVD     said                     Q2.1 
+0000258 020  PPHS1   he                       Z8m 
+0000259 010  VVD     cried                    E4.1- Q2.2 
+0000259 020  APPGE   his                      Z8m 
+0000259 030  NN1     wife                     S4f 
+0000260 010  VVD     continued                T2++ 
+0000260 020  NNB     Mr.                      Z1m[i90.2.1 S2.2m 
+0000260 030  NP1     Elton                    Z1m[i90.2.2 Z1mf 
+0000261 010  VVD     replied                  Q2.2 Q1.1 
+0000261 020  NP1     Emma                     Z1f 
+0000261 021  ,       ,                        
+0000261 030  VVG     smiling                  E4.1+ 
+0000262 010  PPHS1   she                      Z8f 
+0000262 020  VVD     continued                T2++ 
+0000263 010  VVD     replied                  Q2.2 Q1.1 
+0000263 020  NNB     Mr.                      Z1m[i91.2.1 S2.2m 
+0000263 030  NP1     Knightley                Z1m[i91.2.2 
+0000264 010  VVD     cried                    E4.1- Q2.2 
+0000264 020  NP1     Emma                     Z1f 
+0000265 010  VVD     continued                T2++ 
+0000265 020  NNB     Mr.                      Z1m[i92.2.1 S2.2m 
+0000265 030  NP1     Knightley                Z1m[i92.2.2 
+0000266 010  PPHS1   he                       Z8m 
+0000266 020  VVD     cried                    E4.1- Q2.2 
+0000267 010  CC      and                      Z5 
+0000267 020  VVD     supposed                 X2.1 X7+ 
+0000268 010  PPHS1   he                       Z8m 
+0000268 020  VVD     replied                  Q2.2 Q1.1 
+0000269 010  JJ      continued                T2++ 
+0000269 020  NNB     Mr.                      Z1m[i93.2.1 S2.2m 
+0000269 030  NP1     Knightley                Z1m[i93.2.2 
+0000270 010  PPHS1   she                      Z8f 
+0000270 020  VVD     cried                    E4.1- Q2.2 
+0000271 010  VVD     replied                  Q2.2 Q1.1 
+0000271 020  NNB     Mr.                      Z1m[i94.2.1 S2.2m 
+0000271 030  NP1     Knightley                Z1m[i94.2.2 
+0000272 010  PPHS1   she                      Z8f 
+0000272 020  VVD     cried                    E4.1- Q2.2 
+0000273 010  PPHS1   he                       Z8m 
+0000273 020  VVD     answered                 Q2.2 S1.1.1 
+0000274 010  VVD     resumed                  T2+/N6+ 
+0000274 020  PPHS1   he                       Z8m 
+0000275 010  VVD     replied                  Q2.2 Q1.1 
+0000275 020  NP1     Emma                     Z1f 
+0000275 021  ,       ,                        
+0000275 030  RR      archly                   X9.1+/E4.1+ A11.1+/S7.1+ 
+0000276 001  NULL    **8;7;text               

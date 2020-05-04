@@ -1,0 +1,216 @@
+0000001 001  NULL    **6;0;START              
+0000001 002  -----   -----                    
+0000002 010  PPIS1   I                        Z8mf 
+0000002 020  VVD     said                     Q2.1 
+0000003 010  NP1     Satan                    S9m 
+0000004 010  NN1     hell                     S9 O4.2- E3- G2.2- 
+0000005 010  NN1     witch                    S9/S2.1f O4.2-/S2.1f 
+0000005 011  ,       ,                        
+0000005 012  "       "                        
+0000005 020  NN1     vrolok                   Z99 
+0000005 021  "       "                        
+0000005 030  CC      and                      Z5 
+0000006 010  PPIS1   I                        Z8mf 
+0000006 020  VVD     said                     Q2.1 
+0000007 010  PPIS1   I                        Z8mf 
+0000007 020  VVD     said                     Q2.1 
+0000008 010  PPHS1   he                       Z8m 
+0000008 020  VVD     went                     T2++[i1.2.1 M1[i1.2.1 Q2.1/N5+[i1.2.1 A1.1.1[i1.2.1 M1 A2.1+ A1.1.1 A9- A1.8+ Q2.1 N6+ I2.2 A1.1.2 T2- S3.2 A6.3+ B2-/X1% B1% 
+0000008 030  RP@     on                       T2++[i1.2.2 M1[i1.2.2 Q2.1/N5+[i1.2.2 A1.1.1[i1.2.2 M6 A1.1.1 
+0000009 010  VVD     said                     Q2.1 
+0000009 020  MC1%    I                        Z8 
+0000010 010  PPHS1   he                       Z8m 
+0000010 020  VVD     said                     Q2.1 
+0000010 030  RR21    at                       N4[i2.2.1 
+0000010 040  RR22    last                     N4[i2.2.2 
+0000011 010  PPHS1   he                       Z8m 
+0000011 020  VVD     said                     Q2.1 
+0000012 010  VVD     said                     Q2.1 
+0000012 020  PPHS1   he                       Z8m 
+0000013 010  PPIS1   I                        Z8mf 
+0000013 020  VVD     replied                  Q2.2 Q1.1 
+0000013 021  ,       ,                        
+0000013 030  CC      and                      Z5 
+0000014 010  PPHS1   he                       Z8m 
+0000014 020  VVD     pointed                  A10+ M6 H1 
+0000014 030  RL      northwards               M6 
+0000015 010  PPIS1   I                        Z8mf 
+0000015 020  VVD     said                     Q2.1 
+0000016 010  PPHS1   he                       Z8m 
+0000016 020  VVD     said                     Q2.1 
+0000017 010  PPIS1   I                        Z8mf 
+0000017 020  VVD     said                     Q2.1 
+0000017 030  II      to                       Z5 
+0000017 040  PPX1    myself                   Z8mf 
+0000018 010  PPHS1   he                       Z8m 
+0000018 020  VVD     said                     Q2.1 
+0000019 010  PPHS1   he                       Z8m 
+0000019 020  VVD     said                     Q2.1 
+0000020 010  PPHS1   he                       Z8m 
+0000020 020  VVD     added                    N5+/A2.1 N2 A1.8+ 
+0000020 030  RR      philosophically          A1.6 E6+ 
+0000021 010  PPIS1   I                        Z8mf 
+0000021 020  VVD     said                     Q2.1 
+0000022 010  PPIS1   I                        Z8mf 
+0000022 020  VVD     said                     Q2.1 
+0000023 010  PPHS1   he                       Z8m 
+0000023 020  VVD     whispered                Q2.1/X3.2- 
+0000024 010  PPHS1   he                       Z8m 
+0000024 020  VVD     said                     Q2.1 
+0000025 010  PPHS1   he                       Z8m 
+0000025 020  VVD     said                     Q2.1 
+0000025 030  RR      sternly                  S1.2.1- 
+0000026 010  PPIS1   I                        Z8mf 
+0000026 020  VVD     asked                    Q2.2 
+0000026 030  II      in                       Z5 
+0000026 040  NN1     wonder                   X2.6- A5.1+ 
+0000027 010  AT      the                      Z5 
+0000027 020  NN1     Professor                P1/S2mf 
+0000027 030  VVD     nodded                   M1 
+0000028 010  PPIS1   I                        Z8mf 
+0000028 020  VVD     said                     Q2.1 
+0000029 010  CC      or                       Z5 
+0000030 010  CC      or                       Z5 
+0000031 010  PPIS1   I                        Z8mf 
+0000031 020  VVD     said                     Q2.1 
+0000032 010  PPIS1   I                        Z8mf 
+0000032 020  VVD     said                     Q2.1 
+0000033 010  PPHS1   he                       Z8m 
+0000033 020  VVD     said                     Q2.1 
+0000034 010  PPHS1   he                       Z8m 
+0000034 020  VVD     said                     Q2.1 
+0000035 010  PPIS1   I                        Z8mf 
+0000035 020  VVD     said                     Q2.1 
+0000036 010  PPHS1   he                       Z8m 
+0000036 020  VVD     said                     Q2.1 
+0000037 010  VVD     said                     Q2.1 
+0000037 020  NP1     Van                      Z1mf[i3.2.1 Z3c[i3.2.1 Z1m 
+0000037 030  NP1     Helsing                  Z1mf[i3.2.2 Z3c[i3.2.2 
+0000038 010  PPHS1   he                       Z8m 
+0000038 020  VVD     said                     Q2.1 
+0000039 010  PPHS1   he                       Z8m 
+0000039 020  VVD     said                     Q2.1 
+0000040 010  PPIS1   I                        Z8mf 
+0000040 020  VVD     said                     Q2.1 
+0000041 010  PPHS1   he                       Z8m 
+0000041 020  VVD     went                     T2++[i4.2.1 M1[i4.2.1 Q2.1/N5+[i4.2.1 A1.1.1[i4.2.1 M1 A2.1+ A1.1.1 A9- A1.8+ Q2.1 N6+ I2.2 A1.1.2 T2- S3.2 A6.3+ B2-/X1% B1% 
+0000041 030  RP@     on                       T2++[i4.2.2 M1[i4.2.2 Q2.1/N5+[i4.2.2 A1.1.1[i4.2.2 M6 A1.1.1 
+0000042 010  PPHS1   he                       Z8m 
+0000042 020  VVD     said                     Q2.1 
+0000043 010  VVD     said                     Q2.1 
+0000043 020  AT      the                      Z5 
+0000043 030  NN1     Professor                P1/S2mf 
+0000044 010  VVD     said                     Q2.1 
+0000044 020  NP1     Van                      Z1mf[i5.2.1 Z3c[i5.2.1 Z1m 
+0000044 030  NP1     Helsing                  Z1mf[i5.2.2 Z3c[i5.2.2 
+0000045 010  PPHS1   he                       Z8m 
+0000045 020  VVD     said                     Q2.1 
+0000046 010  PPHS1   he                       Z8m 
+0000046 020  VVD     said                     Q2.1 
+0000047 010  PPHS1   he                       Z8m 
+0000047 020  VVD     said                     Q2.1 
+0000048 010  PPIS1   I                        Z8mf 
+0000048 020  VVD     said                     Q2.1 
+0000049 010  PPHS1   he                       Z8m 
+0000049 020  VVD     began                    T2+ 
+0000049 030  RR      awkwardly                A12- O4.2- E1 
+0000050 010  PPIS1   I                        Z8mf 
+0000050 020  VVD     said                     Q2.1 
+0000051 010  PPHS1   he                       Z8m 
+0000051 020  VVD     added                    N5+/A2.1 N2 A1.8+ 
+0000052 010  PPHS1   he                       Z8m 
+0000052 020  VVD     said                     Q2.1 
+0000053 010  PPHS1   he                       Z8m 
+0000053 020  VVD     said                     Q2.1 
+0000054 010  PPHS1   she                      Z8f 
+0000054 020  VVD     said                     Q2.1 
+0000054 030  RR      impulsively              A1.3- 
+0000055 010  VVD     said                     Q2.1 
+0000055 020  NNB     Lord                     Z1m[i6.2.1 
+0000055 030  NP1     Godalming                Z1m[i6.2.2 Z2 Z3c 
+0000056 010  PPHS1   he                       Z8m 
+0000056 020  VVD     said                     Q2.1 
+0000057 010  PPIS1   I                        Z8mf 
+0000057 020  VVD     said                     Q2.1 
+0000057 030  RR      sternly                  S1.2.1- 
+0000058 010  PPHS1   he                       Z8m 
+0000058 020  VVD     said                     Q2.1 
+0000059 010  PPHS1   he                       Z8m 
+0000059 020  VVD     said                     Q2.1 
+0000060 010  PPHS1   he                       Z8m 
+0000060 020  VVD     answered                 Q2.2 S1.1.1 
+0000061 010  PPIS1   I                        Z8mf 
+0000061 020  VVD     said                     Q2.1 
+0000062 010  PPIS1   I                        Z8mf 
+0000062 020  VVD     said                     Q2.1 
+0000063 010  PPIS1   I                        Z8mf 
+0000063 020  VVD     asked                    Q2.2 
+0000064 010  PPIS1   I                        Z8mf 
+0000064 020  VVD     said                     Q2.1 
+0000064 030  RR      reflectively             X2.1 
+0000065 010  VVD     said                     Q2.1 
+0000065 020  NP1     Van                      Z1mf[i7.2.1 Z3c[i7.2.1 Z1m 
+0000065 030  NP1     Helsing                  Z1mf[i7.2.2 Z3c[i7.2.2 
+0000066 010  PPHS1   he                       Z8m 
+0000066 020  VVD     said                     Q2.1 
+0000067 010  PPIS1   I                        Z8mf 
+0000067 020  VVD     cried                    E4.1- Q2.2 
+0000068 010  VVD     said                     Q2.1 
+0000068 020  NP1     Morris                   Z1mf 
+0000069 010  PPHS1   she                      Z8f 
+0000069 020  VVD     said                     Q2.1 
+0000070 010  PPHS1   he                       Z8m 
+0000070 020  VVD     said                     Q2.1 
+0000071 010  PPHS1   he                       Z8m 
+0000071 020  VVD     answered                 Q2.2 S1.1.1 
+0000071 030  RR      hotly                    E3- N3.3- 
+0000072 010  PPHS1   he                       Z8m 
+0000072 020  VVD     answered                 Q2.2 S1.1.1 
+0000072 030  RR      solemnly                 O4.2 A5.2+ 
+0000073 010  PPHS1   he                       Z8m 
+0000073 020  VVD     said                     Q2.1 
+0000074 010  VVD     said                     Q2.1 
+0000074 020  NP1     Van                      Z1mf[i8.2.1 Z3c[i8.2.1 Z1m 
+0000074 030  NP1     Helsing                  Z1mf[i8.2.2 Z3c[i8.2.2 
+0000075 010  PPIS1   I                        Z8mf 
+0000075 020  VVD     said                     Q2.1 
+0000076 010  PPHS1   she                      Z8f 
+0000076 020  VVD     said                     Q2.1 
+0000076 030  RG      quite                    A13.5 A13.6 A13.2 
+0000076 040  RR      simply                   A13.6 A14 A12+ 
+0000077 010  PPHS1   she                      Z8f 
+0000077 020  VVD     went                     T2++[i9.2.1 M1[i9.2.1 Q2.1/N5+[i9.2.1 A1.1.1[i9.2.1 M1 A2.1+ A1.1.1 A9- A1.8+ Q2.1 N6+ I2.2 A1.1.2 T2- S3.2 A6.3+ B2-/X1% B1% 
+0000077 030  RP@     on                       T2++[i9.2.2 M1[i9.2.2 Q2.1/N5+[i9.2.2 A1.1.1[i9.2.2 M6 A1.1.1 
+0000077 040  RR      quickly                  N3.8+ 
+0000078 010  PPHS1   he                       Z8m 
+0000078 020  VVD     pleaded                  Q2.2 G2.1/Q2.2 
+0000079 010  CS      though                   Z5 
+0000079 020  PPHS1   she                      Z8f 
+0000079 030  VVD     added                    N5+/A2.1 N2 A1.8+ 
+0000079 040  CST     that                     Z8 Z5 
+0000080 010  VVD     said                     Q2.1 
+0000080 020  MC1%    I                        Z8 
+0000081 010  PPHS1   he                       Z8m 
+0000081 020  VVD     said                     Q2.1 
+0000081 021  ,       ,                        
+0000081 030  RR      sadly                    E4.1- 
+0000082 010  PPHS1   he                       Z8m 
+0000082 020  VVD     said                     Q2.1 
+0000083 010  VVD     said                     Q2.1 
+0000083 020  AT      the                      Z5 
+0000083 030  NN1     Professor                P1/S2mf 
+0000084 010  PPHS1   he                       Z8m 
+0000084 020  VVD     took                     A9+ T1.3 C1 A1.1.1 M2 A2.1+ X2.4 P1 M1 X2.5+ F1@ F2@ Q1.2@ B3@ 
+0000084 030  APPGE   my                       Z8 
+0000084 040  NN1     hand                     B1 O2 S8+ K5.2 I3.1/S2mf X9.1+/S2mf 
+0000085 010  VVD     said                     Q2.1 
+0000085 020  MC1%    I                        Z8 
+0000085 030  II      to                       Z5 
+0000085 040  PPX1    myself                   Z8mf 
+0000086 010  PPHS1   she                      Z8f 
+0000086 020  VVD     said                     Q2.1 
+0000087 010  PPHS1   he                       Z8m 
+0000087 020  VVD     said                     Q2.1 
+0000088 010  PPHS1   he                       Z8m 
+0000088 020  VVD     said                     Q2.1 
+0000089 001  NULL    **8;7;text               

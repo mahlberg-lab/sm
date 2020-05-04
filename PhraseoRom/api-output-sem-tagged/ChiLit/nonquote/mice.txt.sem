@@ -1,0 +1,1034 @@
+0000001 001  NULL    **6;0;START              
+0000001 002  -----   -----                    
+0000002 010  RR      ONCE                     T1.1.1[i1.4.1 N6- T1.1.1 
+0000002 020  II      upon                     T1.1.1[i1.4.2 Z5 
+0000002 030  AT1     a                        T1.1.1[i1.4.3 Z5 
+0000002 040  NNT1    time                     T1.1.1[i1.4.4 T1 T1.2 T1.3 T1.1.2 N6 N1 K2 G2.1@ 
+0000002 050  EX      there                    Z5 
+0000002 060  VBDZ    was                      A3+ Z5 
+0000002 070  AT1     a                        Z5 
+0000002 080  RG      very                     A13.3 
+0000002 090  JJ      beautiful                O4.2+ 
+0000002 100  NN1     doll's-house             H1 P1/S5+c G1.1c H4 K6 X2.1 A1.1.1 
+0000002 101  ;       ;                        
+0000002 110  PPH1    it                       Z8 
+0000002 120  VBDZ    was                      A3+ Z5 
+0000002 130  JJ      red                      O1.1[i2.2.1 P1[i2.2.1 O4.3 G1.2 
+0000003 010  NN1     brick                    O1.1[i2.2.2 P1[i2.2.2 O2/H1 S8+ 
+0000003 020  IW      with                     Z5 
+0000003 030  JJ      white                    O4.3 G2.2+ 
+0000003 040  NN2     windows                  H2 T1.3 Y2 
+0000003 041  ,       ,                        
+0000003 050  CC      and                      Z5 
+0000003 060  PPH1    it                       Z8 
+0000003 070  VHD     had                      A9+ Z5 A2.2 S4 
+0000003 080  JJ      real                     A3+ A5.2+ A5.4+ A13.3 
+0000003 090  NN1     muslin                   O1.1 
+0000003 100  NN2     curtains                 H5 
+0000003 110  CC      and                      Z5 
+0000003 120  AT1     a                        Z5 
+0000003 130  JJ      front                    H2[i3.2.1 M6 A11.1+ 
+0000004 010  NN1     door                     H2[i3.2.2 H2 H1@ 
+0000004 020  CC      and                      Z5 
+0000004 030  AT1     a                        Z5 
+0000004 040  NN1     chimney                  H2 
+0000004 041  .       .                        
+0000005 001  -----   -----                    
+0000006 010  PPH1@   IT                       Z8 
+0000006 020  VVD     belonged                 A9+ A1.2+ S5+ 
+0000006 030  II      to                       Z5 
+0000006 040  MC      two                      N1 T3 T1.2 
+0000006 050  NN2     Dolls                    K6 B5 
+0000006 060  VVN     called                   Q2.2 S1.1.1 Q1.3 S9% 
+0000006 070  NP1     Lucinda                  Z99 
+0000006 080  CC      and                      Z5 
+0000006 090  NP1     Jane                     Z1f 
+0000006 091  ;       ;                        
+0000006 100  RR21    at                       A13.7[i4.2.1 
+0000006 110  RR22    least                    A13.7[i4.2.2 A13.7 
+0000006 120  PPH1    it                       Z8 
+0000006 130  VVD     belonged                 A9+ A1.2+ S5+ 
+0000007 010  II      to                       Z5 
+0000007 020  NP1     Lucinda                  Z99 
+0000007 021  ,       ,                        
+0000007 030  CCB     but                      Z5 
+0000007 040  PPHS1   she                      Z8f 
+0000007 050  RR      never                    T1/Z6 
+0000007 060  VVN     ordered                  S7.1+/Q2.2 I2.2/Q2.2 
+0000007 070  NN2     meals                    F1 
+0000007 071  .       .                        
+0000008 001  -----   -----                    
+0000009 010  NP1     Jane                     Z1f 
+0000009 020  VBDZ    was                      A3+ Z5 
+0000009 030  AT      the                      Z5 
+0000009 040  NP1     Cook                     Z1mf 
+0000009 041  ;       ;                        
+0000009 050  CCB     but                      Z5 
+0000009 060  PPHS1   she                      Z8f 
+0000009 070  RR      never                    T1/Z6 
+0000009 080  VDD     did                      A1.1.1 G2.2- X9.2+ E3- G2.1% Z5 
+0000009 090  DD      any                      N5.1+ N5 
+0000009 100  NN1     cooking                  F1 
+0000009 101  ,       ,                        
+0000009 110  CS      because                  Z5/A2.2 
+0000009 120  AT      the                      Z5 
+0000009 130  NN1     dinner                   F1 
+0000010 010  VHD     had                      Z5 A9+ A2.2 S4 
+0000010 020  VBN     been                     Z5 A3+ 
+0000010 030  VVN     bought                   I2.2 
+0000010 040  JJ      ready-made               O4.1 A1.5.2+ 
+0000010 041  ,       ,                        
+0000010 050  II      in                       Z5 
+0000010 060  AT1     a                        N5[i5.3.1 Z5 
+0000010 070  NN1     box                      N5[i5.3.2 O2 O4.4 Q4.3 G2.1 H2 K5.1 B5/K5.1@ A4.1@ 
+0000010 080  JJ      full                     N5[i5.3.3 N5.1+ I3.2+ 
+0000010 090  IO      of                       Z5 
+0000010 100  NN2     shavings                 B4 A1.1.1 N5-/A2.1 
+0000010 101  .       .                        
+0000011 001  -----   -----                    
+0000014 010  EX      THERE                    Z5 
+0000014 020  VBDR    were                     A3+ Z5 
+0000014 030  MC      two                      N1 T3 T1.2 
+0000014 040  JJ      red                      O4.3 G1.2 
+0000014 050  NN2     lobsters                 L2 F1 
+0000014 060  CC      and                      Z5 
+0000014 070  AT1     a                        Z5 
+0000014 080  NN1     ham                      F1 S2/E2+mf K4/S2mf 
+0000014 081  ,       ,                        
+0000014 090  AT1     a                        Z5 
+0000014 100  NN      fish                     L2mfnc F1 
+0000014 101  ,       ,                        
+0000014 110  AT1     a                        Z5 
+0000014 120  NN1     pudding                  F1 
+0000014 121  ,       ,                        
+0000014 130  CC      and                      Z5 
+0000014 140  DD      some                     N5 Z5 
+0000015 010  NN2     pears                    F1 
+0000015 020  CC      and                      Z5 
+0000015 030  NN2     oranges                  F1 O4.3 
+0000015 031  .       .                        
+0000016 001  -----   -----                    
+0000017 010  PPHS2   They                     Z8mfn 
+0000017 020  VM      would                    A7+ 
+0000017 030  XX      not                      Z6 
+0000017 040  VVI     come                     A10-[i6.2.1 X9.2+[i6.2.1 T2-[i6.2.1 M1[i6.2.1 M1 N3.1 A2.2 A3+ X2.1 A9+ S4 N4 S3.2 
+0000017 050  II      off                      A10-[i6.2.2 X9.2+[i6.2.2 T2-[i6.2.2 M1[i6.2.2 Z5 E2- 
+0000017 060  AT      the                      Z5 
+0000017 070  NN2     plates                   O2 C1 B3 
+0000017 071  ,       ,                        
+0000017 080  CCB     but                      Z5 
+0000017 090  PPHS2   they                     Z8mfn 
+0000017 100  VBDR    were                     A3+ Z5 
+0000017 110  RR      extremely                A13.3 
+0000017 120  JJ      beautiful                O4.2+ 
+0000017 121  .       .                        
+0000018 001  -----   -----                    
+0000019 010  MC1     ONE                      N1 T3 T1.2 
+0000019 020  NNT1    morning                  T1.3 
+0000019 030  NP1     Lucinda                  Z99 
+0000019 040  CC      and                      Z5 
+0000019 050  NP1     Jane                     Z1f 
+0000019 060  VHD     had                      Z5 A9+ A2.2 S4 
+0000019 070  VVN     gone                     M1[i8.2.1 K1[i8.2.1 S3.2[i8.2.1 O4.6-[i8.2.1 Q4[i8.2.1 B1[i8.2.1 M1 A2.1+ A1.1.1 A9- A1.8+ Q2.1 N6+ I2.2 A1.1.2 T2- S3.2 A6.3+ B2-/X1% B1% E2+[i7.2.1 X7+[i7.2.1 E3-[i7.2.1 
+0000019 080  RP      out                      K1[i8.2.2 S3.2[i8.2.2 O4.6-[i8.2.2 Q4[i8.2.2 B1[i8.2.2 M1[i8.2.2 M6 
+0000019 090  IF      for                      Z5 E2+[i7.2.2 X7+[i7.2.2 E3-[i7.2.2 
+0000019 100  AT1     a                        Z5 
+0000019 110  NN1     drive                    M3 X5.2+ X8+ M3/H3 Y2 
+0000019 120  II      in                       Z5 
+0000019 130  AT      the                      Z5 
+0000019 140  NN1     doll                     K6 
+0000019 141  GE      's                       Z5 
+0000020 010  NN1     perambulator             T3--/S2mf E2+mfn NN1 T3--/Q2.1 T3-- Y2 M3 M2 M3fn M2/S2mf X4.2 
+0000020 011  .       .                        
+0000020 012  -----   -----                    
+0000020 020  EX      There                    Z5 
+0000020 030  VBDZ    was                      A3+ Z5 
+0000020 040  PN121   no                       Z8/Z6[i9.2.1 
+0000020 050  PN122   one                      Z8/Z6[i9.2.2 Z8 
+0000020 060  II      in                       Z5 
+0000020 070  AT      the                      Z5 
+0000020 080  NN1     nursery                  P1/H1c F4 H2 
+0000020 081  ,       ,                        
+0000020 090  CC      and                      Z5 
+0000020 100  PPH1    it                       Z8 
+0000020 110  VBDZ    was                      A3+ Z5 
+0000020 120  RG      very                     A13.3 
+0000020 130  JJ      quiet                    X3.2- E3+ A10- A1.1.1/N5- 
+0000020 131  .       .                        
+0000021 001  -----   -----                    
+0000021 010  RR      Presently                T1.1.3 T1.1.2 
+0000021 020  EX      there                    Z5 
+0000021 030  VBDZ    was                      A3+ Z5 
+0000021 040  AT1     a                        Z5 
+0000021 050  JJ      little                   N3.2- T3- N3.7- N3.3- T1.3- A11.1- 
+0000021 060  NN1@    scuffling                Z99 
+0000021 061  ,       ,                        
+0000021 070  NN1     scratching               B2- A1.1.1 A1.1.2 
+0000021 080  NN1     noise                    X3.2 
+0000021 090  II      in                       Z5 
+0000021 100  AT1     a                        Z5 
+0000021 110  NN1     corner                   O4.4 M6 K5.1 
+0000022 010  II      near                     Z5 
+0000022 020  AT      the                      Z5 
+0000022 030  NN1     fire-place               H5 A10+ S1.2.1+ X6- X5.2+ A7+ K5.1 T2+ I2.1/N5- H2 A10- T1.2/T2- O2 I3.1 
+0000022 031  ,       ,                        
+0000022 040  CS      where                    M6 
+0000022 050  EX      there                    Z5 
+0000022 060  VBDZ    was                      A3+ Z5 
+0000022 070  AT1     a                        Z5 
+0000022 080  NN1     hole                     O2 H4/L2 M7/O4.2- X2.1/A5.1- N5- K5.2 
+0000022 090  II      under                    Z5 
+0000022 100  AT      the                      Z5 
+0000022 110  NN1     skirting-board           M1 A1.9 H5 S7.1+/S5+c O2 O1.1 H4 P1 K5.1 A1.1.1 M4 A2.1+ O4.4 
+0000022 111  .       .                        
+0000023 001  -----   -----                    
+0000024 010  NP1     Tom                      Z1m 
+0000024 020  NN1     Thumb                    B1 B5 
+0000024 030  VVD     put                      M2[i10.2.1 O4.6-[i10.2.1 Q2.2[i10.2.1 E4.1-[i10.2.1 M2 Q2.1 Q2.2 A1.1.1 
+0000024 040  RP      out                      M2[i10.2.2 O4.6-[i10.2.2 Q2.2[i10.2.2 E4.1-[i10.2.2 M6 
+0000024 050  APPGE   his                      Z8m 
+0000024 060  NN1     head                     B1 S7.1+/S2mf P1/S2mf X1 M6 A4.1 S2mf F2 H5/M4% 
+0000024 070  IF      for                      Z5 
+0000024 080  AT1     a                        Z5 
+0000024 090  NN1     moment                   T1.2 T1.1.2 N3 
+0000024 091  ,       ,                        
+0000024 100  CC      and                      Z5 
+0000024 110  RT      then                     N4 Z5 T1.2 
+0000024 120  VVD     popped                   M1[i11.2.1 M2[i11.2.1 X3.2 M1 
+0000024 130  PPH1    it                       Z8 
+0000024 140  RP@     in                       M1[i11.2.2 M2[i11.2.2 M6 
+0000024 150  RT      again                    N6+ Z4 
+0000024 151  .       .                        
+0000025 001  -----   -----                    
+0000026 010  NP1     Tom                      Z1m 
+0000026 020  NN1     Thumb                    B1 B5 
+0000026 030  VBDZ    was                      A3+ Z5 
+0000026 040  AT1     a                        Z5 
+0000026 050  NN1     mouse                    L2mfn Y2 S1.2.3-/S2mf 
+0000026 051  .       .                        
+0000027 001  -----   -----                    
+0000030 010  AT1     A                        Z5 
+0000030 020  NNT1    MINUTE                   T1.3 
+0000030 030  RT      afterwards               N4 
+0000030 031  ,       ,                        
+0000030 040  NP1     Hunca                    Z1mf[i12.2.1 Z3c[i12.2.1 
+0000030 050  NP1     Munca                    Z1mf[i12.2.2 Z3c[i12.2.2 
+0000030 051  ,       ,                        
+0000030 060  APPGE   his                      Z8m 
+0000030 070  NN1     wife                     S4f 
+0000030 071  ,       ,                        
+0000030 080  VVD     put                      M2 Q2.1 Q2.2 A1.1.1 
+0000030 090  APPGE   her                      Z8f 
+0000030 100  NN1     head                     M1[i13.2.1 B1 S7.1+/S2mf P1/S2mf X1 M6 A4.1 S2mf F2 H5/M4% 
+0000030 110  RP      out                      M1[i13.2.2 M6 
+0000030 111  ,       ,                        
+0000030 120  RR@     too                      N5++ 
+0000030 121  ;       ;                        
+0000030 130  CC      and                      Z5 
+0000031 010  RRQ     when                     Z5 
+0000031 020  PPHS1   she                      Z8f 
+0000031 030  VVD     saw                      X3.4 X2.1 S1.1.1 X2.5+ X2.3+ X3 A7+ S3.2 
+0000031 040  CST     that                     Z5 Z8 
+0000031 050  EX      there                    Z5 
+0000031 060  VBDZ    was                      A3+ Z5 
+0000031 070  PN121   no                       Z8/Z6[i14.2.1 
+0000031 080  PN122   one                      Z8/Z6[i14.2.2 Z8 
+0000031 090  II      in                       Z5 
+0000031 100  AT      the                      Z5 
+0000031 110  NN1     nursery                  P1/H1c F4 H2 
+0000031 111  ,       ,                        
+0000031 120  PPHS1   she                      Z8f 
+0000031 130  VVD     ventured                 M1[i15.2.1 M1 X8+ A15- Q2.2 
+0000031 140  RP      out                      M1[i15.2.2 M6 
+0000031 150  II      on                       Z5 
+0000032 010  AT      the                      Z5 
+0000032 020  NN1     oilcloth                 B5 S5+ O2 S9/S5+ A1.6 A11.1+ O1 X2.2 S1.2 
+0000032 030  II      under                    Z5 
+0000032 040  AT      the                      Z5 
+0000032 050  NN1     coal-box                 Z99 
+0000032 051  .       .                        
+0000033 001  -----   -----                    
+0000034 010  AT      THE                      Z5 
+0000034 020  NN1     doll's-house             H1 P1/S5+c G1.1c H4 K6 X2.1 A1.1.1 
+0000034 030  VVD     stood                    M6 M2 M8 T2++ N3 A3+ X2.1 A7 G1.2 S8+ S7.4+ I2.2 S1.2.5+ 
+0000034 040  II      at                       Z5 
+0000034 050  AT      the                      Z5 
+0000034 060  JJ      other                    A6.1- 
+0000034 070  NN1     side                     A4.1 M6 N5.1- S7.3+/S5+c B1 S5+c S4c F1 S1.2 
+0000034 080  IO      of                       Z5 
+0000034 090  AT      the                      Z5 
+0000034 100  NN1     fire-place               H5 A10+ S1.2.1+ X6- X5.2+ A7+ K5.1 T2+ I2.1/N5- H2 A10- T1.2/T2- O2 I3.1 
+0000034 101  .       .                        
+0000034 102  -----   -----                    
+0000034 110  NP1     Tom                      Z1m 
+0000034 120  NN1     Thumb                    B1 B5 
+0000035 010  CC      and                      Z5 
+0000035 020  NP1     Hunca                    Z1mf[i16.2.1 Z3c[i16.2.1 
+0000035 030  NP1     Munca                    Z1mf[i16.2.2 Z3c[i16.2.2 
+0000035 040  VVD     went                     M1 A2.1+ A1.1.1 A9- A1.8+ Q2.1 N6+ I2.2 A1.1.2 T2- S3.2 A6.3+ B2-/X1% B1% 
+0000035 050  RR      cautiously               A1.3+ 
+0000035 060  II      across                   Z5 
+0000035 070  AT      the                      Z5 
+0000035 080  NN1     hearthrug                H5 Q2.2 
+0000035 081  .       .                        
+0000035 082  -----   -----                    
+0000035 090  PPHS2   They                     Z8mfn 
+0000035 100  VVD     pushed                   M2 M1 S7.1+ X8+ I2.2 F3 I3.1- 
+0000035 110  AT      the                      Z5 
+0000036 010  JJ      front                    H2[i17.2.1 M6 A11.1+ 
+0000036 020  NN1     door                     H2[i17.2.2 H2 H1@ 
+0000036 030  NN1     --                       Z99 
+0000036 040  PPH1    it                       Z8 
+0000036 050  VBDZ    was                      A3+ Z5 
+0000036 060  XX      not                      Z6 
+0000036 070  JJ      fast                     N3.8+ 
+0000036 071  .       .                        
+0000037 001  -----   -----                    
+0000040 010  NP1     TOM                      Z1m 
+0000040 020  NN1     THUMB                    B1 B5 
+0000040 030  CC      and                      Z5 
+0000040 040  NP1     Hunca                    Z1mf[i18.2.1 Z3c[i18.2.1 
+0000040 050  NP1     Munca                    Z1mf[i18.2.2 Z3c[i18.2.2 
+0000040 060  VVD     went                     M1 A2.1+ A1.1.1 A9- A1.8+ Q2.1 N6+ I2.2 A1.1.2 T2- S3.2 A6.3+ B2-/X1% B1% 
+0000040 070  RL      upstairs                 H2 
+0000040 080  CC      and                      Z5 
+0000040 090  VVD     peeped                   X3.4 
+0000040 100  II      into                     Z5 
+0000040 110  AT      the                      Z5 
+0000041 010  NN1     dining-room              F1 H2 N3.6 H4 
+0000041 011  .       .                        
+0000041 012  -----   -----                    
+0000041 020  RT      Then                     N4 Z5 T1.2 
+0000041 030  PPHS2   they                     Z8mfn 
+0000041 040  VVD     squeaked                 X3.2+ 
+0000041 050  IW      with                     Z5 
+0000041 060  NN1     joy                      E4.1+ 
+0000041 061  !       !                        
+0000042 001  -----   -----                    
+0000043 010  DA      Such                     A13.3[i19.2.1 Z5 Z8 
+0000043 020  AT1     a                        A13.3[i19.2.2 Z5 
+0000043 030  JJ      lovely                   O4.2+ 
+0000043 040  NN1     dinner                   F1 
+0000043 050  VBDZ    was                      Z5 A3+ 
+0000043 060  VVN     laid                     M2[i20.2.1 O4.1[i20.2.1 M8[i20.2.1 E3-[i20.2.1 L1-[i20.2.1 M2 M1 L2 T2+ A1.1.1 
+0000043 070  RP      out                      M2[i20.2.2 O4.1[i20.2.2 M8[i20.2.2 E3-[i20.2.2 L1-[i20.2.2 M6 
+0000043 080  II      upon                     Z5 
+0000043 090  AT      the                      Z5 
+0000043 100  NN1     table                    H5 Q1.2 N2 
+0000043 101  !       !                        
+0000043 102  -----   -----                    
+0000043 110  EX      There                    Z5 
+0000043 120  VBDR    were                     A3+ Z5 
+0000043 130  JJ%     tin                      O1.1 
+0000044 010  NN2     spoons                   O2 
+0000044 011  ,       ,                        
+0000044 020  CC      and                      Z5 
+0000044 030  VV0     lead                     S7.1+ A2.2 M2 A1.1.1 
+0000044 040  NN2     knives                   O2 
+0000044 050  CC      and                      Z5 
+0000044 060  NN2     forks                    O2 O4.4 
+0000044 061  ,       ,                        
+0000044 070  CC      and                      Z5 
+0000044 080  MC      two                      N1 T3 T1.2 
+0000044 090  NN2     dolly-chairs             Z99 
+0000044 100  NN1     --                       Z99 
+0000044 110  DB      all                      N5.1+ 
+0000044 120  RG      so                       A13.3 
+0000045 010  JJ      convenient               A12+ S8+ 
+0000045 011  !       !                        
+0000046 001  -----   -----                    
+0000047 010  NP1     TOM                      Z1m 
+0000047 020  NN1     THUMB                    B1 B5 
+0000047 030  VVD     set                      M2 M6 O4.5 O4.1 W4 A1.1.1 B3 B4 X6+ S6+ K2 Q4.3 
+0000047 040  TO@     to                       Z5 
+0000047 050  VVI     work                     I3.1 A1.1.1 X9.2+ A2.1+ A2.2 
+0000047 060  RR21    at                       N3.8+[i21.2.1 T1.1.2[i21.2.1 
+0000047 070  RR22    once                     N3.8+[i21.2.2 T1.1.2[i21.2.2 N6- T1.1.1 
+0000047 080  TO      to                       Z5 
+0000047 090  VVI     carve                    A1.1.1 
+0000047 100  AT      the                      Z5 
+0000047 110  NN1     ham                      F1 S2/E2+mf K4/S2mf 
+0000047 111  .       .                        
+0000047 112  -----   -----                    
+0000047 120  PPH1    It                       Z8 
+0000047 130  VBDZ    was                      A3+ Z5 
+0000047 140  AT1     a                        Z5 
+0000047 150  JJ      beautiful                O4.2+ 
+0000048 010  JJ      shiny                    O4.2+ 
+0000048 020  JJ      yellow                   O4.3 
+0000048 021  ,       ,                        
+0000048 030  VVN     streaked                 B5- 
+0000048 040  IW      with                     Z5 
+0000048 050  JJ      red                      O4.3 G1.2 
+0000048 051  .       .                        
+0000049 001  -----   -----                    
+0000050 010  AT      The                      Z5 
+0000050 020  NN1     knife                    O2 
+0000050 030  VVD     crumpled                 A1.1.1 
+0000050 040  RP      up                       Z5 X9.1+ M6 N4 N5++ T2- A1.1.1 N5+/A2.1 
+0000050 050  CC      and                      Z5 
+0000050 060  VVD     hurt                     B2- E4.1- A1.1.2 
+0000050 070  PPHO1   him                      Z8m 
+0000050 071  ;       ;                        
+0000050 080  PPHS1   he                       Z8m 
+0000050 090  VVD     put                      M2 Q2.1 Q2.2 A1.1.1 
+0000050 100  APPGE   his                      Z8m 
+0000050 110  NN1     finger                   B1 O4.4 
+0000050 120  II      in                       Z5 
+0000050 130  APPGE   his                      Z8m 
+0000050 140  NN1     mouth                    B1 Q2.2 M7/W3 W3/M4 O2 
+0000051 010  NP1     HUNCA                    Z1mf[i22.2.1 Z3c[i22.2.1 
+0000051 020  NP1     MUNCA                    Z1mf[i22.2.2 Z3c[i22.2.2 
+0000051 030  VVD     stood                    M1[i23.2.1 M2[i23.2.1 S3.2-[i23.2.1 M6 M2 M8 T2++ N3 A3+ X2.1 A7 G1.2 S8+ S7.4+ I2.2 S1.2.5+ 
+0000051 040  RP      up                       M1[i23.2.2 M2[i23.2.2 S3.2-[i23.2.2 
+0000051 050  II      in                       Z5 
+0000051 060  APPGE   her                      Z8f 
+0000051 070  NN1     chair                    H5 S7.1+mf P1 
+0000051 071  ,       ,                        
+0000051 080  CC      and                      Z5 
+0000051 090  VVN     chopped                  A1.1.1 N5-/A2.1 
+0000051 100  II      at                       Z5 
+0000051 110  AT      the                      Z5 
+0000051 120  NN1     ham                      F1 S2/E2+mf K4/S2mf 
+0000051 130  IW      with                     Z5 
+0000051 140  DD1     another                  A6.1- N5++ 
+0000052 010  NN1     lead                     S7.1+ O2/L2 O3 S8+ O1.1 K4/S2mf 
+0000052 020  NN1     knife                    O2 
+0000053 010  VVD     said                     Q2.1 
+0000053 020  NP1     Hunca                    Z1mf[i24.2.1 Z3c[i24.2.1 
+0000053 030  NP1     Munca                    Z1mf[i24.2.2 Z3c[i24.2.2 
+0000053 031  .       .                        
+0000054 001  -----   -----                    
+0000055 010  AT      THE                      Z5 
+0000055 020  NN1     ham                      F1 S2/E2+mf K4/S2mf 
+0000055 030  VVD     broke                    A1.1.2 A1.1.1 A1.9 S5- T2- E4.1-/A2.2 A2.1+ T1.3 Q2.1@ 
+0000055 040  II      off                      Z5 E2- 
+0000055 050  AT      the                      Z5 
+0000055 060  NN1     plate                    O2 C1 B3 
+0000055 070  IW      with                     Z5 
+0000055 080  AT1     a                        Z5 
+0000055 090  NN1     jerk                     M2 M1 S1.2.6-/S2mf 
+0000055 091  ,       ,                        
+0000055 100  CC      and                      Z5 
+0000055 110  VVD     rolled                   M1 M2 A1.1.1 
+0000055 120  II      under                    Z5 
+0000055 130  AT      the                      Z5 
+0000055 140  NN1     table                    H5 Q1.2 N2 
+0000056 010  VVD     said                     Q2.1 
+0000056 020  NP1     Tom                      Z1m 
+0000056 030  NN1     Thumb                    B1 B5 
+0000057 010  NP1     HUNCA                    Z1mf[i25.2.1 Z3c[i25.2.1 
+0000057 020  NP1     MUNCA                    Z1mf[i25.2.2 Z3c[i25.2.2 
+0000057 030  VVD     tried                    X8+ X2.4 Q2.2 G2.1 A12- 
+0000057 040  AT1     every                    N5.1+ 
+0000057 050  NN1     tin                      O1.1 O2 
+0000057 060  NN1     spoon                    O2 
+0000057 070  II      in                       N4[i26.2.1 Z5 
+0000057 080  NN1     turn                     N4[i26.2.2 N4 M1 O4.4 A2.1+ B2- K4 T1.3/I3.1 
+0000057 081  ;       ;                        
+0000057 090  AT      the                      Z5 
+0000057 100  NN      fish                     L2mfnc F1 
+0000057 110  VBDZ    was                      Z5 A3+ 
+0000057 120  VVN     glued                    A1.1.1 
+0000057 130  II      to                       Z5 
+0000057 140  AT      the                      Z5 
+0000058 010  NN1     dish                     O2 F1 Q4.3 O4.2+% 
+0000058 011  .       .                        
+0000059 001  -----   -----                    
+0000060 010  RT      Then                     N4 Z5 T1.2 
+0000060 020  NP1     Tom                      Z1m 
+0000060 030  NN1     Thumb                    B1 B5 
+0000060 040  VVD     lost                     E3-[i27.3.1 X9.2- A9- M6/A5.3- L1- E3-[i28.2.1 
+0000060 050  APPGE   his                      E3-[i27.3.2 Z8m 
+0000060 060  NN1     temper                   E3-[i27.3.3 E1 E3- E3-[i28.2.2 
+0000060 061  .       .                        
+0000060 062  -----   -----                    
+0000060 070  PPHS1   He                       Z8m 
+0000060 080  VVD     put                      M2 Q2.1 Q2.2 A1.1.1 
+0000060 090  AT      the                      Z5 
+0000060 100  NN1     ham                      F1 S2/E2+mf K4/S2mf 
+0000060 110  II      in                       Z5 
+0000060 120  AT      the                      Z5 
+0000060 130  NN1     middle                   M6 N5 N4 T1.2 
+0000060 140  IO      of                       Z5 
+0000060 150  AT      the                      Z5 
+0000061 010  NN1     floor                    H2 S5+ 
+0000061 011  ,       ,                        
+0000061 020  CC      and                      Z5 
+0000061 030  VVD     hit                      E3- A1.1.1 A2.1+ A11.2+ A10+ M1 G3 
+0000061 040  PPH1    it                       Z8 
+0000061 050  IW      with                     Z5 
+0000061 060  AT      the                      Z5 
+0000061 070  NN2     tongs                    O2 
+0000061 080  CC      and                      Z5 
+0000061 090  IW      with                     Z5 
+0000061 100  AT      the                      Z5 
+0000061 110  NN1     shovel                   O2 
+0000061 120  NN1     --                       Z99 
+0000061 130  VV0     bang                     A1.1.1 X3.2 S3.2/B1 
+0000061 131  ,       ,                        
+0000061 140  VV0     bang                     A1.1.1 X3.2 S3.2/B1 
+0000061 141  ,       ,                        
+0000062 010  VV0     smash                    A1.1.2 
+0000062 011  ,       ,                        
+0000062 020  VV0     smash                    A1.1.2 
+0000062 021  !       !                        
+0000063 001  -----   -----                    
+0000064 010  AT      The                      Z5 
+0000064 020  NN1     ham                      F1 S2/E2+mf K4/S2mf 
+0000064 030  VVD     flew                     M5 M1 N3.8+ E3- 
+0000064 040  DB      all                      N5.1+ 
+0000064 050  II      into                     Z5 
+0000064 060  NN2     pieces                   N5.1- O2 Q4 K2 K4 G3@ 
+0000064 061  ,       ,                        
+0000064 070  IF      for                      Z5 
+0000064 080  II      underneath               Z5 
+0000064 090  AT      the                      Z5 
+0000064 100  JJ      shiny                    O4.2+ 
+0000064 110  NN1     paint                    C1 
+0000064 120  PPH1    it                       Z8 
+0000064 130  VBDZ    was                      Z5 A3+ 
+0000065 010  VVN     made                     A1.1.1 A9+ A2.2 S6+ A3+ A9- X9.2+ X6+ 
+0000065 020  IO      of                       Z5 
+0000065 030  PN1     nothing                  Z6/Z8 
+0000065 040  II      but                      Z5 
+0000065 050  NN1     plaster                  O1.1 B3 
+0000065 051  !       !                        
+0000066 001  -----   -----                    
+0000067 010  RT      THEN                     N4 Z5 T1.2 
+0000067 020  EX      there                    Z5 
+0000067 030  VBDZ    was                      A3+ Z5 
+0000067 040  AT      no                       T2++[i29.2.1 N5+[i29.2.1 Z6 
+0000067 050  NN1     end                      T2++[i29.2.2 N5+[i29.2.2 M6 T2- O2 X7+ N4 
+0000067 060  II      to                       Z5 
+0000067 070  AT      the                      Z5 
+0000067 080  NN1     rage                     E3- 
+0000067 090  CC      and                      Z5 
+0000067 100  NN1     disappointment           E4.2- 
+0000067 110  IO      of                       Z5 
+0000067 120  NP1     Tom                      Z1m 
+0000067 130  NN1     Thumb                    B1 B5 
+0000067 140  CC      and                      Z5 
+0000068 010  NP1     Hunca                    Z1mf[i30.2.1 Z3c[i30.2.1 
+0000068 020  NP1     Munca                    Z1mf[i30.2.2 Z3c[i30.2.2 
+0000068 021  .       .                        
+0000068 022  -----   -----                    
+0000068 030  PPHS2   They                     Z8mfn 
+0000068 040  VVD     broke                    A1.1.2[i31.2.1 S3-[i31.2.1 E4.1-[i31.2.1 A1.1.2 A1.1.1 A1.9 S5- T2- E4.1-/A2.2 A2.1+ T1.3 Q2.1@ 
+0000068 050  RP      up                       A1.1.2[i31.2.2 S3-[i31.2.2 E4.1-[i31.2.2 
+0000068 060  AT      the                      Z5 
+0000068 070  NN1     pudding                  F1 
+0000068 071  ,       ,                        
+0000068 080  AT      the                      Z5 
+0000068 090  NN2     lobsters                 L2 F1 
+0000068 091  ,       ,                        
+0000068 100  AT      the                      Z5 
+0000068 110  NN2     pears                    F1 
+0000068 120  CC      and                      Z5 
+0000068 130  AT      the                      Z5 
+0000069 010  NN2     oranges                  F1 O4.3 
+0000069 011  .       .                        
+0000070 001  -----   -----                    
+0000071 010  II      As                       Z5 
+0000071 020  AT      the                      Z5 
+0000071 030  NN      fish                     L2mfnc F1 
+0000071 040  VM      would                    A7+ 
+0000071 050  XX      not                      Z6 
+0000071 060  VVI     come                     A10-[i32.2.1 X9.2+[i32.2.1 T2-[i32.2.1 M1[i32.2.1 M1 N3.1 A2.2 A3+ X2.1 A9+ S4 N4 S3.2 
+0000071 070  II      off                      A10-[i32.2.2 X9.2+[i32.2.2 T2-[i32.2.2 M1[i32.2.2 Z5 E2- 
+0000071 080  AT      the                      Z5 
+0000071 090  NN1     plate                    O2 C1 B3 
+0000071 091  ,       ,                        
+0000071 100  PPHS2   they                     Z8mfn 
+0000071 110  VV0     put                      M2[i33.2.1 A9-[i33.2.1 M2 Q2.1 Q2.2 A1.1.1 
+0000071 120  PPH1    it                       Z8 
+0000071 130  II      into                     M2[i33.2.2 A9-[i33.2.2 Z5 
+0000071 140  AT      the                      Z5 
+0000071 150  JJ      red-hot                  O4.6+ X5.2+ 
+0000072 010  JJ      crinkly                  O4.5 X3.2 
+0000072 020  NN1     paper                    Q4.2c O1.1 Q1.2 P1/Q1.2 H5 
+0000072 030  NN1     fire                     O4.6+ 
+0000072 040  II      in                       Z5 
+0000072 050  AT      the                      Z5 
+0000072 060  NN1     kitchen                  F1/H2 
+0000072 061  ;       ;                        
+0000072 070  CCB     but                      Z5 
+0000072 080  PPH1    it                       Z8 
+0000072 090  VM      would                    A7+ 
+0000072 100  XX      not                      Z6 
+0000072 110  VVI     burn                     O4.6+ E1 A1.5.1 
+0000072 120  RR      either                   Z5 
+0000072 121  .       .                        
+0000073 001  -----   -----                    
+0000076 010  NP1     TOM                      Z1m 
+0000076 020  NN1     THUMB                    B1 B5 
+0000076 030  VVD     went                     M1[i34.2.1 N5+/A2.1[i34.2.1 I1.3+[i34.2.1 S7.1+/A2.1[i34.2.1 P1%[i34.2.1 M1 A2.1+ A1.1.1 A9- A1.8+ Q2.1 N6+ I2.2 A1.1.2 T2- S3.2 A6.3+ B2-/X1% B1% 
+0000076 040  RP      up                       M1[i34.2.2 N5+/A2.1[i34.2.2 I1.3+[i34.2.2 S7.1+/A2.1[i34.2.2 P1%[i34.2.2 
+0000076 050  AT      the                      Z5 
+0000076 060  NN1     kitchen                  F1/H2 
+0000076 070  NN1     chimney                  H2 
+0000076 080  CC      and                      Z5 
+0000076 090  VVD     looked                   X3.4+[i36.2.1 X3.4+/S2mf[i36.2.1 X2.6+[i36.2.1 A8 X3.4 X2.4 X7+ X3.4[i35.2.1 X2.4[i35.2.1 X2.1[i35.2.1 
+0000076 100  RP      out                      X3.4+/S2mf[i36.2.2 X2.6+[i36.2.2 X3.4+[i36.2.2 M6 
+0000076 110  II      at                       Z5 X3.4[i35.2.2 X2.4[i35.2.2 X2.1[i35.2.2 
+0000076 120  AT      the                      Z5 
+0000076 130  JJ      top                      M6 N5.1+ A11.1+++ S7.1+++ N4 X9.1+++ A5.1+++ 
+0000076 140  NN1     --                       Z99 
+0000076 150  EX      there                    Z5 
+0000077 010  VBDZ    was                      A3+ Z5 
+0000077 020  AT      no                       Z6 
+0000077 030  NN1     soot                     O1.1 
+0000077 031  .       .                        
+0000078 001  -----   -----                    
+0000079 010  CS      WHILE                    Z5 
+0000079 020  NP1     Tom                      Z1m 
+0000079 030  NN1     Thumb                    B1 B5 
+0000079 040  VBDZ    was                      T2-[i37.2.1 M6[i37.2.1 A5.1-[i37.2.1 A3+ Z5 
+0000079 050  RP      up                       T2-[i37.2.2 M6[i37.2.2 A5.1-[i37.2.2 
+0000079 060  AT      the                      Z5 
+0000079 070  NN1     chimney                  H2 
+0000079 071  ,       ,                        
+0000079 080  NP1     Hunca                    Z1mf[i38.2.1 Z3c[i38.2.1 
+0000079 090  NP1     Munca                    Z1mf[i38.2.2 Z3c[i38.2.2 
+0000079 100  VHD     had                      A9+ Z5 A2.2 S4 
+0000079 110  DD1     another                  A6.1- N5++ 
+0000080 010  NN1     disappointment           E4.2- 
+0000080 011  .       .                        
+0000080 012  -----   -----                    
+0000080 020  PPHS1   She                      Z8f 
+0000080 030  VVD     found                    A10+ X2.1 X6+ 
+0000080 040  DD      some                     N5 Z5 
+0000080 050  JJ      tiny                     N3.2- 
+0000080 060  NN2     canisters                O2 
+0000080 070  II      upon                     Z5 
+0000080 080  AT      the                      Z5 
+0000080 090  NN1     dresser                  H5 B5/S2mf B3/S2mf 
+0000080 091  ,       ,                        
+0000081 010  VVN     labelled                 Q1.2 Q2.2 
+0000081 020  JJ      --                       Z99 
+0000081 030  NN1     Rice                     Z1mf Z3c 
+0000081 040  NN1     --                       Z99 
+0000081 050  NN1     Coffee                   F2 
+0000081 060  NN1     --                       Z99 
+0000081 070  NN1     Sago                     O1 B4 
+0000081 080  NN1     --                       Z99 
+0000081 090  CCB     but                      Z5 
+0000081 100  RRQ     when                     Z5 
+0000081 110  PPHS1   she                      Z8f 
+0000081 120  VVD     turned                   A2.1+[i39.3.1 M2[i39.3.1 M2 M1 O4.4 A1.1.1 A2.1+ O4.2- 
+0000081 130  PPHO2   them                     Z8mfn 
+0000081 140  RL21    upside                   A2.1+[i39.3.2 M2[i39.3.2 M6[i40.2.1 
+0000081 150  RL22    down                     A2.1+[i39.3.3 M2[i39.3.3 M6[i40.2.2 
+0000081 151  ,       ,                        
+0000082 010  EX      there                    Z5 
+0000082 020  VBDZ    was                      A3+ Z5 
+0000082 030  PN1     nothing                  Z6/Z8 
+0000082 040  RL      inside                   M6 G2.1@ 
+0000082 050  II      except                   Z5 
+0000082 060  JJ      red                      O4.3 G1.2 
+0000082 070  CC      and                      Z5 
+0000082 080  JJ      blue                     O4.3 S1.2.4- G1.2 
+0000082 090  NN2     beads                    O2 
+0000082 091  .       .                        
+0000083 001  -----   -----                    
+0000086 010  RT      THEN                     N4 Z5 T1.2 
+0000086 020  DD2     those                    Z5 Z8 
+0000086 030  NN2     mice                     L2 Y2 
+0000086 040  VV0     set                      M2 M6 O4.5 O4.1 W4 A1.1.1 B3 B4 X6+ S6+ K2 Q4.3 
+0000086 050  TO@     to                       Z5 
+0000086 060  VVI     work                     I3.1 A1.1.1 X9.2+ A2.1+ A2.2 
+0000086 070  TO      to                       Z5 
+0000086 080  VDI     do                       A1.1.1 G2.2- X9.2+ E3- N5+ G2.1% Z5 
+0000086 090  DB      all                      N5.1+ 
+0000086 100  AT      the                      Z5 
+0000086 110  NN1     mischief                 G2.2- 
+0000086 120  PPHS2   they                     Z8mfn 
+0000087 010  VM      could                    A7+ 
+0000087 020  NN1     --                       Z99 
+0000087 030  RR      especially               A14 
+0000087 040  NP1     Tom                      Z1m 
+0000087 050  NN1     Thumb                    B1 B5 
+0000087 051  !       !                        
+0000087 052  -----   -----                    
+0000087 060  PPHS1   He                       Z8m 
+0000087 070  VVD     took                     A9+ T1.3 C1 A1.1.1 M2 A2.1+ X2.4 P1 M1 X2.5+ F1@ F2@ Q1.2@ B3@ 
+0000087 080  NP1     Jane                     Z1f 
+0000087 081  GE      's                       Z5 
+0000087 090  NN2     clothes                  B5 
+0000087 100  II21    out                      Z5[i41.2.1 Z5 Z5[i42.2.1 A9-[i42.2.1 
+0000087 110  II22    of                       Z5[i41.2.2 Z5[i42.2.2 A9-[i42.2.2 
+0000087 120  AT      the                      Z5 
+0000087 130  NN1     chest                    H5[i43.3.1 B1 O2 
+0000087 140  IO      of                       H5[i43.3.2 Z5 
+0000088 010  NN2     drawers                  H5[i43.3.3 H5 I1.1/S2mf C1/S2mf 
+0000088 020  II      in                       Z5 
+0000088 030  APPGE   her                      Z8f 
+0000088 040  NN1     bedroom                  H2 
+0000088 041  ,       ,                        
+0000088 050  CC      and                      Z5 
+0000088 060  PPHS1   he                       Z8m 
+0000088 070  VVD     threw                    M2 A2.2 Q2.2 A1.1.1 X2.5- 
+0000088 080  PPHO2   them                     Z8mfn 
+0000088 090  II21    out                      Z5[i44.2.1 Z5 Z5[i45.2.1 A9-[i45.2.1 
+0000088 100  II22    of                       Z5[i44.2.2 Z5[i45.2.2 A9-[i45.2.2 
+0000088 110  AT      the                      Z5 
+0000088 120  JJ      top                      M6 N5.1+ A11.1+++ S7.1+++ N4 X9.1+++ A5.1+++ 
+0000088 130  NN1     floor                    H2 S5+ 
+0000088 140  NN1     window                   H2 T1.3 
+0000088 141  .       .                        
+0000089 001  -----   -----                    
+0000090 010  CCB     But                      Z5 
+0000090 020  NP1     Hunca                    Z1mf[i46.2.1 Z3c[i46.2.1 
+0000090 030  NP1     Munca                    Z1mf[i46.2.2 Z3c[i46.2.2 
+0000090 040  VHD     had                      A9+ Z5 A2.2 S4 
+0000090 050  AT1     a                        Z5 
+0000090 060  JJ      frugal                   A1.3+ 
+0000090 070  NN1     mind                     X1 
+0000090 071  .       .                        
+0000090 072  -----   -----                    
+0000090 080  II      After                    Z5 
+0000090 090  VVG     pulling                  M2 A9+ M1 
+0000090 100  DB      half                     N5 
+0000090 110  AT      the                      Z5 
+0000090 120  NN2     feathers                 L2 
+0000090 130  II21    out                      Z5[i47.2.1 Z5 Z5[i48.2.1 A9-[i48.2.1 
+0000091 010  II22    of                       Z5[i47.2.2 Z5[i48.2.2 A9-[i48.2.2 
+0000091 020  NP1     Lucinda                  Z99 
+0000091 021  GE      's                       Z5 
+0000091 030  NN1     bolster                  H5 
+0000091 031  ,       ,                        
+0000091 040  PPHS1   she                      Z8f 
+0000091 050  VVD     remembered               X2.2+ 
+0000091 060  CST     that                     Z8 Z5 
+0000091 070  PPHS1   she                      Z8f 
+0000091 080  PPX1    herself                  Z8f 
+0000091 090  VBDZ    was                      A3+ Z5 
+0000091 100  II      in                       Z5 
+0000091 110  NN1%    want                     X7+ S6+ A7+ S3.2 A9- 
+0000091 120  IO      of                       Z5 
+0000091 130  AT1     a                        Z5 
+0000092 010  NN1     feather                  L2 
+0000092 020  NN1     bed                      H5 H3/L3 
+0000092 021  .       .                        
+0000093 001  -----   -----                    
+0000094 010  IW      WITH                     Z5 
+0000094 020  NP1     Tom                      Z1m 
+0000094 030  NN1     Thumb                    B1 B5 
+0000094 031  GE      's                       Z5 
+0000094 040  NN1     assistance               S8+ 
+0000094 050  PPHS1   she                      Z8f 
+0000094 060  VVD     carried                  M2 A9+ Q4 S7.4+ B1% B2-% 
+0000094 070  AT      the                      Z5 
+0000094 080  NN1     bolster                  H5 
+0000094 090  RL      downstairs               H2 
+0000094 091  ,       ,                        
+0000094 100  CC      and                      Z5 
+0000095 010  II      across                   Z5 
+0000095 020  AT      the                      Z5 
+0000095 030  NN1     hearth-rug               H5 Q2.2 
+0000095 031  .       .                        
+0000095 032  -----   -----                    
+0000095 040  PPH1    It                       Z8 
+0000095 050  VBDZ    was                      A3+ Z5 
+0000095 060  JJ      difficult                A12- 
+0000095 070  TO      to                       Z5 
+0000095 080  VVI     squeeze                  M2 M2/O1.2 N5- A9+/S7.1+ F1 
+0000095 090  AT      the                      Z5 
+0000095 100  NN1     bolster                  H5 
+0000095 110  II      into                     Z5 
+0000095 120  AT      the                      Z5 
+0000096 010  NN1     mouse-hole               Z99 
+0000096 011  ;       ;                        
+0000096 020  CCB     but                      Z5 
+0000096 030  PPHS2   they                     Z8mfn 
+0000096 040  VVD     managed                  S7.1+ A1.1.1 X9.2+ 
+0000096 050  PPH1    it                       Z8 
+0000096 060  RR      somehow                  X4.2 A13.4 
+0000096 061  .       .                        
+0000097 001  -----   -----                    
+0000100 010  RT      THEN                     N4 Z5 T1.2 
+0000100 020  NP1     Hunca                    Z1mf[i49.2.1 Z3c[i49.2.1 
+0000100 030  NP1     Munca                    Z1mf[i49.2.2 Z3c[i49.2.2 
+0000100 040  VVD     went                     M1[i50.2.1 A2.1+[i50.2.1 M1 A2.1+ A1.1.1 A9- A1.8+ Q2.1 N6+ I2.2 A1.1.2 T2- S3.2 A6.3+ B2-/X1% B1% 
+0000100 050  RP      back                     M1[i50.2.2 A2.1+[i50.2.2 M6 N6+ T1.1.1 S1.1.2+ 
+0000100 060  CC      and                      Z5 
+0000100 070  VVD     fetched                  M2 I1.3 
+0000100 080  AT1     a                        Z5 
+0000100 090  NN1     chair                    H5 S7.1+mf P1 
+0000100 091  ,       ,                        
+0000100 100  AT1     a                        Z5 
+0000100 110  NN1     book-case                H5 N5.1- O2 Q4 K2 K4 G3@ Z5 Q4.2 Q3 G2.1/P1@ G2.1/P1 
+0000100 111  ,       ,                        
+0000100 120  AT1     a                        Z5 
+0000101 010  NN1     bird-cage                H1/L2 A1.7+ Z3c 
+0000101 011  ,       ,                        
+0000101 020  CC      and                      Z5 
+0000101 030  DA2     several                  N5 
+0000101 040  JJ      small                    N3.2- N3.7- N5- T3- A11.1- S5-/I2.1 X3.2- A5.1- 
+0000101 050  NN2     odds                     O2[i51.3.1 X4.1[i51.3.1 A7 O2 N2% 
+0000101 060  CC      and                      O2[i51.3.2 X4.1[i51.3.2 Z5 
+0000101 070  NN2     ends                     O2[i51.3.3 X4.1[i51.3.3 T2- O2 
+0000101 071  .       .                        
+0000101 072  -----   -----                    
+0000101 080  AT      The                      Z5 
+0000101 090  NN1     book-case                H5 N5.1- O2 Q4 K2 K4 G3@ Z5 Q4.2 Q3 G2.1/P1@ G2.1/P1 
+0000101 100  CC      and                      Z5 
+0000101 110  AT      the                      Z5 
+0000102 010  NN1     bird-cage                H1/L2 A1.7+ Z3c 
+0000102 020  VVD     refused                  Q2.2/Z6 S7.4- X7- 
+0000102 030  TO      to                       Z5 
+0000102 040  VVI     go                       M1 A2.1+ A1.1.1 A9- A1.8+ Q2.1 N6+ I2.2 A1.1.2 T2- S3.2 A6.3+ B2-/X1% B1% 
+0000102 050  II      into                     Z5 
+0000102 060  AT      the                      Z5 
+0000102 070  NN1     mouse-hole               Z99 
+0000102 071  .       .                        
+0000103 001  -----   -----                    
+0000104 010  NP1     HUNCA                    Z1mf[i52.2.1 Z3c[i52.2.1 
+0000104 020  NP1     MUNCA                    Z1mf[i52.2.2 Z3c[i52.2.2 
+0000104 030  VVD     left                     M1 M2 A1.1.1 A1.9 A9- T2- 
+0000104 040  PPHO2   them                     Z8mfn 
+0000104 050  II      behind                   Z5 
+0000104 060  AT      the                      Z5 
+0000104 070  NN1     coal-box                 Z99 
+0000104 071  ,       ,                        
+0000104 080  CC      and                      Z5 
+0000104 090  VVD     went                     M1 A2.1+ A1.1.1 A9- A1.8+ Q2.1 N6+ I2.2 A1.1.2 T2- S3.2 A6.3+ B2-/X1% B1% 
+0000104 100  TO      to                       Z5 
+0000104 110  VVI     fetch                    M2 I1.3 
+0000104 120  AT1     a                        Z5 
+0000104 130  NN1     cradle                   H5 O2 M7/T2+ 
+0000104 131  .       .                        
+0000105 001  -----   -----                    
+0000108 010  NP1     HUNCA                    Z1mf[i53.2.1 Z3c[i53.2.1 
+0000108 020  NP1     MUNCA                    Z1mf[i53.2.2 Z3c[i53.2.2 
+0000108 030  VBDZ    was                      Z5 A3+ 
+0000108 040  RR      just                     A14 T3--- T1.3- N3.3--- 
+0000108 050  VVG     returning                M1 A9- N6 
+0000108 060  IW      with                     Z5 
+0000108 070  DD1     another                  A6.1- N5++ 
+0000108 080  NN1     chair                    H5 S7.1+mf P1 
+0000108 081  ,       ,                        
+0000108 090  CS      when                     Z5 
+0000108 100  RR      suddenly                 N3.8+ 
+0000108 110  EX      there                    Z5 
+0000109 010  VBDZ    was                      A3+ Z5 
+0000109 020  AT1     a                        Z5 
+0000109 030  NN1     noise                    X3.2 
+0000109 040  IO      of                       Z5 
+0000109 050  VVG     talking                  Q2.1 
+0000109 060  RL      outside                  M6 S5- 
+0000109 070  II      upon                     Z5 
+0000109 080  AT      the                      Z5 
+0000109 090  NN1     landing                  H2 M4 M5 G3 A9+ A2.2 
+0000109 091  .       .                        
+0000109 092  -----   -----                    
+0000109 100  AT      The                      Z5 
+0000109 110  NN2     mice                     L2 Y2 
+0000109 120  VVD     rushed                   M1/N3.8+[i54.2.1 M2/N3.8+[i54.2.1 N3.8+ M1/N3.8+ M2/N3.8+ 
+0000109 130  RP      back                     M1/N3.8+[i54.2.2 M2/N3.8+[i54.2.2 M6 N6+ T1.1.1 S1.1.2+ 
+0000110 010  II      to                       Z5 
+0000110 020  APPGE   their                    Z8 
+0000110 030  NN1     hole                     O2 H4/L2 M7/O4.2- X2.1/A5.1- N5- K5.2 
+0000110 031  ,       ,                        
+0000110 040  CC      and                      Z5 
+0000110 050  AT      the                      Z5 
+0000110 060  NN2     dolls                    K6 
+0000110 070  VVD     came                     A9+[i55.2.1 M1 N3.1 A2.2 A3+ X2.1 A9+ S4 N4 S3.2 
+0000110 080  II      into                     A9+[i55.2.2 Z5 
+0000110 090  AT      the                      Z5 
+0000110 100  NN1     nursery                  P1/H1c F4 H2 
+0000110 101  .       .                        
+0000111 001  -----   -----                    
+0000112 010  DDQ     WHAT                     Z8 Z5 
+0000112 020  AT1     a                        Z5 
+0000112 030  NN1     sight                    X3.4 A8 G3 
+0000112 040  VVD     met                      S3.1 M6 A1.1.1 A6.1+ 
+0000112 050  AT      the                      Z5 
+0000112 060  NN2     eyes                     B1 X3.4 
+0000112 070  IO      of                       Z5 
+0000112 080  NP1     Jane                     Z1f 
+0000112 090  CC      and                      Z5 
+0000112 100  NP1     Lucinda                  Z99 
+0000112 101  !       !                        
+0000113 001  -----   -----                    
+0000114 010  NP1@    Lucinda                  Z99 
+0000114 020  VVD     sat                      M8 C1 P1 G1.1 G2.1 M6 A9+ 
+0000114 030  II      upon                     Z5 
+0000114 040  AT      the                      Z5 
+0000114 050  JJ      upset                    E4.1- M6 B2- 
+0000114 060  NN1     kitchen                  F1/H2 
+0000114 070  NN1     stove                    O2 
+0000114 080  CC      and                      Z5 
+0000114 090  VVD     stared                   X3.4 
+0000114 091  ;       ;                        
+0000114 100  CC      and                      Z5 
+0000114 110  NP1     Jane                     Z1f 
+0000114 120  VVD     leant                    M6 S5+ 
+0000115 010  II      against                  Z5 
+0000115 020  AT      the                      Z5 
+0000115 030  NN1     kitchen                  F1/H2 
+0000115 040  NN1     dresser                  H5 B5/S2mf B3/S2mf 
+0000115 050  CC      and                      Z5 
+0000115 060  VVD     smiled                   E4.1+ 
+0000115 070  JJ      --                       Z99 
+0000115 080  CCB     but                      Z5 
+0000115 090  DD1     neither                  Z8/Z6 Z5/Z6 
+0000115 100  IO      of                       Z5 
+0000115 110  PPHO2   them                     Z8mfn 
+0000115 120  VVD     made                     A1.1.1 A9+ A2.2 S6+ A3+ A9- X9.2+ X6+ 
+0000115 130  DD      any                      N5.1+ N5 
+0000116 010  NN1     remark                   Q2.2 
+0000116 011  .       .                        
+0000117 001  -----   -----                    
+0000120 010  AT      THE                      Z5 
+0000120 020  NN1     book-case                H5 N5.1- O2 Q4 K2 K4 G3@ Z5 Q4.2 Q3 G2.1/P1@ G2.1/P1 
+0000120 030  CC      and                      Z5 
+0000120 040  AT      the                      Z5 
+0000120 050  NN1     bird-cage                H1/L2 A1.7+ Z3c 
+0000120 060  VBDR    were                     Z5 A3+ 
+0000120 070  VVN     rescued                  S8+ 
+0000120 080  II      from                     Z5 
+0000120 090  II      under                    Z5 
+0000120 100  AT      the                      Z5 
+0000121 010  JJ      coal-box                 Z99 
+0000121 020  NN1     --                       Z99 
+0000121 030  CCB     but                      Z5 
+0000121 040  NP1     Hunca                    Z1mf[i56.2.1 Z3c[i56.2.1 
+0000121 050  NP1     Munca                    Z1mf[i56.2.2 Z3c[i56.2.2 
+0000121 060  VHZ     has                      Z5 A9+ A2.2 S4 
+0000121 070  VVN     got                      A9+ Z5 X9.2+ A2.1+ A2.2 M1 M2 X2.5+ E4.1- 
+0000121 080  AT      the                      Z5 
+0000121 090  NN1     cradle                   H5 O2 M7/T2+ 
+0000121 091  ,       ,                        
+0000121 100  CC      and                      Z5 
+0000121 110  DD      some                     N5 Z5 
+0000121 120  IO      of                       Z5 
+0000121 130  NP1     Lucinda                  Z99 
+0000121 131  GE      's                       Z5 
+0000122 010  NN2     clothes                  B5 
+0000122 011  .       .                        
+0000123 001  -----   -----                    
+0000124 010  PPHS1   SHE                      Z8f 
+0000124 020  RR      also                     N5++ 
+0000124 030  VHZ     has                      A9+ Z5 A2.2 S4 
+0000124 040  DD      some                     N5 Z5 
+0000124 050  JJ      useful                   A1.5.2+ 
+0000124 060  NN2     pots                     O2 N5+ K5.2 
+0000124 070  CC      and                      Z5 
+0000124 080  NN2     pans                     O2 
+0000124 081  ,       ,                        
+0000124 090  CC      and                      Z5 
+0000124 100  DA2     several                  N5 
+0000124 110  JJ      other                    A6.1- 
+0000124 120  NN2     things                   O2 X4.1 A7- S2mf L2mf 
+0000124 121  .       .                        
+0000125 001  -----   -----                    
+0000128 010  AT      THE                      Z5 
+0000128 020  JJ      little                   N3.2- T3- N3.7- N3.3- T1.3- A11.1- 
+0000128 030  NN1     girl                     S2.1f L2f@ 
+0000128 040  CST     that                     Z5 Z8 
+0000128 050  AT      the                      Z5 
+0000128 060  NN1     doll's-house             H1 P1/S5+c G1.1c H4 K6 X2.1 A1.1.1 
+0000128 070  VVD     belonged                 A9+ A1.2+ S5+ 
+0000128 080  II      to                       Z5 
+0000128 081  ,       ,                        
+0000128 090  VVD     said                     Q2.1 
+0000129 010  CCB     BUT                      Z5 
+0000129 020  AT      the                      Z5 
+0000129 030  NN1     nurse                    B3/S2mf 
+0000129 040  VVD     said                     Q2.1 
+0000130 010  RR      SO                       Z5 A13.3 
+0000130 020  DD1     that                     Z8 Z5 
+0000130 030  VBZ     is                       A3+ Z5 
+0000130 040  AT      the                      Z5 
+0000130 050  NN1     story                    Q2.1 X4.1 Q4 
+0000130 060  IO      of                       Z5 
+0000130 070  AT      the                      Z5 
+0000130 080  MC      two                      N1 T3 T1.2 
+0000130 090  JJ      Bad                      A5.1- G2.2- O4.2- B2- 
+0000130 100  NN2     Mice                     L2 Y2 
+0000130 101  ,       ,                        
+0000130 110  JJ      --                       Z99 
+0000130 120  CCB     but                      Z5 
+0000130 130  PPHS2   they                     Z8mfn 
+0000130 140  VBDR    were                     A3+ Z5 
+0000130 150  XX      not                      Z6 
+0000130 160  RG      so                       A13.3 
+0000130 170  RG      very                     A13.3 
+0000131 010  RG      very                     A13.3 
+0000131 020  JJ      naughty                  G2.2- S1.2.4- 
+0000131 030  II      after                    Z4[i57.2.1 Z5 
+0000131 040  DB      all                      Z4[i57.2.2 N5.1+ 
+0000131 041  ,       ,                        
+0000131 050  CS      because                  Z5/A2.2 
+0000131 060  NP1     Tom                      Z1m 
+0000131 070  NN1     Thumb                    B1 B5 
+0000131 080  VVN     paid                     I1.2 A9- I1.1/I3.1 
+0000131 090  IF      for                      Z5 
+0000131 100  PN1     everything               Z8/N5.1+ 
+0000131 110  PPHS1   he                       Z8m 
+0000131 120  VVD     broke                    A1.1.2 A1.1.1 A1.9 S5- T2- E4.1-/A2.2 A2.1+ T1.3 Q2.1@ 
+0000131 121  .       .                        
+0000132 001  -----   -----                    
+0000133 010  PPHS1   He                       Z8m 
+0000133 020  VVD     found                    A10+ X2.1 X6+ 
+0000133 030  AT1     a                        Z5 
+0000133 040  JJ      crooked                  O4.4 G2.1- 
+0000133 050  NN      sixpence                 I1 
+0000133 060  II      under                    Z5 
+0000133 070  AT      the                      Z5 
+0000133 080  NN1     hearthrug                H5 Q2.2 
+0000133 081  ;       ;                        
+0000133 090  CC      and                      Z5 
+0000133 100  II      upon                     Z5 
+0000133 110  NNT1    Christmas                S9/T1.3 
+0000134 010  NNT1    Eve                      Z1 
+0000134 011  ,       ,                        
+0000134 020  PPHS1   he                       Z8m 
+0000134 030  CC      and                      Z5 
+0000134 040  NP1     Hunca                    Z1mf[i58.2.1 Z3c[i58.2.1 
+0000134 050  NP1     Munca                    Z1mf[i58.2.2 Z3c[i58.2.2 
+0000134 060  VVD     stuffed                  M2 A1.1.1 F1 S7.1+@ Z4@ 
+0000134 070  PPH1    it                       Z8 
+0000134 080  II      into                     Z5 
+0000134 090  MC1     one                      N1 T3 T1.2 
+0000134 100  IO      of                       Z5 
+0000134 110  AT      the                      Z5 
+0000134 120  NN2     stockings                B5 
+0000134 130  IO      of                       Z5 
+0000134 140  NP1     Lucinda                  Z99 
+0000135 010  CC      and                      Z5 
+0000135 020  NP1     Jane                     Z1f 
+0000135 021  .       .                        
+0000136 001  -----   -----                    
+0000139 010  CC      AND                      Z5 
+0000139 020  RG      very                     A13.3 
+0000139 030  RR      early                    T4+ 
+0000139 040  AT1     every                    N6+[i59.2.1 N5.1+ 
+0000139 050  NNT1    morning                  N6+[i59.2.2 T1.3 
+0000139 060  NN1     --                       Z99 
+0000139 070  CS      before                   Z5 
+0000139 080  PN1     anybody                  Z8mfc 
+0000139 090  VBZ     is                       A3+ Z5 
+0000139 100  JJ      awake                    B1 
+0000139 110  NN1     --                       Z99 
+0000139 120  NP1     Hunca                    Z1mf[i60.2.1 Z3c[i60.2.1 
+0000139 130  NP1     Munca                    Z1mf[i60.2.2 Z3c[i60.2.2 
+0000140 010  VVZ     comes                    M1 N3.1 A2.2 A3+ X2.1 A9+ S4 N4 S3.2 
+0000140 020  IW      with                     Z5 
+0000140 030  APPGE   her                      Z8f 
+0000140 040  NN1     dust-pan                 B4/O2 O2 
+0000140 050  CC      and                      Z5 
+0000140 060  APPGE   her                      Z8f 
+0000140 070  NN1     broom                    B4/O2 
+0000140 080  TO      to                       Z5 
+0000140 090  VVI     sweep                    B4 M2 M1 N3.6+/A2.1 X3.4 X9.2+ 
+0000140 100  AT      the                      Z5 
+0000140 110  NN2     Dollies                  Z1f 
+0000140 111  GE      '                        Z5 
+0000140 120  NN1     house                    H1 P1/S5+c G1.1c 
+0000140 121  !       !                        
+0000141 001  -----   -----                    
+0000142 010  AT      THE                      Z5 
+0000142 020  NN1     END                      M6 T2- O2 X7+ N4 
+0000143 001  NULL    **8;7;text               

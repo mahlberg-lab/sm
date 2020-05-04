@@ -1,0 +1,479 @@
+0000001 001  NULL    **6;0;START              
+0000001 002  -----   -----                    
+0000002 010  VVD     said                     Q2.1 
+0000002 020  NP1     Edwards                  Z1m 
+0000002 021  ,       ,                        
+0000002 030  AT      the                      Z5 
+0000002 040  JJ      old                      T3+ Z4 
+0000002 050  NN1     gardener                 F4/S2mf 
+0000003 010  VVD     said                     Q2.1 
+0000003 020  NNB     Lieutenant               G3/S7.1+/S2mf G2.1/S2mf S7.1+/S2mf S8+/S2mf 
+0000003 030  NP1     Cary                     Z99 
+0000003 040  II      to                       Z5 
+0000003 050  NNB     Lord                     Z1m[i1.2.1 
+0000004 010  NP1     Robert                   Z1m[i1.2.2 Z1m 
+0000004 011  ,       ,                        
+0000004 020  CSA     as                       Z5 
+0000004 030  AT      the                      Z5 
+0000004 040  NN1     boatswain                M4/S2mf M4/S2.2m O1.2 O2 Z1m Z1 A1.1.1 T3+ Z4 F1 O1.1 B1 W3/M4 L2mfn E6- 
+0000004 050  VBDZ    was                      Z5 A3+ 
+0000004 060  VVG     untying                  A1.7- A1.1.1 A2.1+ I1 B1 B5 
+0000004 070  NP1     Harley                   Z99 
+0000004 080  II      from                     Z5 
+0000004 090  AT1     a                        Z5 
+0000004 100  NN1     gun                      G3 O2 O3 
+0000004 101  ,       ,                        
+0000004 110  CS      where                    M6 
+0000004 120  PPHS1   he                       Z8m 
+0000004 130  VHD     had                      Z5 A9+ A2.2 S4 
+0000005 010  VVN     borne                    M2 A8 A9+ A1.1.1 
+0000005 011  ,       ,                        
+0000005 020  IW      with                     Z5 
+0000005 030  JJ      Spartan                  A1.7+ 
+0000005 040  NN1     firmness                 O4.5 A1.7+ S1.2.5+ A7+ 
+0000005 041  ,       ,                        
+0000005 050  AT      the                      Z5 
+0000005 060  NN1     infliction               A2.2/E4.1- 
+0000005 070  IO      of                       Z5 
+0000005 080  AT1     a                        Z5 
+0000005 090  JJ      cruel                    E3- 
+0000005 100  NN1     punishment               G2.1 
+0000005 101  ,       ,                        
+0000006 010  DDQ     which                    Z8 Z5 
+0000006 020  APPGE   his                      Z8m 
+0000006 030  JJ      wilful                   X7+/G2.2- S1.2.3+ 
+0000006 040  NN1     disobedience             S8- 
+0000006 050  VHD     had                      Z5 A9+ A2.2 S4 
+0000006 060  VVN     brought                  M2 A2.2 
+0000006 070  II      on                       Z5 
+0000006 080  PPHO1   him                      Z8m 
+0000007 010  VVD     returned                 M1 A9- N6 
+0000007 020  NNB     Lord                     Z1m[i2.2.1 
+0000007 030  NP1     Robert                   Z1m[i2.2.2 Z1m 
+0000007 031  ,       ,                        
+0000007 040  IW      with                     Z5 
+0000007 050  AT1     a                        Z5 
+0000007 060  JJ      contemptuous             E2- A5.1- 
+0000007 070  NN1@    laugh                    E4.1+/X3.2 
+0000008 010  VVD     said                     Q2.1 
+0000008 020  PPHS1   he                       Z8m 
+0000008 021  ,       ,                        
+0000008 030  II      in                       Z5 
+0000008 040  AT1     a                        Z5 
+0000008 050  NN1     tone                     E1 X3.2 K2 A4.1 O4.3 B1 
+0000008 060  IO      of                       Z5 
+0000008 070  NN1     regret                   E4.1- 
+0000009 010  VVD     said                     Q2.1 
+0000009 020  JJ      young                    T3- 
+0000009 030  NP1     Harley                   Z99 
+0000009 031  ,       ,                        
+0000009 040  VVG     grasping                 A9+ X2.5+ 
+0000009 050  AT      the                      Z5 
+0000009 060  NN1     cutlass                  G3 O2 A4.1 Q1.1 O1.1 S1.2.5+ O4.3 
+0000010 010  DDQ     which                    Z8 Z5 
+0000010 020  NP1     Cary                     Z99 
+0000010 030  VVD     put                      M2[i3.2.1 A9-[i3.2.1 M2 Q2.1 Q2.2 A1.1.1 
+0000010 040  II      into                     M2[i3.2.2 A9-[i3.2.2 Z5 
+0000010 050  APPGE   his                      Z8m 
+0000010 060  NN1     hand                     B1 O2 S8+ K5.2 I3.1/S2mf X9.1+/S2mf 
+0000011 010  VVD     said                     Q2.1 
+0000011 020  PPHS1   he                       Z8m 
+0000011 021  ,       ,                        
+0000011 030  CSA     as                       Z5 
+0000012 010  PPHS1   he                       Z8m 
+0000012 020  VVD     threw                    M2 A2.2 Q2.2 A1.1.1 X2.5- 
+0000012 030  PPX1    himself                  Z8m 
+0000012 040  II      on                       Z5 
+0000012 050  AT      the                      Z5 
+0000012 060  NN1     beach                    W3/M4 
+0000012 070  II      in                       Z5 
+0000012 080  JJ      bitter                   X3.1 E3- 
+0000012 090  NN1     sorrow                   E4.1- 
+0000013 010  CC      and                      Z5 
+0000014 010  RT      then                     N4 Z5 T1.2 
+0000014 020  AT      the                      Z5 
+0000014 030  NN1     thought                  X4.1 
+0000014 040  VVD     occurred                 A2.1+ A3+ X2.1 
+0000014 050  II      to                       Z5 
+0000014 060  PPHO1   him                      Z8m 
+0000015 010  II      at                       T1.1.2[i4.4.1 Z5 
+0000015 020  AT      the                      T1.1.2[i4.4.2 Z5 
+0000015 030  DA      same                     T1.1.2[i4.4.3 A6.1+++ 
+0000015 040  NNT1    time                     T1.1.2[i4.4.4 T1 T1.2 T1.3 T1.1.2 N6 N1 K2 G2.1@ 
+0000015 050  VVG     pushing                  M2 M1 S7.1+ X8+ I2.2 F3 A13.4 
+0000015 060  APPGE   his                      Z8m 
+0000015 070  NN1     rule                     G2.1 X4.2 A6.2+ S7.1+ Q3 
+0000015 080  CC      and                      Z5 
+0000016 010  VVD     saw                      X3.4 X2.1 S1.1.1 X2.5+ X2.3+ X3 A7+ S3.2 
+0000016 020  II      towards                  Z5 
+0000016 030  APPGE   his                      Z8m 
+0000016 040  NN1     Lordship                 S7.1+ 
+0000016 041  ,       ,                        
+0000016 050  PNQS    who                      Z8 
+0000016 060  VVD     rejected                 X7- 
+0000016 070  PPHO2   them                     Z8mfn 
+0000016 080  IW      with                     Z5 
+0000016 090  JJ      great                    A5.1+ A11.1+ N3.2+ N5+ X5.2+ A13.3 
+0000016 100  NN1     disdain                  S7.2- 
+0000016 101  ,       ,                        
+0000017 010  VVG     saying                   Q2.1 Z4% 
+0000018 010  VVD     returned                 M1 A9- N6 
+0000018 020  NP1     Philip                   Z1m 
+0000018 021  ,       ,                        
+0000018 030  VVG     becoming                 A2.1+ O4.2+ 
+0000018 040  RR      greatly                  A13.3 A5.1+ 
+0000018 050  VVN     agitated                 E3- 
+0000018 060  CSA     as                       Z5 
+0000018 070  JJ      certain                  A4.2+ A7+ 
+0000019 010  NN2     recollections            X2.2+ 
+0000019 020  VVD     crossed                  X2.1[i5.2.1 M1 M6 S8- A1.8+ A6.3+ F4/L2 O4.4 Q1.2 E3- S1.1.1 S9@ 
+0000019 030  APPGE   his                      Z8m 
+0000019 040  NN1     mind                     X2.1[i5.2.2 X1 
+0000020 010  VVD     continued                T2++ 
+0000021 010  PPHS1   he                       Z8m 
+0000021 011  ,       ,                        
+0000021 020  VVG@    advancing                M1 A5.1+/A2.1+ I1.1 T4+ S8+ X2.1 
+0000021 030  RG      very                     A13.3 
+0000021 040  JJ      close                    N3.3- A4.2+ S5+ S1.1.3+ A6.1+ E2+ W4 
+0000021 050  II      to                       Z5 
+0000021 060  NNB     Lord                     Z1m[i6.2.1 
+0000021 070  NP1     Robert                   Z1m[i6.2.2 Z1m 
+0000022 010  VVD     replied                  Q2.2 Q1.1 
+0000022 020  NP1     Philip                   Z1m 
+0000022 030  IW      with                     Z5 
+0000022 040  AT1     a                        Z5 
+0000022 050  JJ      contemptuous             E2- A5.1- 
+0000022 060  NN1@    laugh                    E4.1+/X3.2 
+0000023 010  CC      and                      Z5 
+0000023 020  VVD     besought                 Q2.2/E6- 
+0000023 030  PPHO1   him                      Z8m 
+0000023 040  II      in                       Z5 
+0000023 050  AT      the                      Z5 
+0000023 060  RGT     most                     A13.2 
+0000023 070  JJ      pathetic                 A5.1- E4.1- 
+0000023 080  NN1     manner                   S1.1.1 X4.2 
+0000024 010  VVD     replied                  Q2.2 Q1.1 
+0000024 020  APPGE   his                      Z8m 
+0000024 030  NN1     Lordship                 S7.1+ 
+0000024 031  ,       ,                        
+0000024 040  RR      wholly                   A13.2 
+0000025 010  JJ      unconscious              B1 X2.2- 
+0000025 020  II      to                       Z5 
+0000025 030  PNQO    whom                     Z8 
+0000025 040  PPHS1   he                       Z8m 
+0000025 050  VVD     spoke                    Q2.1 
+0000026 010  II      in                       Z5 
+0000026 020  AT1     a                        Z5 
+0000026 030  NN1     tone                     E1 X3.2 K2 A4.1 O4.3 B1 
+0000026 040  IO      of                       Z5 
+0000026 050  JJ      feverish                 B2- X5.2+ 
+0000026 060  NN1     impatience               X5.2+ E3- 
+0000026 061  ;       ;                        
+0000026 070  CC      and                      Z5 
+0000026 080  NP1     Philip                   Z1m 
+0000026 090  VBDZ    was                      A3+ Z5 
+0000026 100  II      at                       X2.2-[i7.3.1 Z5 
+0000026 110  AT1     a                        X2.2-[i7.3.2 Z5 
+0000027 010  NN1     loss                     X2.2-[i7.3.3 I1.2 A9- S8- L1- 
+0000027 020  RRQ     how                      Z5 A13.3 
+0000027 030  TO      to                       Z5 
+0000027 040  VVI     satisfy                  E4.2+ A1.2+ 
+0000027 050  DD2     these                    Z5 Z8 
+0000027 060  NN2     cravings                 X7+ 
+0000027 061  ;       ;                        
+0000027 070  CCB     but                      Z5 
+0000027 080  CS      when                     Z5 
+0000027 090  II      at                       Z5 
+0000027 100  MD      last                     N4 
+0000027 110  NNB     Lord                     Z1m[i8.2.1 
+0000027 120  NP1     Robert                   Z1m[i8.2.2 Z1m 
+0000028 010  VVD     mentioned                Q2.1 
+0000029 010  VVD     said                     Q2.1 
+0000029 020  NNB     Lord                     Z1m[i9.2.1 
+0000029 030  NP1     Robert                   Z1m[i9.2.2 Z1m 
+0000029 031  ,       ,                        
+0000029 040  AT      the                      Z5 
+0000029 050  NN1     flush                    E1/B1 N5+ 
+0000029 060  IO      of                       Z5 
+0000029 070  NN1     fever                    B2- X5.2+ 
+0000029 080  VVG     fading                   O4.3 N5-/A2.1 
+0000029 090  II      to                       Z5 
+0000029 100  AT1     a                        Z5 
+0000029 110  JJ      deadly                   L1- X9.2+ O4.2- 
+0000030 010  NN1     paleness                 O4.3 
+0000030 020  CSA     as                       Z5 
+0000030 030  PPHS1   he                       Z8m 
+0000030 040  VVD     spoke                    Q2.1 
+0000031 010  VVD     replied                  Q2.2 Q1.1 
+0000031 020  NP1     Philip                   Z1m 
+0000031 021  ,       ,                        
+0000031 030  VVG     approaching              M1 A1.1.1 Q2.2 
+0000031 040  RR      close                    A13.4[i10.2.1 
+0000031 050  II      to                       A13.4[i10.2.2 Z5 
+0000031 060  AT      the                      Z5 
+0000031 070  NN1     couch                    H5 
+0000032 010  VVD     said                     Q2.1 
+0000032 020  PPHS1   he                       Z8m 
+0000032 021  ,       ,                        
+0000032 030  CSA     as                       Z5 
+0000032 040  PPHS1   he                       Z8m 
+0000032 050  VVD     hung                     M2 M1 M8 G2.1 S7.1- 
+0000032 060  II      over                     Z5 
+0000032 070  AT      the                      Z5 
+0000032 080  NN1     couch                    H5 
+0000032 090  CS      where                    M6 
+0000032 100  NNB     Lord                     Z1m[i11.2.1 
+0000032 110  NP1     Robert                   Z1m[i11.2.2 Z1m 
+0000032 120  VVD     lay                      M2 M1 L2 T2+ A1.1.1 
+0000032 121  ,       ,                        
+0000032 130  RR      apparently               A8 
+0000033 010  JJ      unconscious              B1 X2.2- 
+0000033 020  IO      of                       Z5 
+0000033 030  APPGE   his                      Z8m 
+0000033 040  NN1     presence                 M6 A3+ S1.1.3+ S1.2 S9 
+0000034 010  VVD     said                     Q2.1 
+0000034 020  NP1     Philip                   Z1m 
+0000034 021  ,       ,                        
+0000034 030  II      to                       Z5 
+0000034 040  PNQO    whom                     Z8 
+0000034 050  AT      the                      Z5 
+0000034 060  NN1     appellation              S7.1+/A9- Q2.2/A9- 
+0000035 010  IO      of                       Z5 
+0000035 011  "       "                        
+0000035 020  JJ      dear                     E2+ I1.3+ 
+0000035 030  NP1     Harley                   Z99 
+0000035 031  "       "                        
+0000035 040  VHD     had                      Z5 A9+ A2.2 S4 
+0000035 050  VVN     given                    A9- A1.1.1 
+0000035 060  AT1     a                        Z5 
+0000035 070  NN1     sensation                X3 X5.2+ 
+0000035 080  IO      of                       Z5 
+0000035 090  AT      the                      Z5 
+0000035 100  JJT     greatest                 A5.1+++ A11.1+++ N3.2+++ N5+++ X5.2+++ 
+0000035 110  NN1     pleasure                 E4.2+ K1 
+0000036 010  VVD     continued                T2++ 
+0000036 020  NNB     Lord                     Z1m[i12.2.1 
+0000036 030  NP1     Robert                   Z1m[i12.2.2 Z1m 
+0000036 031  ,       ,                        
+0000036 040  PNQS    who                      Z8 
+0000036 050  VM      would                    A7+ 
+0000036 060  XX      not                      Z6 
+0000037 010  VVI     understand               X2.5+ 
+0000037 020  PPHO1   him                      Z8m 
+0000038 010  VVD     replied                  Q2.2 Q1.1 
+0000038 020  NNB     Lord                     Z1m[i13.2.1 
+0000038 030  NP1     Robert                   Z1m[i13.2.2 Z1m 
+0000038 031  ,       ,                        
+0000039 010  VVG     taking                   A9+ T1.3 C1 A1.1.1 M2 S7.1- A2.1+ X2.4 S6+ S7.4+ N3 P1 M1 X2.5+ F1@ F2@ Q1.2@ B3@ 
+0000039 020  MC1     one                      N1 T3 T1.2 
+0000039 030  IO      of                       Z5 
+0000039 040  AT      the                      Z5 
+0000039 050  NN2     books                    Q4.1 Q1.2 I1/Q1.2 K5.1/I1 
+0000039 060  CC      and                      Z5 
+0000039 070  VVG     turning                  M1[i14.2.1 S1.1.1[i14.2.1 T2+[i14.2.1 A2.1+[i14.2.1 M2 M1 O4.4 A1.1.1 A2.1+ O4.2- 
+0000039 080  II      to                       M1[i14.2.2 S1.1.1[i14.2.2 T2+[i14.2.2 A2.1+[i14.2.2 Z5 
+0000039 090  AT      the                      Z5 
+0000039 100  NN1     title-page               Q4 S7.1+ A9+ Q2.2 Q1.2 T1.3 S7.1-/S2.2m Z1mf Q1.3 
+0000039 101  ;       ;                        
+0000039 110  CCB     but                      Z5 
+0000039 120  APPGE   his                      Z8m 
+0000039 130  NN1     lip                      B1 O2 S1.2.4- 
+0000040 010  VVD     quivered                 M1 E5- 
+0000040 020  CSA     as                       Z5 
+0000040 030  PPHS1   he                       Z8m 
+0000040 040  VVD     read                     Q3 Q1.2 X3.2+ X2.5+ P1 A10+ 
+0000040 050  AT      the                      Z5 
+0000040 060  NN1     name                     Q2.2 
+0000040 070  RL      there                    M6 T1.2 
+0000040 080  VVN     written                  Q1.2 I2.1 
+0000040 081  ,       ,                        
+0000040 090  DDQ     which                    Z8 Z5 
+0000040 100  VBDZ    was                      Z5 A3+ 
+0000041 010  VVN@    said                     Q2.1 
+0000041 020  PPHS1   he                       Z8m 
+0000041 021  ,       ,                        
+0000041 030  II      in                       Z5 
+0000041 040  AT1     an                       Z5 
+0000041 050  JJ      altered                  A2.1+ 
+0000041 060  NN1     tone                     Q3[i15.3.1 E1 X3.2 K2 A4.1 O4.3 B1 
+0000041 070  IO      of                       Q3[i15.3.2 Z5 
+0000041 080  NN1     voice                    Q3[i15.3.3 Q2.1 X2.1 S7.1+ Q3 K2 
+0000042 010  VVD     said                     Q2.1 
+0000042 020  NNB     Lord                     Z1m[i16.2.1 
+0000042 030  NP1     Robert                   Z1m[i16.2.2 Z1m 
+0000042 031  ,       ,                        
+0000042 040  VVG     taking                   A9+ T1.3 C1 A1.1.1 M2 S7.1- A2.1+ X2.4 S6+ S7.4+ N3 P1 M1 X2.5+ F1@ F2@ Q1.2@ B3@ 
+0000042 050  DB2     both                     N5 
+0000042 060  APPGE   his                      Z8m 
+0000042 070  NN2     hands                    B1 O2 S8+ K5.2 I3.1/S2mf X9.1+/S2mf 
+0000043 010  VVD     returned                 M1 A9- N6 
+0000043 020  PPHS1   he                       Z8m 
+0000043 021  ,       ,                        
+0000043 030  II      in                       Z5 
+0000043 040  AT1     a                        Z5 
+0000043 050  JJ      careless                 A1.3- E6+ 
+0000043 051  ,       ,                        
+0000043 060  JJ      light-hearted            E4.1+ 
+0000043 070  NN1     manner                   S1.1.1 X4.2 
+0000044 010  VVD     said                     Q2.1 
+0000044 020  NP1     Philip                   Z1m 
+0000044 021  ,       ,                        
+0000044 030  CS      when                     Z5 
+0000044 040  PPHS2   they                     Z8mfn 
+0000044 050  VBDR    were                     A3+ Z5 
+0000044 060  II      in                       Z5 
+0000044 070  AT      the                      Z5 
+0000044 080  NN1     boat                     M4fn 
+0000045 010  VVD     said                     Q2.1 
+0000045 020  NNB     Lord                     Z1m[i17.2.1 
+0000045 030  NP1     Robert                   Z1m[i17.2.2 Z1m 
+0000045 031  ,       ,                        
+0000045 040  II31    in                       A1.1.1[i18.3.1 Z5 
+0000045 050  II32    reply                    A1.1.1[i18.3.2 
+0000045 060  II33    to                       A1.1.1[i18.3.3 Z5 
+0000045 070  NNB     Sir                      Z1m[i19.2.1 
+0000045 080  NP1     Henry                    Z1m[i19.2.2 Z1mf 
+0000045 081  GE      's                       Z5 
+0000046 010  NN2     commendations            S7.2+ Q2.2 
+0000046 020  CC      and                      Z5 
+0000046 030  JJ      grateful                 S1.2.4+ E4.2+ 
+0000046 040  NN2     expressions              Q3 E1/B1 
+0000046 050  II      to                       Z5 
+0000046 060  NP1     Philip                   Z1m 
+0000046 070  IF      for                      Z5 
+0000046 080  APPGE   his                      Z8m 
+0000046 090  NN1     care                     S8+ G1.1/S8+ B3 A1.3 E6- 
+0000046 100  IO      of                       Z5 
+0000046 110  APPGE   his                      Z8m 
+0000047 010  NN1     nephew                   S4m 
+0000048 010  VVD     said                     Q2.1 
+0000048 020  PPHS1   he                       Z8m 
+0000048 021  ,       ,                        
+0000049 010  VVG     lowering                 M2 N5-/A2.1 S7.1-/A2.1 A11.1-/A2.1 X3.2-/A2.1 
+0000049 020  APPGE   his                      Z8m 
+0000049 030  NN1     voice                    Q2.1 X2.1 S7.1+ Q3 K2 
+0000050 010  VVD     said                     Q2.1 
+0000050 020  PPHS1   he                       Z8m 
+0000050 021  ,       ,                        
+0000050 030  VVG     wringing                 A1.1.1 
+0000050 040  NNB     Lord                     Z1m[i20.2.1 
+0000050 050  NP1     Robert                   Z1m[i20.2.2 Z1m 
+0000050 051  GE      's                       Z5 
+0000050 060  NN1     hand                     B1 O2 S8+ K5.2 I3.1/S2mf X9.1+/S2mf 
+0000051 010  CSA     as                       Z5 
+0000051 020  PPHS1   he                       Z8m 
+0000051 030  VVD     spoke                    Q2.1 
+0000052 010  VVD     exclaimed                Q2.2 
+0000052 020  NNB     Lord                     Z1m[i21.2.1 
+0000052 030  NP1     Robert                   Z1m[i21.2.2 Z1m 
+0000052 031  ,       ,                        
+0000053 010  RR      warmly                   E2+ S1.2.1+ S7.2+ O4.6+ 
+0000053 020  VVG     shaking                  S1.1.1[i22.2.1 M2 M1 E4.1- E5- A2.1+ A6.1+ 
+0000053 030  NN2     hands                    S1.1.1[i22.2.2 B1 O2 S8+ K5.2 I3.1/S2mf X9.1+/S2mf 
+0000053 040  IW      with                     Z5 
+0000053 050  APPGE   his                      Z8m 
+0000053 060  NN1     brother                  S4m S2.2m S9/S2.2m 
+0000053 070  NN2     officers                 G3/S7.1+/S2mf G1.1/S2mf S7.1+/S2mf G2.1/S2mf 
+0000054 010  VVD     said                     Q2.1 
+0000054 020  NP1     Phoebe                   N1 T3 T1.2 Z5 S4mf S5+c K2 L2 O2 N5- N3.2- T3- N3.7- N3.3- T1.3- A11.1- A13.7 B1 N5 S2mf C1 O4.4 X2.1 X2.5+ A4.1 L2mfn S2.1f W1 N5+ S7.1+/S2mf A1.7+/S2mf 
+0000054 021  ,       ,                        
+0000054 030  CSA     as                       Z5 
+0000054 040  APPGE   her                      Z8f 
+0000054 050  NN2     tears                    B1 O4.2- 
+0000054 060  VVD     fell                     M1 N5-/A2.1 S7.1- L1- A1.8+ G2.2- X9.2- K5.2 
+0000054 070  II      on                       Z5 
+0000054 080  APPGE   her                      Z8f 
+0000054 090  JJ      black                    O4.3 G2.2- A5.1- E4.1- S5+ 
+0000054 100  NN1     sleeve                   B5 O2 
+0000055 010  VVD     said                     Q2.1 
+0000055 020  PPHS1   he                       Z8m 
+0000055 030  MC1     one                      T1.1.3[i23.2.1 T1.1.1[i23.2.1 N1 T3 T1.2 
+0000055 040  NNT1    day                      T1.1.3[i23.2.2 T1.1.1[i23.2.2 T1.3 
+0000055 041  ,       ,                        
+0000055 050  CSA     as                       Z5 
+0000055 060  PPHS1   he                       Z8m 
+0000055 070  VVD     saw                      X3.4 X2.1 S1.1.1 X2.5+ X2.3+ X3 A7+ S3.2 
+0000055 080  NP1     Arthur                   Z1m 
+0000055 090  RL      aloft                    M6 
+0000055 091  ,       ,                        
+0000055 100  CC      and                      Z5 
+0000055 110  VVG     going                    M1[i24.2.1 X9.2+[i24.2.1 X2.4[i24.2.1 A1.1.1[i24.2.1 Q2.2[i24.2.1 M1 A2.1+ A1.1.1 A9- A1.8+ Q2.1 N6+ I2.2 A1.1.2 T2- S3.2 A6.3+ B2-/X1% B1% 
+0000056 010  II      through                  M1[i24.2.2 X9.2+[i24.2.2 X2.4[i24.2.2 A1.1.1[i24.2.2 Q2.2[i24.2.2 Z5 
+0000056 020  APPGE   his                      Z8m 
+0000056 030  NN2     duties                   S6+ G1.1/I1.3 T1.3/I3.1 
+0000056 040  IW      with                     Z5 
+0000056 050  JJ      great                    A5.1+ A11.1+ N3.2+ N5+ X5.2+ A13.3 
+0000056 060  NN1     adroitness               X9.1+ 
+0000057 010  VVD     said                     Q2.1 
+0000057 020  NP1     Arthur                   Z1m 
+0000057 021  ,       ,                        
+0000057 030  CSA     as                       Z5 
+0000057 040  PPHS1   he                       Z8m 
+0000057 050  VVD     stood                    M6 M2 M8 T2++ N3 A3+ X2.1 A7 G1.2 S8+ S7.4+ I2.2 S1.2.5+ 
+0000057 060  II      on                       Z5 
+0000057 070  NN1     deck                     M3 M4 K3 K5.2 
+0000057 080  II      by                       Z5 
+0000057 090  AT      the                      Z5 
+0000057 100  NN1     side                     A4.1 M6 N5.1- S7.3+/S5+c B1 S5+c S4c F1 S1.2 
+0000057 110  IO      of                       Z5 
+0000058 010  NP1     Travers                  Z1mf 
+0000059 010  VVD     said                     Q2.1 
+0000059 020  NP1     Arthur                   Z1m 
+0000059 030  RR      firmly                   A1.7+ S1.2.5+ A7+ 
+0000059 031  ,       ,                        
+0000059 040  VVG     laying                   M2 M1 L2 T2+ A1.1.1 
+0000059 050  APPGE   his                      Z8m 
+0000059 060  NN1     hand                     B1 O2 S8+ K5.2 I3.1/S2mf X9.1+/S2mf 
+0000059 070  II      on                       Z5 
+0000059 080  APPGE   his                      Z8m 
+0000059 090  NN1     breast                   B1 F1 O2 
+0000060 010  PPHS1   she                      Z8f 
+0000060 020  VVD     said                     Q2.1 
+0000060 030  II      to                       Z5 
+0000060 040  AT1     a                        Z5 
+0000061 010  JJ      friendly                 S1.2.1+ S7.3-/K5.2 
+0000061 020  JJ      old                      T3+ Z4 
+0000061 030  NN1     pilot                    M5/I3.2/S2mf M4/I3.2/S2mf X2.4 Y1 
+0000061 040  PNQS    who                      Z8 
+0000061 050  VHD     had                      Z5 A9+ A2.2 S4 
+0000061 060  VVN     called                   Q2.2 S1.1.1 Q1.3 S9% 
+0000061 070  TO      to                       Z5 
+0000061 080  VVI     see                      X3.4 X2.1 S1.1.1 X2.5+ X2.3+ X3 A7+ Z4 S3.2 
+0000061 090  PPHO1   her                      Z8f 
+0000062 010  PPHS1   he                       Z8m 
+0000062 020  VVD     said                     Q2.1 
+0000062 030  II      to                       Z5 
+0000062 040  PPHO1   him                      Z8m 
+0000062 050  MC1     one                      T1.1.3[i25.2.1 T1.1.1[i25.2.1 N1 T3 T1.2 
+0000062 060  NNT1    day                      T1.1.3[i25.2.2 T1.1.1[i25.2.2 T1.3 
+0000063 010  VVD     said                     Q2.1 
+0000063 020  NP1     Michael                  Z1m 
+0000063 021  ,       ,                        
+0000063 030  VVG     laying                   M2 M1 L2 T2+ A1.1.1 
+0000063 040  AT      the                      Z5 
+0000063 050  NN1     gold                     O1.1 O4.3 I1 
+0000063 060  II      on                       N6[i26.3.1 Z5 
+0000063 070  AT      the                      N6[i26.3.2 Z5 
+0000063 080  NN1     table                    N6[i26.3.3 H5 Q1.2 N2 
+0000064 010  PPHS1   he                       Z8m 
+0000064 020  VVD     said                     Q2.1 
+0000064 030  II      to                       Z5 
+0000064 040  NP1     Tom                      Z1m 
+0000064 041  ;       ;                        
+0000064 050  IF      for                      Z5 
+0000065 010  JJ%     said                     Q1.1 Q2.1 
+0000065 020  PPHS1   he                       Z8m 
+0000065 030  RR      faintly                  A11.2- 
+0000065 031  ,       ,                        
+0000065 040  VVG     pointing                 A10+ M6 H1 
+0000065 050  II      to                       Z5 
+0000065 060  APPGE   his                      Z8m 
+0000065 070  NN1     side                     A4.1 M6 N5.1- S7.3+/S5+c B1 S5+c S4c F1 S1.2 
+0000065 071  ,       ,                        
+0000065 080  II      from                     Z5 
+0000065 090  DDQ     which                    Z8 Z5 
+0000065 100  AT      the                      Z5 
+0000065 110  NN1     blood                    B1 
+0000066 010  RR      slowly                   N3.8- 
+0000066 020  VVD     trickled                 M1 M2 
+0000067 001  NULL    **8;7;text               

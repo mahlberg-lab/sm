@@ -1,0 +1,559 @@
+0000001 001  NULL    **6;0;START              
+0000001 002  -----   -----                    
+0000002 010  VVD     said                     Q2.1 
+0000002 020  AT1     a                        Z5 
+0000002 030  NN1     voice                    Q2.1 X2.1 S7.1+ Q3 K2 
+0000002 040  VVG     belonging                A9+ A1.2+ S5+ 
+0000002 050  II      to                       Z5 
+0000002 060  AT1     a                        Z5 
+0000002 070  NN1     servant                  S7.1-/S2mf 
+0000002 080  PNQS    who                      Z8 
+0000002 090  RR      just                     T3---[i1.2.1 A14 T3--- T1.3- N3.3--- 
+0000002 100  RT      then                     T3---[i1.2.2 N4 Z5 T1.2 
+0000003 010  VVD     opened                   A1.1.1 T2+ 
+0000003 020  AT      the                      Z5 
+0000003 030  NN1     door                     H2 H1@ 
+0000004 010  VVD     said                     Q2.1 
+0000004 020  NP1     Jeanne                   Z99 
+0000004 021  ,       ,                        
+0000004 030  VVG     rubbing                  A1.1.1 
+0000004 040  APPGE   her                      Z8f 
+0000004 050  NN2     eyes                     B1 X3.4 
+0000005 010  PPHS1   she                      Z8f 
+0000005 020  VVD     repeated                 N6+ Q2.1/N6+ F1/B1@ 
+0000005 021  ,       ,                        
+0000005 030  CSA     as                       Z5 
+0000005 040  PPHS1   she                      Z8f 
+0000005 050  VVD     ran                      M1/N3.8+ G1.2 G2.1- X3.3 S7.1+ A1.1.1 T2++ M3 S4 A6.3+ K4 
+0000005 060  II      across                   Z5 
+0000005 070  AT      the                      Z5 
+0000005 080  NN1     tapestry                 H5/H2[i2.2.1 H5 
+0000005 090  NN1     room                     H5/H2[i2.2.2 H2 N3.6 
+0000005 100  II      to                       Z5 
+0000005 110  AT      the                      Z5 
+0000006 010  JJ      uncurtained              Z99 
+0000006 020  NN1     window                   H2 T1.3 
+0000007 010  PPHS1   she                      Z8f 
+0000007 020  VVD@    called                   Q2.2[i3.2.1 Q2.2 S1.1.1 Q1.3 S9% 
+0000007 030  RP      out                      Q2.2[i3.2.2 M6 
+0000007 031  ,       ,                        
+0000007 040  CS21    as                       Z5[i4.2.1 Z5 
+0000008 010  CS22    if                       Z5[i4.2.2 Z7 
+0000008 020  AT      the                      Z5 
+0000008 030  NN1     raven                    L2 
+0000008 040  VM      could                    A7+ 
+0000008 050  VHI     have                     Z5 A9+ A2.2 S4 
+0000008 060  VVN     heard                    X3.2 X2.3+ G2.1@ 
+0000008 070  PPHO1   her                      Z8f 
+0000008 080  RG      so                       T1.1.2[i5.2.1 M6[i5.2.1 N5[i5.2.1 A13.3 
+0000008 090  JJ21    far                      T1.1.2[i5.2.2 M6[i5.2.2 N5[i5.2.2 N3.3+ 
+0000008 100  JJ22    off                      Z5 E2- O4.2- A5.1- G2.2- B2- K1 A1.9 M6 A1.1.1 
+0000008 110  CC      and                      Z5 
+0000008 120  II      through                  Z5 
+0000008 130  AT      the                      Z5 
+0000008 140  RR      closely                  A13.4 A4.2+ N3.3- 
+0000009 010  JJ      shut                     A10- 
+0000009 020  NN1     window                   H2 T1.3 
+0000010 010  PPHS1   she                      Z8f 
+0000010 020  VVD     cried                    E4.1- Q2.2 
+0000010 021  ,       ,                        
+0000010 030  RR      eagerly                  X5.2+ 
+0000010 040  CCB     but                      Z5 
+0000010 050  RR      respectfully             S7.2+ 
+0000011 010  VBDZ    was                      A3+ Z5 
+0000011 020  RR@     all                      A13.2 
+0000011 030  PPHS1   she                      Z8f 
+0000011 040  VM      could                    A7+ 
+0000011 050  VVI     say                      Q2.1 Z4% 
+0000012 010  JJ      added                    N5+/A2.1 A1.8+ 
+0000012 020  NP1     Jeanne                   Z99 
+0000012 021  ,       ,                        
+0000012 030  CS      after                    Z5 
+0000012 040  DD      some                     N5 Z5 
+0000012 050  NN1     consideration            X2.1 X2.4 S1.2.3- 
+0000013 010  VVD     said                     Q2.1 
+0000013 020  NP1     Jeanne                   Z99 
+0000013 021  GE      's                       Z5 
+0000013 030  NN1     father                   S4m S9/S2.2m 
+0000013 031  ,       ,                        
+0000013 040  VVG     putting                  M2 Q2.1 Q2.2 A1.1.1 
+0000013 050  II      on                       Z5 
+0000013 060  APPGE   his                      Z8m 
+0000013 070  NN2     spectacles               O2/X3.4 X3.4 K4 
+0000014 010  CSA     as                       Z5 
+0000014 020  PPHS1   he                       Z8m 
+0000014 030  VVD     took                     A9+ T1.3 C1 A1.1.1 M2 A2.1+ X2.4 P1 M1 X2.5+ F1@ F2@ Q1.2@ B3@ 
+0000014 040  AT      the                      Z5 
+0000014 050  NN1     letter                   Q1.2 Q3 
+0000014 060  II      from                     Z5 
+0000014 070  APPGE   his                      Z8m 
+0000014 080  NN1     wife                     S4f 
+0000015 010  PPHS1   she                      Z8f 
+0000016 010  VVD     added                    N5+/A2.1 N2 A1.8+ 
+0000016 011  ,       ,                        
+0000016 020  CS      after                    Z5 
+0000016 030  AT1     a                        Z5 
+0000016 040  JJ      little                   N3.2- T3- N3.7- N3.3- T1.3- A11.1- 
+0000016 050  NN1     silence                  X3.2- A10- 
+0000017 010  PPHS1   he                       Z8m 
+0000017 020  VVD     added                    N5+/A2.1 N2 A1.8+ 
+0000017 021  ,       ,                        
+0000018 010  VVG     dropping                 M2 M1 N5-/A2.1 O1.2/M1 B2- T2- A9- A1.8- X9.2-/K5 X3.2 
+0000018 020  APPGE   his                      Z8m 
+0000018 030  NN1     voice                    Q2.1 X2.1 S7.1+ Q3 K2 
+0000018 040  RR21    a                        A13.6[i6.2.1 N6-[i6.2.1 
+0000018 050  RR22    little                   A13.6[i6.2.2 N6-[i6.2.2 A13.7 
+0000019 010  VVD     repeated                 N6+ Q2.1/N6+ F1/B1@ 
+0000019 020  NP1     Jeanne                   Z99 
+0000019 021  ,       ,                        
+0000019 030  VVG     stopping                 T2- S8- M8 H4 A1.1.1@ 
+0000019 040  RR      half-way                 M6 N5 T1.2 Z2 A13.5 
+0000019 050  RP      up                       Z5 X9.1+ M6 N4 N5++ T2- A1.1.1 N5+/A2.1 
+0000019 060  AT      the                      Z5 
+0000019 070  NN1     staircase                H2 
+0000019 080  TO      to                       Z5 
+0000019 090  VVI     throw                    M2 A2.2 Q2.2 A1.1.1 X2.5- 
+0000020 010  APPGE   her                      Z8f 
+0000020 020  NN2     arms                     B1 S5+ G3 O2 B5 
+0000020 030  II      round                    Z5 
+0000020 040  NP1     Hugh                     Z1m 
+0000020 041  GE      's                       Z5 
+0000020 050  NN1     neck                     B1 O2 
+0000020 060  II      at                       Z5 
+0000020 070  AT      the                      Z5 
+0000020 080  JJT     greatest                 A5.1+++ A11.1+++ N3.2+++ N5+++ X5.2+++ 
+0000020 090  NN1     risk                     A15- A1.4 
+0000020 100  II      to                       Z5 
+0000020 110  AT      the                      Z5 
+0000020 120  NN1     equilibrium              A6.1+ 
+0000020 130  IO      of                       Z5 
+0000021 010  AT      the                      Z5 
+0000021 020  JJ      whole                    N5.1+ 
+0000021 030  NN1     party                    K1/S1.1.3+c G1.2c S1.1.3+/S2mf S5+c 
+0000021 031  ,       ,                        
+0000021 040  II      including                A1.8+ 
+0000021 050  AT      the                      Z5 
+0000021 060  NN1     guinea-pig               S7.1- X4.1 C1/S2mf Q3 P1 S7.1-/S2mf A1.1.1 S7.1+ A4.1 O2 G2.1 B3 I1 Z2 L2mf O4.2-/S2mf A12- S2mfc N5- S2mf Z8mfc Z8 L1- A13.3 L1/S2mf K2 S9 E1 
+0000022 010  PPHS1   he                       Z8m 
+0000022 020  VVD     added                    N5+/A2.1 N2 A1.8+ 
+0000022 021  ,       ,                        
+0000022 030  CSA     as                       Z5 
+0000022 040  AT1     a                        Z5 
+0000022 050  JJ      sudden                   N3.8+ 
+0000022 060  NN1     recollection             X2.2+ 
+0000022 070  VVD     struck                   I3.1 E3- A1.1.1 A11.2+ A8 E2+ X3.2 A9+ 
+0000022 080  PPHO1   him                      Z8m 
+0000023 010  VVD     said                     Q2.1 
+0000023 020  NP1     Hugh                     Z1m 
+0000023 021  ,       ,                        
+0000023 030  CS      after                    Z5 
+0000023 040  AT1     a                        Z5 
+0000023 050  NNT1    minute                   T1.3 
+0000023 051  GE      's                       Z5 
+0000023 060  NN1     silence                  X3.2- A10- 
+0000024 010  PPHS1   she                      Z8f 
+0000024 020  VVD     added                    N5+/A2.1 N2 A1.8+ 
+0000024 021  ,       ,                        
+0000024 030  VVG     glancing                 X3.4 O4.3% 
+0000024 040  RP      round                    M6 
+0000024 041  ,       ,                        
+0000024 050  CC      and                      Z5 
+0000025 010  CS21    seeing                   Z5[i7.2.1 Z5 
+0000025 020  CS22    that                     Z5[i7.2.2 Z5 Z8 
+0000025 030  NP1     Marcelline               Z99 
+0000025 040  VHD     had                      Z5 A9+ A2.2 S4 
+0000025 050  VVN     left                     M1 M2 A1.1.1 A1.9 A9- N5.2+ T2- 
+0000025 060  AT      the                      Z5 
+0000025 070  NN1     room                     H2 N3.6 
+0000026 010  PPHS1   she                      Z8f 
+0000026 020  VVD     went                     T2++[i8.2.1 M1[i8.2.1 Q2.1/N5+[i8.2.1 A1.1.1[i8.2.1 M1 A2.1+ A1.1.1 A9- A1.8+ Q2.1 N6+ I2.2 A1.1.2 T2- S3.2 A6.3+ B2-/X1% B1% 
+0000026 030  RP@     on                       T2++[i8.2.2 M1[i8.2.2 Q2.1/N5+[i8.2.2 A1.1.1[i8.2.2 M6 A1.1.1 
+0000026 031  ,       ,                        
+0000026 040  II      in                       Z5 
+0000026 050  AT1     a                        Z5 
+0000026 060  JJR     lower                    M6 N3.7-- N5-- I1.3-- A5.1-- A11.1-- E4.1-- X3.2-- G2.2-- S7.1-- 
+0000026 070  NN1     voice                    Q2.1 X2.1 S7.1+ Q3 K2 
+0000027 010  VVD     said                     Q2.1 
+0000027 020  NP1     Jeanne                   Z99 
+0000027 021  ,       ,                        
+0000027 030  VVG     flinging                 M2 
+0000027 040  APPGE   her                      Z8f 
+0000027 050  NN2     arms                     B1 S5+ G3 O2 B5 
+0000027 060  II      round                    Z5 
+0000027 070  AT      the                      Z5 
+0000027 080  JJ      old                      T3+ Z4 
+0000027 090  NN1     nurse                    B3/S2mf 
+0000027 091  GE      's                       Z5 
+0000027 100  NN1     neck                     B1 O2 
+0000027 101  ,       ,                        
+0000027 110  CC      and                      Z5 
+0000028 010  VVG     giving                   A9- A1.1.1 
+0000028 020  PPHO1   her                      Z8f 
+0000028 030  AT1     a                        Z5 
+0000028 040  NN1     kiss                     S3.2 
+0000028 050  MD      first                    N4 
+0000028 060  II      on                       Z5 
+0000028 070  MC1     one                      N1 T3 T1.2 
+0000028 080  NN1     cheek                    B1 S1.2.4- 
+0000028 090  RT      then                     N4 Z5 T1.2 
+0000028 100  II      on                       Z5 
+0000028 110  AT      the                      Z5 
+0000028 120  NN1@    other                    A6.1-/Z8 
+0000029 010  VVD     pursued                  A1.1.1 X8+ X2.4 M1 
+0000029 020  NP1     Jeanne                   Z99 
+0000029 030  II      after                    Z5 
+0000029 040  AT1     a                        Z5 
+0000029 050  DA2     few                      N5- 
+0000029 060  NN2     moments                  T1.2 T1.1.2 N3 
+0000029 061  GE      '                        Z5 
+0000029 070  NN1     silence                  X3.2- A10- 
+0000029 071  ,       ,                        
+0000029 080  CC      and                      Z5 
+0000029 090  AT1     a                        Z5 
+0000029 100  DA2     few                      N5- 
+0000030 010  DAR     more                     N5++ 
+0000030 020  NN2     bites                    B1 F1 X3.1 N5+ 
+0000030 030  II      at                       Z5 
+0000030 040  APPGE   her                      Z8f 
+0000030 050  NN1     bread                    A6.2+[i9.3.1 F1[i9.3.1 F1 I1.1 
+0000030 060  CC      and                      A6.2+[i9.3.2 F1[i9.3.2 Z5 
+0000030 070  NN1     butter                   A6.2+[i9.3.3 F1[i9.3.3 F1 
+0000031 010  VVD     added                    N5+/A2.1 N2 A1.8+ 
+0000031 020  NP1     Hugh                     Z1m 
+0000031 021  ,       ,                        
+0000031 030  VVG     turning                  M1[i10.2.1 S1.1.1[i10.2.1 T2+[i10.2.1 A2.1+[i10.2.1 M2 M1 O4.4 A1.1.1 A2.1+ O4.2- 
+0000031 040  II      to                       M1[i10.2.2 S1.1.1[i10.2.2 T2+[i10.2.2 A2.1+[i10.2.2 Z5 
+0000031 050  NP1     Jeanne                   Z99 
+0000032 010  PPHS1   she                      Z8f 
+0000032 020  VVD     went                     T2++[i11.2.1 M1[i11.2.1 Q2.1/N5+[i11.2.1 A1.1.1[i11.2.1 M1 A2.1+ A1.1.1 A9- A1.8+ Q2.1 N6+ I2.2 A1.1.2 T2- S3.2 A6.3+ B2-/X1% B1% 
+0000032 030  RP@     on                       T2++[i11.2.2 M1[i11.2.2 Q2.1/N5+[i11.2.2 A1.1.1[i11.2.2 M6 A1.1.1 
+0000032 031  ,       ,                        
+0000032 040  VVG     catching                 A9+[i12.3.1 A9+ A1.7+ G2.1 A10+ T2- A1.1.1 X3 T4 M3 
+0000032 050  NN1     hold                     A9+[i12.3.2 A9+ X3.3 H2/M4 H2/M5 S7.1+ 
+0000032 060  IO      of                       A9+[i12.3.3 Z5 
+0000032 070  NP1     Hugh                     Z1m 
+0000033 010  VVD     said                     Q2.1 
+0000033 020  NP1     Jeanne                   Z99 
+0000033 030  MC1     one                      T1.1.3[i13.2.1 T1.1.1[i13.2.1 N1 T3 T1.2 
+0000033 040  NNT1    day                      T1.1.3[i13.2.2 T1.1.1[i13.2.2 T1.3 
+0000033 050  RRQ     when                     Z5 
+0000033 060  PPHS1   she                      Z8f 
+0000033 070  VHD     had                      Z5 A9+ A2.2 S4 
+0000033 080  VVN     persuaded                Q2.2 
+0000033 090  AT      the                      Z5 
+0000034 010  JJ      little                   N3.2- T3- N3.7- N3.3- T1.3- A11.1- 
+0000034 020  NN1     cock                     L2mn B1 Z4 O2 
+0000034 030  TO      to                       Z5 
+0000034 040  VVI     peck                     F1/L2 S3.2 
+0000034 050  DD      some                     N5 Z5 
+0000034 060  NN2     crumbs                   O2 
+0000034 070  II21    out                      Z5[i14.2.1 Z5 Z5[i15.2.1 A9-[i15.2.1 
+0000034 080  II22    of                       Z5[i14.2.2 Z5[i15.2.2 A9-[i15.2.2 
+0000034 090  APPGE   her                      Z8f 
+0000034 100  NN1     hand                     B1 O2 S8+ K5.2 I3.1/S2mf X9.1+/S2mf 
+0000035 010  VVD     said                     Q2.1 
+0000035 020  NP1     Hugh                     Z1m 
+0000035 021  ,       ,                        
+0000035 030  VVG     giving                   A9- A1.1.1 
+0000035 040  AT1     an                       Z5 
+0000035 050  JJ      amiable                  S1.2.1+ 
+0000036 010  RR      little                   A13.7 
+0000036 020  VV0     push                     M2 M1 S7.1+ X8+ I2.2 F3 I3.1- 
+0000036 030  II      to                       Z5 
+0000036 040  AT      the                      Z5 
+0000036 050  NN1     tortoise                 L2mfn 
+0000036 051  ,       ,                        
+0000036 060  PNQS    who                      Z8 
+0000036 070  VVD     happened                 A1.4[i16.2.1 A2.1+ A3+ X7- 
+0000036 080  TO      to                       A1.4[i16.2.2 Z5 
+0000036 090  VBI     be                       Z5 A3+ 
+0000036 100  VVG     lying                    M1 M6 A5.2- 
+0000036 110  II      at                       Z5 
+0000036 120  APPGE   his                      Z8m 
+0000036 130  NN2     feet                     B1 O2 
+0000037 010  PPHS1   he                       Z8m 
+0000037 020  VVD     said                     Q2.1 
+0000037 030  II      to                       Z5 
+0000037 040  PPX1    himself                  Z8m 
+0000037 041  ,       ,                        
+0000037 050  VVG     rubbing                  A1.1.1 
+0000037 060  APPGE   his                      Z8m 
+0000037 070  NN2     eyes                     B1 X3.4 
+0000038 010  VVD     said                     Q2.1 
+0000038 020  NP1     Hugh                     Z1m 
+0000038 030  II      to                       Z5 
+0000038 040  PPX1    himself                  Z8m 
+0000038 041  ,       ,                        
+0000038 050  DB      half                     N5 
+0000038 060  RR      unconsciously            X5.1- 
+0000039 010  VVG     counting                 N2 A1.8+ 
+0000039 020  DD1     each                     N5.1+ 
+0000039 030  NN1     step                     M1 T1.2 H5 O2 A2.1+ A1.1.1 K1@ K5.1@ 
+0000039 040  II      as                       Z5 
+0000039 050  AT      the                      Z5 
+0000039 060  NN1     raven                    L2 
+0000039 070  VVD     advanced                 M1 A5.1+/A2.1+ I1.1 T4+ S8+ X2.1 
+0000040 010  PPHS1   he                       Z8m 
+0000040 020  VVD     exclaimed                Q2.2 
+0000040 021  ,       ,                        
+0000041 010  RR      suddenly                 N3.8+ 
+0000041 020  VVG     starting                 T2+[i17.2.1 T2+ E5- E3- 
+0000041 030  RP      up                       T2+[i17.2.2 
+0000042 010  PPHS1   he                       Z8m 
+0000042 020  VVD     went                     T2++[i18.2.1 M1[i18.2.1 Q2.1/N5+[i18.2.1 A1.1.1[i18.2.1 M1 A2.1+ A1.1.1 A9- A1.8+ Q2.1 N6+ I2.2 A1.1.2 T2- S3.2 A6.3+ B2-/X1% B1% 
+0000042 030  RP@     on                       T2++[i18.2.2 M1[i18.2.2 Q2.1/N5+[i18.2.2 A1.1.1[i18.2.2 M6 A1.1.1 
+0000042 031  ,       ,                        
+0000042 040  VVG     reflecting               A10+ Y1/M2 X3.4 X2.1 A5.1 
+0000042 050  CST     that                     Z5 Z8 
+0000042 060  NP1     Jeanne                   Z99 
+0000042 070  VM      would                    A7+ 
+0000042 080  VBI     be                       A3+ Z5 
+0000042 090  RR      extremely                A13.3 
+0000043 010  JJ      disappointed             E4.2- 
+0000043 020  CS      if                       Z7 
+0000043 030  PPHS1   he                       Z8m 
+0000043 040  VDD     did                      Z5 A1.1.1 G2.2- X9.2+ E3- G2.1% 
+0000043 050  XX      not                      Z6 
+0000043 060  VVI     make                     N5.1+/A1.5.1[i19.4.1 A1.1.1 A9+ A2.2 S6+ A3+ A9- X9.2+ X6+ 
+0000043 070  AT      the                      N5.1+/A1.5.1[i19.4.2 Z5 
+0000043 080  DAT     most                     N5.1+/A1.5.1[i19.4.3 N5+++ 
+0000043 090  IO      of                       N5.1+/A1.5.1[i19.4.4 Z5 
+0000043 100  APPGE   his                      Z8m 
+0000043 110  JJ      present                  T1.1.2 A3+ 
+0000043 120  NN1     opportunity              A1.4 
+0000043 121  ,       ,                        
+0000044 010  II21    such                     Z5[i20.2.1 
+0000044 020  II22    as                       Z5[i20.2.2 Z5 
+0000044 030  PPH1    it                       Z8 
+0000044 040  VBDZ    was                      Z5 A3+ 
+0000045 010  PPHS1   he                       Z8m 
+0000045 020  VVN     said                     Q2.1 
+0000045 030  II      to                       Z5 
+0000045 040  PPX1    himself                  Z8m 
+0000045 050  II31    by                       M6[i21.3.1 X4.2[i21.3.1 Z5 
+0000045 060  II32    way                      M6[i21.3.2 X4.2[i21.3.2 
+0000046 010  II33    of                       M6[i21.3.3 X4.2[i21.3.3 
+0000046 020  VVG     keeping                  T2++[i22.2.1 S7.3+[i22.2.1 N5+[i22.2.1 A9+ N6+ T2++ A1.7+ A2.2 F4 S8+ H4 
+0000046 030  RP      up                       T2++[i22.2.2 S7.3+[i22.2.2 N5+[i22.2.2 
+0000046 040  APPGE   his                      Z8[i23.2.1 Z8m 
+0000046 050  DA      own                      Z8[i23.2.2 A9+ S5- 
+0000046 060  NN1     courage                  E5+/S1.2 
+0000047 010  VVD     exclaimed                Q2.2 
+0000047 020  NP1     Hugh                     Z1m 
+0000047 021  ,       ,                        
+0000047 030  DB      half                     N5 
+0000047 040  II      in                       Z5 
+0000047 050  NN1     despair                  E4.1- 
+0000048 010  PPHS1   she                      Z8f 
+0000048 020  VVD     went                     T2++[i24.2.1 M1[i24.2.1 Q2.1/N5+[i24.2.1 A1.1.1[i24.2.1 M1 A2.1+ A1.1.1 A9- A1.8+ Q2.1 N6+ I2.2 A1.1.2 T2- S3.2 A6.3+ B2-/X1% B1% 
+0000048 030  RP@     on                       T2++[i24.2.2 M1[i24.2.2 Q2.1/N5+[i24.2.2 A1.1.1[i24.2.2 M6 A1.1.1 
+0000048 031  ,       ,                        
+0000048 040  IW      with                     Z5 
+0000048 050  AT1     a                        Z5 
+0000049 010  JJ      complete                 N5.1+ T2- N3.2+ 
+0000049 020  NN1     change                   A2.1+ I1 B1 
+0000049 030  IO      of                       Z5 
+0000049 040  NN1     voice                    Q2.1 X2.1 S7.1+ Q3 K2 
+0000049 041  ,       ,                        
+0000049 050  APPGE   her                      Z8f 
+0000049 060  NN2     eyes                     B1 X3.4 
+0000049 070  VVG     dancing                  K1 
+0000049 080  RR      merrily                  E4.1+ 
+0000049 090  CS21    as                       Z5[i25.2.1 Z5 
+0000049 100  CS22    if                       Z5[i25.2.2 Z7 
+0000049 110  PPHS2   they                     Z8mfn 
+0000049 120  VHD     had                      Z5 A9+ A2.2 S4 
+0000049 130  RR      never                    T1/Z6 
+0000050 010  VVN     looked                   A8 X3.4 X2.4 X7+ 
+0000050 020  NN1     grave                    M7/L1- Q3% 
+0000050 030  II      in                       Z5 
+0000050 040  APPGE   their                    Z8 
+0000050 050  NN1     life                     L1+ A3+ T1.3 S1.1.1 A1.1.1 X5.2+ Q4.1 A11.1+++ A5.4+/C1 
+0000051 010  VVD     said                     Q2.1 
+0000051 020  NP1     Jeanne                   Z99 
+0000051 021  ,       ,                        
+0000051 030  RG      quite                    A13.5 A13.6 A13.2 
+0000051 040  RR      brightly                 O4.3 E4.1+ 
+0000051 050  RT      again                    N6+ Z4 
+0000052 010  VVD     said                     Q2.1 
+0000052 020  NP1     Jeanne                   Z99 
+0000052 021  ,       ,                        
+0000052 030  DB      half                     N5 
+0000052 040  II21    out                      B2-[i28.3.1 Z5 Z5[i26.2.1 Z5[i27.2.1 A9-[i27.2.1 
+0000052 050  II22    of                       B2-[i28.3.2 Z5[i26.2.2 Z5[i27.2.2 A9-[i27.2.2 
+0000052 060  NN1     breath                   B2-[i28.3.3 B1 N5-@ 
+0000053 010  VVD     said                     Q2.1 
+0000053 020  NP1     Jeanne                   Z99 
+0000053 021  ,       ,                        
+0000053 030  AT1     a                        Z5 
+0000053 040  RG      very                     A13.3 
+0000053 050  RR      little                   A13.7 
+0000053 060  VVN     comforted                S8+ 
+0000054 010  VVD     continued                T2++ 
+0000054 020  AT      the                      Z5 
+0000054 030  NN1     frog                     L2mfn Z2/S2mf B5 
+0000054 040  IW      with                     Z5 
+0000054 050  AT1     a                        Z5 
+0000054 060  NN1     wave                     W3/M4 O4.4 Q1.1 Y1 N5 
+0000054 070  IO      of                       Z5 
+0000054 080  PPGE@   his                      Z8m 
+0000055 010  CSA     as                       Z5 
+0000055 020  NP1     Jeanne                   Z99 
+0000056 010  RT      afterwards               N4 
+0000056 020  VVN     called                   Q2.2 S1.1.1 Q1.3 S9% 
+0000056 030  PPHO2   them                     Z8mfn 
+0000057 010  CS21    seeing                   Z5[i29.2.1 Z5 
+0000057 020  CS22    that                     Z5[i29.2.2 Z5 Z8 
+0000057 030  NP1     Hugh                     Z1m 
+0000057 040  VBDZ    was                      Z5 A3+ 
+0000057 050  VVG     preparing                A1.1.1 F1 
+0000057 060  TO      to                       Z5 
+0000057 070  VVI     take                     A9+[i30.2.1 T2+[i30.2.1 A1.5.1[i30.2.1 M2[i30.2.1 N3.7-/A2.1[i30.2.1 A9+ T1.3 C1 A1.1.1 M2 S7.1- A2.1+ X2.4 S6+ S7.4+ N3 P1 M1 X2.5+ F1@ F2@ Q1.2@ B3@ 
+0000057 080  RP      up                       A9+[i30.2.2 T2+[i30.2.2 A1.5.1[i30.2.2 M2[i30.2.2 N3.7-/A2.1[i30.2.2 
+0000057 090  AT      the                      Z5 
+0000057 100  NN2     oars                     M4/O2 
+0000058 010  VVD     whispered                Q2.1/X3.2- 
+0000058 020  NP1     Jeanne                   Z99 
+0000058 030  II      in                       Z5 
+0000058 040  AT1     a                        Z5 
+0000058 050  JJ      terrible                 A5.1- 
+0000058 060  NN1     fright                   E5- 
+0000059 010  II      in                       Z5 
+0000059 020  AT1     a                        Z5 
+0000059 030  JJ      brisk                    N3.8+ 
+0000059 031  ,       ,                        
+0000059 040  JJ      authoritative            S7.1+ X2.2 
+0000060 010  NN1     tone                     E1 X3.2 K2 A4.1 O4.3 B1 
+0000061 010  VVD     said                     Q2.1 
+0000061 020  AT      the                      Z5 
+0000061 030  JJ      queer                    A6.2- S3.2 
+0000061 040  JJ@     croaking                 X3.2 
+0000061 050  NN1     voice                    Q2.1 X2.1 S7.1+ Q3 K2 
+0000061 060  IO      of                       Z5 
+0000061 070  AT      the                      Z5 
+0000061 080  NN1     frog                     L2mfn Z2/S2mf B5 
+0000061 081  ,       ,                        
+0000061 090  RR      suddenly                 N3.8+ 
+0000061 100  VVG     reappearing              A10+/N6+ 
+0000062 010  II      on                       B2-[i31.3.1 E6-[i31.3.1 Z5 
+0000062 020  AT      the                      B2-[i31.3.2 E6-[i31.3.2 Z5 
+0000062 030  NN1     edge                     B2-[i31.3.3 E6-[i31.3.3 O2 M7 T1.2 S7.1+@ 
+0000062 040  IO      of                       Z5 
+0000062 050  AT      the                      Z5 
+0000062 060  NN1     boat                     M4fn 
+0000063 010  PPHS1   he                       Z8m 
+0000063 020  VVD     repeated                 N6+ Q2.1/N6+ F1/B1@ 
+0000063 021  ,       ,                        
+0000063 030  IW      with                     Z5 
+0000063 040  AT1     a                        Z5 
+0000063 050  JJ      strange                  A6.2- 
+0000064 010  NN1     solemnity                O4.2+ A6.2+ E4.1- 
+0000065 010  VVD     said                     Q2.1 
+0000065 020  NP1     Jeanne                   Z99 
+0000065 021  ,       ,                        
+0000065 030  CS      after                    Z5 
+0000065 040  AT1     a                        Z5 
+0000065 050  JJ      short                    T1.3- N3.7- N3.3- N5- S1.2.4- N3.8+@ F1% 
+0000065 060  NN1     silence                  X3.2- A10- 
+0000066 010  PPHS1   he                       Z8m 
+0000066 020  VVD     said                     Q2.1 
+0000066 030  II      to                       Z5 
+0000066 040  PPX1    himself                  Z8m 
+0000066 041  ,       ,                        
+0000066 050  CSA     as                       Z5 
+0000066 060  PPHS1   he                       Z8m 
+0000066 070  VVD     climbed                  M1[i32.2.1 N5+/A2.1[i32.2.1 S7.1+/A2.1[i32.2.1 M1 N5+/A2.1 
+0000066 080  RP      up                       M1[i32.2.2 N5+/A2.1[i32.2.2 S7.1+/A2.1[i32.2.2 
+0000066 090  II      into                     Z5 
+0000066 100  APPGE   his                      Z8m 
+0000067 010  JJ      comfortable              O4.2+ 
+0000067 020  NN1     bed                      H5 H3/L3 
+0000068 010  PPHS1   she                      Z8f 
+0000068 020  VVD     exclaimed                Q2.2 
+0000068 021  ,       ,                        
+0000068 030  CSA     as                       Z5 
+0000068 040  AT      the                      Z5 
+0000068 050  JJ      old                      T3+ Z4 
+0000068 060  NN1     nurse                    B3/S2mf 
+0000068 070  RR      just                     T3---[i33.2.1 A14 T3--- T1.3- N3.3--- 
+0000068 080  RT      then                     T3---[i33.2.2 N4 Z5 T1.2 
+0000068 090  VVD     came                     A9+[i34.2.1 M1 N3.1 A2.2 A3+ X2.1 A9+ S4 N4 S3.2 
+0000068 100  II      into                     A9+[i34.2.2 Z5 
+0000068 110  AT      the                      Z5 
+0000069 010  NN1     room                     H2 N3.6 
+0000070 010  PPHS1   he                       Z8m 
+0000070 020  VVD     said                     Q2.1 
+0000070 030  RR      suddenly                 N3.8+ 
+0000070 040  RR21    at                       N4[i35.2.1 
+0000070 050  RR22    last                     N4[i35.2.2 
+0000071 010  VVD     said                     Q2.1 
+0000071 020  NP1     Hugh                     Z1m 
+0000071 021  ,       ,                        
+0000071 030  VVG     looking                  Q1.2[i36.2.1 X3.4[i36.2.1 E2+[i36.2.1 A5.1+/A2.1[i36.2.1 A8 X3.4 X2.4 X7+ Z4 
+0000071 040  RP      up                       Q1.2[i36.2.2 X3.4[i36.2.2 E2+[i36.2.2 A5.1+/A2.1[i36.2.2 
+0000071 050  RR      suddenly                 N3.8+ 
+0000072 010  VVD     said                     Q2.1 
+0000072 020  AT      the                      Z5 
+0000072 030  JJ      right-hand               M6 S8+ 
+0000072 040  NN1     cat                      L2 M3 
+0000073 010  PPHS1   he                       Z8m 
+0000073 020  VVD     said                     Q2.1 
+0000073 030  II      to                       Z5 
+0000073 040  AT      the                      Z5 
+0000073 050  NN2     cats                     L2mfn 
+0000074 010  VVD     replied                  Q2.2 Q1.1 
+0000074 020  NP1     Hugh                     Z1m 
+0000074 021  ,       ,                        
+0000074 030  VVG     looking                  X3.4[i37.2.1 X2.4[i37.2.1 X2.1[i37.2.1 A8 X3.4 X2.4 X7+ Z4 
+0000074 040  II      at                       X3.4[i37.2.2 X2.4[i37.2.2 X2.1[i37.2.2 Z5 
+0000074 050  NP1     Jeanne                   Z99 
+0000074 060  RR      reproachfully            G2.2- Q2.2 
+0000075 010  VVD     said                     Q2.1 
+0000075 020  NP1     Jeanne                   Z99 
+0000075 021  ,       ,                        
+0000075 030  MC1     one                      N1 T3 T1.2 
+0000075 040  NNT1    evening                  T1.3 
+0000075 041  ,       ,                        
+0000075 050  CS      when                     Z5 
+0000075 060  PPHS2   they                     Z8mfn 
+0000075 070  VHD     had                      Z5 A9+ A2.2 S4 
+0000075 080  VBN     been                     Z5 A3+ 
+0000076 010  VVG     playing                  K1 K5.1 K5.2 K2 K3 A1.1.1 K6 
+0000076 020  IF      for                      Z5 
+0000076 030  AT1     a                        Z5 
+0000076 040  JJ      good                     A5.1+ G2.2+ O4.2+ A1.5.2+ N3.2+ 
+0000076 050  NNT1    while                    T1.3 
+0000077 010  NP1     Jeanne                   Z99 
+0000077 020  VVD     went                     T2++[i38.2.1 M1[i38.2.1 Q2.1/N5+[i38.2.1 A1.1.1[i38.2.1 M1 A2.1+ A1.1.1 A9- A1.8+ Q2.1 N6+ I2.2 A1.1.2 T2- S3.2 A6.3+ B2-/X1% B1% 
+0000077 030  RP@     on                       T2++[i38.2.2 M1[i38.2.2 Q2.1/N5+[i38.2.2 A1.1.1[i38.2.2 M6 A1.1.1 
+0000077 031  ,       ,                        
+0000077 040  APPGE   her                      Z8f 
+0000077 050  NN2     eyes                     B1 X3.4 
+0000077 060  VVG     dancing                  K1 
+0000077 070  IW      with                     Z5 
+0000077 080  NN1     excitement               X5.2+ 
+0000078 010  PPHS1   he                       Z8m 
+0000078 020  VVD     continued                T2++ 
+0000078 021  ,       ,                        
+0000078 030  VVG     cocking                  G3 M2 
+0000078 040  APPGE   his                      Z8m 
+0000078 050  NN1     head                     B1 S7.1+/S2mf P1/S2mf X1 M6 A4.1 S2mf F2 H5/M4% 
+0000078 060  II      on                       Z5 
+0000078 070  MC1     one                      N1 T3 T1.2 
+0000078 080  NN1     side                     A4.1 M6 N5.1- S7.3+/S5+c B1 S5+c S4c F1 S1.2 
+0000079 010  VVD     said                     Q2.1 
+0000079 020  AT      the                      Z5 
+0000079 030  NN2     children                 S2mf/T3- S4mf 
+0000079 040  RR      both                     Z5 
+0000079 050  RL      together                 S5+ T1.1.2 M6 
+0000079 051  ,       ,                        
+0000079 060  RR      eagerly                  X5.2+ 
+0000080 010  IF      for                      Z5 
+0000080 020  AT1     a                        Z5 
+0000080 030  JJ      low                      N3.7- N5- A5.1- A11.1- E4.1- X3.2- G2.2- S7.1- 
+0000080 040  NN1     wall                     H2 O2 N5+ S8- 
+0000080 050  VVD     ran                      M1/N3.8+ G1.2 G2.1- X3.3 S7.1+ A1.1.1 T2++ M3 S4 A6.3+ K4 
+0000080 060  II      round                    Z5 
+0000080 070  AT      the                      Z5 
+0000080 080  NN1     roof                     H2 B1 M3 
+0000081 001  NULL    **8;7;text               

@@ -1,0 +1,216 @@
+0000001 001  NULL    **6;0;START              
+0000001 002  -----   -----                    
+0000002 010  PPHS1   she                      Z8f 
+0000002 020  VVD     replied                  Q2.2 Q1.1 
+0000002 021  ,       ,                        
+0000002 030  RR      coolly                   O4.6- S1.2.1- O4.2+ E6+ 
+0000003 010  PPHS1   he                       Z8m 
+0000003 020  VVD     asked                    Q2.2 
+0000003 021  ,       ,                        
+0000003 030  RR21    at                       N5+[i1.2.1 N4[i1.2.1 
+0000003 040  RR22    length                   N5+[i1.2.2 N4[i1.2.2 
+0000004 010  VVD     said                     Q2.1 
+0000004 020  AT      the                      Z5 
+0000004 030  NN1     girl                     S2.1f L2f@ 
+0000005 010  PPHS1   she                      Z8f 
+0000005 020  VVD     said                     Q2.1 
+0000005 021  ,       ,                        
+0000005 030  RR      sharply                  O4.4 A10+ X9.1+ N3.8+ E3- 
+0000006 010  VVD     cried                    E4.1- Q2.2 
+0000006 020  AT      the                      Z5 
+0000006 030  NN1     man                      S2.2m 
+0000007 010  PPHS1   he                       Z8m 
+0000007 020  VVD     exclaimed                Q2.2 
+0000008 010  VVD     said                     Q2.1 
+0000008 020  NP1     Jess                     Z1f 
+0000008 030  RR      humbly                   S1.2.3- 
+0000009 010  PPHS1   he                       Z8m 
+0000009 020  VVD     answered                 Q2.2 S1.1.1 
+0000009 030  RR      uneasily                 E6- 
+0000010 010  PPHS1   she                      Z8f 
+0000010 020  VVD     answered                 Q2.2 S1.1.1 
+0000011 010  PPHS1   he                       Z8m 
+0000011 020  VVD     said                     Q2.1 
+0000011 030  RR      sternly                  S1.2.1- 
+0000012 010  PPHS1   she                      Z8f 
+0000012 020  VVD     sobbed                   E4.1- 
+0000013 010  PPHS1   he                       Z8m 
+0000013 020  VVD     said                     Q2.1 
+0000014 010  PPHS1   she                      Z8f 
+0000014 020  VVD     said                     Q2.1 
+0000015 010  PPHS1   she                      Z8f 
+0000015 020  VVD     said                     Q2.1 
+0000016 010  VVD     cried                    E4.1- Q2.2 
+0000016 020  NP1     Daniel                   Z1m 
+0000017 010  VVD     said                     Q2.1 
+0000017 020  NP1     Jessica                  Z1f 
+0000018 010  VVD     interrupted              Q2.2 X7- T2- 
+0000018 020  NP1     Daniel                   Z1m 
+0000018 030  RR      impatiently              X5.2+ E3- 
+0000019 010  PPHS1   she                      Z8f 
+0000019 020  VVD     cried                    E4.1- Q2.2 
+0000020 010  VVD     answered                 Q2.2 S1.1.1 
+0000020 020  NP1     Jessica                  Z1f 
+0000021 010  VVD     answered                 Q2.2 S1.1.1 
+0000021 020  NP1     Jane                     Z1f 
+0000021 021  ,       ,                        
+0000021 030  VVG     sighing                  Q2.2/X3.2 
+0000022 010  VVD     cried                    E4.1- Q2.2 
+0000022 020  NP1     Jessica                  Z1f 
+0000023 010  VVD     answered                 Q2.2 S1.1.1 
+0000023 020  NP1     Jane                     Z1f 
+0000024 010  PPHS1   she                      Z8f 
+0000024 020  VVD     said                     Q2.1 
+0000025 010  PPHS1   he                       Z8m 
+0000025 020  VVD     said                     Q2.1 
+0000026 010  PPHS1   he                       Z8m 
+0000026 020  VVD     answered                 Q2.2 S1.1.1 
+0000026 030  RG      very                     A13.3 
+0000026 040  RR      gently                   E3+ 
+0000027 010  PPHS1   she                      Z8f 
+0000027 020  VVD     said                     Q2.1 
+0000028 010  PPHS1   he                       Z8m 
+0000028 020  VVD     repeated                 N6+ Q2.1/N6+ F1/B1@ 
+0000029 010  VVD     said                     Q2.1 
+0000029 020  NP1     Daniel                   Z1m 
+0000029 021  ,       ,                        
+0000029 030  RR      sternly                  S1.2.1- 
+0000030 010  VVD     continued                T2++ 
+0000030 020  NP1     Daniel                   Z1m 
+0000030 021  ,       ,                        
+0000030 030  RGR     more                     A13.3 
+0000030 040  RR      gently                   E3+ 
+0000031 010  PPHS1   she                      Z8f 
+0000031 020  VVD     inquired                 Q2.2 X2.4 
+0000032 010  PPHS1   she                      Z8f 
+0000032 020  VVD     said                     Q2.1 
+0000033 010  VVD     muttered                 Q2.2/X3.2- 
+0000033 020  NP1     Daniel                   Z1m 
+0000034 010  PPHS1   he                       Z8m 
+0000034 020  VVD     answered                 Q2.2 S1.1.1 
+0000035 010  PPHS1   he                       Z8m 
+0000035 020  VVD     said                     Q2.1 
+0000035 021  ,       ,                        
+0000035 030  RR      sadly                    E4.1- 
+0000036 010  PPHS1   she                      Z8f 
+0000036 020  VVD     answered                 Q2.2 S1.1.1 
+0000037 010  PPHS1   he                       Z8m 
+0000037 020  VVD     said                     Q2.1 
+0000038 010  VVD     answered                 Q2.2 S1.1.1 
+0000038 020  NP1     Jessica                  Z1f 
+0000039 010  VVD     said                     Q2.1 
+0000039 020  NP1     Jessica                  Z1f 
+0000040 010  PPHS1   she                      Z8f 
+0000040 020  VVD     said                     Q2.1 
+0000040 030  RR      cunningly                X9.1+ 
+0000041 010  PPHS1   he                       Z8m 
+0000041 020  VVD     answered                 Q2.2 S1.1.1 
+0000041 021  ,       ,                        
+0000041 030  VVG     smiling                  E4.1+ 
+0000042 010  PPHS1   she                      Z8f 
+0000042 020  VVD     answered                 Q2.2 S1.1.1 
+0000042 030  RR      promptly                 N3.8+ 
+0000043 010  VVD     continued                T2++ 
+0000043 020  AT      the                      Z5 
+0000043 030  NN1     minister                 G1.1/S2mf S9/S2mf 
+0000044 010  PPHS1   she                      Z8f 
+0000044 020  VVD     said                     Q2.1 
+0000045 010  PPHS1   he                       Z8m 
+0000045 020  VVD     answered                 Q2.2 S1.1.1 
+0000046 010  VVD     answered                 Q2.2 S1.1.1 
+0000046 020  NP1     Jessica                  Z1f 
+0000047 010  PPHS1   he                       Z8m 
+0000047 020  VVD     said                     Q2.1 
+0000048 010  VVD     answered                 Q2.2 S1.1.1 
+0000048 020  AT      the                      Z5 
+0000048 030  NN1     minister                 G1.1/S2mf S9/S2mf 
+0000049 010  VVD     said                     Q2.1 
+0000049 020  AT      the                      Z5 
+0000049 030  JJ      little                   N3.2- T3- N3.7- N3.3- T1.3- A11.1- 
+0000049 040  NN1     voice                    Q2.1 X2.1 S7.1+ Q3 K2 
+0000050 010  PPHS1   she                      Z8f 
+0000050 020  VVD     said                     Q2.1 
+0000051 010  PPHS1   she                      Z8f 
+0000051 020  VVD     cried                    E4.1- Q2.2 
+0000052 010  JJ      continued                T2++ 
+0000052 020  NP1     Daniel                   Z1m 
+0000052 021  ,       ,                        
+0000052 030  RR      thoughtfully             A1.3+ X2.1 
+0000053 010  VVD     said                     Q2.1 
+0000053 020  AT      the                      Z5 
+0000053 030  NN1     minister                 G1.1/S2mf S9/S2mf 
+0000053 040  RR      kindly                   S1.2/S8+ S1.2.2- 
+0000054 010  VVD     resumed                  T2+/N6+ 
+0000054 020  NP1     Daniel                   Z1m 
+0000055 010  VVD     replied                  Q2.2 Q1.1 
+0000055 020  NP1     Jessica                  Z1f 
+0000056 010  PPHS1   he                       Z8m 
+0000056 020  VVD     said                     Q2.1 
+0000057 010  PPHS1   he                       Z8m 
+0000057 020  VVD     said                     Q2.1 
+0000058 010  JJ%     said                     Q1.1 Q2.1 
+0000058 020  NN1     Winny                    Z99 
+0000059 010  PPHS1   he                       Z8m 
+0000059 020  VVD     said                     Q2.1 
+0000060 010  PPHS1   she                      Z8f 
+0000060 020  VVD     said                     Q2.1 
+0000060 021  ,       ,                        
+0000060 030  RR      doggedly                 X8+ 
+0000061 010  VVD     said                     Q2.1 
+0000061 020  NP1     Daniel                   Z1m 
+0000062 010  PPHS1   he                       Z8m 
+0000062 020  VVD     said                     Q2.1 
+0000063 010  PPHS1   he                       Z8m 
+0000063 020  VVD     answered                 Q2.2 S1.1.1 
+0000063 021  ,       ,                        
+0000063 030  RR      doubtfully               A7- 
+0000064 010  PPHS1   he                       Z8m 
+0000064 020  VVD     said                     Q2.1 
+0000065 010  JJ      continued                T2++ 
+0000065 020  NP1     Daniel                   Z1m 
+0000066 010  VVD     replied                  Q2.2 Q1.1 
+0000066 020  NP1     Jessica                  Z1f 
+0000067 010  PPHS1   he                       Z8m 
+0000067 020  VVD     said                     Q2.1 
+0000067 021  ,       ,                        
+0000067 030  RG      very                     A13.3 
+0000067 040  RR      gently                   E3+ 
+0000068 010  PPHS1   she                      Z8f 
+0000068 020  VVD     said                     Q2.1 
+0000069 010  VVD     said                     Q2.1 
+0000069 020  NP1     Jessica                  Z1f 
+0000070 010  VVD     answered                 Q2.2 S1.1.1 
+0000070 020  NP1     Jessica                  Z1f 
+0000071 010  PPHS1   he                       Z8m 
+0000071 020  VVD     said                     Q2.1 
+0000072 010  PPHS1   she                      Z8f 
+0000072 020  VVD     said                     Q2.1 
+0000072 021  ,       ,                        
+0000072 030  RG      very                     A13.3 
+0000072 040  RR      sorrowfully              Z99 
+0000073 010  VVD     said                     Q2.1 
+0000073 020  NP1     Daniel                   Z1m 
+0000074 010  VVD     suggested                Q2.2 Q1.1 
+0000074 020  NP1     Jessica                  Z1f 
+0000074 021  ,       ,                        
+0000074 030  RT      again                    N6+ Z4 
+0000075 010  PPHS1   he                       Z8m 
+0000075 020  VVD     said                     Q2.1 
+0000076 010  VVD     said                     Q2.1 
+0000076 020  NP1     Daniel                   Z1m 
+0000077 010  VVD     answered                 Q2.2 S1.1.1 
+0000077 020  NP1     Daniel                   Z1m 
+0000078 010  VVD     said                     Q2.1 
+0000078 020  NP1     Jane                     Z1f 
+0000079 010  VVD     said                     Q2.1 
+0000079 020  NP1     Jane                     Z1f 
+0000080 010  PPHS1   he                       Z8m 
+0000080 020  VVD     said                     Q2.1 
+0000081 010  VVD     said                     Q2.1 
+0000081 020  NP1     Daniel                   Z1m 
+0000082 010  PPHS1   he                       Z8m 
+0000082 020  VVD     said                     Q2.1 
+0000083 010  PPHS1   he                       Z8m 
+0000083 020  VVD     answered                 Q2.2 S1.1.1 
+0000083 030  RR      despondently             E4.1- 
+0000084 001  NULL    **8;7;text               

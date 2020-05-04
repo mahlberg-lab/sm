@@ -1,0 +1,75 @@
+0000001 001  NULL    **6;0;START              
+0000001 002  -----   -----                    
+0000002 010  VVD     said                     Q2.1 
+0000002 020  NP1     Charles                  Z1m 
+0000003 010  VVD     said                     Q2.1 
+0000003 020  NP1     Marc                     Z1m 
+0000004 010  VVD     said                     Q2.1 
+0000004 020  NP1     Marie                    Z1f 
+0000005 010  VVD     said                     Q2.1 
+0000005 020  NP1     Jerome                   S9/S2mf G2.2+/S2mf M3/H3 S9 A4.1 T1.2 S9/H1c S9c Z2 Z1mf S4m S9/S2.2m S4/B1 Z5 B3/I3.2/S2mf P1/S2mf B3 A2.1+/G2.1- 
+0000006 010  VVD     said                     Q2.1 
+0000006 020  NP1     Jerome                   S9/S2mf G2.2+/S2mf M3/H3 S9 A4.1 T1.2 S9/H1c S9c Z2 Z1mf S4m S9/S2.2m S4/B1 Z5 B3/I3.2/S2mf P1/S2mf B3 A2.1+/G2.1- 
+0000007 010  VVD     said                     Q2.1 
+0000007 020  NP1     Jerome                   S9/S2mf G2.2+/S2mf M3/H3 S9 A4.1 T1.2 S9/H1c S9c Z2 Z1mf S4m S9/S2.2m S4/B1 Z5 B3/I3.2/S2mf P1/S2mf B3 A2.1+/G2.1- 
+0000008 010  VVD     continued                T2++ 
+0000008 020  NP1     Jerome                   S9/S2mf G2.2+/S2mf M3/H3 S9 A4.1 T1.2 S9/H1c S9c Z2 Z1mf S4m S9/S2.2m S4/B1 Z5 B3/I3.2/S2mf P1/S2mf B3 A2.1+/G2.1- 
+0000009 010  VVD     said                     Q2.1 
+0000009 020  NP1     Randolphe                Z99 
+0000010 010  VVD     said                     Q2.1 
+0000010 020  AT      the                      Z5 
+0000010 030  NN1     hostess                  M5/S2.1f S2.1/S1.1.1f 
+0000011 010  VVD     said                     Q2.1 
+0000011 020  APPGE   his                      Z8m 
+0000011 030  NN1     wife                     S4f 
+0000012 010  VVD     observed                 X3.4 Q2.1/X2.4 X2.1 G2.1+ 
+0000012 020  NP1     Randolphe                Z99 
+0000013 010  VVD     said                     Q2.1 
+0000013 020  AT      the                      Z5 
+0000013 030  NN1     bailiff                  G2.1/I3.2/S2mf 
+0000014 010  VVD     said                     Q2.1 
+0000014 020  APPGE   his                      Z8m 
+0000014 030  NN1     brother                  S4m S2.2m S9/S2.2m 
+0000015 010  VVD     said                     Q2.1 
+0000015 020  PPHS1   she                      Z8f 
+0000016 010  VVD     said                     Q2.1 
+0000016 020  AT      the                      Z5 
+0000016 030  NN2     boys                     S2.2m 
+0000017 010  VVD     said                     Q2.1 
+0000017 020  AT      the                      Z5 
+0000017 030  NN1     nobleman                 S7.1+/S2.2m 
+0000018 010  VVD     said                     Q2.1 
+0000018 020  AT      the                      Z5 
+0000018 030  JJ      veiled                   A10- 
+0000018 040  NN1     woman                    S2.1f 
+0000019 010  VVD     said                     Q2.1 
+0000019 020  AT      the                      Z5 
+0000019 030  NN1     man                      S2.2m 
+0000020 010  VVD     said                     Q2.1 
+0000020 020  NP1     Louis                    Z1m 
+0000021 010  VVD     said                     Q2.1 
+0000021 020  AT      the                      Z5 
+0000021 030  NN1     queen                    S7.1+/S2.1f S3.2/S2.2m K5.2 
+0000022 010  VVD     said                     Q2.1 
+0000022 020  PPHS1   he                       Z8m 
+0000023 010  VVD     interrupted              Q2.2 X7- T2- 
+0000023 020  NP1@    Petion                   Z99 
+0000024 010  VVD     bawled                   Q2.2 
+0000024 020  RP      out                      M6 
+0000025 010  VVD     replied                  Q2.2 Q1.1 
+0000025 020  AT      the                      Z5 
+0000025 030  NN1     king                     S7.1+/S2.2m 
+0000026 010  VVD     said                     Q2.1 
+0000026 020  PPHS1   she                      Z8f 
+0000027 010  VVD     said                     Q2.1 
+0000027 020  AT      the                      Z5 
+0000027 030  NN1     woman                    S2.1f 
+0000028 010  VVD     said                     Q2.1 
+0000028 020  AT      the                      Z5 
+0000028 030  NN1     princess                 S7.1+/S2.1f 
+0000029 010  VVD     said                     Q2.1 
+0000029 020  AT      the                      Z5 
+0000029 030  NN1     king                     S7.1+/S2.2m 
+0000030 010  NP1     Louis                    Z1m 
+0000030 020  VVD     said                     Q2.1 
+0000031 001  NULL    **8;7;text               

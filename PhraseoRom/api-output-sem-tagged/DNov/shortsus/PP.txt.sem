@@ -1,0 +1,2451 @@
+0000001 001  NULL    **6;0;START              
+0000001 002  -----   -----                    
+0000002 010  CC      and                      Z5 
+0000003 010  VVD     thought                  X2.1 
+0000003 020  NNB     Mr.                      Z1m[i2.2.1 S2.2m Z1m[i1.2.1 
+0000003 030  NP1     Pickwick                 Z1m[i2.2.2 Z1 Z1m[i1.2.2 
+0000004 010  VVD     observed                 X3.4 Q2.1/X2.4 X2.1 G2.1+ 
+0000004 020  AT      the                      Z5 
+0000004 030  NN1     driver                   M3/S2mf O2 
+0000004 040  RR      coolly                   O4.6- S1.2.1- O4.2+ E6+ 
+0000005 010  VVD     continued                T2++ 
+0000005 020  AT      the                      Z5 
+0000005 030  NN1     driver                   M3/S2mf O2 
+0000006 010  VVD     replied                  Q2.2 Q1.1 
+0000006 020  AT      the                      Z5 
+0000006 030  NN1     cabman                   M3/S2mf X5.2- Q4.2/S2mf Y2 K5.1 A1.1.1 X2.5+ O2 B5 Q1.1 
+0000007 010  VVD     replied                  Q2.2 Q1.1 
+0000007 020  AT      the                      Z5 
+0000007 030  MD      first                    N4 
+0000008 010  VVD     said                     Q2.1 
+0000008 020  NNB     Mr.                      Z1m[i3.2.1 S2.2m 
+0000008 030  NP1     Pickwick                 Z1m[i3.2.2 Z1 
+0000009 010  VVD     said                     Q2.1 
+0000009 020  AT      the                      Z5 
+0000009 030  NN1     stranger                 X2.2-/S2mf 
+0000010 010  VVD     said                     Q2.1 
+0000010 020  PPHS1   he                       Z8m 
+0000011 010  VVD     said                     Q2.1 
+0000011 020  AT      the                      Z5 
+0000011 030  NN1     stranger                 X2.2-/S2mf 
+0000012 010  VVZ     says                     Q2.1 
+0000012 020  NNB     Mr.                      Z1m[i4.2.1 S2.2m 
+0000012 030  NP1     Pickwick                 Z1m[i4.2.2 Z1 
+0000013 010  VVZ     continues                T2++ 
+0000013 020  NNB     Mr.                      Z1m[i5.2.1 S2.2m 
+0000013 030  NP1     Pickwick                 Z1m[i5.2.2 Z1 
+0000014 010  VVD     interposed               Q2.2 
+0000014 020  AT      the                      Z5 
+0000014 030  NN1     waiter                   I3.1/F1/S2.2m 
+0000015 010  VVD     said                     Q2.1 
+0000015 020  AT      the                      Z5 
+0000015 030  NN1     stranger                 X2.2-/S2mf 
+0000016 010  VVD     said                     Q2.1 
+0000016 020  AT      the                      Z5 
+0000016 030  NN1     stranger                 X2.2-/S2mf 
+0000017 010  VVD     said                     Q2.1 
+0000017 020  AT      the                      Z5 
+0000017 030  NN1     stranger                 X2.2-/S2mf 
+0000018 010  VVD     said                     Q2.1 
+0000018 020  NNB     Mr.                      Z1m[i7.3.1 S2.2m Z1m[i6.2.1 
+0000018 030  NP1     Tracy                    Z1m[i7.3.2 Z1mf Z1m[i6.2.2 Z1mf[i8.2.1 Z3c[i8.2.1 
+0000018 040  NP1     Tupman                   Z1m[i7.3.3 Z1mf[i8.2.2 Z3c[i8.2.2 
+0000019 010  PPHS1   he                       Z8m 
+0000019 020  VVD     said                     Q2.1 
+0000020 010  VVD     said                     Q2.1 
+0000020 020  NNB     Mr.                      Z1m[i9.2.1 S2.2m 
+0000020 030  NP1     Tupman                   Z1m[i9.2.2 
+0000021 010  VVD     said                     Q2.1 
+0000021 020  AT      the                      Z5 
+0000021 030  NN1     stranger                 X2.2-/S2mf 
+0000022 010  VVD     said                     Q2.1 
+0000022 020  AT      the                      Z5 
+0000022 030  NN1     stranger                 X2.2-/S2mf 
+0000023 010  DDQ     What                     Z8 Z5 
+0000023 020  VDZ     does                     A1.1.1 G2.2- X9.2+ E3- G2.1% Z5 
+0000024 010  VVD     said                     Q2.1 
+0000024 020  AT      the                      Z5 
+0000024 030  NN1     stranger                 X2.2-/S2mf 
+0000025 010  VVD     replied                  Q2.2 Q1.1 
+0000025 020  AT      the                      Z5 
+0000025 030  NN1     stranger                 X2.2-/S2mf 
+0000025 040  RR      coolly                   O4.6- S1.2.1- O4.2+ E6+ 
+0000026 010  VVD     gasped                   B1 
+0000026 020  AT      the                      Z5 
+0000026 030  JJ      furious                  E3- 
+0000026 040  NN1     doctor                   B3/I3.2/S2mf P1/S2mf 
+0000027 010  VVD     thought                  X2.1 
+0000027 020  NNB     Mr.                      Z1m[i10.2.1 S2.2m 
+0000027 030  NP1     Pickwick                 Z1m[i10.2.2 Z1 
+0000028 010  PPHS1   he                       Z8m 
+0000028 020  VVD@    called                   Q2.2[i11.2.1 Q2.2 S1.1.1 Q1.3 S9% 
+0000028 030  RP      out                      Q2.2[i11.2.2 M6 
+0000029 010  VVD     said                     Q2.1 
+0000029 020  NNB     Mr.                      Z1m[i12.2.1 S2.2m 
+0000029 030  NP1     Winkle                   Z1m[i12.2.2 
+0000030 010  VVD     replied                  Q2.2 Q1.1 
+0000030 020  AT      the                      Z5 
+0000030 030  NN1     visitor                  S1.1.1/S2mf M1/S2mf 
+0000031 010  VVD     replied                  Q2.2 Q1.1 
+0000031 020  NNB     Mr.                      Z1m[i13.2.1 S2.2m 
+0000031 030  NP1     Winkle                   Z1m[i13.2.2 
+0000032 010  VVD     observed                 X3.4 Q2.1/X2.4 X2.1 G2.1+ 
+0000032 020  NNB     Mr.                      Z1m[i14.2.1 S2.2m 
+0000032 030  NP1     Snodgrass                Z1m[i14.2.2 
+0000032 040  RR      calmly                   E3+ E4.2+ 
+0000033 010  VVD     said                     Q2.1 
+0000033 020  NNB     Mr.                      Z1m[i15.2.1 S2.2m 
+0000033 030  NP1     Winkle                   Z1m[i15.2.2 
+0000034 010  PPHS1   he                       Z8m 
+0000034 020  RR      fervently                Z99 
+0000034 030  VVD     exclaimed                Q2.2 
+0000035 010  PPHS1   he                       Z8m 
+0000035 020  VVD     said                     Q2.1 
+0000035 021  ,       ,                        
+0000035 030  VVG     stopping                 T2- S8- M8 H4 A1.1.1@ 
+0000035 040  RR      suddenly                 N3.8+ 
+0000036 010  VVD     replied                  Q2.2 Q1.1 
+0000036 020  NNB     Mr.                      Z1m[i16.2.1 S2.2m 
+0000036 030  NP1     Snodgrass                Z1m[i16.2.2 
+0000037 010  VVD     said                     Q2.1 
+0000037 020  NNB     Mr.                      Z1m[i17.2.1 S2.2m 
+0000037 030  NP1     Snodgrass                Z1m[i17.2.2 
+0000038 010  VVD     said                     Q2.1 
+0000038 020  AT      the                      Z5 
+0000038 030  JJ      little                   N3.2- T3- N3.7- N3.3- T1.3- A11.1- 
+0000038 040  NN1     doctor                   B3/I3.2/S2mf P1/S2mf 
+0000039 010  VVD     replied                  Q2.2 Q1.1 
+0000039 020  NNB     Mr.                      Z1m[i18.2.1 S2.2m 
+0000039 030  NP1     Winkle                   Z1m[i18.2.2 
+0000040 010  VVD     said                     Q2.1 
+0000040 020  NNB     Mr.                      Z1m[i19.2.1 S2.2m 
+0000040 030  NP1     Pickwick                 Z1m[i19.2.2 Z1 
+0000041 010  VVD     continued                T2++ 
+0000041 020  AT      the                      Z5 
+0000041 030  JJ      dismal                   O4.2- A5.1- 
+0000041 040  NN1     man                      S2.2m 
+0000042 010  VVD     said                     Q2.1 
+0000042 020  AT      the                      Z5 
+0000042 030  JJ      Spanish                  Z2 Z2/Q3 Z2/S2mfnc 
+0000042 040  NN1     traveller                M1/S2mf I2.2/S2mf S9/S2mf S5+/S2mf 
+0000043 010  VVD     said                     Q2.1 
+0000043 020  NNB     Mr.                      Z1m[i20.2.1 S2.2m 
+0000043 030  NP1     Winkle                   Z1m[i20.2.2 
+0000043 031  ,       ,                        
+0000043 040  VVG     rising                   M1 N5+/A2.1 N3.2+/A2.1 S7.1+/A2.1 N3.7+/A2.1 
+0000044 010  VVD     said                     Q2.1 
+0000044 020  NNB     Mr.                      Z1m[i21.2.1 S2.2m 
+0000044 030  NP1     Winkle                   Z1m[i21.2.2 
+0000045 010  VVD     replied                  Q2.2 Q1.1 
+0000045 020  NNB     Mr.                      Z1m[i22.2.1 S2.2m 
+0000045 030  NP1     Pickwick                 Z1m[i22.2.2 Z1 
+0000046 010  VVD     said                     Q2.1 
+0000046 020  NNB     Mr.                      Z1m[i23.2.1 S2.2m 
+0000046 030  NP1     Pickwick                 Z1m[i23.2.2 Z1 
+0000047 010  VVD     cried                    E4.1- Q2.2 
+0000047 020  NNB     Mr.                      Z1m[i24.2.1 S2.2m 
+0000047 030  NP1     Snodgrass                Z1m[i24.2.2 
+0000048 010  VVD     said                     Q2.1 
+0000048 020  AT      the                      Z5 
+0000048 030  JJ      green-coated             Z99 
+0000048 040  NN1     stranger                 X2.2-/S2mf 
+0000049 010  VVD     replied                  Q2.2 Q1.1 
+0000049 020  NNB     Mr.                      Z1m[i25.2.1 S2.2m 
+0000049 030  NP1     Pickwick                 Z1m[i25.2.2 Z1 
+0000050 010  VVD     said                     Q2.1 
+0000050 020  NNB     Mr.                      Z1m[i26.2.1 S2.2m 
+0000050 030  NP1     Tupman                   Z1m[i26.2.2 
+0000051 010  VVD     said                     Q2.1 
+0000051 020  AT      the                      Z5 
+0000051 030  JJ      stout                    O4.2 S1.2.5+ 
+0000051 040  NN1     gentleman                S2.2m 
+0000052 010  VVD     said                     Q2.1 
+0000052 020  AT      the                      Z5 
+0000052 030  JJ      admiring                 S7.2+ E2+ 
+0000052 040  NP1     Rachael                  Z1f 
+0000053 010  VVD     replied                  Q2.2 Q1.1 
+0000053 020  NP1     Isabella                 Z1f 
+0000054 010  VVD     said                     Q2.1 
+0000054 020  AT      the                      Z5 
+0000054 030  JJ      old                      T3+ Z4 
+0000054 040  NN1     gentleman                S2.2m 
+0000055 010  VVD     said                     Q2.1 
+0000055 020  NNB     Mr.                      Z1m[i27.2.1 S2.2m 
+0000055 030  NP1     Pickwick                 Z1m[i27.2.2 Z1 
+0000056 010  VVD     said                     Q2.1 
+0000056 020  AT      the                      Z5 
+0000056 030  JJ      old                      T3+ Z4 
+0000056 040  NN1     gentleman                S2.2m 
+0000057 010  VVD     returned                 M1 A9- N6 
+0000057 020  AT      the                      Z5 
+0000057 030  JJ      old                      T3+ Z4 
+0000057 040  NN1     gentleman                S2.2m 
+0000058 010  VVD     continued                T2++ 
+0000058 020  AT      the                      Z5 
+0000058 030  JJ      dismal                   O4.2- A5.1- 
+0000058 040  NN1     man                      S2.2m 
+0000059 010  VVD     replied                  Q2.2 Q1.1 
+0000059 020  NNB     Mr.                      Z1m[i28.2.1 S2.2m 
+0000059 030  NP1     Pickwick                 Z1m[i28.2.2 Z1 
+0000060 010  VVD     replied                  Q2.2 Q1.1 
+0000060 020  NNB     Mr.                      Z1m[i29.2.1 S2.2m 
+0000060 030  NP1     Pickwick                 Z1m[i29.2.2 Z1 
+0000061 010  VVD     cried                    E4.1- Q2.2 
+0000061 020  AT      the                      Z5 
+0000061 030  NN1     hostler                  L2/S2mf S4/S2.2m B4 P1 I2.2 I3.1 B1 O2 S8+ K5.2 I3.1/S2mf X9.1+/S2mf A9- S2.2m 
+0000062 010  VVD     replied                  Q2.2 Q1.1 
+0000062 020  NNB     Mr.                      Z1m[i30.2.1 S2.2m 
+0000062 030  NP1     Tupman                   Z1m[i30.2.2 
+0000063 010  VVD     said                     Q2.1 
+0000063 020  DD1     that                     Z5 Z8 
+0000063 030  NN1     gentleman                S2.2m 
+0000064 010  VVD     said                     Q2.1 
+0000064 020  NNB     Mr.                      Z1m[i32.2.1 S2.2m Z1m[i31.2.1 
+0000064 030  NP1     Winkle                   Z1m[i32.2.2 Z1m[i31.2.2 
+0000064 040  RR      soothingly               Z99 
+0000065 010  VVD     said                     Q2.1 
+0000065 020  NNB     Mr.                      Z1m[i33.2.1 S2.2m 
+0000065 030  NP1     Pickwick                 Z1m[i33.2.2 Z1 
+0000066 010  VVD     exclaimed                Q2.2 
+0000066 020  NNB     Mr.                      Z1m[i34.2.1 S2.2m 
+0000066 030  NP1     Pickwick                 Z1m[i34.2.2 Z1 
+0000067 010  VVD     ejaculated               Q2.1 Z5 K5.1 M6 S3.2 A5.3- N5.1+ B1 Q2.2 M7/W3 W3/M4 O2 M3/O2 B2- A1.5.1/N5.1+ A1.7-/M1 O1.2 I3.1 I1.2 G3 P1/G2.1 M2 X7- A1.8- A1.7- A9- I2.2 K3 Q4 E6+ 
+0000067 020  NNB     Mr.                      Z1m[i35.2.1 S2.2m 
+0000067 030  NP1     Pickwick                 Z1m[i35.2.2 Z1 
+0000068 010  VVD     said                     Q2.1 
+0000068 020  AT      the                      Z5 
+0000068 030  JJ      old                      T3+ Z4 
+0000068 040  NN1     gentleman                S2.2m 
+0000069 010  VVD     replied                  Q2.2 Q1.1 
+0000069 020  DD1     that                     Z5 Z8 
+0000069 030  NN1     gentleman                S2.2m 
+0000070 010  VVD     said                     Q2.1 
+0000070 020  NNB     Mr.                      Z1m[i36.2.1 S2.2m 
+0000070 030  NP1     Wardle                   Z1m[i36.2.2 Z1 
+0000071 010  VVD     said                     Q2.1 
+0000071 020  AT      the                      Z5 
+0000071 030  NN1     gentleman                S2.2m 
+0000072 010  VVD     replied                  Q2.2 Q1.1 
+0000072 020  AT      the                      Z5 
+0000072 030  NN1     clergyman                S9/S2.2m 
+0000073 010  VVD     replied                  Q2.2 Q1.1 
+0000073 020  AT      the                      Z5 
+0000073 030  JJ      old                      T3+ Z4 
+0000073 040  NN1     gentleman                S2.2m 
+0000074 010  VVD     replied                  Q2.2 Q1.1 
+0000074 020  AT      the                      Z5 
+0000074 030  NN1     host                     S2mf B1@ Y2@ S9% 
+0000075 010  VVD     replied                  Q2.2 Q1.1 
+0000075 020  NNB     Mr.                      Z1m[i37.2.1 S2.2m 
+0000075 030  NP1     Pickwick                 Z1m[i37.2.2 Z1 
+0000076 010  VVD     said                     Q2.1 
+0000076 020  AT      the                      Z5 
+0000076 030  NN1     host                     S2mf B1@ Y2@ S9% 
+0000077 010  VVD     said                     Q2.1 
+0000077 020  NNB     Mr.                      Z1m[i38.2.1 S2.2m 
+0000077 030  NP1     Winkle                   Z1m[i38.2.2 
+0000078 010  VVD     murmured                 Q2.2/X3.2- X3.2- 
+0000078 020  AT      the                      Z5 
+0000078 030  NN1     spinster                 S3.2-/S2.1f 
+0000078 040  NN1     aunt                     S4f 
+0000079 010  VVD     replied                  Q2.2 Q1.1 
+0000079 020  NNB     Mr.                      Z1m[i39.2.1 S2.2m 
+0000079 030  NP1     Tupman                   Z1m[i39.2.2 
+0000080 010  VVD     replied                  Q2.2 Q1.1 
+0000080 020  AT      the                      Z5 
+0000080 030  NN1     host                     S2mf B1@ Y2@ S9% 
+0000081 010  VVD     replied                  Q2.2 Q1.1 
+0000081 020  NNB     Mr.                      Z1m[i40.2.1 S2.2m 
+0000081 030  NP1     Pickwick                 Z1m[i40.2.2 Z1 
+0000082 010  VVD     said                     Q2.1 
+0000082 020  AT      the                      Z5 
+0000082 030  MD      first                    N4 
+0000082 040  NN1     speaker                  Q2.1/S2mf G1.1/S2mf O3 
+0000083 010  VVD     replied                  Q2.2 Q1.1 
+0000083 020  AT      the                      Z5 
+0000083 030  NN1     stranger                 X2.2-/S2mf 
+0000084 010  RT      Now                      T1.1.2 Z4 
+0000084 011  ,       ,                        
+0000084 020  NN1     butter                   F1 
+0000085 010  VVD     said                     Q2.1 
+0000085 020  NNB     Mr.                      Z1m[i41.2.1 S2.2m 
+0000085 030  NP1     Wardle                   Z1m[i41.2.2 Z1 
+0000086 010  VVD     said                     Q2.1 
+0000086 020  AT      the                      A11.1-/S2.1m[i42.3.1 Z5 
+0000086 030  JJ      little                   A11.1-/S2.1m[i42.3.2 N3.2- T3- N3.7- N3.3- T1.3- A11.1- 
+0000086 040  NN1     man                      A11.1-/S2.1m[i42.3.3 S2.2m 
+0000087 010  VVD     said                     Q2.1 
+0000087 020  NNB     Mr.                      Z1m[i43.2.1 S2.2m 
+0000087 030  NP1     Tupman                   Z1m[i43.2.2 
+0000087 031  ,       ,                        
+0000087 040  VVG     rising                   M1 N5+/A2.1 N3.2+/A2.1 S7.1+/A2.1 N3.7+/A2.1 
+0000088 010  VVD     said                     Q2.1 
+0000088 020  NNB     Mr.                      Z1m[i44.2.1 S2.2m 
+0000088 030  NP1     Tupman                   Z1m[i44.2.2 
+0000089 010  VVD     said                     Q2.1 
+0000089 020  AT      the                      Z5 
+0000089 030  JJ      eloquent                 Q3/X9.1+ 
+0000089 040  NN1@    Pickwickian              Z99 
+0000090 010  VVD     ejaculated               Q2.1 Z5 K5.1 M6 S3.2 A5.3- N5.1+ B1 Q2.2 M7/W3 W3/M4 O2 M3/O2 B2- A1.5.1/N5.1+ A1.7-/M1 O1.2 I3.1 I1.2 G3 P1/G2.1 M2 X7- A1.8- A1.7- A9- I2.2 K3 Q4 E6+ 
+0000090 020  NNB     Mr.                      Z1m[i45.2.1 S2.2m 
+0000090 030  NP1     Tupman                   Z1m[i45.2.2 
+0000091 010  VVD     said                     Q2.1 
+0000091 020  AT      the                      Z5 
+0000091 030  NN1     spinster                 S3.2-/S2.1f 
+0000091 040  NN1     aunt                     S4f 
+0000092 010  VVD     said                     Q2.1 
+0000092 020  NNB     Mr.                      Z1m[i46.2.1 S2.2m 
+0000092 030  NP1     Jingle                   Z1m[i46.2.2 
+0000092 040  VVG     pausing                  T2-/T1.3 
+0000093 010  VVD     said                     Q2.1 
+0000093 020  AT      the                      Z5 
+0000093 030  NN1     aunt                     S4f 
+0000094 010  VVD     said                     Q2.1 
+0000094 020  NN1     Jingle                   X3.2+ K2 
+0000095 010  VVD     said                     Q2.1 
+0000095 020  NNB     Mr.                      Z1m[i47.2.1 S2.2m 
+0000095 030  NP1     Jingle                   Z1m[i47.2.2 
+0000096 010  VVD     said                     Q2.1 
+0000096 020  AT      the                      Z5 
+0000096 030  NN1     host                     S2mf B1@ Y2@ S9% 
+0000097 010  VVD     said                     Q2.1 
+0000097 020  NNB     Mr.                      Z1m[i48.2.1 S2.2m 
+0000097 030  NP1     Pickwick                 Z1m[i48.2.2 Z1 
+0000098 010  VVD     cried                    E4.1- Q2.2 
+0000098 020  AT      the                      Z5 
+0000098 030  NN1     landlord                 S7.1+/H4/S2.2m 
+0000099 010  VVD     returned                 M1 A9- N6 
+0000099 020  NP1     Wardle                   Z1 
+0000100 010  VVD     interposed               Q2.2 
+0000100 020  NNB     Mr.                      Z1m[i49.2.1 S2.2m 
+0000100 030  NP1     Pickwick                 Z1m[i49.2.2 Z1 
+0000101 010  VVD     said                     Q2.1 
+0000101 020  AT      the                      Z5 
+0000101 030  NN1     hostler                  L2/S2mf S4/S2.2m B4 P1 I2.2 I3.1 B1 O2 S8+ K5.2 I3.1/S2mf X9.1+/S2mf A9- S2.2m 
+0000102 010  VVD     said                     Q2.1 
+0000102 020  NP1     Wardle                   Z1 
+0000103 010  VVD     replied                  Q2.2 Q1.1 
+0000103 020  APPGE   his                      Z8m 
+0000103 030  NN1     companion                S3.1/S2mf 
+0000104 010  VVD     shouted                  Q2.2/X3.2++ 
+0000104 020  AT      the                      Z5 
+0000104 030  JJ      shameless                G2.2- A5.1- 
+0000104 040  NN1     Jingle                   X3.2+ K2 
+0000105 010  VVD     interrupted              Q2.2 X7- T2- 
+0000105 020  NP1     Wardle                   Z1 
+0000106 010  VVD     said                     Q2.1 
+0000106 020  NP1     Wardle                   Z1 
+0000107 010  VVD     said                     Q2.1 
+0000107 020  AT      the                      Z5 
+0000107 030  NN1     girl                     S2.1f L2f@ 
+0000107 040  RR      coaxingly                Z99 
+0000108 010  VVD     cried                    E4.1- Q2.2 
+0000108 020  AT      the                      Z5 
+0000108 030  NN1     landlady                 H4/S2.1f 
+0000109 010  VVZ     says                     Q2.1 
+0000109 020  PPHS1   he                       Z8m 
+0000110 010  VVZ     says                     Q2.1 
+0000110 020  APPGE   my                       Z8 
+0000110 030  NN1     father                   S4m S9/S2.2m 
+0000111 010  VVZ     says                     Q2.1 
+0000111 020  AT      the                      Z5 
+0000111 030  NN1     touter                   I2.2/S2mf I2.2 I2.2/Q2.1/S2mf Z3c/Q4.2 I2.2/Q2.2/S2.2m 
+0000112 010  VVZ     says                     Q2.1 
+0000112 020  APPGE   my                       Z8 
+0000112 030  NN1     father                   S4m S9/S2.2m 
+0000113 010  UH      No                       Z4 
+0000113 011  ,       ,                        
+0000113 012  "       "                        
+0000113 020  VVZ     says                     Q2.1 
+0000113 030  PPHS1   he                       Z8m 
+0000114 010  VVZ     says                     Q2.1 
+0000114 020  PPHS1   he                       Z8m 
+0000115 010  VVZ     says                     Q2.1 
+0000115 020  AT      the                      Z5 
+0000115 030  NN1     touter                   I2.2/S2mf I2.2 I2.2/Q2.1/S2mf Z3c/Q4.2 I2.2/Q2.2/S2.2m 
+0000116 010  VVZ     says                     Q2.1 
+0000116 020  APPGE   my                       Z8 
+0000116 030  NN1     father                   S4m S9/S2.2m 
+0000117 010  VVZ     says                     Q2.1 
+0000117 020  PPHS1   he                       Z8m 
+0000118 010  VVZ     says                     Q2.1 
+0000118 020  AT      the                      Z5 
+0000118 030  NN1     touter                   I2.2/S2mf I2.2 I2.2/Q2.1/S2mf Z3c/Q4.2 I2.2/Q2.2/S2.2m 
+0000119 010  VVZ     says                     Q2.1 
+0000119 020  AT      the                      Z5 
+0000119 030  NN1     lawyer                   G2.1/I3.2/S2mf 
+0000120 010  VVZ     says                     Q2.1 
+0000120 020  AT      the                      Z5 
+0000120 030  NN1     lawyer                   G2.1/I3.2/S2mf 
+0000121 010  VVZ     says                     Q2.1 
+0000121 020  APPGE   my                       Z8 
+0000121 030  NN1     father                   S4m S9/S2.2m 
+0000122 010  VVZ     says                     Q2.1 
+0000122 020  PPHS1   he                       Z8m 
+0000123 010  VVZ     says                     Q2.1 
+0000123 020  AT      the                      Z5 
+0000123 030  NN1     lawyer                   G2.1/I3.2/S2mf 
+0000124 010  VVZ     says                     Q2.1 
+0000124 020  APPGE   my                       Z8 
+0000124 030  NN1     father                   S4m S9/S2.2m 
+0000125 010  JJ      Impossible               A7- A12- 
+0000125 011  !       !                        
+0000125 012  "       "                        
+0000125 020  VVZ     says                     Q2.1 
+0000125 030  AT      the                      Z5 
+0000125 040  NN1     lawyer                   G2.1/I3.2/S2mf 
+0000126 010  VVZ     says                     Q2.1 
+0000126 020  APPGE   my                       Z8 
+0000126 030  NN1     father                   S4m S9/S2.2m 
+0000127 010  VVD     repeated                 N6+ Q2.1/N6+ F1/B1@ 
+0000127 020  NNB     Mr.                      Z1m[i50.2.1 S2.2m 
+0000127 030  NP1     Jingle                   Z1m[i50.2.2 
+0000128 010  VVD     thought                  X2.1 
+0000128 020  NP1     Sam                      Z1mf 
+0000129 010  VVD     said                     Q2.1 
+0000129 020  AT      the                      A11.1-/S2.1m[i51.3.1 Z5 
+0000129 030  JJ      little                   A11.1-/S2.1m[i51.3.2 N3.2- T3- N3.7- N3.3- T1.3- A11.1- 
+0000129 040  NN1     man                      A11.1-/S2.1m[i51.3.3 S2.2m 
+0000130 010  VVD     said                     Q2.1 
+0000130 020  NP1     Sam                      Z1mf 
+0000131 010  VVD     said                     Q2.1 
+0000131 020  AT      the                      Z5 
+0000131 030  JJ      benevolent               S8+ 
+0000131 040  NN1     gentleman                S2.2m 
+0000132 010  VVD     said                     Q2.1 
+0000132 020  AT      the                      A11.1-/S2.1m[i52.3.1 Z5 
+0000132 030  JJ      little                   A11.1-/S2.1m[i52.3.2 N3.2- T3- N3.7- N3.3- T1.3- A11.1- 
+0000132 040  NN1     man                      A11.1-/S2.1m[i52.3.3 S2.2m 
+0000133 010  VVD     said                     Q2.1 
+0000133 020  NNB     Mr.                      Z1m[i53.2.1 S2.2m 
+0000133 030  NP1     Pickwick                 Z1m[i53.2.2 Z1 
+0000134 010  VVD     continued                T2++ 
+0000134 020  NNB     Mr.                      Z1m[i54.2.1 S2.2m 
+0000134 030  NP1     Pickwick                 Z1m[i54.2.2 Z1 
+0000135 010  VVD     said                     Q2.1 
+0000135 020  AT      the                      A11.1-/S2.1m[i55.3.1 Z5 
+0000135 030  JJ      little                   A11.1-/S2.1m[i55.3.2 N3.2- T3- N3.7- N3.3- T1.3- A11.1- 
+0000135 040  NN1     man                      A11.1-/S2.1m[i55.3.3 S2.2m 
+0000136 010  VVD     said                     Q2.1 
+0000136 020  AT      the                      A11.1-/S2.1m[i56.3.1 Z5 
+0000136 030  JJ      little                   A11.1-/S2.1m[i56.3.2 N3.2- T3- N3.7- N3.3- T1.3- A11.1- 
+0000136 040  NN1     man                      A11.1-/S2.1m[i56.3.3 S2.2m 
+0000137 010  VVD     said                     Q2.1 
+0000137 020  AT      the                      A11.1-/S2.1m[i57.3.1 Z5 
+0000137 030  JJ      little                   A11.1-/S2.1m[i57.3.2 N3.2- T3- N3.7- N3.3- T1.3- A11.1- 
+0000137 040  NN1     man                      A11.1-/S2.1m[i57.3.3 S2.2m 
+0000138 010  VVD     replied                  Q2.2 Q1.1 
+0000138 020  NP1     Wardle                   Z1 
+0000139 010  VVD     said                     Q2.1 
+0000139 020  PPHS1   he                       Z8m 
+0000140 010  VVD     resumed                  T2+/N6+ 
+0000140 020  AT      the                      A11.1-/S2.1m[i58.3.1 Z5 
+0000140 030  JJ      little                   A11.1-/S2.1m[i58.3.2 N3.2- T3- N3.7- N3.3- T1.3- A11.1- 
+0000140 040  NN1     man                      A11.1-/S2.1m[i58.3.3 S2.2m 
+0000141 010  VVD     interposed               Q2.2 
+0000141 020  NNB     Mr.                      Z1m[i59.2.1 S2.2m 
+0000141 030  NP1     Wardle                   Z1m[i59.2.2 Z1 
+0000142 010  VVD     said                     Q2.1 
+0000142 020  NNB     Mr.                      Z1m[i60.2.1 S2.2m 
+0000142 030  NP1     Wardle                   Z1m[i60.2.2 Z1 
+0000143 010  VVD     said                     Q2.1 
+0000143 020  NNB     Mr.                      Z1m[i61.2.1 S2.2m 
+0000143 030  NP1     Pickwick                 Z1m[i61.2.2 Z1 
+0000143 040  RR      earnestly                A13.3 E4.1- 
+0000144 010  VVD     said                     Q2.1 
+0000144 020  NNB     Mr.                      Z1m[i62.2.1 S2.2m 
+0000144 030  NP1     Pickwick                 Z1m[i62.2.2 Z1 
+0000145 010  VVD     said                     Q2.1 
+0000145 020  AT      the                      Z5 
+0000145 030  JJ      old                      T3+ Z4 
+0000145 040  NN1     gentleman                S2.2m 
+0000146 010  PPHS1   he                       Z8m 
+0000146 020  VVD     said                     Q2.1 
+0000147 010  VVD     said                     Q2.1 
+0000147 020  NNB     Mr.                      Z1m[i63.2.1 S2.2m 
+0000147 030  NP1     Pickwick                 Z1m[i63.2.2 Z1 
+0000148 010  VVD     said                     Q2.1 
+0000148 020  PPHS1   he                       Z8m 
+0000149 010  VVD     said                     Q2.1 
+0000149 020  NNB     Mr.                      Z1m[i64.2.1 S2.2m 
+0000149 030  NP1     Pickwick                 Z1m[i64.2.2 Z1 
+0000150 010  VVD     said                     Q2.1 
+0000150 020  NNB     Mr.                      Z1m[i65.2.1 S2.2m 
+0000150 030  NP1     Pickwick                 Z1m[i65.2.2 Z1 
+0000151 010  VVD     said                     Q2.1 
+0000151 020  NNB     Mr.                      Z1m[i66.2.1 S2.2m 
+0000151 030  NP1     Pickwick                 Z1m[i66.2.2 Z1 
+0000152 010  VVD     replied                  Q2.2 Q1.1 
+0000152 020  NNB     Mrs.                     Z1f[i68.2.1 Z1m[i67.2.1 
+0000152 030  NP1     Bardell                  Z1f[i68.2.2 Z1m[i67.2.2 
+0000153 010  VVD     said                     Q2.1 
+0000153 020  NNB     Mr.                      Z1m[i69.2.1 S2.2m 
+0000153 030  NP1     Pickwick                 Z1m[i69.2.2 Z1 
+0000154 010  VVD     resumed                  T2+/N6+ 
+0000154 020  NNB     Mr.                      Z1m[i70.2.1 S2.2m 
+0000154 030  NP1     Pickwick                 Z1m[i70.2.2 Z1 
+0000155 010  VVD     exclaimed                Q2.2 
+0000155 020  NNB     Mrs.                     Z1f[i72.2.1 Z1m[i71.2.1 
+0000155 030  NP1     Bardell                  Z1f[i72.2.2 Z1m[i71.2.2 
+0000155 040  RR      frantically              X5.2+ 
+0000156 010  VVD     said                     Q2.1 
+0000156 020  NNB     Mr.                      Z1m[i73.2.1 S2.2m 
+0000156 030  NP1     Pickwick                 Z1m[i73.2.2 Z1 
+0000157 010  VVD     said                     Q2.1 
+0000157 020  NNB     Mr.                      Z1m[i74.2.1 S2.2m 
+0000157 030  NP1     Pickwick                 Z1m[i74.2.2 Z1 
+0000157 040  RR      hastily                  N3.8+ A1.3- 
+0000158 010  VVD     interposed               Q2.2 
+0000158 020  NP1     Sam                      Z1mf 
+0000159 010  VVD     said                     Q2.1 
+0000159 020  NNB     Mr.                      Z1m[i75.2.1 S2.2m 
+0000159 030  NP1     Pickwick                 Z1m[i75.2.2 Z1 
+0000160 010  VVD     said                     Q2.1 
+0000160 020  NNB     Mr.                      Z1m[i76.2.1 S2.2m 
+0000160 030  NP1     Pickwick                 Z1m[i76.2.2 Z1 
+0000161 010  VVD     replied                  Q2.2 Q1.1 
+0000161 020  AT      the                      Z5 
+0000161 030  NN1     man                      S2.2m 
+0000162 010  VVD     said                     Q2.1 
+0000162 020  AT      the                      A11.1-/S2.1m[i77.3.1 Z5 
+0000162 030  JJ      little                   A11.1-/S2.1m[i77.3.2 N3.2- T3- N3.7- N3.3- T1.3- A11.1- 
+0000162 040  NN1     man                      A11.1-/S2.1m[i77.3.3 S2.2m 
+0000163 010  VVD     said                     Q2.1 
+0000163 020  NP1     Pott                     Z99 
+0000164 010  VVD     said                     Q2.1 
+0000164 020  NP1     Pott                     Z99 
+0000165 010  VVD     said                     Q2.1 
+0000165 020  NP1     Pott                     Z99 
+0000166 010  VVD     said                     Q2.1 
+0000166 020  NNB     Mr.                      Z1m[i78.2.1 S2.2m 
+0000166 030  NP1     Pickwick                 Z1m[i78.2.2 Z1 
+0000167 010  VVD     said                     Q2.1 
+0000167 020  RR      little                   A13.7 
+0000167 030  NNB     Mr.                      Z1m[i79.2.1 S2.2m 
+0000167 040  NP1     Perker                   Z1m[i79.2.2 
+0000168 010  VVD     said                     Q2.1 
+0000168 020  NNB     Mr.                      Z1m[i80.2.1 S2.2m 
+0000168 030  NP1     Pott                     Z1m[i80.2.2 
+0000169 010  VVD     said                     Q2.1 
+0000169 020  NNB     Mr.                      Z1m[i81.2.1 S2.2m 
+0000169 030  NP1     Pott                     Z1m[i81.2.2 
+0000170 010  VVD     said                     Q2.1 
+0000170 020  NNB     Mr.                      Z1m[i82.2.1 S2.2m 
+0000170 030  NP1     Pickwick                 Z1m[i82.2.2 Z1 
+0000171 010  VVD     said                     Q2.1 
+0000171 020  NNB     Mrs.                     Z1f[i84.2.1 Z1m[i83.2.1 
+0000171 030  NP1     Pott                     Z1f[i84.2.2 Z1m[i83.2.2 
+0000171 040  RR      emphatically             E6+ 
+0000172 010  VVD     replied                  Q2.2 Q1.1 
+0000172 020  NNB     Mr.                      Z1m[i85.2.1 S2.2m 
+0000172 030  NP1     Weller                   Z1m[i85.2.2 
+0000173 010  VVD     said                     Q2.1 
+0000173 020  NNB     Mr.                      Z1m[i86.2.1 S2.2m 
+0000173 030  NP1     Pickwick                 Z1m[i86.2.2 Z1 
+0000174 010  VVD     replied                  Q2.2 Q1.1 
+0000174 020  NP1     Sam                      Z1mf 
+0000175 010  VVZ     says                     Q2.1 
+0000175 020  PPHS1   he                       Z8m 
+0000176 010  VVZ     says                     Q2.1 
+0000176 020  AT      the                      Z5 
+0000176 030  NN1     gen'l'm'n                Z99 
+0000177 010  VVD     said                     Q2.1 
+0000177 020  AT      the                      Z5 
+0000177 030  NN1     gen'l'm'n                Z99 
+0000178 010  VVZ     says                     Q2.1 
+0000178 020  APPGE   my                       Z8 
+0000178 030  NN1     father                   S4m S9/S2.2m 
+0000179 010  VVZ     says                     Q2.1 
+0000179 020  PPHS1   he                       Z8m 
+0000180 010  VVZ     says                     Q2.1 
+0000180 020  APPGE   my                       Z8 
+0000180 030  NN1     father                   S4m S9/S2.2m 
+0000181 010  VVZ     says                     Q2.1 
+0000181 020  AT      the                      Z5 
+0000181 030  NN1     gen'l'm'n                Z99 
+0000182 010  VVZ     says                     Q2.1 
+0000182 020  APPGE   my                       Z8 
+0000182 030  NN1     father                   S4m S9/S2.2m 
+0000183 010  VVZ     says                     Q2.1 
+0000183 020  AT      the                      Z5 
+0000183 030  NN1     gen'l'm'n                Z99 
+0000184 010  VVZ     says                     Q2.1 
+0000184 020  APPGE   my                       Z8 
+0000184 030  NN1     father                   S4m S9/S2.2m 
+0000185 010  VVZ     says                     Q2.1 
+0000185 020  AT      the                      Z5 
+0000185 030  NN1     gen'l'm'n                Z99 
+0000186 010  VVZ     says                     Q2.1 
+0000186 020  APPGE   my                       Z8 
+0000186 030  NN1     father                   S4m S9/S2.2m 
+0000187 010  VVZ     says                     Q2.1 
+0000187 020  AT      the                      Z5 
+0000187 030  NN1     gen'l'm'n                Z99 
+0000188 010  VVZ     says                     Q2.1 
+0000188 020  APPGE   my                       Z8 
+0000188 030  NN1     father                   S4m S9/S2.2m 
+0000189 010  VVZ     says                     Q2.1 
+0000189 020  AT      the                      Z5 
+0000189 030  NN1     gen'l'm'n                Z99 
+0000190 010  VVZ     says                     Q2.1 
+0000190 020  PPHS1   he                       Z8m 
+0000191 010  VVZ     says                     Q2.1 
+0000191 020  APPGE   my                       Z8 
+0000191 030  NN1     father                   S4m S9/S2.2m 
+0000192 010  VVD     replied                  Q2.2 Q1.1 
+0000192 020  AT      the                      Z5 
+0000192 030  NN1     agent                    I2.1/S2mf G3/S2mf K4/S2mf 
+0000193 010  VVD     said                     Q2.1 
+0000193 020  NNB     Mr.                      Z1m[i87.2.1 S2.2m 
+0000193 030  NP1     Tupman                   Z1m[i87.2.2 
+0000194 010  VVD     cried                    E4.1- Q2.2 
+0000194 020  MC1     one                      N1 T3 T1.2 
+0000194 030  NN1     voice                    Q2.1 X2.1 S7.1+ Q3 K2 
+0000195 010  VVD     cried                    E4.1- Q2.2 
+0000195 020  AT      the                      Z5 
+0000195 030  NN1     voice                    Q2.1 X2.1 S7.1+ Q3 K2 
+0000196 010  VVD     continued                T2++ 
+0000196 020  AT      the                      Z5 
+0000196 030  NN1     bagman                   M1 I2.2/S2.2m I2.1 I2.2/Q2.2 M1/S2mf I2.2/S2mf S9/S2mf S5+/S2mf Q2.2/S2mf Q3/I3.2/S2mf K2/S2mf Y2 A6.2+ G1.1 A4.1 S1.1.3 Q2.1/S2mf G1.1/S2mf Q2.1 X2.1 S7.1+ Q3 K2 
+0000197 010  VVD     replied                  Q2.2 Q1.1 
+0000197 020  AT      the                      Z5 
+0000197 030  JJ      one-eyed                 B1 O4.1 
+0000197 040  NN1     bagman                   M1 I2.2/S2.2m I2.1 I2.2/Q2.2 M1/S2mf I2.2/S2mf S9/S2mf S5+/S2mf Q2.2/S2mf Q3/I3.2/S2mf K2/S2mf Y2 A6.2+ G1.1 A4.1 S1.1.3 Q2.1/S2mf G1.1/S2mf Q2.1 X2.1 S7.1+ Q3 K2 
+0000198 010  VVD     replied                  Q2.2 Q1.1 
+0000198 020  AT      the                      Z5 
+0000198 030  NN1     bagman                   M1 I2.2/S2.2m I2.1 I2.2/Q2.2 M1/S2mf I2.2/S2mf S9/S2mf S5+/S2mf Q2.2/S2mf Q3/I3.2/S2mf K2/S2mf Y2 A6.2+ G1.1 A4.1 S1.1.3 Q2.1/S2mf G1.1/S2mf Q2.1 X2.1 S7.1+ Q3 K2 
+0000199 010  VVD     resumed                  T2+/N6+ 
+0000199 020  AT      the                      Z5 
+0000199 030  JJ      new                      T3- 
+0000199 040  NN1     acquaintance             S3.1/S2mf X2.2+ 
+0000200 010  VVD     replied                  Q2.2 Q1.1 
+0000200 020  AT      the                      Z5 
+0000200 030  JJ      grave                    E4.1- 
+0000200 040  NN1     man                      S2.2m 
+0000201 010  VVD     said                     Q2.1 
+0000201 020  NNB     Mr.                      Z1m[i89.3.1 S2.2m Z1m[i88.2.1 
+0000201 030  NP1     Leo                      Z1m[i89.3.2 Z1m S9/S2mf S9 Z1m[i88.2.2 Z1mf[i90.2.1 Z3c[i90.2.1 
+0000201 040  NP1     Hunter                   Z1m[i89.3.3 Z1mf Z1mf[i90.2.2 Z3c[i90.2.2 
+0000202 010  VVD     said                     Q2.1 
+0000202 020  NNB     Mr.                      Z1m[i92.3.1 S2.2m Z1m[i91.2.1 
+0000202 030  NP1     Leo                      Z1m[i92.3.2 Z1m S9/S2mf S9 Z1m[i91.2.2 Z1mf[i93.2.1 Z3c[i93.2.1 
+0000202 040  NP1     Hunter                   Z1m[i92.3.3 Z1mf Z1mf[i93.2.2 Z3c[i93.2.2 
+0000203 010  VVD     said                     Q2.1 
+0000203 020  NNB     Mr.                      Z1m[i94.2.1 S2.2m 
+0000203 030  NP1     Pickwick                 Z1m[i94.2.2 Z1 
+0000204 010  VVD     said                     Q2.1 
+0000204 020  NNB     Mr.                      Z1m[i95.2.1 S2.2m 
+0000204 030  NP1     Pickwick                 Z1m[i95.2.2 Z1 
+0000205 010  VVD     continued                T2++ 
+0000205 020  NNB     Mr.                      Z1m[i96.2.1 S2.2m 
+0000205 030  NP1     Pickwick                 Z1m[i96.2.2 Z1 
+0000206 010  VVD     said                     Q2.1 
+0000206 020  NNB     Mr.                      Z1m[i97.2.1 S2.2m 
+0000206 030  NP1     Tupman                   Z1m[i97.2.2 
+0000207 010  VVD     said                     Q2.1 
+0000207 020  NNB     Mr.                      Z1m[i98.2.1 S2.2m 
+0000207 030  NP1     Pickwick                 Z1m[i98.2.2 Z1 
+0000208 010  VVD     said                     Q2.1 
+0000208 020  NNB     Mr.                      Z1m[i99.2.1 S2.2m 
+0000208 030  NP1     Pickwick                 Z1m[i99.2.2 Z1 
+0000209 010  VVD     interrupted              Q2.2 X7- T2- 
+0000209 020  NNB     Mr.                      Z1m[i100.2.1 S2.2m 
+0000209 030  NP1     Pickwick                 Z1m[i100.2.2 Z1 
+0000210 010  VVD     said                     Q2.1 
+0000210 020  NNB     Mrs.                     Z1f[i104.3.1 Z1m[i102.3.1 Z1m[i101.2.1 Z1f[i103.2.1 
+0000210 030  NP1     Leo                      Z1f[i104.3.2 Z1m S9/S2mf S9 Z1m[i102.3.2 Z1m[i101.2.2 Z1f[i103.2.2 Z1mf[i105.2.1 Z3c[i105.2.1 
+0000210 040  NP1     Hunter                   Z1f[i104.3.3 Z1mf Z1m[i102.3.3 Z1mf[i105.2.2 Z3c[i105.2.2 
+0000211 010  VVD     said                     Q2.1 
+0000211 020  AT      the                      Z3fnc[i106.2.1 Z5 
+0000211 030  NN1     lady                     Z3fnc[i106.2.2 S2.1f S7.1+/S2.1f 
+0000212 010  VVD     said                     Q2.1 
+0000212 020  NNB     Mr.                      Z1m[i107.2.1 S2.2m 
+0000212 030  NP1     Pickwick                 Z1m[i107.2.2 Z1 
+0000212 040  JJ      smiling                  E4.1+ 
+0000213 010  VVD     said                     Q2.1 
+0000213 020  NNB     Mr.                      Z1m[i108.2.1 S2.2m 
+0000213 030  NP1     Pickwick                 Z1m[i108.2.2 Z1 
+0000214 010  VVD     said                     Q2.1 
+0000214 020  NNB     Mrs.                     Z1f[i112.3.1 Z1m[i110.3.1 Z1m[i109.2.1 Z1f[i111.2.1 
+0000214 030  NP1     Leo                      Z1f[i112.3.2 Z1m S9/S2mf S9 Z1m[i110.3.2 Z1m[i109.2.2 Z1f[i111.2.2 Z1mf[i113.2.1 Z3c[i113.2.1 
+0000214 040  NP1     Hunter                   Z1f[i112.3.3 Z1mf Z1m[i110.3.3 Z1mf[i113.2.2 Z3c[i113.2.2 
+0000215 010  VVD     cried                    E4.1- Q2.2 
+0000215 020  AT1     a                        Z5 
+0000215 030  NN1     voice                    Q2.1 X2.1 S7.1+ Q3 K2 
+0000216 010  VVD     said                     Q2.1 
+0000216 020  NNB     Mrs.                     Z1f[i117.3.1 Z1m[i115.3.1 Z1m[i114.2.1 Z1f[i116.2.1 
+0000216 030  NP1     Leo                      Z1f[i117.3.2 Z1m S9/S2mf S9 Z1m[i115.3.2 Z1m[i114.2.2 Z1f[i116.2.2 Z1mf[i118.2.1 Z3c[i118.2.1 
+0000216 040  NP1     Hunter                   Z1f[i117.3.3 Z1mf Z1m[i115.3.3 Z1mf[i118.2.2 Z3c[i118.2.2 
+0000217 010  VVD     said                     Q2.1 
+0000217 020  NNB     Mr.                      Z1m[i119.2.1 S2.2m 
+0000217 030  NP1     Pickwick                 Z1m[i119.2.2 Z1 
+0000218 010  VVD     resumed                  T2+/N6+ 
+0000218 020  NNB     Mr.                      Z1m[i120.2.1 S2.2m 
+0000218 030  NP1     Weller                   Z1m[i120.2.2 
+0000218 031  ,       ,                        
+0000218 040  VHZ     'as                      Z5 
+0000219 010  VVN@    replied                  Q2.2 
+0000219 020  NNB     Mr.                      Z1m[i121.2.1 S2.2m 
+0000219 030  NP1     Weller                   Z1m[i121.2.2 
+0000220 010  VVD     said                     Q2.1 
+0000220 020  NNB     Mr.                      Z1m[i122.2.1 S2.2m 
+0000220 030  NP1     Pickwick                 Z1m[i122.2.2 Z1 
+0000221 010  VVD     said                     Q2.1 
+0000221 020  NNB     Mr.                      Z1m[i123.2.1 S2.2m 
+0000221 030  NP1     Weller                   Z1m[i123.2.2 
+0000221 031  ,       ,                        
+0000221 040  JJ      advancing                M1 A5.1+/A2.1+ I1.1 T4+ S8+ X2.1 
+0000222 010  VVD     said                     Q2.1 
+0000222 020  NP1     Sam                      Z1mf 
+0000223 010  VVD     remonstrated             Q2.2 
+0000223 020  NNB     Mr.                      Z1m[i124.2.1 S2.2m 
+0000223 030  NP1     Weller                   Z1m[i124.2.2 
+0000224 010  VVD     said                     Q2.1 
+0000224 020  NP1     Sam                      Z1mf 
+0000225 010  VVD     said                     Q2.1 
+0000225 020  NP1     Sam                      Z1mf 
+0000225 021  ,       ,                        
+0000225 030  VVG     ruminating               X2.1 L2 
+0000226 010  VVD     replied                  Q2.2 Q1.1 
+0000226 020  NNB     Mr.                      Z1m[i125.2.1 S2.2m 
+0000226 030  NP1     Pickwick                 Z1m[i125.2.2 Z1 
+0000227 010  VVD     said                     Q2.1 
+0000227 020  NNB     Mr.                      Z1m[i126.2.1 S2.2m 
+0000227 030  NP1     Trotter                  Z1m[i126.2.2 
+0000228 010  VVD     said                     Q2.1 
+0000228 020  NNB     Mr.                      Z1m[i127.2.1 S2.2m 
+0000228 030  NP1     Pickwick                 Z1m[i127.2.2 Z1 
+0000229 010  VVD     said                     Q2.1 
+0000229 020  NN1     Job                      I3.1 A1.1.1 A12- 
+0000230 010  VVD     resumed                  T2+/N6+ 
+0000230 020  NN1     Job                      I3.1 A1.1.1 A12- 
+0000231 010  VVD     replied                  Q2.2 Q1.1 
+0000231 020  NN1     Job                      I3.1 A1.1.1 A12- 
+0000232 010  VVD     said                     Q2.1 
+0000232 020  NNB     Mr.                      Z1m[i128.2.1 S2.2m 
+0000232 030  NP1     Pickwick                 Z1m[i128.2.2 Z1 
+0000233 010  VVD     said                     Q2.1 
+0000233 020  NP1     Sam                      Z1mf 
+0000234 010  VVD     said                     Q2.1 
+0000234 020  NNB     Mr.                      Z1m[i129.2.1 S2.2m 
+0000234 030  NP1     Pickwick                 Z1m[i129.2.2 Z1 
+0000235 010  VVD     said                     Q2.1 
+0000235 020  AT      the                      Z5 
+0000235 030  DA      latter                   N4 
+0000236 010  VVD     said                     Q2.1 
+0000236 020  NNB     Mr.                      Z1m[i130.2.1 S2.2m 
+0000236 030  NP1     Pickwick                 Z1m[i130.2.2 Z1 
+0000236 031  ,       ,                        
+0000236 040  VVG     rising                   M1 N5+/A2.1 N3.2+/A2.1 S7.1+/A2.1 N3.7+/A2.1 
+0000237 010  VVD     said                     Q2.1 
+0000237 020  NP1     Sam                      Z1mf 
+0000238 010  VVD     responded                S1.1.2+ Q2.2 
+0000238 020  NNB     Mr.                      Z1m[i131.2.1 S2.2m 
+0000238 030  NP1     Winkle                   Z1m[i131.2.2 
+0000239 010  VVD     said                     Q2.1 
+0000239 020  NNB     Mr.                      Z1m[i132.2.1 S2.2m 
+0000239 030  NP1     Pott                     Z1m[i132.2.2 
+0000239 040  RR      solemnly                 O4.2 A5.2+ 
+0000240 010  VVD     said                     Q2.1 
+0000240 020  AT      the                      Z5 
+0000240 030  JJ      terrified                E5- 
+0000240 040  NP1     Pott                     Z99 
+0000241 010  VVD     said                     Q2.1 
+0000241 020  NNB     Mr.                      Z1m[i133.2.1 S2.2m 
+0000241 030  NP1     Pott                     Z1m[i133.2.2 
+0000242 010  VVD     sobbed                   E4.1- 
+0000242 020  NNB     Mrs.                     Z1f[i135.2.1 Z1m[i134.2.1 
+0000242 030  NP1     Pott                     Z1f[i135.2.2 Z1m[i134.2.2 
+0000243 010  VVD     remonstrated             Q2.2 
+0000243 020  NNB     Mr.                      Z1m[i136.2.1 S2.2m 
+0000243 030  NP1     Pott                     Z1m[i136.2.2 
+0000244 010  VVD     observed                 X3.4 Q2.1/X2.4 X2.1 G2.1+ 
+0000244 020  NNB     Mrs.                     Z1f[i138.2.1 Z1m[i137.2.1 
+0000244 030  NP1     Pott                     Z1f[i138.2.2 Z1m[i137.2.2 
+0000245 010  VVD     said                     Q2.1 
+0000245 020  NNB     Mr.                      Z1m[i139.2.1 S2.2m 
+0000245 030  NP1     Pott                     Z1m[i139.2.2 
+0000246 010  VVD     resumed                  T2+/N6+ 
+0000246 020  NNB     Mrs.                     Z1f[i141.2.1 Z1m[i140.2.1 
+0000246 030  NP1     Pott                     Z1f[i141.2.2 Z1m[i140.2.2 
+0000247 010  VVD     said                     Q2.1 
+0000247 020  NNB     Mr.                      Z1m[i142.2.1 S2.2m 
+0000247 030  NP1     Winkle                   Z1m[i142.2.2 
+0000248 010  VVD     said                     Q2.1 
+0000248 020  NNB     Mr.                      Z1m[i143.2.1 S2.2m 
+0000248 030  NP1     Pickwick                 Z1m[i143.2.2 Z1 
+0000249 010  VVD     said                     Q2.1 
+0000249 020  PPHS1   he                       Z8m 
+0000250 010  VVD     said                     Q2.1 
+0000250 020  NP1     Wardle                   Z1 
+0000251 010  VVD     said                     Q2.1 
+0000251 020  NP1     Wardle                   Z1 
+0000252 010  VVD     said                     Q2.1 
+0000252 020  NNB     Mr.                      Z1m[i144.2.1 S2.2m 
+0000252 030  NP1     Pickwick                 Z1m[i144.2.2 Z1 
+0000253 010  VVD     replied                  Q2.2 Q1.1 
+0000253 020  NP1     Wardle                   Z1 
+0000254 010  VVD     said                     Q2.1 
+0000254 020  NNB     Mr.                      Z1m[i145.2.1 S2.2m 
+0000254 030  NP1     Pickwick                 Z1m[i145.2.2 Z1 
+0000255 010  VVD     said                     Q2.1 
+0000255 020  NNB     Mr.                      Z1m[i146.2.1 S2.2m 
+0000255 030  NP1     Pickwick                 Z1m[i146.2.2 Z1 
+0000255 031  ,       ,                        
+0000255 040  RR      resolutely               A7+ 
+0000256 010  VVD     replied                  Q2.2 Q1.1 
+0000256 020  NNB     Mr.                      Z1m[i147.2.1 S2.2m 
+0000256 030  NP1     Pickwick                 Z1m[i147.2.2 Z1 
+0000257 010  VVD     said                     Q2.1 
+0000257 020  AT      the                      Z5 
+0000257 030  JJ      long                     N3.7+ T1.3+ N3.3+ N3.2+ 
+0000257 040  NN1     gamekeeper               L2/S2mf 
+0000258 010  VVD     said                     Q2.1 
+0000258 020  AT      the                      Z5 
+0000258 030  JJ      old                      T3+ Z4 
+0000258 040  NN1     gentleman                S2.2m 
+0000259 010  VVD     replied                  Q2.2 Q1.1 
+0000259 020  AT      the                      Z5 
+0000259 030  JJ      long                     N3.7+ T1.3+ N3.3+ N3.2+ 
+0000259 040  NN1     gamekeeper               L2/S2mf 
+0000260 010  VVD     said                     Q2.1 
+0000260 020  AT      the                      Z5 
+0000260 030  JJ      old                      T3+ Z4 
+0000260 040  NN1     gentleman                S2.2m 
+0000261 010  VVD     said                     Q2.1 
+0000261 020  NNB     Mr.                      Z1m[i148.2.1 S2.2m 
+0000261 030  NP1     Tupman                   Z1m[i148.2.2 
+0000262 010  VVD     said                     Q2.1 
+0000262 020  AT      the                      Z5 
+0000262 030  JJ      old                      T3+ Z4 
+0000262 040  NN1     gentleman                S2.2m 
+0000263 010  VVZ     says                     Q2.1 
+0000263 020  PPHS1   he                       Z8m 
+0000264 010  VVZ     says                     Q2.1 
+0000264 020  PPHS1   he                       Z8m 
+0000265 010  VVZ     says                     Q2.1 
+0000265 020  PPHS1   he                       Z8m 
+0000266 010  VVD     said                     Q2.1 
+0000266 020  NNB     Mr.                      Z1m[i149.2.1 S2.2m 
+0000266 030  NP1     Weller                   Z1m[i149.2.2 
+0000267 010  VVD     said                     Q2.1 
+0000267 020  NP1     Wilkins                  Z1m A4.1 T1.2 G1.1 S1.2.4+ G2.1 H1% S7.1+/S2mf A5.1+++/S2mf Q4.2 G2.1/S2mf I3.1/S2mf G1.2/S2mf M1/S2mf M1/X5.2+/S2mf G2.2-/S2mf Y1/S2mf Y1/L1/S2mf Y1/B1/S2mf 
+0000268 010  VVD     said                     Q2.1 
+0000268 020  AT      the                      Z5 
+0000268 030  NN1     captain                  G3/S7.1+/S2mf M4/S7.1+/S2mf M5/S7.1+/S2mf K5/S7.1+/S2mf 
+0000269 010  VVD     said                     Q2.1 
+0000269 020  NNB     Mr.                      Z1m[i150.2.1 S2.2m 
+0000269 030  NP1     Pickwick                 Z1m[i150.2.2 Z1 
+0000270 010  VVD     replied                  Q2.2 Q1.1 
+0000270 020  NP1     Jackson                  Z1mf 
+0000271 010  VVD     replied                  Q2.2 Q1.1 
+0000271 020  NNB     Mr.                      Z1m[i151.2.1 S2.2m 
+0000271 030  NP1     Pickwick                 Z1m[i151.2.2 Z1 
+0000272 010  VVD     said                     Q2.1 
+0000272 020  NP1     Fogg                     Z99 
+0000273 010  VVD     said                     Q2.1 
+0000273 020  NP1     Dodson                   Z99 
+0000274 010  VVD     said                     Q2.1 
+0000274 020  NP1     Dodson                   Z99 
+0000275 010  VVD     said                     Q2.1 
+0000275 020  NP1     Dodson                   Z99 
+0000276 010  VVD     replied                  Q2.2 Q1.1 
+0000276 020  NP1     Dodson                   Z99 
+0000277 010  VVD     continued                T2++ 
+0000277 020  NP1     Dodson                   Z99 
+0000278 010  VVD     said                     Q2.1 
+0000278 020  NNB     Mr.                      Z1m[i152.2.1 S2.2m 
+0000278 030  NP1     Pickwick                 Z1m[i152.2.2 Z1 
+0000279 010  VVD     replied                  Q2.2 Q1.1 
+0000279 020  NNB     Mr.                      Z1m[i153.2.1 S2.2m 
+0000279 030  NP1     Pickwick                 Z1m[i153.2.2 Z1 
+0000280 010  VVD     replied                  Q2.2 Q1.1 
+0000280 020  AT      the                      S4m[i154.3.1 S7.1/S2m[i154.3.1 Z5 
+0000280 030  JJ      old                      S4m[i154.3.2 S7.1/S2m[i154.3.2 T3+ Z4 
+0000280 040  NN1     man                      S4m[i154.3.3 S7.1/S2m[i154.3.3 S2.2m 
+0000281 010  VVD     added                    N5+/A2.1 N2 A1.8+ 
+0000281 020  NNB     Mr.                      Z1m[i155.2.1 S2.2m 
+0000281 030  NP1     Weller                   Z1m[i155.2.2 
+0000282 010  VVD     said                     Q2.1 
+0000282 020  NNB     Mr.                      Z1m[i156.2.1 S2.2m 
+0000282 030  NP1     Weller                   Z1m[i156.2.2 
+0000283 010  VVD     said                     Q2.1 
+0000283 020  NNB     Mr.                      Z1m[i157.2.1 S2.2m 
+0000283 030  NP1     Weller                   Z1m[i157.2.2 
+0000284 010  VVD     said                     Q2.1 
+0000284 020  NNB     Mr.                      Z1m[i158.2.1 S2.2m 
+0000284 030  NP1     Pickwick                 Z1m[i158.2.2 Z1 
+0000285 010  VVD     said                     Q2.1 
+0000285 020  NNB     Mr.                      Z1m[i159.2.1 S2.2m 
+0000285 030  NP1     Pickwick                 Z1m[i159.2.2 Z1 
+0000286 010  VVD     said                     Q2.1 
+0000286 020  NP1     Sam                      Z1mf 
+0000287 010  VVD     replied                  Q2.2 Q1.1 
+0000287 020  NNB     Mr.                      Z1m[i160.2.1 S2.2m 
+0000287 030  NP1     Weller                   Z1m[i160.2.2 
+0000288 010  VVD     replied                  Q2.2 Q1.1 
+0000288 020  NNB     Mr.                      Z1m[i161.2.1 S2.2m 
+0000288 030  NP1     Weller                   Z1m[i161.2.2 
+0000289 010  VVD     said                     Q2.1 
+0000289 020  NNB     Mr.                      Z1m[i162.2.1 S2.2m 
+0000289 030  NP1     Pickwick                 Z1m[i162.2.2 Z1 
+0000290 010  VVD     replied                  Q2.2 Q1.1 
+0000290 020  NNB     Mr.                      Z1m[i163.2.1 S2.2m 
+0000290 030  NP1     Weller                   Z1m[i163.2.2 
+0000291 010  VVD     said                     Q2.1 
+0000291 020  NNB     Mr.                      Z1m[i164.2.1 S2.2m 
+0000291 030  NP1     Pickwick                 Z1m[i164.2.2 Z1 
+0000292 010  VVD     said                     Q2.1 
+0000292 020  AT      the                      Z5 
+0000292 030  JJ      old                      T3+ Z4 
+0000292 040  NN1     woman                    S2.1f 
+0000293 010  VVD     said                     Q2.1 
+0000293 020  NNB     Mr.                      Z1m[i165.2.1 S2.2m 
+0000293 030  NP1     Pickwick                 Z1m[i165.2.2 Z1 
+0000294 010  VVD     replied                  Q2.2 Q1.1 
+0000294 020  NNB     Mr.                      Z1m[i166.2.1 S2.2m 
+0000294 030  NP1     Pickwick                 Z1m[i166.2.2 Z1 
+0000295 010  VVD     replied                  Q2.2 Q1.1 
+0000295 020  NNB     Mr.                      Z1m[i167.2.1 S2.2m 
+0000295 030  NP1     Pickwick                 Z1m[i167.2.2 Z1 
+0000296 010  VVD     said                     Q2.1 
+0000296 020  NP1     Lowten                   Z99 
+0000297 010  VVD     replied                  Q2.2 Q1.1 
+0000297 020  NP1     Sam                      Z1mf 
+0000298 010  VVZ     says                     Q2.1 
+0000298 020  PPIS1   I                        Z8mf 
+0000299 010  VVD     said                     Q2.1 
+0000299 020  AT      the                      Z5 
+0000299 030  JJ      red-haired               Z99 
+0000299 040  NN1     man                      S2.2m 
+0000300 010  VVD     said                     Q2.1 
+0000300 020  AT      the                      Z5 
+0000300 030  NN1     new-comer                M1/T3-/S2mf T2+/X9.1-/S2mf T3- T3-- T3— F1 O2 T2+ K5.1/S2mf X9.1- P1/S2mf Y2/T3-/S2mf S1.1.3+/S2mf T2+/S2mf X9.1-/S2mf M1 T2- M1/S2mf S7.3+/S2mf 
+0000301 010  VVD     said                     Q2.1 
+0000301 020  AT      the                      Z5 
+0000301 030  JJ      red-haired               Z99 
+0000301 040  NN1     man                      S2.2m 
+0000302 010  VVD     said                     Q2.1 
+0000302 020  AT      the                      Z5 
+0000302 030  NN1     stranger                 X2.2-/S2mf 
+0000303 010  VVD     said                     Q2.1 
+0000303 020  NP1     Sam                      Z1mf 
+0000304 010  VVD     said                     Q2.1 
+0000304 020  NP1     Sam                      Z1mf 
+0000305 010  VVD     said                     Q2.1 
+0000305 020  NNB     Mr.                      Z1m[i168.2.1 S2.2m 
+0000305 030  NP1     Weller                   Z1m[i168.2.2 
+0000305 031  ,       ,                        
+0000305 040  JJ      senior                   S7.1++ T3++ 
+0000306 010  VVD     said                     Q2.1 
+0000306 020  NNB     Mr.                      Z1m[i169.2.1 S2.2m 
+0000306 030  NP1     Pickwick                 Z1m[i169.2.2 Z1 
+0000307 010  VVD     said                     Q2.1 
+0000307 020  NNB     Mr.                      Z1m[i170.2.1 S2.2m 
+0000307 030  NP1     Pickwick                 Z1m[i170.2.2 Z1 
+0000308 010  VVD     said                     Q2.1 
+0000308 020  NNB     Mr.                      Z1m[i171.2.1 S2.2m 
+0000308 030  NP1     Magnus                   Z1m[i171.2.2 Z1m 
+0000309 010  VVD     said                     Q2.1 
+0000309 020  NNB     Mr.                      Z1m[i172.2.1 S2.2m 
+0000309 030  NP1     Pickwick                 Z1m[i172.2.2 Z1 
+0000310 010  VVD     replied                  Q2.2 Q1.1 
+0000310 020  NNB     Mr.                      Z1m[i174.3.1 S2.2m Z1m[i173.2.1 
+0000310 030  NP1     Peter                    Z1m[i174.3.2 Z1m Z1m[i173.2.2 Z1mf[i175.2.1 Z3c[i175.2.1 
+0000310 040  NP1     Magnus                   Z1m[i174.3.3 Z1m Z1mf[i175.2.2 Z3c[i175.2.2 
+0000311 010  VVD     said                     Q2.1 
+0000311 020  NNB     Mr.                      Z1m[i176.2.1 S2.2m 
+0000311 030  NP1     Pickwick                 Z1m[i176.2.2 Z1 
+0000312 010  VVD     said                     Q2.1 
+0000312 020  NNB     Mr.                      Z1m[i177.2.1 S2.2m 
+0000312 030  NP1     Magnus                   Z1m[i177.2.2 Z1m 
+0000313 010  VVD     said                     Q2.1 
+0000313 020  NNB     Mr.                      Z1m[i179.3.1 S2.2m Z1m[i178.2.1 
+0000313 030  NP1     Peter                    Z1m[i179.3.2 Z1m Z1m[i178.2.2 Z1mf[i180.2.1 Z3c[i180.2.1 
+0000313 040  NP1     Magnus                   Z1m[i179.3.3 Z1m Z1mf[i180.2.2 Z3c[i180.2.2 
+0000314 010  VVD     said                     Q2.1 
+0000314 020  NNB     Mr.                      Z1m[i182.3.1 S2.2m Z1m[i181.2.1 
+0000314 030  NP1     Peter                    Z1m[i182.3.2 Z1m Z1m[i181.2.2 Z1mf[i183.2.1 Z3c[i183.2.1 
+0000314 040  NP1     Magnus                   Z1m[i182.3.3 Z1m Z1mf[i183.2.2 Z3c[i183.2.2 
+0000315 010  VVD     said                     Q2.1 
+0000315 020  NNB     Mr.                      Z1m[i185.3.1 S2.2m Z1m[i184.2.1 
+0000315 030  NP1     Peter                    Z1m[i185.3.2 Z1m Z1m[i184.2.2 Z1mf[i186.2.1 Z3c[i186.2.1 
+0000315 040  NP1     Magnus                   Z1m[i185.3.3 Z1m Z1mf[i186.2.2 Z3c[i186.2.2 
+0000316 010  CC      or                       Z5 
+0000317 010  VVD     said                     Q2.1 
+0000317 020  NNB     Mr.                      Z1m[i187.2.1 S2.2m 
+0000317 030  NP1     Pickwick                 Z1m[i187.2.2 Z1 
+0000318 010  VVD     thought                  X2.1 
+0000318 020  NNB     Mr.                      Z1m[i188.2.1 S2.2m 
+0000318 030  NP1     Pickwick                 Z1m[i188.2.2 Z1 
+0000319 010  VVD     said                     Q2.1 
+0000319 020  AT      the                      Z5 
+0000319 030  JJ      middle-aged              T3+ 
+0000319 040  NN1     lady                     S2.1f S7.1+/S2.1f 
+0000320 010  VVD     said                     Q2.1 
+0000320 020  NNB     Mr.                      Z1m[i189.2.1 S2.2m 
+0000320 030  NP1     Pickwick                 Z1m[i189.2.2 Z1 
+0000321 010  VVZ     says                     Q2.1 
+0000321 020  PPHS1   he                       Z8m 
+0000322 010  VVD     said                     Q2.1 
+0000322 020  NNB     Mr.                      Z1m[i190.2.1 S2.2m 
+0000322 030  NP1     Weller                   Z1m[i190.2.2 
+0000323 010  VVD     exclaimed                Q2.2 
+0000323 020  NN1     Job                      I3.1 A1.1.1 A12- 
+0000323 030  NP1     Trotter                  L2 L2mfn S5+c O2c B1 O2 N3.7 N3.3 I1.2 N4 K5.1 S7.3+ M1/N3.8+ 
+0000324 010  VVD     echoed                   X3.2 
+0000324 020  NP1     Sam                      Z1mf 
+0000325 010  VVD     replied                  Q2.2 Q1.1 
+0000325 020  NNB     Mr.                      Z1m[i191.2.1 S2.2m 
+0000325 030  NP1     Trotter                  Z1m[i191.2.2 
+0000326 010  VVD     replied                  Q2.2 Q1.1 
+0000326 020  NN1     Job                      I3.1 A1.1.1 A12- 
+0000327 010  VVD     continued                T2++ 
+0000327 020  NNB     Mr.                      Z1m[i193.2.1 S2.2m Z1m[i192.2.1 
+0000327 030  NP1     Trotter                  Z1m[i193.2.2 Z1m[i192.2.2 
+0000328 010  VVD     said                     Q2.1 
+0000328 020  NP1     Sam                      Z1mf 
+0000329 010  VVD     replied                  Q2.2 Q1.1 
+0000329 020  NNB     Mr.                      Z1m[i194.2.1 S2.2m 
+0000329 030  NP1     Magnus                   Z1m[i194.2.2 Z1m 
+0000330 010  VVD     said                     Q2.1 
+0000330 020  NNB     Mr.                      Z1m[i195.2.1 S2.2m 
+0000330 030  NP1     Pickwick                 Z1m[i195.2.2 Z1 
+0000331 010  VVD     resumed                  T2+/N6+ 
+0000331 020  NNB     Mr.                      Z1m[i196.2.1 S2.2m 
+0000331 030  NP1     Pickwick                 Z1m[i196.2.2 Z1 
+0000332 010  VVD     said                     Q2.1 
+0000332 020  NNB     Mr.                      Z1m[i197.2.1 S2.2m 
+0000332 030  NP1     Magnus                   Z1m[i197.2.2 Z1m 
+0000333 010  VVD     said                     Q2.1 
+0000333 020  NNB     Mr.                      Z1m[i198.2.1 S2.2m 
+0000333 030  NP1     Magnus                   Z1m[i198.2.2 Z1m 
+0000334 010  VVD     said                     Q2.1 
+0000334 020  NNB     Mr.                      Z1m[i199.2.1 S2.2m 
+0000334 030  NP1     Magnus                   Z1m[i199.2.2 Z1m 
+0000335 010  VVD     said                     Q2.1 
+0000335 020  NNB     Mr.                      Z1m[i200.2.1 S2.2m 
+0000335 030  NP1     Magnus                   Z1m[i200.2.2 Z1m 
+0000336 010  VVD     replied                  Q2.2 Q1.1 
+0000336 020  NNB     Mr.                      Z1m[i201.2.1 S2.2m 
+0000336 030  NP1     Pickwick                 Z1m[i201.2.2 Z1 
+0000337 010  VVD     said                     Q2.1 
+0000337 020  NNB     Mr.                      Z1m[i203.3.1 S2.2m Z1m[i202.2.1 
+0000337 030  NP1     Peter                    Z1m[i203.3.2 Z1m Z1m[i202.2.2 Z1mf[i204.2.1 Z3c[i204.2.1 
+0000337 040  NP1     Magnus                   Z1m[i203.3.3 Z1m Z1mf[i204.2.2 Z3c[i204.2.2 
+0000338 010  VVD     inquired                 Q2.2 X2.4 
+0000338 020  NNB     Mr.                      Z1m[i205.2.1 S2.2m 
+0000338 030  NP1     Magnus                   Z1m[i205.2.2 Z1m 
+0000339 010  VVD     said                     Q2.1 
+0000339 020  NNB     Mr.                      Z1m[i206.2.1 S2.2m 
+0000339 030  NP1     Pickwick                 Z1m[i206.2.2 Z1 
+0000340 010  VVD     said                     Q2.1 
+0000340 020  NNB     Mr.                      Z1m[i207.2.1 S2.2m 
+0000340 030  NP1     Magnus                   Z1m[i207.2.2 Z1m 
+0000341 010  VVD     interposed               Q2.2 
+0000341 020  NNB     Mr.                      Z1m[i208.2.1 S2.2m 
+0000341 030  NP1     Pickwick                 Z1m[i208.2.2 Z1 
+0000342 010  VVD     said                     Q2.1 
+0000342 020  NNB     Mr.                      Z1m[i209.2.1 S2.2m 
+0000342 030  NP1     Magnus                   Z1m[i209.2.2 Z1m 
+0000343 010  VVD     said                     Q2.1 
+0000343 020  NNB     Mr.                      Z1m[i210.2.1 S2.2m 
+0000343 030  NP1     Magnus                   Z1m[i210.2.2 Z1m 
+0000344 010  VVD     said                     Q2.1 
+0000344 020  NNB     Mr.                      Z1m[i211.2.1 S2.2m 
+0000344 030  NP1     Pickwick                 Z1m[i211.2.2 Z1 
+0000345 010  VVD     said                     Q2.1 
+0000345 020  NNB     Miss                     Z1f[i212.2.1 
+0000345 030  NP1     Witherfield              Z1f[i212.2.2 
+0000346 010  VVD     said                     Q2.1 
+0000346 020  AT      the                      Z5 
+0000346 030  JJ      middle-aged              T3+ 
+0000346 040  NN1     lady                     S2.1f S7.1+/S2.1f 
+0000347 010  VVD     said                     Q2.1 
+0000347 020  AT      the                      Z5 
+0000347 030  NN1     magistrate               G2.1/S2mf 
+0000348 010  VVD     said                     Q2.1 
+0000348 020  AT      the                      Z5 
+0000348 030  NN1     magistrate               G2.1/S2mf 
+0000349 010  VVD     replied                  Q2.2 Q1.1 
+0000349 020  NNB     Mr.                      Z1m[i213.2.1 S2.2m 
+0000349 030  NP1     Grummer                  Z1m[i213.2.2 
+0000350 010  VVD     said                     Q2.1 
+0000350 020  NP1     Sam                      Z1mf 
+0000351 010  VVD     said                     Q2.1 
+0000351 020  AT      the                      Z5 
+0000351 030  NN1     magistrate               G2.1/S2mf 
+0000352 010  VVD     said                     Q2.1 
+0000352 020  AT      the                      Z5 
+0000352 030  NN1     magistrate               G2.1/S2mf 
+0000353 010  VVD     said                     Q2.1 
+0000353 020  NNB     Mr.                      Z1m[i214.2.1 S2.2m 
+0000353 030  NP1     Pickwick                 Z1m[i214.2.2 Z1 
+0000354 010  VVD     interposed               Q2.2 
+0000354 020  AT      the                      Z5 
+0000354 030  NN1     magistrate               G2.1/S2mf 
+0000355 010  VVD     said                     Q2.1 
+0000355 020  NNB     Mr.                      Z1m[i215.2.1 S2.2m 
+0000355 030  NP1     Pickwick                 Z1m[i215.2.2 Z1 
+0000356 010  VVD     said                     Q2.1 
+0000356 020  AT      the                      Z5 
+0000356 030  NN1     magistrate               G2.1/S2mf 
+0000357 010  VVD     whispered                Q2.1/X3.2- 
+0000357 020  NP1     Jinks                    N3.7+ N5+ A11.1+ S7.1+ A5.1+ T3- X3.2 G2.2+ E4.1+ I1.3+ F3 O4.2- O4.6+ S9 A1.4- A1.4-/S2mf Z3c 
+0000358 010  VVD     replied                  Q2.2 Q1.1 
+0000358 020  AT      the                      Z5 
+0000358 030  NN1     magistrate               G2.1/S2mf 
+0000359 010  VVD     replied                  Q2.2 Q1.1 
+0000359 020  NNB     Mr.                      Z1m[i216.2.1 S2.2m 
+0000359 030  NP1     Pickwick                 Z1m[i216.2.2 Z1 
+0000359 040  RR      firmly                   A1.7+ S1.2.5+ A7+ 
+0000360 010  VVD     said                     Q2.1 
+0000360 020  AT      the                      Z5 
+0000360 030  NN1     magistrate               G2.1/S2mf 
+0000360 040  RR      gravely                  E4.1- A1.3+ 
+0000361 010  VVD     said                     Q2.1 
+0000361 020  NNB     Mr.                      Z1m[i217.2.1 S2.2m 
+0000361 030  NP1     Pickwick                 Z1m[i217.2.2 Z1 
+0000362 010  VVD     said                     Q2.1 
+0000362 020  NNB     Mr.                      Z1m[i218.2.1 S2.2m 
+0000362 030  NP1     Pickwick                 Z1m[i218.2.2 Z1 
+0000363 010  VVD     replied                  Q2.2 Q1.1 
+0000363 020  NNB     Mr.                      Z1m[i219.2.1 S2.2m 
+0000363 030  NP1     Weller                   Z1m[i219.2.2 
+0000364 010  VVD     said                     Q2.1 
+0000364 020  NNB     Mr.                      Z1m[i220.2.1 S2.2m 
+0000364 030  NP1     Pickwick                 Z1m[i220.2.2 Z1 
+0000365 010  VVD     said                     Q2.1 
+0000365 020  AT      the                      Z5 
+0000365 030  NN1     magistrate               G2.1/S2mf 
+0000366 010  VVD     said                     Q2.1 
+0000366 020  NP1     Sam                      Z1mf 
+0000367 010  VVD     said                     Q2.1 
+0000367 020  NNB     Mr.                      Z1m[i221.2.1 S2.2m 
+0000367 030  NP1     Pickwick                 Z1m[i221.2.2 Z1 
+0000368 010  VVD     said                     Q2.1 
+0000368 020  NNB     Mr.                      Z1m[i222.2.1 S2.2m 
+0000368 030  NP1     Nupkins                  Z1m[i222.2.2 
+0000369 010  VVD     said                     Q2.1 
+0000369 020  AT      the                      Z5 
+0000369 030  NN1     magistrate               G2.1/S2mf 
+0000369 040  RR      sternly                  S1.2.1- 
+0000370 010  VVD     stammered                Z2[i223.2.1 Z3c[i223.2.1 Z1mf[i223.2.1 Q2.2/B2- 
+0000370 020  NP1     Grummer                  Z2[i223.2.2 Z3c[i223.2.2 Z1mf[i223.2.2 
+0000371 010  VVD     said                     Q2.1 
+0000371 020  AT      the                      Z5 
+0000371 030  NN1     magistrate               G2.1/S2mf 
+0000372 010  VVD     said                     Q2.1 
+0000372 020  NNB     Mrs.                     Z1f[i225.2.1 Z1m[i224.2.1 
+0000372 030  NP1     Nupkins                  Z1f[i225.2.2 Z1m[i224.2.2 
+0000373 010  VVD     said                     Q2.1 
+0000373 020  NNB     Mr.                      Z1m[i226.2.1 S2.2m 
+0000373 030  NP1     Nupkins                  Z1m[i226.2.2 
+0000374 010  VVD     said                     Q2.1 
+0000374 020  NP1     Sam                      Z1mf 
+0000375 010  VVD     replied                  Q2.2 Q1.1 
+0000375 020  NP1     Sam                      Z1mf 
+0000376 010  VVD     replied                  Q2.2 Q1.1 
+0000376 020  NNB     Mr.                      Z1m[i227.2.1 S2.2m 
+0000376 030  NP1     Muzzle                   Z1m[i227.2.2 
+0000377 010  VVD     rejoined                 S5+/N6+ A1.8+/N6+ 
+0000377 020  NNB     Mr.                      Z1m[i228.2.1 S2.2m 
+0000377 030  NP1     Muzzle                   Z1m[i228.2.2 
+0000378 010  VVD     said                     Q2.1 
+0000378 020  NNB     Mr.                      Z1m[i229.2.1 S2.2m 
+0000378 030  NP1     Muzzle                   Z1m[i229.2.2 
+0000379 010  VVD     said                     Q2.1 
+0000379 020  NNB     Mr.                      Z1m[i230.2.1 S2.2m 
+0000379 030  NP1     Nupkins                  Z1m[i230.2.2 
+0000380 010  VVD     said                     Q2.1 
+0000380 020  AT      the                      Z5 
+0000380 030  JJR     elder                    T3++ 
+0000380 040  NN1     lady                     S2.1f S7.1+/S2.1f 
+0000381 010  VVD     said                     Q2.1 
+0000381 020  NNB     Mr.                      Z1m[i231.2.1 S2.2m 
+0000381 030  NP1     Pickwick                 Z1m[i231.2.2 Z1 
+0000382 010  VVD     said                     Q2.1 
+0000382 020  NN1     Jingle                   X3.2+ K2 
+0000383 010  VVD     said                     Q2.1 
+0000383 020  NP1     Sam                      Z1mf 
+0000384 010  VVD     said                     Q2.1 
+0000384 020  NNB     Mr.                      Z1m[i232.2.1 S2.2m 
+0000384 030  NP1     Pickwick                 Z1m[i232.2.2 Z1 
+0000385 010  VVD     continued                T2++ 
+0000385 020  NNB     Mr.                      Z1m[i233.2.1 S2.2m 
+0000385 030  NP1     Pickwick                 Z1m[i233.2.2 Z1 
+0000386 010  VVD     replied                  Q2.2 Q1.1 
+0000386 020  NNB     Mr.                      Z1m[i234.2.1 S2.2m 
+0000386 030  NP1     Weller                   Z1m[i234.2.2 
+0000387 010  VVD     said                     Q2.1 
+0000387 020  NP1     Sam                      Z1mf 
+0000388 010  VVD     replied                  Q2.2 Q1.1 
+0000388 020  NN1     Master                   S7.1+/S2.2m X9.1+/S2.2m P1/S2.2m P1 C1/S2.2m S9/S2.2m 
+0000388 030  NP1     Bardell                  Z99 
+0000389 010  VVD     said                     Q2.1 
+0000389 020  NP1     Sam                      Z1mf 
+0000390 010  VVD     said                     Q2.1 
+0000390 020  NNB     Mrs.                     Z1f[i236.2.1 Z1m[i235.2.1 
+0000390 030  NP1     Bardell                  Z1f[i236.2.2 Z1m[i235.2.2 
+0000391 010  VVD     said                     Q2.1 
+0000391 020  NNB     Mrs.                     Z1f[i238.2.1 Z1m[i237.2.1 
+0000391 030  NP1     Cluppins                 Z1f[i238.2.2 Z1m[i237.2.2 
+0000392 010  VVD     said                     Q2.1 
+0000392 020  NP1     Sam                      Z1mf 
+0000393 010  VVD     retorted                 Q2.2 
+0000393 020  NNB     Mrs.                     Z1f[i240.2.1 Z1m[i239.2.1 
+0000393 030  NP1     Cluppins                 Z1f[i240.2.2 Z1m[i239.2.2 
+0000394 010  VVD     said                     Q2.1 
+0000394 020  NNB     Mrs.                     Z1f[i242.2.1 Z1m[i241.2.1 
+0000394 030  NP1     Bardell                  Z1f[i242.2.2 Z1m[i241.2.2 
+0000395 010  VVD     said                     Q2.1 
+0000395 020  NNB     Mrs.                     S4f S2.1f 
+0000395 030  NP1     Cluppins                 Z99 
+0000396 010  VVD     said                     Q2.1 
+0000396 020  NNB     Mrs.                     Z1f[i245.2.1 Z1f[i244.2.1 Z1m[i243.2.1 
+0000396 030  NP1     Bardell                  Z1f[i245.2.2 Z1f[i244.2.2 Z1m[i243.2.2 
+0000397 010  VVD     added                    N5+/A2.1 N2 A1.8+ 
+0000397 020  NNB     Mrs.                     Z1f[i247.2.1 Z1m[i246.2.1 
+0000397 030  NP1     Cluppins                 Z1f[i247.2.2 Z1m[i246.2.2 
+0000398 010  VVD     replied                  Q2.2 Q1.1 
+0000398 020  NP1     Sam                      Z1mf 
+0000399 010  VVD     replied                  Q2.2 Q1.1 
+0000399 020  NNB     Mr.                      Z1m[i248.2.1 S2.2m 
+0000399 030  NP1     Weller                   Z1m[i248.2.2 
+0000400 010  VVD     said                     Q2.1 
+0000400 020  NP1     Sam                      Z1mf 
+0000401 010  VVD     replied                  Q2.2 Q1.1 
+0000401 020  NP1     Sam                      Z1mf 
+0000402 010  VVD     said                     Q2.1 
+0000402 020  NNB     Mrs.                     Z1f[i250.2.1 Z1m[i249.2.1 
+0000402 030  NP1     Weller                   Z1f[i250.2.2 Z1m[i249.2.2 
+0000403 010  VVD     said                     Q2.1 
+0000403 020  NP1     Sam                      Z1mf 
+0000403 021  ;       ;                        
+0000403 030  NN1@    'it                      Z99 
+0000404 010  VVD     said                     Q2.1 
+0000404 020  NNB     Mr.                      Z1m[i251.2.1 S2.2m 
+0000404 030  NP1     Stiggins                 Z1m[i251.2.2 
+0000404 040  RR      solemnly                 O4.2 A5.2+ 
+0000405 010  VVD     said                     Q2.1 
+0000405 020  NP1     Sam                      Z1mf 
+0000406 010  VVD     replied                  Q2.2 Q1.1 
+0000406 020  NNB     Mr.                      Z1m[i252.2.1 S2.2m 
+0000406 030  NP1     Stiggins                 Z1m[i252.2.2 
+0000407 010  VVD     said                     Q2.1 
+0000407 020  NP1     Sam                      Z1mf 
+0000408 010  VVD     said                     Q2.1 
+0000408 020  NP1     Sam                      Z1mf 
+0000409 010  VVD     replied                  Q2.2 Q1.1 
+0000409 020  AT      the                      Z5 
+0000409 030  NN1     father                   S4m S9/S2.2m 
+0000410 010  VVD     said                     Q2.1 
+0000410 020  NP1     Sam                      Z1mf 
+0000410 030  RR      reproachfully            G2.2- Q2.2 
+0000411 010  VVD     said                     Q2.1 
+0000411 020  NP1     Sam                      Z1mf 
+0000412 010  VVD     said                     Q2.1 
+0000412 020  NP1     Sam                      Z1mf 
+0000412 021  ,       ,                        
+0000412 030  VVG     stopping                 T2- S8- M8 H4 A1.1.1@ 
+0000412 040  RR@     short                    N5- T1.3- 
+0000413 010  VVD     said                     Q2.1 
+0000413 020  NP1     Sam                      Z1mf 
+0000414 010  VVD     replied                  Q2.2 Q1.1 
+0000414 020  AT      the                      Z5 
+0000414 030  NN1     boy                      S2.2m L2m@ 
+0000415 010  VVD     said                     Q2.1 
+0000415 020  NP1     Sam                      Z1mf 
+0000416 010  VVD     said                     Q2.1 
+0000416 020  NP1     Wardle                   Z1 
+0000417 010  VVD     said                     Q2.1 
+0000417 020  NNB     Mr.                      Z1m[i253.2.1 S2.2m 
+0000417 030  NP1     Pickwick                 Z1m[i253.2.2 Z1 
+0000418 010  VVD     said                     Q2.1 
+0000418 020  NNB     Mr.                      Z1m[i254.2.1 S2.2m 
+0000418 030  NP1     Pickwick                 Z1m[i254.2.2 Z1 
+0000419 010  VVD     said                     Q2.1 
+0000419 020  NNB     Mr.                      Z1m[i255.2.1 S2.2m 
+0000419 030  NP1     Pickwick                 Z1m[i255.2.2 Z1 
+0000420 010  VVD     resumed                  T2+/N6+ 
+0000420 020  NNB     Mr.                      Z1m[i256.2.1 S2.2m 
+0000420 030  NP1     Pickwick                 Z1m[i256.2.2 Z1 
+0000421 010  VVD     added                    N5+/A2.1 N2 A1.8+ 
+0000421 020  NNB     Mr.                      Z1m[i257.2.1 S2.2m 
+0000421 030  NP1     Pickwick                 Z1m[i257.2.2 Z1 
+0000422 010  VVD     replied                  Q2.2 Q1.1 
+0000422 020  NP1     Emma                     Z1f 
+0000423 010  VVD     replied                  Q2.2 Q1.1 
+0000423 020  NNB     Mr.                      Z1m[i258.2.1 S2.2m 
+0000423 030  NP1     Weller                   Z1m[i258.2.2 
+0000424 010  VVZ     says                     Q2.1 
+0000424 020  PPHS1   he                       Z8m 
+0000425 010  VVZ     says                     Q2.1 
+0000425 020  PPHS1   he                       Z8m 
+0000426 010  VVD     said                     Q2.1 
+0000426 020  NP1     Wardle                   Z1 
+0000427 010  VVD     replied                  Q2.2 Q1.1 
+0000427 020  AT      the                      Z5 
+0000427 030  NN1     man                      S2.2m 
+0000428 010  VVD     replied                  Q2.2 Q1.1 
+0000428 020  NP1     Wardle                   Z1 
+0000429 010  VVD     said                     Q2.1 
+0000429 020  AT      the                      Z5 
+0000429 030  JJ      old                      T3+ Z4 
+0000429 040  NN1     lady                     S2.1f S7.1+/S2.1f 
+0000430 010  VVD     said                     Q2.1 
+0000430 020  NNB     Mr.                      Z1m[i259.2.1 S2.2m 
+0000430 030  NP1     Pickwick                 Z1m[i259.2.2 Z1 
+0000431 010  VVD     replied                  Q2.2 Q1.1 
+0000431 020  NP1     Bob                      Z1mf[i260.2.1 Z3c[i260.2.1 Z1 
+0000431 030  NP1     Sawyer                   Z1mf[i260.2.2 Z3c[i260.2.2 Z1mf 
+0000432 010  VVD     said                     Q2.1 
+0000432 020  NNB     Mr.                      Z1m[i262.3.1 S2.2m Z1m[i261.2.1 
+0000432 030  NP1     Benjamin                 Z1m[i262.3.2 Z1mf Z1m[i261.2.2 Z1mf[i263.2.1 Z3c[i263.2.1 
+0000432 040  NP1     Allen                    Z1m[i262.3.3 Z1mf Z1mf[i263.2.2 Z3c[i263.2.2 
+0000433 010  VVD     said                     Q2.1 
+0000433 020  NNB     Mr.                      Z1m[i264.2.1 S2.2m 
+0000433 030  NP1     Allen                    Z1m[i264.2.2 Z1mf 
+0000434 010  VVD     replied                  Q2.2 Q1.1 
+0000434 020  NN1     'Bob                     Z99 
+0000434 030  NP1     Sawyer                   Z1mf 
+0000435 010  VVD     rejoined                 S5+/N6+ A1.8+/N6+ 
+0000435 020  NP1     Bob                      Z1mf[i265.2.1 Z3c[i265.2.1 Z1 
+0000435 030  NP1     Sawyer                   Z1mf[i265.2.2 Z3c[i265.2.2 Z1mf 
+0000436 010  VVD     said                     Q2.1 
+0000436 020  NNB     Mr.                      Z1m[i266.2.1 S2.2m 
+0000436 030  NP1     Pickwick                 Z1m[i266.2.2 Z1 
+0000437 010  VVD     said                     Q2.1 
+0000437 020  NP1     Arabella                 Z99 
+0000437 021  ,       ,                        
+0000437 030  VVG     blushing                 E1/B1 
+0000438 010  VVD     said                     Q2.1 
+0000438 020  NNB     Mr.                      Z1m[i267.2.1 S2.2m 
+0000438 030  NP1     Winkle                   Z1m[i267.2.2 
+0000438 031  ,       ,                        
+0000438 040  VVG     reddening                O4.3 
+0000439 010  VVD     replied                  Q2.2 Q1.1 
+0000439 020  NNB     Mr.                      Z1m[i268.2.1 S2.2m 
+0000439 030  NP1     Winkle                   Z1m[i268.2.2 
+0000440 010  VVD     replied                  Q2.2 Q1.1 
+0000440 020  NNB     Mr.                      Z1m[i269.2.1 S2.2m 
+0000440 030  NP1     Pickwick                 Z1m[i269.2.2 Z1 
+0000441 010  VVD     said                     Q2.1 
+0000441 020  NP1     Wardle                   Z1 
+0000442 010  VVD     said                     Q2.1 
+0000442 020  NNB     Mr.                      Z1m[i271.3.1 S2.2m Z1m[i270.2.1 
+0000442 030  NP1     Bob                      Z1m[i271.3.2 Z1 Z1m[i270.2.2 Z1mf[i272.2.1 Z3c[i272.2.1 
+0000442 040  NP1     Sawyer                   Z1m[i271.3.3 Z1mf Z1mf[i272.2.2 Z3c[i272.2.2 
+0000443 010  VVD     said                     Q2.1 
+0000443 020  NP1     Jackson                  Z1mf 
+0000444 010  VVD     pursued                  A1.1.1 X8+ X2.4 M1 
+0000444 020  NNB     Mr.                      Z1m[i273.2.1 S2.2m 
+0000444 030  NP1     Pickwick                 Z1m[i273.2.2 Z1 
+0000445 010  VVD     said                     Q2.1 
+0000445 020  NP1     Jackson                  Z1mf 
+0000445 021  ,       ,                        
+0000445 030  II      in                       Z5 
+0000445 040  NN1     conclusion               X6+ T2- 
+0000446 010  VVD     said                     Q2.1 
+0000446 020  NNB     Mr.                      Z1m[i274.2.1 S2.2m 
+0000446 030  NP1     Pickwick                 Z1m[i274.2.2 Z1 
+0000447 010  VVD     responded                S1.1.2+ Q2.2 
+0000447 020  NP1     Sam                      Z1mf 
+0000448 010  PPHS1   he                       Z8m 
+0000448 020  VVZ     says                     Q2.1 
+0000448 030  MC1     one                      T1.1.3[i275.2.1 T1.1.1[i275.2.1 N1 T3 T1.2 
+0000448 040  NNT1    day                      T1.1.3[i275.2.2 T1.1.1[i275.2.2 T1.3 
+0000449 010  PPHS1   he                       Z8m 
+0000449 020  VVZ     says                     Q2.1 
+0000450 010  VVZ     says                     Q2.1 
+0000450 020  PPHS1   she                      Z8f 
+0000451 010  VVZ     says                     Q2.1 
+0000451 020  PPHS1   he                       Z8m 
+0000452 010  PPHS1   he                       Z8m 
+0000452 020  VVZ     says                     Q2.1 
+0000453 010  VVZ     says                     Q2.1 
+0000453 020  AT      the                      Z5 
+0000453 030  NN1     widder                   Z99 
+0000454 010  VVD     said                     Q2.1 
+0000454 020  NNB     Mr.                      Z1m[i276.2.1 S2.2m 
+0000454 030  NP1     Pickwick                 Z1m[i276.2.2 Z1 
+0000455 010  VVD     said                     Q2.1 
+0000455 020  NP1     Lowten                   Z99 
+0000456 010  VVD     said                     Q2.1 
+0000456 020  AT      the                      Z5 
+0000456 030  NN1     man                      S2.2m 
+0000457 010  PPHS1   he                       Z8m 
+0000457 020  VVD     added                    N5+/A2.1 N2 A1.8+ 
+0000457 030  RR      pettishly                Z99 
+0000458 010  VVD     said                     Q2.1 
+0000458 020  AT      the                      A11.1-/S2.1m[i277.3.1 Z5 
+0000458 030  JJ      little                   A11.1-/S2.1m[i277.3.2 N3.2- T3- N3.7- N3.3- T1.3- A11.1- 
+0000458 040  NN1     man                      A11.1-/S2.1m[i277.3.3 S2.2m 
+0000459 010  VVD     replied                  Q2.2 Q1.1 
+0000459 020  NP1     Perker                   Z99 
+0000460 010  VVD     replied                  Q2.2 Q1.1 
+0000460 020  NP1     Perker                   Z99 
+0000461 010  VVD     replied                  Q2.2 Q1.1 
+0000461 020  NP1     Perker                   Z99 
+0000462 010  VBDZ    was                      A3+ Z5 
+0000462 020  AT      the                      Z5 
+0000462 030  NN1     reply                    Q2.2 
+0000463 010  VVN     said                     Q2.1 
+0000463 020  NP1     Perker                   Z99 
+0000464 010  VVD     said                     Q2.1 
+0000464 020  AT      the                      Z5 
+0000464 030  NN1     clerk                    I2.1/S2mf G1.1/S2mf 
+0000465 010  VVD     said                     Q2.1 
+0000465 020  NP1     Perker                   Z99 
+0000466 010  VVD     continued                T2++ 
+0000466 020  NNB     Mr.                      Z1m[i278.2.1 S2.2m 
+0000466 030  NP1     Pickwick                 Z1m[i278.2.2 Z1 
+0000467 010  VVD     said                     Q2.1 
+0000467 020  AT      the                      Z5 
+0000467 030  NP1     Serjeant                 G3/S7.1+/S2mf G2.1/S2mf Z1mf 
+0000468 010  VVD     said                     Q2.1 
+0000468 020  AT      the                      Z5 
+0000468 030  NP1     Serjeant                 G3/S7.1+/S2mf G2.1/S2mf Z1mf 
+0000469 010  VVD     replied                  Q2.2 Q1.1 
+0000469 020  NP1     Bob                      Z1mf[i279.2.1 Z3c[i279.2.1 Z1 
+0000469 030  NP1     Sawyer                   Z1mf[i279.2.2 Z3c[i279.2.2 Z1mf 
+0000470 010  VVD     said                     Q2.1 
+0000470 020  NP1     Bob                      Z1mf[i280.2.1 Z3c[i280.2.1 Z1 
+0000470 030  NP1     Sawyer                   Z1mf[i280.2.2 Z3c[i280.2.2 Z1mf 
+0000470 040  RR      deferentially            S7.2+ S1.2.4+ 
+0000471 010  VVD     said                     Q2.1 
+0000471 020  AT      the                      Z5 
+0000471 030  NN1     girl                     S2.1f L2f@ 
+0000472 010  VVD     said                     Q2.1 
+0000472 020  NNB     Mr.                      Z1m[i281.2.1 S2.2m 
+0000472 030  NP1     Pickwick                 Z1m[i281.2.2 Z1 
+0000473 010  VVD     said                     Q2.1 
+0000473 020  NNB     Mr.                      Z1m[i282.2.1 S2.2m 
+0000473 030  NP1     Pickwick                 Z1m[i282.2.2 Z1 
+0000474 010  VVD     said                     Q2.1 
+0000474 020  NP1     Jack                     Z1mf[i283.2.1 Z3c[i283.2.1 Z1m 
+0000474 030  NP1     Hopkins                  Z1mf[i283.2.2 Z3c[i283.2.2 Z1mf 
+0000475 010  VVD     responded                S1.1.2+ Q2.2 
+0000475 020  AT      the                      Z5 
+0000475 030  JJ      prim                     S1.2.4+ 
+0000475 040  NN1     man                      S2.2m 
+0000476 010  VVD     replied                  Q2.2 Q1.1 
+0000476 020  AT      the                      Z5 
+0000476 030  NN1     girl                     S2.1f L2f@ 
+0000477 010  VVD     said                     Q2.1 
+0000477 020  NNB     Mr.                      Z1m[i284.2.1 S2.2m 
+0000477 030  NP1     Noddy                    Z1m[i284.2.2 
+0000478 010  VVD     said                     Q2.1 
+0000478 020  NNB     Mr.                      Z1m[i285.2.1 S2.2m 
+0000478 030  NP1     Gunter                   Z1m[i285.2.2 
+0000479 010  VVD     said                     Q2.1 
+0000479 020  NP1     Jack                     Z1mf[i286.2.1 Z3c[i286.2.1 Z1m 
+0000479 030  NP1     Hopkins                  Z1mf[i286.2.2 Z3c[i286.2.2 Z1mf 
+0000480 010  CC      and                      Z5 
+0000481 010  VVD     replied                  Q2.2 Q1.1 
+0000481 020  NNB     Mr.                      Z1m[i287.2.1 S2.2m 
+0000481 030  NP1     Raddle                   Z1m[i287.2.2 
+0000481 040  RR      pacifically              E3+ 
+0000482 010  VVD     replied                  Q2.2 Q1.1 
+0000482 020  NP1     Jack                     Z1mf[i288.2.1 Z3c[i288.2.1 Z1m 
+0000482 030  NP1     Hopkins                  Z1mf[i288.2.2 Z3c[i288.2.2 Z1mf 
+0000483 010  VVD     interposed               Q2.2 
+0000483 020  NP1     Bob                      Z1mf[i289.2.1 Z3c[i289.2.1 Z1 
+0000483 030  NP1     Sawyer                   Z1mf[i289.2.2 Z3c[i289.2.2 Z1mf 
+0000484 010  VVD     inquired                 Q2.2 X2.4 
+0000484 020  NP1     Hopkins                  Z1mf 
+0000485 010  VVD     said                     Q2.1 
+0000485 020  NP1     Bob                      Z1 
+0000486 010  VVD     said                     Q2.1 
+0000486 020  NNB     Mr.                      Z1m[i290.2.1 S2.2m 
+0000486 030  NP1     Weller                   Z1m[i290.2.2 
+0000487 010  VVD     replied                  Q2.2 Q1.1 
+0000487 020  NP1     Sam                      Z1mf 
+0000488 010  VVD     replied                  Q2.2 Q1.1 
+0000488 020  NNB     Mr.                      Z1m[i291.2.1 S2.2m 
+0000488 030  NP1     Weller                   Z1m[i291.2.2 
+0000489 010  VVD     replied                  Q2.2 Q1.1 
+0000489 020  APPGE   his                      Z8m 
+0000489 030  NN1     father                   S4m S9/S2.2m 
+0000490 010  VVD     replied                  Q2.2 Q1.1 
+0000490 020  NP1     Sam                      Z1mf 
+0000491 010  VVD     said                     Q2.1 
+0000491 020  NP1     Sam                      Z1mf 
+0000492 010  VVD     continued                T2++ 
+0000492 020  NP1     Sam                      Z1mf 
+0000493 010  VVD     said                     Q2.1 
+0000493 020  NP1     Sam                      Z1mf 
+0000494 010  VVD     said                     Q2.1 
+0000494 020  NNB     Mr.                      Z1m[i292.2.1 S2.2m 
+0000494 030  NP1     Weller                   Z1m[i292.2.2 
+0000495 010  VVD     said                     Q2.1 
+0000495 020  NP1     Sam                      Z1mf 
+0000496 010  VVD     said                     Q2.1 
+0000496 020  NNB     Mr.                      Z1m[i293.2.1 S2.2m 
+0000496 030  NP1     Weller                   Z1m[i293.2.2 
+0000497 010  VVD     replied                  Q2.2 Q1.1 
+0000497 020  NNB     Mr.                      Z1m[i294.2.1 S2.2m 
+0000497 030  NP1     Weller                   Z1m[i294.2.2 
+0000498 010  VVD     replied                  Q2.2 Q1.1 
+0000498 020  NP1     Sam                      Z1mf 
+0000499 010  VVD     rejoined                 S5+/N6+ A1.8+/N6+ 
+0000499 020  NNB     Mr.                      Z1m[i295.2.1 S2.2m 
+0000499 030  NP1     Stiggins                 Z1m[i295.2.2 
+0000500 010  VVD     replied                  Q2.2 Q1.1 
+0000500 020  AT      the                      Z5 
+0000500 030  JJ      old                      T3+ Z4 
+0000500 040  NN1     gentleman                S2.2m 
+0000501 010  VVD     said                     Q2.1 
+0000501 020  NP1     Perker                   Z99 
+0000502 010  VVD     said                     Q2.1 
+0000502 020  AT      the                      Z5 
+0000502 030  NN1     judge                    G2.1/I3.2/S2mf X6/S2mf 
+0000503 010  VVD     replied                  Q2.2 Q1.1 
+0000503 020  NP1     Serjeant                 Z1mf[i296.2.1 Z3c[i296.2.1 
+0000503 030  NP1     Buzfuz                   Z1mf[i296.2.2 Z3c[i296.2.2 
+0000504 010  VVD     said                     Q2.1 
+0000504 020  NNB     Mr.                      Z1m[i298.3.1 S2.2m Z1m[i297.2.1 
+0000504 030  NP1     Serjeant                 Z1m[i298.3.2 Z1m[i297.2.2 Z1mf[i299.2.1 Z3c[i299.2.1 
+0000504 040  NP1     Buzfuz                   Z1m[i298.3.3 Z1mf[i299.2.2 Z3c[i299.2.2 
+0000505 010  VVD     said                     Q2.1 
+0000505 020  NP1     Serjeant                 Z1mf[i300.2.1 Z3c[i300.2.1 
+0000505 030  NP1     Buzfuz                   Z1mf[i300.2.2 Z3c[i300.2.2 
+0000506 010  VVD     said                     Q2.1 
+0000506 020  NNB     Mr.                      Z1m[i301.2.1 S2.2m 
+0000506 030  NP1     Skimpin                  Z1m[i301.2.2 
+0000507 010  VVD     said                     Q2.1 
+0000507 020  NNB     Mr.                      Z1m[i302.2.1 S2.2m 
+0000507 030  NP1     Skimpin                  Z1m[i302.2.2 
+0000508 010  VVD     said                     Q2.1 
+0000508 020  NNB     Mr.                      Z1m[i303.2.1 S2.2m 
+0000508 030  NP1     Skimpin                  Z1m[i303.2.2 
+0000509 010  VVD     said                     Q2.1 
+0000509 020  NNB     Mr.                      Z1m[i304.2.1 S2.2m 
+0000509 030  NP1     Phunky                   Z1m[i304.2.2 
+0000510 010  VVD     replied                  Q2.2 Q1.1 
+0000510 020  NNB     Mr.                      Z1m[i305.2.1 S2.2m 
+0000510 030  NP1     Winkle                   Z1m[i305.2.2 
+0000511 010  VVD     replied                  Q2.2 Q1.1 
+0000511 020  NNB     Mr.                      Z1m[i306.2.1 S2.2m 
+0000511 030  NP1     Winkle                   Z1m[i306.2.2 
+0000512 010  VVD     said                     Q2.1 
+0000512 020  NP1     Serjeant                 Z1mf[i307.2.1 Z3c[i307.2.1 
+0000512 030  NP1     Buzfuz                   Z1mf[i307.2.2 Z3c[i307.2.2 
+0000513 010  VVD     said                     Q2.1 
+0000513 020  AT      the                      Z5 
+0000513 030  JJ      little                   N3.2- T3- N3.7- N3.3- T1.3- A11.1- 
+0000513 040  NN1     judge                    G2.1/I3.2/S2mf X6/S2mf 
+0000514 010  CCB     but                      Z5 
+0000514 020  RR      never                    T1/Z6 
+0000515 010  CC      nor                      Z6 
+0000515 020  RR      yet                      T1.1.2 
+0000516 010  VVD     replied                  Q2.2 Q1.1 
+0000516 020  NP1     Sam                      Z1mf 
+0000517 010  VVD     interposed               Q2.2 
+0000517 020  AT      the                      Z5 
+0000517 030  NN1     judge                    G2.1/I3.2/S2mf X6/S2mf 
+0000518 010  VVD     replied                  Q2.2 Q1.1 
+0000518 020  NP1     Sam                      Z1mf 
+0000519 010  VVD     replied                  Q2.2 Q1.1 
+0000519 020  NP1     Sam                      Z1mf 
+0000520 010  VVD     replied                  Q2.2 Q1.1 
+0000520 020  NP1     Sam                      Z1mf 
+0000521 010  VVD     said                     Q2.1 
+0000521 020  NP1     Sam                      Z1mf 
+0000522 010  VVD     said                     Q2.1 
+0000522 020  NP1     Serjeant                 Z1mf[i308.2.1 Z3c[i308.2.1 
+0000522 030  NP1     Snubbin                  Z1mf[i308.2.2 Z3c[i308.2.2 
+0000523 010  VVD     said                     Q2.1 
+0000523 020  NNB     Mr.                      Z1m[i309.2.1 S2.2m 
+0000523 030  NP1     Pickwick                 Z1m[i309.2.2 Z1 
+0000523 040  RR      vehemently               E3- S1.2.5+ 
+0000524 010  VVD     said                     Q2.1 
+0000524 020  NNB     Mr.                      Z1m[i310.2.1 S2.2m 
+0000524 030  NP1     Pickwick                 Z1m[i310.2.2 Z1 
+0000524 040  RR      firmly                   A1.7+ S1.2.5+ A7+ 
+0000525 010  VVD     said                     Q2.1 
+0000525 020  NNB     Mr.                      Z1m[i311.2.1 S2.2m 
+0000525 030  NP1     Pickwick                 Z1m[i311.2.2 Z1 
+0000526 010  VVD     replied                  Q2.2 Q1.1 
+0000526 020  NP1     Perker                   Z99 
+0000527 010  VVD     said                     Q2.1 
+0000527 020  DD1     that                     Z5 Z8 
+0000527 030  NN1     gentleman                S2.2m 
+0000528 010  VVD     said                     Q2.1 
+0000528 020  NNB     Mr.                      Z1m[i312.2.1 S2.2m 
+0000528 030  NP1     Pickwick                 Z1m[i312.2.2 Z1 
+0000529 010  VVD     said                     Q2.1 
+0000529 020  NNB     Mr.                      Z1m[i313.2.1 S2.2m 
+0000529 030  NP1     Pickwick                 Z1m[i313.2.2 Z1 
+0000530 010  VVD     said                     Q2.1 
+0000530 020  NNB     Mr.                      Z1m[i314.2.1 S2.2m 
+0000530 030  NP1     Pickwick                 Z1m[i314.2.2 Z1 
+0000531 010  VVD     replied                  Q2.2 Q1.1 
+0000531 020  NP1     Sam                      Z1mf 
+0000532 010  VVD     said                     Q2.1 
+0000532 020  NNB     Mr.                      Z1m[i315.2.1 S2.2m 
+0000532 030  NP1     Pickwick                 Z1m[i315.2.2 Z1 
+0000533 010  VVD     replied                  Q2.2 Q1.1 
+0000533 020  NNB     Mr.                      Z1m[i316.2.1 S2.2m 
+0000533 030  NP1     Pickwick                 Z1m[i316.2.2 Z1 
+0000533 040  RR      eagerly                  X5.2+ 
+0000534 010  VVD     said                     Q2.1 
+0000534 020  NNB     Mr.                      Z1m[i317.2.1 S2.2m 
+0000534 030  NP1     Dowler                   Z1m[i317.2.2 
+0000535 010  VVD     replied                  Q2.2 Q1.1 
+0000535 020  NNB     Mr.                      Z1m[i318.2.1 S2.2m 
+0000535 030  NP1     Pickwick                 Z1m[i318.2.2 Z1 
+0000536 010  VVD     resumed                  T2+/N6+ 
+0000536 020  NP1     Bantam                   L2 
+0000537 010  VVD     said                     Q2.1 
+0000537 020  NNB     Mr.                      Z1m[i319.2.1 S2.2m 
+0000537 030  NP1     Dowler                   Z1m[i319.2.2 
+0000538 010  VVD     said                     Q2.1 
+0000538 020  APPGE   his                      Z8m 
+0000538 030  NN1     Lordship                 S7.1+ 
+0000539 010  VVD     said                     Q2.1 
+0000539 020  NNB     Mrs.                     Z1f[i321.2.1 Z1m[i320.2.1 
+0000539 030  NP1     Craddock                 Z1f[i321.2.2 Z1m[i320.2.2 
+0000540 010  VVD     said                     Q2.1 
+0000540 020  NP1     Dowler                   Z99 
+0000541 010  VVD     interposed               Q2.2 
+0000541 020  AT      the                      Z5 
+0000541 030  NN1     link-boy                 S5+ A2.2 S2mf S1.1.3+/S2mf E2+ T3- O4.5 B2- I2.2 A9- 
+0000542 010  VVD     said                     Q2.1 
+0000542 020  NNB     Mrs.                     Z1f[i323.2.1 Z1m[i322.2.1 
+0000542 030  NP1     Dowler                   Z1f[i323.2.2 Z1m[i322.2.2 
+0000543 010  VVD     shouted                  Q2.2/X3.2++ 
+0000543 020  NP1     Dowler                   Z99 
+0000543 030  RR      furiously                E3- X5.2+ 
+0000544 010  VVD     said                     Q2.1 
+0000544 020  NP1     Sam                      Z1mf 
+0000545 010  VVD     replied                  Q2.2 Q1.1 
+0000545 020  NNB     Mr.                      Z1m[i325.3.1 S2.2m Z1m[i324.2.1 
+0000545 030  NP1     John                     Z1m[i325.3.2 Z1m S9/O1.2 Z1m[i324.2.2 Z1mf[i326.2.1 Z3c[i326.2.1 
+0000545 040  NP1     Smauker                  Z1m[i325.3.3 Z1mf[i326.2.2 Z3c[i326.2.2 
+0000546 010  VVD     said                     Q2.1 
+0000546 020  NP1     Sam                      Z1mf 
+0000547 010  VVD     said                     Q2.1 
+0000547 020  NNB     Mr.                      Z1m[i328.3.1 S2.2m Z1m[i327.2.1 
+0000547 030  NP1     John                     Z1m[i328.3.2 Z1m S9/O1.2 Z1m[i327.2.2 Z1mf[i329.2.1 Z3c[i329.2.1 
+0000547 040  NP1     Smauker                  Z1m[i328.3.3 Z1mf[i329.2.2 Z3c[i329.2.2 
+0000548 010  VVD     replied                  Q2.2 Q1.1 
+0000548 020  NP1     Sam                      Z1mf 
+0000549 010  VVD     said                     Q2.1 
+0000549 020  NNB     Mr.                      Z1m[i331.3.1 S2.2m Z1m[i330.2.1 
+0000549 030  NP1     John                     Z1m[i331.3.2 Z1m S9/O1.2 Z1m[i330.2.2 Z1mf[i332.2.1 Z3c[i332.2.1 
+0000549 040  NP1     Smauker                  Z1m[i331.3.3 Z1mf[i332.2.2 Z3c[i332.2.2 
+0000550 010  VVD     continued                T2++ 
+0000550 020  NNB     Mr.                      Z1m[i334.3.1 S2.2m Z1m[i333.2.1 
+0000550 030  NP1     John                     Z1m[i334.3.2 Z1m S9/O1.2 Z1m[i333.2.2 Z1mf[i335.2.1 Z3c[i335.2.1 
+0000550 040  NP1     Smauker                  Z1m[i334.3.3 Z1mf[i335.2.2 Z3c[i335.2.2 
+0000551 010  VVD     said                     Q2.1 
+0000551 020  NNB     Mr.                      Z1m[i336.2.1 S2.2m 
+0000551 030  NP1     Tuckle                   Z1m[i336.2.2 
+0000552 010  VVD     replied                  Q2.2 Q1.1 
+0000552 020  AT      the                      Z5 
+0000552 030  JJ      crestfallen              E4.1- E4.2- 
+0000552 040  NN1     greengrocer              F1/S2mf 
+0000553 010  VVD     said                     Q2.1 
+0000553 020  NP1     Harris                   Z1mf Z2 Z3c 
+0000554 010  VVD     said                     Q2.1 
+0000554 020  NP1     Sam                      Z1mf 
+0000555 010  VVD     said                     Q2.1 
+0000555 020  NNB     Mr.                      Z1m[i337.2.1 S2.2m 
+0000555 030  NP1     Smauker                  Z1m[i337.2.2 
+0000556 010  VVD     said                     Q2.1 
+0000556 020  NP1     Sam                      Z1mf 
+0000557 010  VVD     said                     Q2.1 
+0000557 020  NNB     Mr.                      Z1m[i338.2.1 S2.2m 
+0000557 030  NP1     Pickwick                 Z1m[i338.2.2 Z1 
+0000558 010  VVD     said                     Q2.1 
+0000558 020  NNB     Mr.                      Z1m[i339.2.1 S2.2m 
+0000558 030  NP1     Pickwick                 Z1m[i339.2.2 Z1 
+0000559 010  VVD     said                     Q2.1 
+0000559 020  NNB     Mr.                      Z1m[i340.2.1 S2.2m 
+0000559 030  NP1     Pickwick                 Z1m[i340.2.2 Z1 
+0000560 010  VVD     said                     Q2.1 
+0000560 020  NNB     Mr.                      Z1m[i341.2.1 S2.2m 
+0000560 030  NP1     Pickwick                 Z1m[i341.2.2 Z1 
+0000561 010  VVD     said                     Q2.1 
+0000561 020  NNB     Mr.                      Z1m[i342.2.1 S2.2m 
+0000561 030  NP1     Winkle                   Z1m[i342.2.2 
+0000562 010  VVD     said                     Q2.1 
+0000562 020  AT      the                      Z5 
+0000562 030  JJ      medical                  B3 
+0000562 040  NN1     gentleman                S2.2m 
+0000563 010  VVD     said                     Q2.1 
+0000563 020  NP1     Bob                      Z1mf[i343.2.1 Z3c[i343.2.1 Z1 
+0000563 030  NP1     Sawyer                   Z1mf[i343.2.2 Z3c[i343.2.2 Z1mf 
+0000564 010  VVD     responded                S1.1.2+ Q2.2 
+0000564 020  NP1     Bob                      Z1mf[i344.2.1 Z3c[i344.2.1 Z1 
+0000564 030  NP1     Sawyer                   Z1mf[i344.2.2 Z3c[i344.2.2 Z1mf 
+0000565 010  VVD     said                     Q2.1 
+0000565 020  NP1     Bob                      Z1mf[i345.2.1 Z3c[i345.2.1 Z1 
+0000565 030  NP1     Sawyer                   Z1mf[i345.2.2 Z3c[i345.2.2 Z1mf 
+0000566 010  VVD     replied                  Q2.2 Q1.1 
+0000566 020  NP1     Bob                      Z1mf[i346.2.1 Z3c[i346.2.1 Z1 
+0000566 030  NP1     Sawyer                   Z1mf[i346.2.2 Z3c[i346.2.2 Z1mf 
+0000567 010  VVD     observed                 X3.4 Q2.1/X2.4 X2.1 G2.1+ 
+0000567 020  NNB     Mr.                      Z1m[i347.2.1 S2.2m 
+0000567 030  NP1     Winkle                   Z1m[i347.2.2 
+0000568 010  CC      and                      Z5 
+0000569 010  VVD     said                     Q2.1 
+0000569 020  NP1     Dowler                   Z99 
+0000570 010  VVD     said                     Q2.1 
+0000570 020  NP1     Sam                      Z1mf 
+0000571 010  VVD     replied                  Q2.2 Q1.1 
+0000571 020  NP1     Sam                      Z1mf 
+0000572 010  VVD     said                     Q2.1 
+0000572 020  NNB     Mr.                      Z1m[i348.2.1 S2.2m 
+0000572 030  NP1     Winkle                   Z1m[i348.2.2 
+0000573 010  VVD     said                     Q2.1 
+0000573 020  NP1     Sam                      Z1mf 
+0000573 021  ,       ,                        
+0000573 030  VVG     brightening              O4.3/A2.1[i349.2.1 W4[i349.2.1 E4.1+/A2.1[i349.2.1 O4.3 A5.1+/A2.1 
+0000573 040  RP      up                       O4.3/A2.1[i349.2.2 W4[i349.2.2 E4.1+/A2.1[i349.2.2 
+0000574 010  VVD     said                     Q2.1 
+0000574 020  NP1     Sam                      Z1mf 
+0000575 010  VVD     said                     Q2.1 
+0000575 020  NP1     Sam                      Z1mf 
+0000576 010  VVD     replied                  Q2.2 Q1.1 
+0000576 020  NP1     Sam                      Z1mf 
+0000577 010  VVD     said                     Q2.1 
+0000577 020  NP1     Mary                     Z1f 
+0000578 010  VVD     said                     Q2.1 
+0000578 020  NP1     Sam                      Z1mf 
+0000579 010  VVD     said                     Q2.1 
+0000579 020  NP1     Sam                      Z1mf 
+0000580 010  VVD     said                     Q2.1 
+0000580 020  NP1     Mary                     Z1f 
+0000581 010  VVD     said                     Q2.1 
+0000581 020  NP1     Sam                      Z1mf 
+0000582 010  VVD     said                     Q2.1 
+0000582 020  NP1     Sam                      Z1mf 
+0000582 030  RR21    at                       N5+[i350.2.1 N4[i350.2.1 
+0000582 040  RR22    length                   N5+[i350.2.2 N4[i350.2.2 
+0000583 010  VVD     said                     Q2.1 
+0000583 020  NP1     Mary                     Z1f 
+0000584 010  VVD     returned                 M1 A9- N6 
+0000584 020  NP1     Arabella                 Z99 
+0000585 010  VVD     replied                  Q2.2 Q1.1 
+0000585 020  NNB     Mr.                      Z1m[i351.2.1 S2.2m 
+0000585 030  NP1     Weller                   Z1m[i351.2.2 
+0000586 010  VVD     said                     Q2.1 
+0000586 020  NNB     Mr.                      Z1m[i352.2.1 S2.2m 
+0000586 030  NP1     Pickwick                 Z1m[i352.2.2 Z1 
+0000587 010  VVD     said                     Q2.1 
+0000587 020  AT      the                      Z5 
+0000587 030  JJ      scientific               Y1 
+0000587 040  NN1     gentleman                S2.2m 
+0000588 010  VVD     replied                  Q2.2 Q1.1 
+0000588 020  NP1     Price                    I1.3 
+0000589 010  VVD     said                     Q2.1 
+0000589 020  AT      the                      A11.1-/S2.1m[i353.3.1 Z5 
+0000589 030  JJ      little                   A11.1-/S2.1m[i353.3.2 N3.2- T3- N3.7- N3.3- T1.3- A11.1- 
+0000589 040  NN1     man                      A11.1-/S2.1m[i353.3.3 S2.2m 
+0000590 010  VVD     said                     Q2.1 
+0000590 020  NNB     Mr.                      Z1m[i354.2.1 S2.2m 
+0000590 030  NP1     Pickwick                 Z1m[i354.2.2 Z1 
+0000591 010  VVD     said                     Q2.1 
+0000591 020  NNB     Mr.                      Z1m[i355.2.1 S2.2m 
+0000591 030  NP1     Pickwick                 Z1m[i355.2.2 Z1 
+0000592 010  VVD     said                     Q2.1 
+0000592 020  NP1     Sam                      Z1mf 
+0000593 010  VVD     said                     Q2.1 
+0000593 020  NNB     Mr.                      Z1m[i356.2.1 S2.2m 
+0000593 030  NP1     Pickwick                 Z1m[i356.2.2 Z1 
+0000593 031  ,       ,                        
+0000593 040  VVG     laughing                 E4.1+/X3.2 
+0000594 010  VVD     replied                  Q2.2 Q1.1 
+0000594 020  NNB     Mr.                      Z1m[i357.2.1 S2.2m 
+0000594 030  NP1     Pickwick                 Z1m[i357.2.2 Z1 
+0000595 010  VVD     said                     Q2.1 
+0000595 020  NNB     Mr.                      Z1m[i358.2.1 S2.2m 
+0000595 030  NP1     Pickwick                 Z1m[i358.2.2 Z1 
+0000596 010  VVD     replied                  Q2.2 Q1.1 
+0000596 020  AT      the                      Z5 
+0000596 030  NN1     gentleman                S2.2m 
+0000597 010  VVD     said                     Q2.1 
+0000597 020  NNB     Mr.                      Z1m[i359.2.1 S2.2m 
+0000597 030  NP1     Pickwick                 Z1m[i359.2.2 Z1 
+0000598 010  VVD     replied                  Q2.2 Q1.1 
+0000598 020  NNB     Mr.                      Z1m[i360.2.1 S2.2m 
+0000598 030  NP1     Roker                    Z1m[i360.2.2 
+0000599 010  VVD     rejoined                 S5+/N6+ A1.8+/N6+ 
+0000599 020  NP1     Sam                      Z1mf 
+0000600 010  VVD     replied                  Q2.2 Q1.1 
+0000600 020  NP1     Sam                      Z1mf 
+0000601 010  VVD     said                     Q2.1 
+0000601 020  NNB     Mr.                      Z1m[i361.2.1 S2.2m 
+0000601 030  NP1     Pickwick                 Z1m[i361.2.2 Z1 
+0000602 010  PPHS1   he                       Z8m 
+0000602 020  VVZ     says                     Q2.1 
+0000603 010  VVZ     says                     Q2.1 
+0000603 020  AT      the                      Z5 
+0000603 030  JJ      little                   N3.2- T3- N3.7- N3.3- T1.3- A11.1- 
+0000603 040  NN1     creetur                  Z99 
+0000604 010  VVD     replied                  Q2.2 Q1.1 
+0000604 020  NNB     Mr.                      Z1m[i362.2.1 S2.2m 
+0000604 030  NP1     Weller                   Z1m[i362.2.2 
+0000605 010  PPHS1   he                       Z8m 
+0000605 020  VVZ     says                     Q2.1 
+0000606 010  JJ%     said                     Q1.1 Q2.1 
+0000606 020  NNB     Mr.                      Z1m[i363.2.1 S2.2m 
+0000606 030  NP1     Smangle                  Z1m[i363.2.2 
+0000607 010  VVD     said                     Q2.1 
+0000607 020  NNB     Mr.                      Z1m[i364.2.1 S2.2m 
+0000607 030  NP1     Smangle                  Z1m[i364.2.2 
+0000608 010  VVD     said                     Q2.1 
+0000608 020  NNB     Mr.                      Z1m[i365.2.1 S2.2m 
+0000608 030  NP1     Smangle                  Z1m[i365.2.2 
+0000609 010  VVD     said                     Q2.1 
+0000609 020  NP1     Smangle                  Z99 
+0000610 010  VVD     said                     Q2.1 
+0000610 020  NNB     Mr.                      Z1m[i367.2.1 S2.2m Z1m[i366.2.1 
+0000610 030  NP1     Pickwick                 Z1m[i367.2.2 Z1 Z1m[i366.2.2 
+0000611 010  VVD     retorted                 Q2.2 
+0000611 020  NP1     Sam                      Z1mf 
+0000612 010  VVD     replied                  Q2.2 Q1.1 
+0000612 020  NNB     Mr.                      Z1m[i368.2.1 S2.2m 
+0000612 030  NP1     Roker                    Z1m[i368.2.2 
+0000613 010  VVD     said                     Q2.1 
+0000613 020  NNB     Mr.                      Z1m[i369.2.1 S2.2m 
+0000613 030  NP1     Roker                    Z1m[i369.2.2 
+0000614 010  VVD     replied                  Q2.2 Q1.1 
+0000614 020  NP1     Neddy                    Z99 
+0000615 010  VVD     returned                 M1 A9- N6 
+0000615 020  NNB     Mr.                      Z1m[i370.2.1 S2.2m 
+0000615 030  NP1     Pickwick                 Z1m[i370.2.2 Z1 
+0000616 010  VVD     said                     Q2.1 
+0000616 020  NNB     Mr.                      Z1m[i371.2.1 S2.2m 
+0000616 030  NP1     Pickwick                 Z1m[i371.2.2 Z1 
+0000617 010  VVD     said                     Q2.1 
+0000617 020  NNB     Mr.                      Z1m[i372.2.1 S2.2m 
+0000617 030  NP1     Pickwick                 Z1m[i372.2.2 Z1 
+0000618 010  VVD     replied                  Q2.2 Q1.1 
+0000618 020  NP1     Pell                     Z99 
+0000619 010  VVD     replied                  Q2.2 Q1.1 
+0000619 020  NNB     Mr.                      Z1m[i373.2.1 S2.2m 
+0000619 030  NP1     Pell                     Z1m[i373.2.2 
+0000620 010  VVD     replied                  Q2.2 Q1.1 
+0000620 020  NNB     Mr.                      Z1m[i374.2.1 S2.2m 
+0000620 030  NP1     Pell                     Z1m[i374.2.2 
+0000621 010  VVD     said                     Q2.1 
+0000621 020  NNB     Mr.                      Z1m[i375.2.1 S2.2m 
+0000621 030  NP1     Pell                     Z1m[i375.2.2 
+0000622 010  VVD     said                     Q2.1 
+0000622 020  NNB     Mr.                      Z1m[i376.2.1 S2.2m 
+0000622 030  NP1     Weller                   Z1m[i376.2.2 
+0000623 010  VVD     argued                   Q2.1 Q2.1/A6.1- Q2.1/E3- Q2.1/A2.2 
+0000623 020  NNB     Mr.                      Z1m[i377.2.1 S2.2m 
+0000623 030  NP1     Pell                     Z1m[i377.2.2 
+0000624 010  VVD     said                     Q2.1 
+0000624 020  NNB     Mr.                      Z1m[i378.2.1 S2.2m 
+0000624 030  NP1     Weller                   Z1m[i378.2.2 
+0000625 010  VVD     said                     Q2.1 
+0000625 020  NP1     Sam                      Z1mf 
+0000625 030  RR      impatiently              X5.2+ E3- 
+0000626 010  VVD     said                     Q2.1 
+0000626 020  NP1     Sam                      Z1mf 
+0000627 010  VVD     said                     Q2.1 
+0000627 020  NNB     Mr.                      Z1m[i379.2.1 S2.2m 
+0000627 030  NP1     Weller                   Z1m[i379.2.2 
+0000627 040  RR      metaphorically           Q3 
+0000628 010  VVD     said                     Q2.1 
+0000628 020  NP1     Sam                      Z1mf 
+0000629 010  VVD     retorted                 Q2.2 
+0000629 020  NP1     Sam                      Z1mf 
+0000630 010  VVD     said                     Q2.1 
+0000630 020  NNB     Mr.                      Z1m[i380.2.1 S2.2m 
+0000630 030  NP1     Weller                   Z1m[i380.2.2 
+0000631 010  VVD     said                     Q2.1 
+0000631 020  AT      the                      Z5 
+0000631 030  JJ      old                      T3+ Z4 
+0000631 040  NN1     gentleman                S2.2m 
+0000632 010  VVD     said                     Q2.1 
+0000632 020  NP1     Sam                      Z1mf 
+0000633 010  VVD     said                     Q2.1 
+0000633 020  NP1     Sam                      Z1mf 
+0000634 010  VVD     said                     Q2.1 
+0000634 020  NP1     Sam                      Z1mf 
+0000635 010  VVD     said                     Q2.1 
+0000635 020  AT      the                      Z5 
+0000635 030  NN1     coach-horser             Z99 
+0000636 010  VVD     said                     Q2.1 
+0000636 020  NP1     Sam                      Z1mf 
+0000637 010  VVD     said                     Q2.1 
+0000637 020  NNB     Mr.                      Z1m[i381.2.1 S2.2m 
+0000637 030  NP1     Pickwick                 Z1m[i381.2.2 Z1 
+0000638 010  VVD     replied                  Q2.2 Q1.1 
+0000638 020  NP1     Sam                      Z1mf 
+0000639 010  NNB     Mr.                      Z1m[i382.2.1 S2.2m 
+0000639 020  NP1     Pickwick                 Z1m[i382.2.2 Z1 
+0000639 030  VVD     remonstrated             Q2.2 
+0000640 010  VVD     replied                  Q2.2 Q1.1 
+0000640 020  NNB     Mr.                      Z1m[i383.2.1 S2.2m 
+0000640 030  NP1     Weller                   Z1m[i383.2.2 
+0000640 040  RR      gravely                  E4.1- A1.3+ 
+0000641 010  VVD     rejoined                 S5+/N6+ A1.8+/N6+ 
+0000641 020  NP1     Sam                      Z1mf 
+0000641 021  ,       ,                        
+0000641 030  VV0     'but                     Z99 
+0000641 040  PPH1    it                       Z8 
+0000642 010  VVD     remarked                 Q2.2 
+0000642 020  NP1     Sam                      Z1mf 
+0000643 010  VVZ     says                     Q2.1 
+0000643 020  AT      the                      Z5 
+0000643 030  NN1     patient                  B2-/S2mf 
+0000644 010  PPHS1   he                       Z8m 
+0000644 020  VVZ     says                     Q2.1 
+0000645 010  VVZ     says                     Q2.1 
+0000645 020  AT      the                      Z5 
+0000645 030  NN1     patient                  B2-/S2mf 
+0000646 010  VVD     said                     Q2.1 
+0000646 020  AT      the                      Z5 
+0000646 030  NN1     cobbler                  B5/S2mf F1 
+0000647 010  VVD     said                     Q2.1 
+0000647 020  AT      the                      Z5 
+0000647 030  NN1     cobbler                  B5/S2mf F1 
+0000648 010  VVD     replied                  Q2.2 Q1.1 
+0000648 020  AT      the                      Z5 
+0000648 030  NN1     cobbler                  B5/S2mf F1 
+0000649 010  VVD     said                     Q2.1 
+0000649 020  AT      the                      Z5 
+0000649 030  NN1     cobbler                  B5/S2mf F1 
+0000650 010  VVD     said                     Q2.1 
+0000650 020  AT      the                      Z5 
+0000650 030  NN1     cobbler                  B5/S2mf F1 
+0000651 010  VVD     said                     Q2.1 
+0000651 020  NP1     Sam                      Z1mf 
+0000652 010  VVD     continued                T2++ 
+0000652 020  AT      the                      Z5 
+0000652 030  NN1     cobbler                  B5/S2mf F1 
+0000653 010  VVD     said                     Q2.1 
+0000653 020  NNB     Mr.                      Z1m[i384.2.1 S2.2m 
+0000653 030  NP1     Pickwick                 Z1m[i384.2.2 Z1 
+0000653 031  ,       ,                        
+0000653 040  VVG     hesitating               A7- 
+0000654 010  JJ      added                    N5+/A2.1 A1.8+ 
+0000654 020  NNB     Mr.                      Z1m[i385.2.1 S2.2m 
+0000654 030  NP1     Smangle                  Z1m[i385.2.2 
+0000655 010  VVD     said                     Q2.1 
+0000655 020  NNB     Mr.                      Z1m[i386.2.1 S2.2m 
+0000655 030  NP1     Pickwick                 Z1m[i386.2.2 Z1 
+0000656 010  VVD     faltered                 A7- 
+0000656 020  NNB     Mr.                      Z1m[i387.2.1 S2.2m 
+0000656 030  NP1     Winkle                   Z1m[i387.2.2 
+0000657 010  VVD     responded                S1.1.2+ Q2.2 
+0000657 020  NNB     Mr.                      Z1m[i388.2.1 S2.2m 
+0000657 030  NP1     Weller                   Z1m[i388.2.2 
+0000658 010  VVD     said                     Q2.1 
+0000658 020  NNB     Mr.                      Z1m[i389.2.1 S2.2m 
+0000658 030  NP1     Roker                    Z1m[i389.2.2 
+0000659 010  VVD     said                     Q2.1 
+0000659 020  NNB     Mr.                      Z1m[i390.2.1 S2.2m 
+0000659 030  NP1     Roker                    Z1m[i390.2.2 
+0000660 010  VVD     exclaimed                Q2.2 
+0000660 020  NNB     Mr.                      Z1m[i391.2.1 S2.2m 
+0000660 030  NP1     Pickwick                 Z1m[i391.2.2 Z1 
+0000661 010  VVD     replied                  Q2.2 Q1.1 
+0000661 020  AT      the                      Z5 
+0000661 030  JJ      old                      T3+ Z4 
+0000661 040  NN1     gentleman                S2.2m 
+0000662 010  VVD     said                     Q2.1 
+0000662 020  NP1     Sam                      Z1mf 
+0000663 010  VVD     said                     Q2.1 
+0000663 020  NP1     Sam                      Z1mf 
+0000664 010  VVD     said                     Q2.1 
+0000664 020  NP1     Sam                      Z1mf 
+0000665 010  VVD     said                     Q2.1 
+0000665 020  NNB     Mr.                      Z1m[i392.2.1 S2.2m 
+0000665 030  NP1     Weller                   Z1m[i392.2.2 
+0000666 010  VVD     replied                  Q2.2 Q1.1 
+0000666 020  APPGE   his                      Z8m 
+0000666 030  NN1     father                   S4m S9/S2.2m 
+0000667 010  VVD     said                     Q2.1 
+0000667 020  NP1     Sam                      Z1mf 
+0000668 010  VVD     replied                  Q2.2 Q1.1 
+0000668 020  NP1     Sam                      Z1mf 
+0000669 010  VVD     said                     Q2.1 
+0000669 020  NNB     Mr.                      Z1m[i393.2.1 S2.2m 
+0000669 030  NP1     Stiggins                 Z1m[i393.2.2 
+0000669 040  RR      ostentatiously           A10+ 
+0000670 010  VVD     replied                  Q2.2 Q1.1 
+0000670 020  NP1     Sam                      Z1mf 
+0000671 010  VVD     replied                  Q2.2 Q1.1 
+0000671 020  NP1     Sam                      Z1mf 
+0000672 010  VVD     replied                  Q2.2 Q1.1 
+0000672 020  NNB     Mr.                      Z1m[i394.2.1 S2.2m 
+0000672 030  NP1     Weller                   Z1m[i394.2.2 
+0000673 010  VVD     replied                  Q2.2 Q1.1 
+0000673 020  NNB     Mrs.                     Z1f[i396.2.1 Z1m[i395.2.1 
+0000673 030  NP1     Weller                   Z1f[i396.2.2 Z1m[i395.2.2 
+0000674 010  VVD     rejoined                 S5+/N6+ A1.8+/N6+ 
+0000674 020  NNB     Mr.                      Z1m[i397.2.1 S2.2m 
+0000674 030  NP1     Stiggins                 Z1m[i397.2.2 
+0000675 010  VVD     replied                  Q2.2 Q1.1 
+0000675 020  NNB     Mr.                      Z1m[i398.2.1 S2.2m 
+0000675 030  NP1     Stiggins                 Z1m[i398.2.2 
+0000676 010  VVD     said                     Q2.1 
+0000676 020  NP1     Sam                      Z1mf 
+0000677 010  VVD     replied                  Q2.2 Q1.1 
+0000677 020  NNB     Mr.                      Z1m[i399.2.1 S2.2m 
+0000677 030  NP1     Stiggins                 Z1m[i399.2.2 
+0000678 010  VVD     said                     Q2.1 
+0000678 020  NNB     Mr.                      Z1m[i400.2.1 S2.2m 
+0000678 030  NP1     Stiggins                 Z1m[i400.2.2 
+0000679 010  VVD     said                     Q2.1 
+0000679 020  NP1     Sam                      Z1mf 
+0000680 010  VVD     said                     Q2.1 
+0000680 020  AT      the                      Z5 
+0000680 030  NN1     gentleman                S2.2m 
+0000681 010  VVD     replied                  Q2.2 Q1.1 
+0000681 020  NP1     Sam                      Z1mf 
+0000682 010  VVD     replied                  Q2.2 Q1.1 
+0000682 020  NNB     Mr.                      Z1m[i401.2.1 S2.2m 
+0000682 030  NP1     Pickwick                 Z1m[i401.2.2 Z1 
+0000683 010  VVD     replied                  Q2.2 Q1.1 
+0000683 020  NN1     Jingle                   X3.2+ K2 
+0000684 010  VVD     said                     Q2.1 
+0000684 020  NNB     Mr.                      Z1m[i402.2.1 S2.2m 
+0000684 030  NP1     Pickwick                 Z1m[i402.2.2 Z1 
+0000685 010  VVD     said                     Q2.1 
+0000685 020  NP1     Sam                      Z1mf 
+0000686 010  VVD     replied                  Q2.2 Q1.1 
+0000686 020  NN1     Job                      I3.1 A1.1.1 A12- 
+0000687 010  VVD     said                     Q2.1 
+0000687 020  NP1     Sam                      Z1mf 
+0000688 010  VVD     said                     Q2.1 
+0000688 020  NP1     Sam                      Z1mf 
+0000689 010  VVD     replied                  Q2.2 Q1.1 
+0000689 020  NN1     Job                      I3.1 A1.1.1 A12- 
+0000690 010  VVD     said                     Q2.1 
+0000690 020  NNB     Mr.                      Z1m[i403.2.1 S2.2m 
+0000690 030  NP1     Trotter                  Z1m[i403.2.2 
+0000691 010  VVD     said                     Q2.1 
+0000691 020  NP1     Sam                      Z1mf 
+0000692 010  VVD     replied                  Q2.2 Q1.1 
+0000692 020  NN1     Job                      I3.1 A1.1.1 A12- 
+0000693 010  VVD     said                     Q2.1 
+0000693 020  NP1     Sam                      Z1mf 
+0000694 010  VVD     said                     Q2.1 
+0000694 020  NNB     Mrs.                     Z1f[i405.2.1 Z1m[i404.2.1 
+0000694 030  NP1     Cluppins                 Z1f[i405.2.2 Z1m[i404.2.2 
+0000695 010  VVD     replied                  Q2.2 Q1.1 
+0000695 020  NP1     Tommy                    Z1m 
+0000696 010  VVD     rejoined                 S5+/N6+ A1.8+/N6+ 
+0000696 020  NN1     Master                   S7.1+/S2.2m X9.1+/S2.2m P1/S2.2m P1 C1/S2.2m S9/S2.2m 
+0000696 030  NP1     Bardell                  Z99 
+0000697 010  VVD     said                     Q2.1 
+0000697 020  NNB     Mrs.                     Z1f[i407.2.1 Z1m[i406.2.1 
+0000697 030  NP1     Rogers                   Z1f[i407.2.2 Z1mf Z1m[i406.2.2 
+0000698 010  VVD     said                     Q2.1 
+0000698 020  NNB     Mrs.                     Z1f[i409.2.1 Z1m[i408.2.1 
+0000698 030  NP1     Bardell                  Z1f[i409.2.2 Z1m[i408.2.2 
+0000699 010  VVD     said                     Q2.1 
+0000699 020  NNB     Mrs.                     Z1f[i411.2.1 Z1m[i410.2.1 
+0000699 030  NP1     Bardell                  Z1f[i411.2.2 Z1m[i410.2.2 
+0000700 010  VVD     sighed                   Q2.2/X3.2 
+0000700 020  NNB     Mrs.                     Z1f[i413.2.1 Z1m[i412.2.1 
+0000700 030  NP1     Rogers                   Z1f[i413.2.2 Z1mf Z1m[i412.2.2 
+0000701 010  VVD     remonstrated             Q2.2 
+0000701 020  NNB     Mr.                      Z1m[i414.2.1 S2.2m 
+0000701 030  NP1     Raddle                   Z1m[i414.2.2 
+0000702 010  VVD     resumed                  T2+/N6+ 
+0000702 020  NNB     Mr.                      Z1m[i415.2.1 S2.2m 
+0000702 030  NP1     Jackson                  Z1m[i415.2.2 Z1mf 
+0000703 010  VVD     replied                  Q2.2 Q1.1 
+0000703 020  NP1     Jackson                  Z1mf 
+0000704 010  VVD     replied                  Q2.2 Q1.1 
+0000704 020  AT      the                      Z5 
+0000704 030  NN1     man                      S2.2m 
+0000705 010  VVD     said                     Q2.1 
+0000705 020  NP1     Lowten                   Z99 
+0000706 010  VVD     resumed                  T2+/N6+ 
+0000706 020  NP1     Perker                   Z99 
+0000707 010  VVD     replied                  Q2.2 Q1.1 
+0000707 020  NP1     Perker                   Z99 
+0000708 010  VVD     said                     Q2.1 
+0000708 020  NNB     Mr.                      Z1m[i416.2.1 S2.2m 
+0000708 030  NP1     Pickwick                 Z1m[i416.2.2 Z1 
+0000709 010  VVD     interposed               Q2.2 
+0000709 020  NP1     Perker                   Z99 
+0000710 010  VVD     added                    N5+/A2.1 N2 A1.8+ 
+0000710 020  NP1     Arabella                 Z99 
+0000710 021  ,       ,                        
+0000710 030  VVG     looking                  X3.4[i417.2.1 S1.2.3+[i417.2.1 A8 X3.4 X2.4 X7+ Z4 
+0000710 040  RP      down                     X3.4[i417.2.2 S1.2.3+[i417.2.2 
+0000711 010  VVD     said                     Q2.1 
+0000711 020  NNB     Mr.                      Z1m[i418.2.1 S2.2m 
+0000711 030  NP1     Pickwick                 Z1m[i418.2.2 Z1 
+0000711 040  RR      gently                   E3+ 
+0000712 010  VVD     replied                  Q2.2 Q1.1 
+0000712 020  NP1     Bob                      Z1 
+0000713 010  VVD     said                     Q2.1 
+0000713 020  NNB     Mr.                      Z1m[i420.3.1 S2.2m Z1m[i419.2.1 
+0000713 030  NP1     Bob                      Z1m[i420.3.2 Z1 Z1m[i419.2.2 Z1mf[i421.2.1 Z3c[i421.2.1 
+0000713 040  NP1     Sawyer                   Z1m[i420.3.3 Z1mf Z1mf[i421.2.2 Z3c[i421.2.2 
+0000714 010  VVD     said                     Q2.1 
+0000714 020  AT      the                      Z5 
+0000714 030  JJ      old                      T3+ Z4 
+0000714 040  NN1     lady                     S2.1f S7.1+/S2.1f 
+0000715 010  VVD     exclaimed                Q2.2 
+0000715 020  NNB     Mr.                      Z1m[i423.3.1 S2.2m Z1m[i422.2.1 
+0000715 030  NP1     Ben                      Z1m[i423.3.2 Z1m Z1m[i422.2.2 Z1mf[i424.2.1 Z3c[i424.2.1 
+0000715 040  NP1     Allen                    Z1m[i423.3.3 Z1mf Z1mf[i424.2.2 Z3c[i424.2.2 
+0000716 010  VVD     said                     Q2.1 
+0000716 020  NNB     Mr.                      Z1m[i425.2.1 S2.2m 
+0000716 030  NP1     Allen                    Z1m[i425.2.2 Z1mf 
+0000717 010  VVD     said                     Q2.1 
+0000717 020  NP1     Bob                      Z1mf[i426.2.1 Z3c[i426.2.1 Z1 
+0000717 030  NP1     Sawyer                   Z1mf[i426.2.2 Z3c[i426.2.2 Z1mf 
+0000718 010  VVD     replied                  Q2.2 Q1.1 
+0000718 020  AT      the                      Z5 
+0000718 030  JJ      old                      T3+ Z4 
+0000718 040  NN1     lady                     S2.1f S7.1+/S2.1f 
+0000719 010  VVD     said                     Q2.1 
+0000719 020  NNB     Mr.                      Z1m[i427.2.1 S2.2m 
+0000719 030  NP1     Pickwick                 Z1m[i427.2.2 Z1 
+0000720 010  VVD     said                     Q2.1 
+0000720 020  NNB     Mr.                      Z1m[i428.2.1 S2.2m 
+0000720 030  NP1     Pickwick                 Z1m[i428.2.2 Z1 
+0000721 010  VVD     interrupted              Q2.2 X7- T2- 
+0000721 020  AT      the                      Z5 
+0000721 030  JJ      old                      T3+ Z4 
+0000721 040  NN1     lady                     S2.1f S7.1+/S2.1f 
+0000722 010  VVD     exclaimed                Q2.2 
+0000722 020  NNB     Mr.                      Z1m[i430.3.1 S2.2m Z1m[i429.2.1 
+0000722 030  NP1     Ben                      Z1m[i430.3.2 Z1m Z1m[i429.2.2 Z1mf[i431.2.1 Z3c[i431.2.1 
+0000722 040  NP1     Allen                    Z1m[i430.3.3 Z1mf Z1mf[i431.2.2 Z3c[i431.2.2 
+0000723 010  VVD     said                     Q2.1 
+0000723 020  NNB     Mr.                      Z1m[i432.2.1 S2.2m 
+0000723 030  NP1     Pickwick                 Z1m[i432.2.2 Z1 
+0000724 010  VVD     replied                  Q2.2 Q1.1 
+0000724 020  NNB     Mr.                      Z1m[i433.2.1 S2.2m 
+0000724 030  NP1     Pickwick                 Z1m[i433.2.2 Z1 
+0000725 010  VVD     replied                  Q2.2 Q1.1 
+0000725 020  NP1     Bob                      Z1mf[i434.2.1 Z3c[i434.2.1 Z1 
+0000725 030  NP1     Sawyer                   Z1mf[i434.2.2 Z3c[i434.2.2 Z1mf 
+0000726 010  VVD     said                     Q2.1 
+0000726 020  NP1     Bob                      Z1 
+0000726 021  ,       ,                        
+0000726 030  II      in                       Z5 
+0000726 040  NN1     conclusion               X6+ T2- 
+0000727 010  VVD     said                     Q2.1 
+0000727 020  NNB     Mr.                      Z1m[i435.2.1 S2.2m 
+0000727 030  NP1     Pickwick                 Z1m[i435.2.2 Z1 
+0000728 010  VVD     replied                  Q2.2 Q1.1 
+0000728 020  NP1     Bob                      Z1 
+0000729 010  VVD     expostulated             Q2.1 Q2.1/A6.1- Q2.1/E3- Q2.1/A2.2 A2.2 X2.1 Q2.2 
+0000729 020  NNB     Mr.                      Z1m[i436.2.1 S2.2m 
+0000729 030  NP1     Pickwick                 Z1m[i436.2.2 Z1 
+0000730 010  VVD     said                     Q2.1 
+0000730 020  NP1     Bob                      Z1 
+0000731 010  VVD     replied                  Q2.2 Q1.1 
+0000731 020  NNB     Mr.                      Z1m[i438.3.1 S2.2m Z1m[i437.2.1 
+0000731 030  NP1     Ben                      Z1m[i438.3.2 Z1m Z1m[i437.2.2 Z1mf[i439.2.1 Z3c[i439.2.1 
+0000731 040  NP1     Allen                    Z1m[i438.3.3 Z1mf Z1mf[i439.2.2 Z3c[i439.2.2 
+0000732 010  VVD     said                     Q2.1 
+0000732 020  NNB     Mr.                      Z1m[i440.2.1 S2.2m 
+0000732 030  NP1     Pickwick                 Z1m[i440.2.2 Z1 
+0000733 010  VVD     said                     Q2.1 
+0000733 020  NP1     Ben                      Z1m 
+0000734 010  VVD     rejoined                 S5+/N6+ A1.8+/N6+ 
+0000734 020  NP1     Bob                      Z1 
+0000735 010  VVD     said                     Q2.1 
+0000735 020  AT      the                      Z5 
+0000735 030  NN1     waiter                   I3.1/F1/S2.2m 
+0000736 010  VVD     interposed               Q2.2 
+0000736 020  NNB     Mr.                      Z1m[i441.2.1 S2.2m 
+0000736 030  NP1     Pickwick                 Z1m[i441.2.2 Z1 
+0000737 010  VVD     cried                    E4.1- Q2.2 
+0000737 020  NNB     Mr.                      Z1m[i442.2.1 S2.2m 
+0000737 030  NP1     Pickwick                 Z1m[i442.2.2 Z1 
+0000738 010  VVD     rejoined                 S5+/N6+ A1.8+/N6+ 
+0000738 020  NP1     Bob                      Z1 
+0000739 010  VVD     said                     Q2.1 
+0000739 020  NNB     Mr.                      Z1m[i443.2.1 S2.2m 
+0000739 030  NP1     Pickwick                 Z1m[i443.2.2 Z1 
+0000740 010  VVD     said                     Q2.1 
+0000740 020  NNB     Mr.                      Z1m[i444.2.1 S2.2m 
+0000740 030  NP1     Pickwick                 Z1m[i444.2.2 Z1 
+0000741 010  VVD     said                     Q2.1 
+0000741 020  NP1     Sam                      Z1mf 
+0000742 010  VVD     replied                  Q2.2 Q1.1 
+0000742 020  NP1     Pott                     Z99 
+0000743 010  VVD     replied                  Q2.2 Q1.1 
+0000743 020  NP1     Pott                     Z99 
+0000744 010  VVD     rejoined                 S5+/N6+ A1.8+/N6+ 
+0000744 020  NP1     Bob                      Z1 
+0000745 010  VVD     said                     Q2.1 
+0000745 020  NP1     Pott                     Z99 
+0000745 030  RR      solemnly                 O4.2 A5.2+ 
+0000746 010  VVD     observed                 X3.4 Q2.1/X2.4 X2.1 G2.1+ 
+0000746 020  NNB     Mr.                      Z1m[i445.2.1 S2.2m 
+0000746 030  NP1     Pickwick                 Z1m[i445.2.2 Z1 
+0000747 010  VVD     said                     Q2.1 
+0000747 020  NNB     Mr.                      Z1m[i446.2.1 S2.2m 
+0000747 030  NP1     Pickwick                 Z1m[i446.2.2 Z1 
+0000748 010  VVD     resumed                  T2+/N6+ 
+0000748 020  NP1     Pott                     Z99 
+0000749 010  VVD     said                     Q2.1 
+0000749 020  AT      the                      Z5 
+0000749 030  NN1     stranger                 X2.2-/S2mf 
+0000750 010  VVD     said                     Q2.1 
+0000750 020  NNB     Mr.                      Z1m[i447.2.1 S2.2m 
+0000750 030  NP1     Slurk                    Z1m[i447.2.2 
+0000751 010  JJ      wretched                 O4.2- 
+0000752 010  NN1     humbug                   F1 S1.2.6- A5.2- 
+0000752 011  ,       ,                        
+0000752 012  GE      '                        Z5 
+0000752 020  JJ      'knavery                 Z99 
+0000753 010  NN1     filth                    O4.2- S1.2.4- G2.1% 
+0000754 010  VVD     replied                  Q2.2 Q1.1 
+0000754 020  NP1     Bob                      Z1 
+0000755 010  VVD     replied                  Q2.2 Q1.1 
+0000755 020  NP1     Slurk                    Z99 
+0000756 010  VVD     said                     Q2.1 
+0000756 020  NP1     Sam                      Z1mf 
+0000757 010  VVD     exclaimed                Q2.2 
+0000757 020  NP1     Sam                      Z1mf 
+0000758 010  VVD     replied                  Q2.2 Q1.1 
+0000758 020  NNB     Mr.                      Z1m[i448.2.1 S2.2m 
+0000758 030  NP1     Pickwick                 Z1m[i448.2.2 Z1 
+0000759 010  VVD     said                     Q2.1 
+0000759 020  NNB     Mr.                      Z1m[i449.2.1 S2.2m 
+0000759 030  NP1     Weller                   Z1m[i449.2.2 
+0000760 010  VVD     said                     Q2.1 
+0000760 020  AT      the                      Z5 
+0000760 030  JJ      buxom                    O4.2+ 
+0000760 040  NN1     female                   S2.1f 
+0000761 010  VVD     said                     Q2.1 
+0000761 020  AT      the                      Z5 
+0000761 030  JJ      buxom                    O4.2+ 
+0000761 040  NN1     female                   S2.1f 
+0000762 010  VVD     resumed                  T2+/N6+ 
+0000762 020  AT      the                      Z5 
+0000762 030  NN1     parent                   S4mf A9+ 
+0000762 040  NP1     Weller                   Z99 
+0000763 010  VVD     returned                 M1 A9- N6 
+0000763 020  NNB     Mr.                      Z1m[i450.2.1 S2.2m 
+0000763 030  NP1     Weller                   Z1m[i450.2.2 
+0000764 010  VVD     rejoined                 S5+/N6+ A1.8+/N6+ 
+0000764 020  NNB     Mr.                      Z1m[i451.2.1 S2.2m 
+0000764 030  NP1     Weller                   Z1m[i451.2.2 
+0000765 010  VVD     said                     Q2.1 
+0000765 020  NP1     Sam                      Z1mf 
+0000766 010  VVD     added                    N5+/A2.1 N2 A1.8+ 
+0000766 020  NNB     Mr.                      Z1m[i452.2.1 S2.2m 
+0000766 030  NP1     Stiggins                 Z1m[i452.2.2 
+0000767 010  VVD     replied                  Q2.2 Q1.1 
+0000767 020  NNB     Mr.                      Z1m[i453.2.1 S2.2m 
+0000767 030  NP1     Stiggins                 Z1m[i453.2.2 
+0000768 010  VVD     rejoined                 S5+/N6+ A1.8+/N6+ 
+0000768 020  NP1     Sam                      Z1mf 
+0000769 010  VVD     said                     Q2.1 
+0000769 020  NNB     Mr.                      Z1m[i454.2.1 S2.2m 
+0000769 030  NP1     Weller                   Z1m[i454.2.2 
+0000770 010  VVD     said                     Q2.1 
+0000770 020  NNB     Mr.                      Z1m[i455.2.1 S2.2m 
+0000770 030  NP1     Pickwick                 Z1m[i455.2.2 Z1 
+0000770 040  RR      kindly                   S1.2/S8+ S1.2.2- 
+0000771 010  VVD     said                     Q2.1 
+0000771 020  NP1     Arabella                 Z99 
+0000772 010  VVD     rejoined                 S5+/N6+ A1.8+/N6+ 
+0000772 020  NNB     Mr.                      Z1m[i456.2.1 S2.2m 
+0000772 030  NP1     Pickwick                 Z1m[i456.2.2 Z1 
+0000773 010  PPHS1   he                       Z8m 
+0000773 020  VVD     said                     Q2.1 
+0000774 010  VVD     replied                  Q2.2 Q1.1 
+0000774 020  NP1     Lowten                   Z99 
+0000775 010  VVD     said                     Q2.1 
+0000775 020  NP1     Perker                   Z99 
+0000776 010  VVD     said                     Q2.1 
+0000776 020  NP1     Perker                   Z99 
+0000777 010  VVD     said                     Q2.1 
+0000777 020  NN1     Jingle                   X3.2+ K2 
+0000777 030  RR      hastily                  N3.8+ A1.3- 
+0000778 010  VVD     replied                  Q2.2 Q1.1 
+0000778 020  NP1     Lowten                   Z99 
+0000779 010  VVD     replied                  Q2.2 Q1.1 
+0000779 020  NP1     Perker                   Z99 
+0000780 010  VVD     cried                    E4.1- Q2.2 
+0000780 020  NP1     Fogg                     Z99 
+0000781 010  VVD     said                     Q2.1 
+0000781 020  NP1     Dodson                   Z99 
+0000782 010  VVD     replied                  Q2.2 Q1.1 
+0000782 020  CST     that                     Z5 Z8 
+0000782 030  JJ      much-injured             Z99 
+0000782 040  NN1     gentleman                S2.2m 
+0000783 010  VVD     said                     Q2.1 
+0000783 020  NP1     Dodson                   Z99 
+0000783 021  ,       ,                        
+0000783 030  VVG     rising                   M1 N5+/A2.1 N3.2+/A2.1 S7.1+/A2.1 N3.7+/A2.1 
+0000784 010  VVD     said                     Q2.1 
+0000784 020  NP1     Dodson                   Z99 
+0000785 010  VVD     interposed               Q2.2 
+0000785 020  NP1     Perker                   Z99 
+0000786 010  VVD     rejoined                 S5+/N6+ A1.8+/N6+ 
+0000786 020  NNB     Mr.                      Z1m[i457.2.1 S2.2m 
+0000786 030  NP1     Pickwick                 Z1m[i457.2.2 Z1 
+0000787 010  VVD     said                     Q2.1 
+0000787 020  NNB     Mr.                      Z1m[i459.3.1 S2.2m Z1m[i458.2.1 
+0000787 030  NP1     Pickwick                 Z1m[i459.3.2 Z1 Z1m[i458.2.2 Z1mf[i460.2.1 Z3c[i460.2.1 
+0000788 010  NP1     Perker                   Z1m[i459.3.3 Z1mf[i460.2.2 Z3c[i460.2.2 
+0000788 020  VVD@    called                   Q2.2[i461.2.1 Q2.2 S1.1.1 Q1.3 S9% 
+0000788 030  RP      out                      Q2.2[i461.2.2 M6 
+0000789 010  VVD     said                     Q2.1 
+0000789 020  AT      the                      Z5 
+0000789 030  NN1     clerk                    I2.1/S2mf G1.1/S2mf 
+0000790 010  VVD     replied                  Q2.2 Q1.1 
+0000790 020  NP1     Wardle                   Z1 
+0000791 010  VVD     replied                  Q2.2 Q1.1 
+0000791 020  NNB     Mr.                      Z1m[i462.2.1 S2.2m 
+0000791 030  NP1     Pickwick                 Z1m[i462.2.2 Z1 
+0000792 010  VVD     replied                  Q2.2 Q1.1 
+0000792 020  JJ      old                      T3+ Z4 
+0000792 030  NP1     Wardle                   Z1 
+0000793 010  VVD     inquired                 Q2.2 X2.4 
+0000793 020  NNB     Mr.                      Z1m[i463.2.1 S2.2m 
+0000793 030  NP1     Pickwick                 Z1m[i463.2.2 Z1 
+0000794 010  VVD     replied                  Q2.2 Q1.1 
+0000794 020  NP1     Wardle                   Z1 
+0000795 010  VVD     responded                S1.1.2+ Q2.2 
+0000795 020  NP1     Wardle                   Z1 
+0000796 010  VVD     replied                  Q2.2 Q1.1 
+0000796 020  NP1     Wardle                   Z1 
+0000797 010  VVD     said                     Q2.1 
+0000797 020  NNB     Mr.                      Z1m[i464.2.1 S2.2m 
+0000797 030  NP1     Pickwick                 Z1m[i464.2.2 Z1 
+0000797 031  ,       ,                        
+0000797 040  VVG     ruminating               X2.1 L2 
+0000798 010  VVD     remarked                 Q2.2 
+0000798 020  NP1     Perker                   Z99 
+0000799 010  VVD     answered                 Q2.2 S1.1.1 
+0000799 020  NP1     Wardle                   Z1 
+0000800 010  VVD     said                     Q2.1 
+0000800 020  NP1     Emily                    Z1f 
+0000801 010  VVD     said                     Q2.1 
+0000801 020  NP1     Arabella                 Z99 
+0000802 010  VVD     said                     Q2.1 
+0000802 020  NP1     Mary                     Z1f 
+0000803 010  VVD     said                     Q2.1 
+0000803 020  NP1     Mary                     Z1f 
+0000804 010  VVD     said                     Q2.1 
+0000804 020  NP1     Wardle                   Z1 
+0000805 010  VVD     said                     Q2.1 
+0000805 020  NNB     Mr.                      Z1m[i465.2.1 S2.2m 
+0000805 030  NP1     Pickwick                 Z1m[i465.2.2 Z1 
+0000805 031  ,       ,                        
+0000805 040  NN1     starting                 T2+ E5- E3- 
+0000806 010  VVD     said                     Q2.1 
+0000806 020  NNB     Mr.                      Z1m[i466.2.1 S2.2m 
+0000806 030  NP1     Pickwick                 Z1m[i466.2.2 Z1 
+0000807 010  VVD     said                     Q2.1 
+0000807 020  NP1     Wardle                   Z1 
+0000807 030  RR      reproachfully            G2.2- Q2.2 
+0000808 010  VVD     said                     Q2.1 
+0000808 020  NP1     Emily                    Z1f 
+0000809 010  VVD     added                    N5+/A2.1 N2 A1.8+ 
+0000809 020  NNB     Mr.                      Z1m[i467.2.1 S2.2m 
+0000809 030  NP1     Weller                   Z1m[i467.2.2 
+0000810 010  VVD     exclaimed                Q2.2 
+0000810 020  NP1     Sam                      Z1mf 
+0000810 030  RR      irritably                Z99 
+0000811 010  VVD     replied                  Q2.2 Q1.1 
+0000811 020  NNB     Mr.                      Z1m[i468.2.1 S2.2m 
+0000811 030  NP1     Weller                   Z1m[i468.2.2 
+0000812 010  VVD     replied                  Q2.2 Q1.1 
+0000812 020  NP1     Pell                     Z99 
+0000813 010  VVD     replied                  Q2.2 Q1.1 
+0000813 020  NP1     Pell                     Z99 
+0000814 010  VVD     said                     Q2.1 
+0000814 020  NP1     Pell                     Z99 
+0000815 010  VVD     said                     Q2.1 
+0000815 020  NP1     Pell                     Z99 
+0000816 010  VVD     replied                  Q2.2 Q1.1 
+0000816 020  NNB     Mr.                      Z1m[i469.2.1 S2.2m 
+0000816 030  NP1     Weller                   Z1m[i469.2.2 
+0000816 040  RR      sharply                  O4.4 A10+ X9.1+ N3.8+ E3- 
+0000817 010  VVD     said                     Q2.1 
+0000817 020  NP1     Pell                     Z99 
+0000818 010  VVD     said                     Q2.1 
+0000818 020  NP1     Pell                     Z99 
+0000819 010  VVD     resumed                  T2+/N6+ 
+0000819 020  APPGE   his                      Z8m 
+0000819 030  NN1     father                   S4m S9/S2.2m 
+0000820 010  VVD     said                     Q2.1 
+0000820 020  NNB     Mr.                      Z1m[i470.2.1 S2.2m 
+0000820 030  NP1     Pell                     Z1m[i470.2.2 
+0000821 010  VVD     said                     Q2.1 
+0000821 020  NP1     Pell                     Z99 
+0000822 010  VVD     retorted                 Q2.2 
+0000822 020  NNB     Mr.                      Z1m[i471.2.1 S2.2m 
+0000822 030  NP1     Weller                   Z1m[i471.2.2 
+0000823 010  VVD     replied                  Q2.2 Q1.1 
+0000823 020  AT      the                      Z5 
+0000823 030  NN1     widower                  S4m 
+0000824 010  VVD     said                     Q2.1 
+0000824 020  NNB     Mr.                      Z1m[i472.2.1 S2.2m 
+0000824 030  NP1     Weller                   Z1m[i472.2.2 
+0000825 010  VVD     rejoined                 S5+/N6+ A1.8+/N6+ 
+0000825 020  NNB     Mr.                      Z1m[i473.2.1 S2.2m 
+0000825 030  NP1     Weller                   Z1m[i473.2.2 
+0000826 010  VVD     rejoined                 S5+/N6+ A1.8+/N6+ 
+0000826 020  APPGE   his                      Z8m 
+0000826 030  NN1     father                   S4m S9/S2.2m 
+0000827 010  VVD     said                     Q2.1 
+0000827 020  NP1     Sam                      Z1mf 
+0000828 010  VVD     continued                T2++ 
+0000828 020  NP1     Sam                      Z1mf 
+0000829 010  VVD     replied                  Q2.2 Q1.1 
+0000829 020  NNB     Mr.                      Z1m[i475.2.1 S2.2m Z1m[i474.2.1 
+0000829 030  NP1     Pickwick                 Z1m[i475.2.2 Z1 Z1m[i474.2.2 
+0000830 010  VVD     said                     Q2.1 
+0000830 020  NNB     Mr.                      Z1m[i476.2.1 S2.2m 
+0000830 030  NP1     Pickwick                 Z1m[i476.2.2 Z1 
+0000831 010  VVD     resumed                  T2+/N6+ 
+0000831 020  NNB     Mr.                      Z1m[i477.2.1 S2.2m 
+0000831 030  NP1     Pickwick                 Z1m[i477.2.2 Z1 
+0000832 010  VVD     said                     Q2.1 
+0000832 020  NNB     Mr.                      Z1m[i478.2.1 S2.2m 
+0000832 030  NP1     Pickwick                 Z1m[i478.2.2 Z1 
+0000833 010  VVD     observed                 X3.4 Q2.1/X2.4 X2.1 G2.1+ 
+0000833 020  NNB     Mr.                      Z1m[i479.2.1 S2.2m 
+0000833 030  NP1     Pickwick                 Z1m[i479.2.2 Z1 
+0000834 010  VVD     said                     Q2.1 
+0000834 020  NNB     Mr.                      Z1m[i480.2.1 S2.2m 
+0000834 030  NP1     Weller                   Z1m[i480.2.2 
+0000835 010  VVD     resumed                  T2+/N6+ 
+0000835 020  NNB     Mr.                      Z1m[i481.2.1 S2.2m 
+0000835 030  NP1     Pickwick                 Z1m[i481.2.2 Z1 
+0000836 010  VVD     replied                  Q2.2 Q1.1 
+0000836 020  NNB     Mr.                      Z1m[i482.2.1 S2.2m 
+0000836 030  NP1     Pickwick                 Z1m[i482.2.2 Z1 
+0000837 010  VVD     replied                  Q2.2 Q1.1 
+0000837 020  AT      the                      Z5 
+0000837 030  NN1     waiter                   I3.1/F1/S2.2m 
+0000838 010  VVD     said                     Q2.1 
+0000838 020  AT      the                      Z5 
+0000838 030  NN1     waiter                   I3.1/F1/S2.2m 
+0000839 010  VVD     said                     Q2.1 
+0000839 020  AT      the                      Z5 
+0000839 030  JJ      old                      T3+ Z4 
+0000839 040  NN1     gentleman                S2.2m 
+0000840 010  VVD     said                     Q2.1 
+0000840 020  NP1     Arabella                 Z99 
+0000841 010  VVD     said                     Q2.1 
+0000841 020  NNB     Mr.                      Z1m[i483.2.1 S2.2m 
+0000841 030  NP1     Winkle                   Z1m[i483.2.2 
+0000842 010  VVD     said                     Q2.1 
+0000842 020  AT      the                      Z5 
+0000842 030  JJ      old                      T3+ Z4 
+0000842 040  NN1     gentleman                S2.2m 
+0000843 010  VVD     said                     Q2.1 
+0000843 020  NNB     Mr.                      Z1m[i484.2.1 S2.2m 
+0000843 030  NP1     Pickwick                 Z1m[i484.2.2 Z1 
+0000844 010  VVD     said                     Q2.1 
+0000844 020  NNB     Mr.                      Z1m[i485.2.1 S2.2m 
+0000844 030  NP1     Pickwick                 Z1m[i485.2.2 Z1 
+0000845 001  NULL    **8;7;text               

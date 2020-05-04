@@ -1,0 +1,29 @@
+0000001 001  NULL    **6;0;START              
+0000001 002  -----   -----                    
+0000002 010  CC      or                       Z5 
+0000003 010  CCB     but                      Z5 
+0000003 020  RR      only                     A14 
+0000004 010  PPHS1   he                       Z8m 
+0000005 010  VVZ     asks                     Q2.2 
+0000005 020  RT      again                    N6+ Z4 
+0000006 010  PPIS1   I                        Z8mf 
+0000007 010  VVD     said                     Q2.1 
+0000008 010  CC      or                       Z5 
+0000009 010  PPHS1   he                       Z8m 
+0000009 020  VVZ     says                     Q2.1 
+0000010 010  PPHS1   he                       Z8m 
+0000011 010  VVZ     says                     Q2.1 
+0000012 010  PPIS1   I                        Z8mf 
+0000012 020  VVD     said                     Q2.1 
+0000013 010  VVZ     says                     Q2.1 
+0000013 020  AT      the                      Z5 
+0000014 010  NN1     proverb                  Q3[i1.2.1 Q3 S9 
+0000015 010  JJ      wise                     Q3[i1.2.2 S1.2.6+ X9.1+ 
+0000016 010  NN2     men                      S2.2m 
+0000016 020  VV0     tell                     Q2.2 Q2.1 X3 A10+ 
+0000016 030  PPIO2   us                       Z8 
+0000017 010  CC      and                      Z5 
+0000018 010  CC      and                      Z5 
+0000019 010  PPHS1   he                       Z8m 
+0000019 020  VVD     said                     Q2.1 
+0000020 001  NULL    **8;7;text               

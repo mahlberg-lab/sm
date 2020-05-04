@@ -1,0 +1,162 @@
+---
+title: "Data processing"
+author: "Viola Wiegand"
+date: "`r Sys.Date()`"
+output:
+  md_document:
+    variant: markdown_github
+    toc: yes
+---
+```{r set-options, echo=FALSE, cache=FALSE}
+options(width = 1000)
+```
+
+# Creating corp\_text objects
+
+In order to run the CorporaCoCo comparison on the semantically tagged files, they have to be imported into R as `corp-text` objects. This was done using the following R code (based on code written by Anthony Hennessey for Viola Wiegand's thesis data). The code only works with the development version 1.1 of CorporaCoCo (i.e. the version that understands "complex types" and corp_text objects).
+
+```{r create RDS files}
+library(CorporaCoCo) # development version of 1.1
+library(data.table)
+library(stringi)
+
+write_corp_text <- function(indir, outdir) {
+    infiles <- list.files(indir, pattern = "\\.sem")
+
+    for(file in infiles) {
+        f <- readLines(file.path(indir, file))
+        # this is probably fixed width but not documented, so separate on white space
+        # the last column is tagged separated by white space 
+        f <- stri_match(f, regex = "^(\\S+)\\s+(\\S+)\\s+(\\S+)\\s+(\\S+)\\s+(.*?)\\s*$")  # erronious white space at the end
+
+        ff <- as.data.table(f[f[, 4] != "-----", 2:6], stringsAsFactors = FALSE)
+        names(ff) <- c("col1", "col2", "POS", "token", "USAS")
+
+        # undo HTML encoding we did for POS tagger
+        html_entities <- list(
+            from = c("&pound;", "&amp;", "&lt;", "&gt;", "&lsqb;", "&rsqb;", "&bquo;"),
+            to = c("£", "&", "<", ">", "[", "]", "`")
+    )
+    tmp <- html_entities$to[match(ff$token, html_entities$from )]
+    ff$token <- ifelse(is.na(tmp), ff$token, tmp)
+        
+        # we want cooccurrence barriers each time col1 changes
+        idxs <- data.frame(starts = data.table:::uniqlist(ff[, 1]))
+        idxs$ends <- shift(idxs$starts, -1) - 1
+        idxs$ends[length(idxs$ends)] <- nrow(ff)
+        n <- 5 # assuming span =< 5
+        bar <- data.table("col1" = rep(NA, n), "col2" = rep(NA, n),  "POS" = rep(NA, n), "token" =  rep("_b_", n), "USAS" = rep(NA, n))
+        fff <- do.call(rbind, apply(idxs, 1, function(x) {rbind(ff[x[1]:x[2],], bar)}))
+
+        # attempt to regain some white space integrity
+        fff$text <- ifelse(shift(fff$token, 1, type = "lead") %in% c(".", ",", ":", ";", "]", ")") | fff$token %in% c("(", "["),
+            fff$token,
+            paste0(fff$token, " ")
+        )
+
+        fff$nchar_token <- nchar(fff$token, type = "chars")
+        fff$nchar_text <- nchar(fff$text, type = "chars")
+
+        fff$start <- cumsum(c(1, fff$nchar_text))[-nrow(fff)]
+        fff$end <- fff$start + fff$nchar_token - 1
+
+        wanted <- fff$USAS != "" | is.na(fff$USAS)
+        obj <- corp_text(
+            text = paste(fff$text, collapse = ""),
+            tokens = data.frame(
+                type = fff$USAS[wanted],
+                start = as.integer(fff$start[wanted]),
+                end = as.integer(fff$end[wanted]),
+                stringsAsFactors = FALSE
+            )
+        )
+
+        outfile <- sub("\\.sem", ".sem.rds", file)
+        saveRDS(obj, file = file.path(outdir, outfile))
+    }
+}
+
+# DNov
+## DNov quotes
+indir <- "./api-output-sem-tagged/DNov/quote"
+outdir <- "./api-output-sem-tagged/DNov/quote_corp_text_objects"
+write_corp_text(indir, outdir)
+
+## DNov non-quotes
+indir <- "./api-output-sem-tagged/DNov/nonquote"
+outdir <- "./api-output-sem-tagged/DNov/nonquote_corp_text_objects"
+write_corp_text(indir, outdir)
+
+## DNov long suspensions
+indir <- "./api-output-sem-tagged/DNov/longsus"
+outdir <- "./api-output-sem-tagged/DNov/longsus_corp_text_objects"
+write_corp_text(indir, outdir)
+
+## DNov short suspensions
+indir <- "./api-output-sem-tagged/DNov/shortsus"
+outdir <- "./api-output-sem-tagged/DNov/shortsus_corp_text_objects"
+write_corp_text(indir, outdir)
+
+# 19C
+## 19C quotes
+indir <- "./api-output-sem-tagged/19C/quote"
+outdir <- "./api-output-sem-tagged/19C/quote_corp_text_objects"
+write_corp_text(indir, outdir)
+
+## 19C non-quotes
+indir <- "./api-output-sem-tagged/19C/nonquote"
+outdir <- "./api-output-sem-tagged/19C/nonquote_corp_text_objects"
+write_corp_text(indir, outdir)
+
+## 19C long suspensions
+indir <- "./api-output-sem-tagged/19C/longsus"
+outdir <- "./api-output-sem-tagged/19C/longsus_corp_text_objects"
+write_corp_text(indir, outdir)
+
+## 19C short suspensions
+indir <- "./api-output-sem-tagged/19C/shortsus"
+outdir <- "./api-output-sem-tagged/19C/shortsus_corp_text_objects"
+write_corp_text(indir, outdir)
+
+# ChiLit
+## ChiLit quotes
+indir <- "./api-output-sem-tagged/ChiLit/quote"
+outdir <- "./api-output-sem-tagged/ChiLit/quote_corp_text_objects"
+write_corp_text(indir, outdir)
+
+## ChiLit non-quotes
+indir <- "./api-output-sem-tagged/ChiLit/nonquote"
+outdir <- "./api-output-sem-tagged/ChiLit/nonquote_corp_text_objects"
+write_corp_text(indir, outdir)
+
+## ChiLit long suspensions
+indir <- "./api-output-sem-tagged/ChiLit/longsus"
+outdir <- "./api-output-sem-tagged/ChiLit/longsus_corp_text_objects"
+write_corp_text(indir, outdir)
+
+## ChiLit short suspensions
+indir <- "./api-output-sem-tagged/ChiLit/shortsus"
+outdir <- "./api-output-sem-tagged/ChiLit/shortsus_corp_text_objects"
+write_corp_text(indir, outdir)
+
+# AAW
+## AAW quotes
+indir <- "./api-output-sem-tagged/AAW/quote"
+outdir <- "./api-output-sem-tagged/AAW/quote_corp_text_objects"
+write_corp_text(indir, outdir)
+
+## AAW non-quotes
+indir <- "./api-output-sem-tagged/AAW/nonquote"
+outdir <- "./api-output-sem-tagged/AAW/nonquote_corp_text_objects"
+write_corp_text(indir, outdir)
+
+## AAW long suspensions
+indir <- "./api-output-sem-tagged/AAW/longsus"
+outdir <- "./api-output-sem-tagged/AAW/longsus_corp_text_objects"
+write_corp_text(indir, outdir)
+
+## AAW short suspensions
+indir <- "./api-output-sem-tagged/AAW/shortsus"
+outdir <- "./api-output-sem-tagged/AAW/shortsus_corp_text_objects"
+write_corp_text(indir, outdir)
+``` 

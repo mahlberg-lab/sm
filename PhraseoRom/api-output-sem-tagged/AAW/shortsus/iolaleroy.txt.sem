@@ -1,0 +1,950 @@
+0000001 001  NULL    **6;0;START              
+0000001 002  -----   -----                    
+0000002 010  VVD     said                     Q2.1 
+0000002 020  NP1     Linda                    Z1f 
+0000003 010  VVD     said                     Q2.1 
+0000003 020  NP1     Robert                   Z1m 
+0000004 010  VVD     said                     Q2.1 
+0000004 020  NP1     Tom                      Z1m 
+0000005 010  VVD     said                     Q2.1 
+0000005 020  NP1     Tom                      Z1m 
+0000006 010  VVD     said                     Q2.1 
+0000006 020  NNB     Uncle                    Z1m[i1.2.1 
+0000006 030  NP1     Daniel                   Z1m[i1.2.2 Z1m 
+0000007 010  VVD     said                     Q2.1 
+0000007 020  NP1     Tom                      Z1mf[i2.2.1 Z3c[i2.2.1 Z1m 
+0000007 030  NP1     Anderson                 Z1mf[i2.2.2 Z3c[i2.2.2 Z1mf 
+0000008 010  VVD     said                     Q2.1 
+0000008 020  NP1     Tom                      Z1mf[i3.2.1 Z3c[i3.2.1 Z1m 
+0000009 010  NP1     Anderson                 Z1mf[i3.2.2 Z3c[i3.2.2 Z1mf 
+0000010 010  VVD     said                     Q2.1 
+0000010 020  NP1     Robert                   Z1m 
+0000011 010  VVD     said                     Q2.1 
+0000011 020  NP1     Robert                   Z1m 
+0000012 010  VVD     said                     Q2.1 
+0000012 020  NP1     Tom                      Z1mf[i4.2.1 Z3c[i4.2.1 Z1m 
+0000012 030  NP1     Anderson                 Z1mf[i4.2.2 Z3c[i4.2.2 Z1mf 
+0000013 010  VVD     said                     Q2.1 
+0000013 020  NNB     Aunt                     Z1f[i5.2.1 
+0000013 030  NP1     Linda                    Z1f[i5.2.2 Z1f 
+0000014 010  VVD     said                     Q2.1 
+0000014 020  NP1     Robert                   Z1m 
+0000015 010  VVD     said                     Q2.1 
+0000015 020  NP1     Tom                      Z1mf[i6.2.1 Z3c[i6.2.1 Z1m 
+0000015 030  NP1     Anderson                 Z1mf[i6.2.2 Z3c[i6.2.2 Z1mf 
+0000016 010  VVD     said                     Q2.1 
+0000016 020  NNB     Uncle                    Z1m[i7.2.1 
+0000016 030  NP1     Daniel                   Z1m[i7.2.2 Z1m 
+0000017 010  VVD     said                     Q2.1 
+0000017 020  NP1     Tom                      Z1mf[i8.2.1 Z3c[i8.2.1 Z1m 
+0000017 030  NP1     Anderson                 Z1mf[i8.2.2 Z3c[i8.2.2 Z1mf 
+0000018 010  VVD     said                     Q2.1 
+0000018 020  NP1     Tom                      Z1m 
+0000019 010  VVD     said                     Q2.1 
+0000019 020  NP1     Tom                      Z1m 
+0000020 010  VVD     said                     Q2.1 
+0000020 020  NP1     Tom                      Z1m 
+0000021 010  VVD     said                     Q2.1 
+0000021 020  NP1     Robert                   Z1m 
+0000022 010  VVD     spoke                    Q2.2[i9.2.1 Q2.1 
+0000022 020  RP      up                       Q2.2[i9.2.2 
+0000022 030  NP1     Tom                      Z1mf[i10.2.1 Z3c[i10.2.1 Z1m 
+0000022 040  NP1     Anderson                 Z1mf[i10.2.2 Z3c[i10.2.2 Z1mf 
+0000023 010  VVD     said                     Q2.1 
+0000023 020  NP1     Robert                   Z1m 
+0000024 010  VVD     continued                T2++ 
+0000024 020  NP1     Robert                   Z1m 
+0000025 010  VVD     said                     Q2.1 
+0000025 020  NP1     Robert                   Z1m 
+0000026 010  VVD     said                     Q2.1 
+0000026 020  NP1     Tom                      Z1m 
+0000027 010  VVD     said                     Q2.1 
+0000027 020  NP1     Robert                   Z1m 
+0000028 010  VVD     said                     Q2.1 
+0000028 020  NP1     Robert                   Z1m 
+0000029 010  VVD     said                     Q2.1 
+0000029 020  NP1     Robert                   Z1m 
+0000030 010  VVD     continued                T2++ 
+0000030 020  NP1     Robert                   Z1m 
+0000031 010  VVD     said                     Q2.1 
+0000031 020  NNB     Captain                  Z1mf[i11.2.1 
+0000031 030  NP1     Sybil                    Z1mf[i11.2.2 Z1f 
+0000032 010  VVD     said                     Q2.1 
+0000032 020  NP1     Robert                   Z1m 
+0000032 021  ,       ,                        
+0000032 030  VVG     rising                   M1 N5+/A2.1 N3.2+/A2.1 S7.1+/A2.1 N3.7+/A2.1 
+0000033 010  VVD     said                     Q2.1 
+0000034 010  NNB     Captain                  Z1mf[i12.2.1 
+0000034 020  NP1     Sybil                    Z1mf[i12.2.2 Z1f 
+0000035 010  VVD     asked                    Q2.2 
+0000035 020  NNB     Captain                  Z1mf[i13.2.1 
+0000035 030  NP1     Sybil                    Z1mf[i13.2.2 Z1f 
+0000036 010  VVD     exclaimed                Q2.2 
+0000036 020  NNB     Captain                  Z1mf[i14.2.1 
+0000036 030  NP1     Sybil                    Z1mf[i14.2.2 Z1f 
+0000036 031  ,       ,                        
+0000036 040  RR      sympathetically          X2.5+/E1 S8+ A6.1+ 
+0000037 010  VVD     said                     Q2.1 
+0000037 020  NNB     Captain                  Z1mf[i15.2.1 
+0000037 030  NP1     Sybil                    Z1mf[i15.2.2 Z1f 
+0000038 010  VVD     said                     Q2.1 
+0000038 020  NP1     Iola                     Z99 
+0000039 010  VVD     said                     Q2.1 
+0000039 020  NP1     Iola                     Z99 
+0000039 021  ,       ,                        
+0000039 030  RR      tenderly                 E3+ 
+0000040 010  VVD     answered                 Q2.2 S1.1.1 
+0000040 020  NP1     Iola                     Z99 
+0000041 010  VVD     said                     Q2.1 
+0000041 020  NP1     Tom                      Z1m 
+0000042 010  VVD     said                     Q2.1 
+0000042 020  NP1     Iola                     Z99 
+0000043 010  VVD     said                     Q2.1 
+0000043 020  AT      the                      Z5 
+0000043 030  NN1     doctor                   B3/I3.2/S2mf P1/S2mf 
+0000044 010  VVD     said                     Q2.1 
+0000044 020  NNB     Col.                     G3/S7.1+/S2mf 
+0000044 030  NP1     Robinson                 Z1mf 
+0000045 010  VVD     responded                S1.1.2+ Q2.2 
+0000045 020  AT      the                      Z5 
+0000045 030  NN1     doctor                   B3/I3.2/S2mf P1/S2mf 
+0000046 010  PPHS1   she                      Z8f 
+0000046 020  VVD     said                     Q2.1 
+0000046 021  ,       ,                        
+0000046 030  VVG     smiling                  E4.1+ 
+0000047 010  PPHS1   he                       Z8m 
+0000047 020  VVD     replied                  Q2.2 Q1.1 
+0000048 010  VVD     replied                  Q2.2 Q1.1 
+0000048 020  NP1     Iola                     Z99 
+0000049 010  VVD     said                     Q2.1 
+0000049 020  NP1     Eugene                   S7.1+/S2.2m Z1mf Z3m Z5 Z2 A4.1 T1.2 N5+ A4.2- G3/S7.1+/S2mf B3/H1 N5.1+ I3.2+ M7c M7/I2.1c Z3c M7 M6 H1c G1.2c K5.1mfn 
+0000050 010  VVD     said                     Q2.1 
+0000050 020  NP1     Eugene                   S7.1+/S2.2m Z1mf Z3m Z5 Z2 A4.1 T1.2 N5+ A4.2- G3/S7.1+/S2mf B3/H1 N5.1+ I3.2+ M7c M7/I2.1c Z3c M7 M6 H1c G1.2c K5.1mfn 
+0000051 010  VVD     responded                S1.1.2+ Q2.2 
+0000051 020  NP1     Lorraine                 Z1f Z2 
+0000052 010  VVD     said                     Q2.1 
+0000052 020  NP1     Lorraine                 Z1f Z2 
+0000053 010  VVD     replied                  Q2.2 Q1.1 
+0000053 020  NP1     Lorraine                 Z1f Z2 
+0000054 010  VVD     continued                T2++ 
+0000054 020  NP1     Eugene                   S7.1+/S2.2m Z1mf Z3m Z5 Z2 A4.1 T1.2 N5+ A4.2- G3/S7.1+/S2mf B3/H1 N5.1+ I3.2+ M7c M7/I2.1c Z3c M7 M6 H1c G1.2c K5.1mfn 
+0000055 010  VVD     said                     Q2.1 
+0000055 020  NP1     Eugene                   S7.1+/S2.2m Z1mf Z3m Z5 Z2 A4.1 T1.2 N5+ A4.2- G3/S7.1+/S2mf B3/H1 N5.1+ I3.2+ M7c M7/I2.1c Z3c M7 M6 H1c G1.2c K5.1mfn 
+0000055 021  ,       ,                        
+0000055 030  RR      sadly                    E4.1- 
+0000056 010  VVD     said                     Q2.1 
+0000056 020  NP1     Eugene                   S7.1+/S2.2m Z1mf Z3m Z5 Z2 A4.1 T1.2 N5+ A4.2- G3/S7.1+/S2mf B3/H1 N5.1+ I3.2+ M7c M7/I2.1c Z3c M7 M6 H1c G1.2c K5.1mfn 
+0000057 010  VVD     said                     Q2.1 
+0000057 020  NP1     Lorraine                 Z1f Z2 
+0000057 021  ,       ,                        
+0000057 030  RR      somewhat                 A13.6 
+0000057 040  RR      irritably                Z99 
+0000058 010  VVD     said                     Q2.1 
+0000058 020  NP1     Marie                    Z1mf[i16.2.1 Z3c[i16.2.1 Z1f 
+0000059 010  NP1     Marie                    Z1mf[i16.2.2 Z3c[i16.2.2 Z1f 
+0000059 020  VM      would                    A7+ 
+0000059 030  RR      often                    N6+ 
+0000059 040  VVI     say                      Q2.1 Z4% 
+0000060 010  VVD     said                     Q2.1 
+0000060 020  NP1     Eugene                   S7.1+/S2.2m Z1mf Z3m Z5 Z2 A4.1 T1.2 N5+ A4.2- G3/S7.1+/S2mf B3/H1 N5.1+ I3.2+ M7c M7/I2.1c Z3c M7 M6 H1c G1.2c K5.1mfn 
+0000061 010  VVD     said                     Q2.1 
+0000061 020  NP1     Marie                    Z1f 
+0000062 010  VVD     said                     Q2.1 
+0000062 020  NP1     Marie                    Z1f 
+0000063 010  PPHS1   he                       Z8m 
+0000063 020  VVD     continued                T2++ 
+0000064 010  VVD     said                     Q2.1 
+0000064 020  NP1     Leroy                    Z1 
+0000065 010  VVD     said                     Q2.1 
+0000065 020  NP1     Leroy                    Z1 
+0000065 021  ,       ,                        
+0000065 030  RR      tenderly                 E3+ 
+0000066 010  VVD     said                     Q2.1 
+0000066 020  NP1     Marie                    Z1f 
+0000066 021  ,       ,                        
+0000066 030  RR      sadly                    E4.1- 
+0000067 010  VVD     said                     Q2.1 
+0000067 020  NP1     Marie                    Z1f 
+0000067 021  ,       ,                        
+0000067 030  MC1     one                      T1.1.3[i17.2.1 T1.1.1[i17.2.1 N1 T3 T1.2 
+0000067 040  NNT1    day                      T1.1.3[i17.2.2 T1.1.1[i17.2.2 T1.3 
+0000068 010  VVD     continued                T2++ 
+0000068 020  NP1     Leroy                    Z1 
+0000069 010  PPHS1   she                      Z8f 
+0000069 020  VVD     said                     Q2.1 
+0000069 021  ,       ,                        
+0000069 030  RR      excitedly                X5.2+ 
+0000070 010  VVD     said                     Q2.1 
+0000070 020  NN1     Mam                      S4f 
+0000070 030  NP1     Liza                     O4.3 O4.2- E4.1- Z1mf 
+0000071 010  VVD     answered                 Q2.2 S1.1.1 
+0000071 020  NP1     Lorraine                 Z1f Z2 
+0000072 010  VVD     exclaimed                Q2.2 
+0000072 020  NP1     Marie                    Z1f 
+0000073 010  PPHS1   she                      Z8f 
+0000073 020  VM      would                    A7+ 
+0000073 030  VVI     say                      Q2.1 Z4% 
+0000074 010  VVN     answered                 Q2.2 S1.1.1 
+0000074 020  NP1     Iola                     Z99 
+0000075 010  VVD     said                     Q2.1 
+0000075 020  NP1     Camille                  Z1f 
+0000076 010  VVD     said                     Q2.1 
+0000076 020  NP1     Bastine                  Z99 
+0000077 010  VVD     said                     Q2.1 
+0000077 020  NP1     Bastine                  Z99 
+0000078 010  VVD     said                     Q2.1 
+0000078 020  NP1     Bastine                  Z99 
+0000079 010  VVD     replied                  Q2.2 Q1.1 
+0000079 020  NP1     Bastine                  Z99 
+0000080 010  VVD     said                     Q2.1 
+0000080 020  NP1     Bastine                  Z99 
+0000081 010  VVD     said                     Q2.1 
+0000081 020  NN1     mammy                    S2.1f I3.1/S4/S2.1f B3/S2mf B3 A9+ S8+ S4f S4/S2.1f L1-/S2mf O4.3 A11.1+++ S4 S2.1 S4mf 
+0000082 010  VVD     replied                  Q2.2 Q1.1 
+0000082 020  NP1     Iola                     Z99 
+0000082 021  ,       ,                        
+0000082 030  VVD@    astonished               X2.6- 
+0000083 010  PPHS1   she                      Z8f 
+0000083 020  VVD     said                     Q2.1 
+0000084 010  VVD     said                     Q2.1 
+0000084 020  NNB     Dr                       Z1mf[i19.2.1 B3/S2mf P1/S2mf Z1mf[i18.2.1 
+0000084 030  NP1     Gresham                  Z1mf[i19.2.2 Z1mf Z1mf[i18.2.2 
+0000085 010  PPHS1   she                      Z8f 
+0000085 020  VVD     said                     Q2.1 
+0000085 030  II      to                       Z5 
+0000085 040  PPX1    herself                  Z8f 
+0000086 010  VVD     said                     Q2.1 
+0000086 020  NNB     Dr                       Z1mf[i21.2.1 B3/S2mf P1/S2mf Z1mf[i20.2.1 
+0000086 030  NP1     Gresham                  Z1mf[i21.2.2 Z1mf Z1mf[i20.2.2 
+0000087 010  VVD     said                     Q2.1 
+0000087 020  NP1     Iola                     Z99 
+0000087 021  ,       ,                        
+0000087 030  RR      earnestly                A13.3 E4.1- 
+0000088 010  VVD     said                     Q2.1 
+0000088 020  NP1     Iola                     Z99 
+0000088 021  ,       ,                        
+0000088 030  RR      sadly                    E4.1- 
+0000089 010  PPHS1   she                      Z8f 
+0000089 020  VVD     said                     Q2.1 
+0000090 010  PPHS1   she                      Z8f 
+0000090 020  VVD     said                     Q2.1 
+0000090 030  II      to                       Z5 
+0000090 040  PPX1    herself                  Z8f 
+0000091 010  VVD     said                     Q2.1 
+0000091 020  NNB     Mr.                      Z1m[i22.2.1 S2.2m 
+0000091 030  NP1     Bascom                   Z1m[i22.2.2 
+0000092 010  VVD     said                     Q2.1 
+0000092 020  AT      the                      Z5 
+0000092 030  NN1     doctor                   B3/I3.2/S2mf P1/S2mf 
+0000093 010  NP1     Harry                    Z1mf 
+0000093 020  VVD     said                     Q2.1 
+0000094 010  VVD     said                     Q2.1 
+0000094 020  NP1     Harry                    Z1mf 
+0000095 010  VVD     continued                T2++ 
+0000095 020  NNB     Mr.                      Z1m[i23.2.1 S2.2m 
+0000095 030  NP1     Bascom                   Z1m[i23.2.2 
+0000096 010  VVD     said                     Q2.1 
+0000096 020  AT      the                      Z5 
+0000096 030  NN1     principal                S7.1+/S2mf 
+0000097 010  VVD     said                     Q2.1 
+0000097 020  NNB     Mr.                      Z1m[i24.2.1 S2.2m 
+0000097 030  NP1     Bascom                   Z1m[i24.2.2 
+0000098 010  VVD     said                     Q2.1 
+0000098 020  NP1     Harry                    Z1mf 
+0000098 021  ,       ,                        
+0000098 030  RR      firmly                   A1.7+ S1.2.5+ A7+ 
+0000099 010  VVD     said                     Q2.1 
+0000099 020  AT      the                      Z5 
+0000099 030  NN1     officer                  G3/S7.1+/S2mf G1.1/S2mf S7.1+/S2mf G2.1/S2mf 
+0000100 010  VVD     responded                S1.1.2+ Q2.2 
+0000100 020  NNB     Colonel                  Z1mf[i25.2.1 
+0000100 030  NP1     Robinson                 Z1mf[i25.2.2 Z1mf 
+0000101 010  VVD     said                     Q2.1 
+0000101 020  NNB     Captain                  Z1mf[i26.2.1 
+0000101 030  NP1     Sybil                    Z1mf[i26.2.2 Z1f 
+0000102 010  VVD     said                     Q2.1 
+0000102 020  NNB     Colonel                  Z1mf[i27.2.1 
+0000102 030  NP1     Robinson                 Z1mf[i27.2.2 Z1mf 
+0000103 010  VVD     said                     Q2.1 
+0000103 020  NNB     Colonel                  Z1mf[i28.2.1 
+0000103 030  NP1     Robinson                 Z1mf[i28.2.2 Z1mf 
+0000104 010  VVD     said                     Q2.1 
+0000104 020  NNB     Captain                  Z1mf[i29.2.1 
+0000104 030  NP1     Sybil                    Z1mf[i29.2.2 Z1f 
+0000105 010  VVD     said                     Q2.1 
+0000105 020  NNB     Colonel                  Z1mf[i30.2.1 
+0000105 030  NP1     Robinson                 Z1mf[i30.2.2 Z1mf 
+0000106 010  VVD     said                     Q2.1 
+0000106 020  NNB     Captain                  Z1mf[i31.2.1 
+0000106 030  NP1     Sybil                    Z1mf[i31.2.2 Z1f 
+0000107 010  VVD     said                     Q2.1 
+0000107 020  NNB     Colonel                  Z1mf[i32.2.1 
+0000107 030  NP1     Robinson                 Z1mf[i32.2.2 Z1mf 
+0000108 010  VVD     said                     Q2.1 
+0000108 020  NP1     Robert                   Z1m 
+0000109 010  VVD     said                     Q2.1 
+0000109 020  NNB     Captain                  Z1mf[i33.2.1 
+0000109 030  NP1     Sybil                    Z1mf[i33.2.2 Z1f 
+0000110 010  VVD     said                     Q2.1 
+0000110 020  NNB     Captain                  Z1mf[i34.2.1 
+0000110 030  NP1     Sybil                    Z1mf[i34.2.2 Z1f 
+0000111 010  VVD     asked                    Q2.2 
+0000111 020  NP1     Robert                   Z1m 
+0000112 010  VVD     said                     Q2.1 
+0000112 020  NP1     Robert                   Z1m 
+0000113 010  VVD     said                     Q2.1 
+0000113 020  NNB     Captain                  Z1mf[i35.2.1 
+0000113 030  NP1     Sybil                    Z1mf[i35.2.2 Z1f 
+0000114 010  VVD     queried                  Q2.2 
+0000114 020  NP1     Sybil                    Z1f 
+0000115 010  VVD     retorted                 Q2.2 
+0000115 020  NP1     Robert                   Z1m 
+0000116 010  VVD     continued                T2++ 
+0000116 020  NP1     Robert                   Z1m 
+0000117 010  VVD     asked                    Q2.2 
+0000117 020  NP1     Iola                     Z99 
+0000118 010  VVD     said                     Q2.1 
+0000118 020  NP1     Robert                   Z1m 
+0000119 010  VVD     said                     Q2.1 
+0000119 020  NP1     Iola                     Z99 
+0000120 010  VVG     turning                  M1[i36.2.1 S1.1.1[i36.2.1 T2+[i36.2.1 A2.1+[i36.2.1 M2 M1 O4.4 A1.1.1 A2.1+ O4.2- 
+0000120 020  II      to                       M1[i36.2.2 S1.1.1[i36.2.2 T2+[i36.2.2 A2.1+[i36.2.2 Z5 
+0000120 030  NP1     Robert                   Z1m 
+0000121 010  VVD     replied                  Q2.2 Q1.1 
+0000121 020  NP1     Iola                     Z99 
+0000122 010  VVD     said                     Q2.1 
+0000122 020  NP1     Iola                     Z99 
+0000123 010  VVD     said                     Q2.1 
+0000123 020  NP1     Robert                   Z1m 
+0000124 010  VVD     said                     Q2.1 
+0000124 020  NP1     Robert                   Z1m 
+0000125 010  VVD     said                     Q2.1 
+0000125 020  NP1     Robert                   Z1m 
+0000126 010  VVD     said                     Q2.1 
+0000126 020  NP1     Iola                     Z99 
+0000127 010  PPHS1   she                      Z8f 
+0000127 020  VVD     said                     Q2.1 
+0000128 010  VVD     replied                  Q2.2 Q1.1 
+0000128 020  NP1     Robert                   Z1m 
+0000129 010  PPHS1   she                      Z8f 
+0000129 020  VVD     said                     Q2.1 
+0000129 021  ,       ,                        
+0000129 030  RR      musingly                 Z99 
+0000130 010  VVD     asked                    Q2.2 
+0000130 020  NP1     Robert                   Z1m 
+0000131 010  VVD     said                     Q2.1 
+0000131 020  NP1     Robert                   Z1m 
+0000132 010  VVD     asked                    Q2.2 
+0000132 020  NP1     Robert                   Z1m 
+0000133 010  VVD     exclaimed                Q2.2 
+0000133 020  NNB     Aunt                     Z1f[i37.2.1 
+0000133 030  NP1     Linda                    Z1f[i37.2.2 Z1f 
+0000134 010  VVD     said                     Q2.1 
+0000134 020  NP1     Robert                   Z1m 
+0000135 010  VVD     said                     Q2.1 
+0000135 020  NP1     Robert                   Z1m 
+0000136 010  VVD     said                     Q2.1 
+0000136 020  NP1     Robert                   Z1m 
+0000137 010  VVD     said                     Q2.1 
+0000137 020  NP1     Robert                   Z1m 
+0000138 010  VVD     replied                  Q2.2 Q1.1 
+0000138 020  NNB     Aunt                     Z1f[i38.2.1 
+0000138 030  NP1     Linda                    Z1f[i38.2.2 Z1f 
+0000139 010  VVD     replied                  Q2.2 Q1.1 
+0000139 020  NP1     Robert                   Z1m 
+0000140 010  VVD     continued                T2++ 
+0000140 020  NP1     Robert                   Z1m 
+0000141 010  VVD     interrupted              Q2.2 X7- T2- 
+0000141 020  NP1     Robert                   Z1m 
+0000142 010  VVD     said                     Q2.1 
+0000142 020  NP1     Iola                     Z99 
+0000142 021  ,       ,                        
+0000142 030  VVG     laughing                 E4.1+/X3.2 
+0000143 010  VVD     pursued                  A1.1.1 X8+ X2.4 M1 
+0000143 020  NP1     Robert                   Z1m 
+0000144 010  VVD     said                     Q2.1 
+0000144 020  NNB     Aunt                     Z1f[i39.2.1 
+0000144 030  NP1     Linda                    Z1f[i39.2.2 Z1f 
+0000145 010  VVD     broke                    A1.1.2 A1.1.1 A1.9 S5- T2- E4.1-/A2.2 A2.1+ T1.3 Q2.1@ 
+0000145 020  II      in                       Z5 
+0000145 030  NP2     Salters                  F1 O1.1 I2.2/S2mf 
+0000146 010  VVD     asked                    Q2.2 
+0000146 020  NP1     Robert                   Z1m 
+0000147 010  VVD     said                     Q2.1 
+0000147 020  NP1     Iola                     Z99 
+0000148 010  VVD     asked                    Q2.2 
+0000148 020  NNB     Aunt                     Z1f[i40.2.1 
+0000148 030  NP1     Linda                    Z1f[i40.2.2 Z1f 
+0000149 010  VVD     said                     Q2.1 
+0000149 020  NP1     Iola                     Z99 
+0000150 010  VVD     said                     Q2.1 
+0000150 020  NNB     Aunt                     Z1f[i41.2.1 
+0000150 030  NP1     Linda                    Z1f[i41.2.2 Z1f 
+0000151 010  VVD     said                     Q2.1 
+0000151 020  NP2     Salters                  F1 O1.1 I2.2/S2mf 
+0000152 010  VVD     replied                  Q2.2 Q1.1 
+0000152 020  NP1     Robert                   Z1m 
+0000153 010  VVD     continued                T2++ 
+0000153 020  NP1     Robert                   Z1m 
+0000154 010  VVD     assented                 S7.4+ 
+0000154 020  NP1     Robert                   Z1m 
+0000155 010  VVD     said                     Q2.1 
+0000155 020  NP1     Iola                     Z99 
+0000156 010  VVD     said                     Q2.1 
+0000156 020  NNB     Aunt                     Z1f[i42.2.1 
+0000156 030  NP1     Linda                    Z1f[i42.2.2 Z1f 
+0000157 010  VVD     said                     Q2.1 
+0000157 020  NNB     Uncle                    Z1m[i43.2.1 
+0000157 030  NP1     Daniel                   Z1m[i43.2.2 Z1m 
+0000158 010  VVD     said                     Q2.1 
+0000158 020  NP2     Salters                  F1 O1.1 I2.2/S2mf 
+0000159 010  VVD     said                     Q2.1 
+0000159 020  NP1     Robert                   Z1m 
+0000160 010  VVD     said                     Q2.1 
+0000160 020  NP2     Salters                  F1 O1.1 I2.2/S2mf 
+0000161 010  VVD     said                     Q2.1 
+0000161 020  NNB     Aunt                     Z1f[i44.2.1 
+0000161 030  NP1     Linda                    Z1f[i44.2.2 Z1f 
+0000162 010  VVD     said                     Q2.1 
+0000162 020  NP2     Salters                  F1 O1.1 I2.2/S2mf 
+0000163 010  VVD     said                     Q2.1 
+0000163 020  NP1     Iola                     Z99 
+0000164 010  VVD     exclaimed                Q2.2 
+0000164 020  NNB     Aunt                     Z1f[i45.2.1 
+0000164 030  NP1     Linda                    Z1f[i45.2.2 Z1f 
+0000165 010  VVD     said                     Q2.1 
+0000165 020  NP2     Salters                  F1 O1.1 I2.2/S2mf 
+0000166 010  VVD     said                     Q2.1 
+0000166 020  NNB     Aunt                     Z1f[i46.2.1 
+0000166 030  NP1     Linda                    Z1f[i46.2.2 Z1f 
+0000167 010  VVD     answered                 Q2.2 S1.1.1 
+0000167 020  NP1     Robert                   Z1m 
+0000168 010  VVD     continued                T2++ 
+0000168 020  NP2     Salters                  F1 O1.1 I2.2/S2mf 
+0000169 010  VVD     replied                  Q2.2 Q1.1 
+0000169 020  NP1     Robert                   Z1m 
+0000170 010  VVD     said                     Q2.1 
+0000170 020  NP1     Robert                   Z1m 
+0000171 010  PPHS1   she                      Z8f 
+0000172 010  VVD     continued                T2++ 
+0000173 010  VVD     pursued                  A1.1.1 X8+ X2.4 M1 
+0000173 020  NP1     Iola                     Z99 
+0000174 010  VVD     added                    N5+/A2.1 N2 A1.8+ 
+0000174 020  NP1     Robert                   Z1m 
+0000175 010  VVD     said                     Q2.1 
+0000175 020  NNB     Aunt                     Z1f[i47.2.1 
+0000175 030  NP1     Linda                    Z1f[i47.2.2 Z1f 
+0000176 010  VVD     cried                    E4.1- Q2.2 
+0000176 020  NP1     John                     Z1m S9/O1.2 
+0000177 010  VVD     said                     Q2.1 
+0000177 020  NNB     Aunt                     Z1f[i48.2.1 
+0000177 030  NP1     Linda                    Z1f[i48.2.2 Z1f 
+0000178 010  VVD     continued                T2++ 
+0000178 020  AT      the                      Z5 
+0000178 030  NN1     speaker                  Q2.1/S2mf G1.1/S2mf O3 
+0000179 010  PPHS1   he                       Z8m 
+0000179 020  VVD     said                     Q2.1 
+0000180 010  VVD     replied                  Q2.2 Q1.1 
+0000180 020  NP1     Robert                   Z1m 
+0000181 010  VVD     said                     Q2.1 
+0000181 020  NP1     Robert                   Z1m 
+0000182 010  PPHS1   she                      Z8f 
+0000182 020  VVD     cried                    E4.1- Q2.2 
+0000183 010  VVD     said                     Q2.1 
+0000183 020  NP1     Robert                   Z1m 
+0000184 010  VVD     said                     Q2.1 
+0000184 020  NP1     Iola                     Z99 
+0000185 010  VVD     said                     Q2.1 
+0000185 020  NP1     Robert                   Z1m 
+0000186 010  VVD     said                     Q2.1 
+0000186 020  NP1     Iola                     Z99 
+0000187 010  VVD     added                    N5+/A2.1 N2 A1.8+ 
+0000187 020  NP1     Robert                   Z1m 
+0000188 010  VVD     declared                 Q2.2 K5.1% 
+0000188 020  NNB     Aunt                     Z1f[i49.2.1 
+0000188 030  NP1     Linda                    Z1f[i49.2.2 Z1f 
+0000189 010  VVD     said                     Q2.1 
+0000189 020  NP1     Iola                     Z99 
+0000190 010  VVD     said                     Q2.1 
+0000190 020  NNB     Aunt                     Z1f[i50.2.1 
+0000190 030  NP1     Linda                    Z1f[i50.2.2 Z1f 
+0000191 010  CC      or                       Z5 
+0000192 010  VVD     said                     Q2.1 
+0000192 020  NP1     Harry                    Z1mf 
+0000193 010  VVD     said                     Q2.1 
+0000193 020  NP1     Harry                    Z1mf 
+0000194 010  VVD     continued                T2++ 
+0000194 020  NP1     Iola                     Z99 
+0000195 010  VVD     replied                  Q2.2 Q1.1 
+0000195 020  NP1     Harry                    Z1mf 
+0000196 010  VVD     said                     Q2.1 
+0000196 020  NNB     Mrs.                     Z1f[i52.2.1 Z1m[i51.2.1 
+0000196 030  NP1     Leroy                    Z1f[i52.2.2 Z1 Z1m[i51.2.2 
+0000196 031  ,       ,                        
+0000196 040  VVG     smiling                  E4.1+ 
+0000197 010  VVD     said                     Q2.1 
+0000197 020  NP1     Iola                     Z99 
+0000197 021  ,       ,                        
+0000197 030  JJ      amused                   E4.1+ 
+0000198 010  JJ      continued                T2++ 
+0000198 020  NP1     Harry                    Z1mf 
+0000199 010  VVD     interrupted              Q2.2 X7- T2- 
+0000199 020  NP1     Iola                     Z99 
+0000200 010  VVD     said                     Q2.1 
+0000200 020  NP1     Iola                     Z99 
+0000201 010  VVD     responded                S1.1.2+ Q2.2 
+0000201 020  NP1     Harry                    Z1mf 
+0000202 010  VVD     said                     Q2.1 
+0000202 020  NNB     Miss                     Z1f[i53.2.1 
+0000202 030  NP1     Delany                   Z1f[i53.2.2 
+0000203 010  VVD     continued                T2++ 
+0000203 020  AT      the                      Z5 
+0000203 030  NN1     letter                   Q1.2 Q3 
+0000204 010  VVD     said                     Q2.1 
+0000204 020  NP1     Marie                    Z1f 
+0000205 010  VVD     said                     Q2.1 
+0000205 020  NP1     Robert                   Z1m 
+0000206 010  VVD     replied                  Q2.2 Q1.1 
+0000206 020  NP1     Harry                    Z1mf 
+0000207 010  PPHS1   she                      Z8f 
+0000207 020  VVD     replied                  Q2.2 Q1.1 
+0000208 010  PPHS1   she                      Z8f 
+0000208 020  VVD     said                     Q2.1 
+0000209 010  VVD     said                     Q2.1 
+0000209 020  NP1     Iola                     Z99 
+0000210 010  VVD     said                     Q2.1 
+0000210 020  NP1     Robert                   Z1m 
+0000211 010  VVD     said                     Q2.1 
+0000211 020  APPGE   her                      Z8f 
+0000211 030  NN1     mother                   S4f A11.1+++ 
+0000212 010  VVD     said                     Q2.1 
+0000212 020  NNB     Mrs.                     Z1f[i55.2.1 Z1m[i54.2.1 
+0000212 030  NP1     Cloten                   Z1f[i55.2.2 Z1m[i54.2.2 
+0000213 010  VVD     said                     Q2.1 
+0000213 020  NNB     Dr                       Z1mf[i57.2.1 B3/S2mf P1/S2mf Z1mf[i56.2.1 
+0000213 030  NP1     Gresham                  Z1mf[i57.2.2 Z1mf Z1mf[i56.2.2 
+0000214 010  VVD     said                     Q2.1 
+0000214 020  NP1     Robert                   Z1mf[i58.2.1 Z3c[i58.2.1 Z1m 
+0000214 030  NP1     Johnson                  Z1mf[i58.2.2 Z3c[i58.2.2 Z1mf 
+0000215 010  VVD     replied                  Q2.2 Q1.1 
+0000215 020  NNB     Dr                       Z1mf[i60.2.1 B3/S2mf P1/S2mf Z1mf[i59.2.1 
+0000215 030  NP1     Gresham                  Z1mf[i60.2.2 Z1mf Z1mf[i59.2.2 
+0000216 010  PPHS1   he                       Z8m 
+0000216 020  VVD     continued                T2++ 
+0000217 010  VVD     said                     Q2.1 
+0000217 020  NP1     Iola                     Z99 
+0000218 010  VVD     said                     Q2.1 
+0000218 020  NNB     Dr                       Z1mf[i62.2.1 B3/S2mf P1/S2mf Z1mf[i61.2.1 
+0000218 030  NP1     Gresham                  Z1mf[i62.2.2 Z1mf Z1mf[i61.2.2 
+0000219 010  VVD     said                     Q2.1 
+0000219 020  NP1     Iola                     Z99 
+0000220 010  VVD     said                     Q2.1 
+0000220 020  NP1     Robert                   Z1m 
+0000221 010  VVD     said                     Q2.1 
+0000221 020  NNB     Dr                       Z1mf[i64.2.1 B3/S2mf P1/S2mf Z1mf[i63.2.1 
+0000221 030  NP1     Gresham                  Z1mf[i64.2.2 Z1mf Z1mf[i63.2.2 
+0000222 010  VVD     said                     Q2.1 
+0000222 020  NNB     Mrs.                     Z1f[i66.2.1 Z1m[i65.2.1 
+0000222 030  NP1     Leroy                    Z1f[i66.2.2 Z1 Z1m[i65.2.2 
+0000223 010  VVD     continued                T2++ 
+0000223 020  NNB     Dr                       Z1mf[i68.2.1 B3/S2mf P1/S2mf Z1mf[i67.2.1 
+0000223 030  NP1     Gresham                  Z1mf[i68.2.2 Z1mf Z1mf[i67.2.2 
+0000224 010  VVD     said                     Q2.1 
+0000224 020  NNB     Mrs.                     Z1f[i70.2.1 Z1m[i69.2.1 
+0000224 030  NP1     Leroy                    Z1f[i70.2.2 Z1 Z1m[i69.2.2 
+0000225 010  VVD     said                     Q2.1 
+0000225 020  NP1     Robert                   Z1m 
+0000226 010  VVD     said                     Q2.1 
+0000226 020  NNB     Dr                       Z1mf[i72.2.1 B3/S2mf P1/S2mf Z1mf[i71.2.1 
+0000226 030  NP1     Gresham                  Z1mf[i72.2.2 Z1mf Z1mf[i71.2.2 
+0000227 010  VVD     said                     Q2.1 
+0000227 020  NP1     Robert                   Z1m 
+0000228 010  VVD     answered                 Q2.2 S1.1.1 
+0000228 020  NNB     Dr                       Z1mf[i74.2.1 B3/S2mf P1/S2mf Z1mf[i73.2.1 
+0000228 030  NP1     Gresham                  Z1mf[i74.2.2 Z1mf Z1mf[i73.2.2 
+0000229 010  VVD     said                     Q2.1 
+0000229 020  NP1     Iola                     Z99 
+0000229 021  ,       ,                        
+0000229 030  RR      decidedly                A13.3 
+0000230 010  VVD     continued                T2++ 
+0000230 020  NP1     Iola                     Z99 
+0000231 010  VVD     replied                  Q2.2 Q1.1 
+0000231 020  AT      the                      Z5 
+0000231 030  NN1     doctor                   B3/I3.2/S2mf P1/S2mf 
+0000232 010  VVD     continued                T2++ 
+0000232 020  NP1     Iola                     Z99 
+0000233 010  VVD     said                     Q2.1 
+0000233 020  NP1     Robert                   Z1m 
+0000234 010  VVD     said                     Q2.1 
+0000234 020  NP1     Iola                     Z99 
+0000235 010  VVD     said                     Q2.1 
+0000235 020  NP1     Robert                   Z1m 
+0000236 010  VVD     said                     Q2.1 
+0000236 020  NNB     Dr                       Z1mf[i76.2.1 B3/S2mf P1/S2mf Z1mf[i75.2.1 
+0000236 030  NP1     Gresham                  Z1mf[i76.2.2 Z1mf Z1mf[i75.2.2 
+0000237 010  VVD     replied                  Q2.2 Q1.1 
+0000237 020  NNB     Dr                       Z1mf[i78.2.1 B3/S2mf P1/S2mf Z1mf[i77.2.1 
+0000237 030  NP1     Latrobe                  Z1mf[i78.2.2 Z1mf[i77.2.2 
+0000238 010  VVD     replied                  Q2.2 Q1.1 
+0000238 020  NNB     Dr                       Z1mf[i80.2.1 B3/S2mf P1/S2mf Z1mf[i79.2.1 
+0000238 030  NP1     Latrobe                  Z1mf[i80.2.2 Z1mf[i79.2.2 
+0000239 010  VVD     inquired                 Q2.2 X2.4 
+0000239 020  NNB     Rev.                     S9 
+0000239 030  NP1     Carmicle                 Z99 
+0000240 010  VVD     asked                    Q2.2 
+0000240 020  NP1     Robert                   Z1m 
+0000241 010  VVD     said                     Q2.1 
+0000241 020  NNB     Dr                       Z1mf[i82.2.1 B3/S2mf P1/S2mf Z1mf[i81.2.1 
+0000241 030  NP1     Gresham                  Z1mf[i82.2.2 Z1mf Z1mf[i81.2.2 
+0000242 010  VVD     said                     Q2.1 
+0000242 020  NNB     Rev.                     S9 
+0000242 030  NP1     Carmicle                 Z99 
+0000243 010  VVD     replied                  Q2.2 Q1.1 
+0000243 020  NNB     Dr                       Z1mf[i84.2.1 B3/S2mf P1/S2mf Z1mf[i83.2.1 
+0000243 030  NP1     Latrobe                  Z1mf[i84.2.2 Z1mf[i83.2.2 
+0000244 010  VVD     said                     Q2.1 
+0000244 020  NNB     Dr                       Z1mf[i86.2.1 B3/S2mf P1/S2mf Z1mf[i85.2.1 
+0000244 030  NP1     Latimer                  Z1mf[i86.2.2 Z1mf[i85.2.2 
+0000245 010  VVD     said                     Q2.1 
+0000245 020  NP1     Robert                   Z1m 
+0000246 010  VVD     said                     Q2.1 
+0000246 020  NNB     Dr                       Z1mf[i88.2.1 B3/S2mf P1/S2mf Z1mf[i87.2.1 
+0000246 030  NP1     Gresham                  Z1mf[i88.2.2 Z1mf Z1mf[i87.2.2 
+0000247 010  VVD     said                     Q2.1 
+0000247 020  NNB     Dr                       Z1mf[i90.2.1 B3/S2mf P1/S2mf Z1mf[i89.2.1 
+0000247 030  NP1     Latimer                  Z1mf[i90.2.2 Z1mf[i89.2.2 
+0000248 010  VVD     said                     Q2.1 
+0000248 020  NNB     Dr                       Z1mf[i92.2.1 B3/S2mf P1/S2mf Z1mf[i91.2.1 
+0000248 030  NP1     Gresham                  Z1mf[i92.2.2 Z1mf Z1mf[i91.2.2 
+0000249 010  VVD     said                     Q2.1 
+0000249 020  NNB     Rev.                     S9 
+0000249 030  NP1     Carmicle                 Z99 
+0000250 010  VVD     continued                T2++ 
+0000250 020  NNB     Dr                       Z1mf[i94.2.1 B3/S2mf P1/S2mf Z1mf[i93.2.1 
+0000250 030  NP1     Gresham                  Z1mf[i94.2.2 Z1mf Z1mf[i93.2.2 
+0000251 010  VVD     said                     Q2.1 
+0000251 020  NNB     Dr                       Z1mf[i96.2.1 B3/S2mf P1/S2mf Z1mf[i95.2.1 
+0000251 030  NP1     Gresham                  Z1mf[i96.2.2 Z1mf Z1mf[i95.2.2 
+0000251 031  ,       ,                        
+0000251 040  RR      compassionately          Z99 
+0000252 010  VVD     said                     Q2.1 
+0000252 020  NNB     Dr                       Z1mf[i98.2.1 B3/S2mf P1/S2mf Z1mf[i97.2.1 
+0000252 030  NP1     Latrobe                  Z1mf[i98.2.2 Z1mf[i97.2.2 
+0000252 031  ,       ,                        
+0000252 040  RR      emphatically             E6+ 
+0000253 010  VVD     said                     Q2.1 
+0000253 020  NNB     Rev.                     S9 
+0000253 030  NP1     Carmicle                 Z99 
+0000254 010  VVD     said                     Q2.1 
+0000254 020  NNB     Dr                       Z1mf[i100.2.1 B3/S2mf P1/S2mf Z1mf[i99.2.1 
+0000254 030  NP1     Latrobe                  Z1mf[i100.2.2 Z1mf[i99.2.2 
+0000255 010  VVD     said                     Q2.1 
+0000255 020  NNB     Rev.                     S9 
+0000255 030  NP1     Carmicle                 Z99 
+0000256 010  VVD     said                     Q2.1 
+0000256 020  NNB     Dr                       Z1mf[i102.2.1 B3/S2mf P1/S2mf Z1mf[i101.2.1 
+0000256 030  NP1     Gresham                  Z1mf[i102.2.2 Z1mf Z1mf[i101.2.2 
+0000257 010  VVD     said                     Q2.1 
+0000257 020  NNB     Dr                       Z1mf[i104.2.1 B3/S2mf P1/S2mf Z1mf[i103.2.1 
+0000257 030  NP1     Gresham                  Z1mf[i104.2.2 Z1mf Z1mf[i103.2.2 
+0000258 010  VVD     said                     Q2.1 
+0000258 020  NNB     Dr                       Z1mf[i106.2.1 B3/S2mf P1/S2mf Z1mf[i105.2.1 
+0000258 030  NP1     Latrobe                  Z1mf[i106.2.2 Z1mf[i105.2.2 
+0000259 010  VVD     said                     Q2.1 
+0000259 020  NNB     Dr                       Z1mf[i108.2.1 B3/S2mf P1/S2mf Z1mf[i107.2.1 
+0000259 030  NP1     Gresham                  Z1mf[i108.2.2 Z1mf Z1mf[i107.2.2 
+0000259 031  ,       ,                        
+0000259 040  RR      thoughtfully             A1.3+ X2.1 
+0000260 010  VVD     said                     Q2.1 
+0000260 020  NNB     Rev.                     S9 
+0000260 030  NP1     Carmicle                 Z99 
+0000261 010  VVD     replied                  Q2.2 Q1.1 
+0000261 020  NNB     Dr                       Z1mf[i110.2.1 B3/S2mf P1/S2mf Z1mf[i109.2.1 
+0000261 030  NP1     Latrobe                  Z1mf[i110.2.2 Z1mf[i109.2.2 
+0000262 010  VVD     asked                    Q2.2 
+0000262 020  NNB     Dr                       Z1mf[i112.2.1 B3/S2mf P1/S2mf Z1mf[i111.2.1 
+0000262 030  NP1     Gresham                  Z1mf[i112.2.2 Z1mf Z1mf[i111.2.2 
+0000263 010  VVD     said                     Q2.1 
+0000263 020  NNB     Dr                       Z1mf[i114.2.1 B3/S2mf P1/S2mf Z1mf[i113.2.1 
+0000263 030  NP1     Latrobe                  Z1mf[i114.2.2 Z1mf[i113.2.2 
+0000264 010  VVD     replied                  Q2.2 Q1.1 
+0000264 020  NNB     Dr                       Z1mf[i116.2.1 B3/S2mf P1/S2mf Z1mf[i115.2.1 
+0000264 030  NP1     Gresham                  Z1mf[i116.2.2 Z1mf Z1mf[i115.2.2 
+0000265 010  VVD     asked                    Q2.2 
+0000265 020  NNB     Dr                       Z1mf[i118.2.1 B3/S2mf P1/S2mf Z1mf[i117.2.1 
+0000265 030  NP1     Latimer                  Z1mf[i118.2.2 Z1mf[i117.2.2 
+0000266 010  VVD     replied                  Q2.2 Q1.1 
+0000266 020  NNB     Dr                       Z1mf[i120.2.1 B3/S2mf P1/S2mf Z1mf[i119.2.1 
+0000266 030  NP1     Latrobe                  Z1mf[i120.2.2 Z1mf[i119.2.2 
+0000267 010  VVD     said                     Q2.1 
+0000267 020  NNB     Dr                       Z1mf[i122.2.1 B3/S2mf P1/S2mf Z1mf[i121.2.1 
+0000267 030  NP1     Gresham                  Z1mf[i122.2.2 Z1mf Z1mf[i121.2.2 
+0000268 010  VVD     said                     Q2.1 
+0000268 020  NNB     Dr                       Z1mf[i124.2.1 B3/S2mf P1/S2mf Z1mf[i123.2.1 
+0000268 030  NP1     Latrobe                  Z1mf[i124.2.2 Z1mf[i123.2.2 
+0000268 031  ,       ,                        
+0000268 040  RR      proudly                  E4.2+/S1.2 S1.2.3+ 
+0000269 010  VVD     said                     Q2.1 
+0000269 020  NNB     Dr                       Z1mf[i126.2.1 B3/S2mf P1/S2mf Z1mf[i125.2.1 
+0000269 030  NP1     Latimer                  Z1mf[i126.2.2 Z1mf[i125.2.2 
+0000270 010  VVD     said                     Q2.1 
+0000270 020  NNB     Dr                       Z1mf[i128.2.1 B3/S2mf P1/S2mf Z1mf[i127.2.1 
+0000270 030  NP1     Latrobe                  Z1mf[i128.2.2 Z1mf[i127.2.2 
+0000271 010  VVD     said                     Q2.1 
+0000271 020  NNB     Dr                       Z1mf[i130.2.1 B3/S2mf P1/S2mf Z1mf[i129.2.1 
+0000271 030  NP1     Latimer                  Z1mf[i130.2.2 Z1mf[i129.2.2 
+0000272 010  VVD     said                     Q2.1 
+0000272 020  NNB     Dr                       Z1mf[i132.2.1 B3/S2mf P1/S2mf Z1mf[i131.2.1 
+0000272 030  NP1     Gresham                  Z1mf[i132.2.2 Z1mf Z1mf[i131.2.2 
+0000273 010  VVD     said                     Q2.1 
+0000273 020  NNB     Dr                       Z1mf[i134.2.1 B3/S2mf P1/S2mf Z1mf[i133.2.1 
+0000273 030  NP1     Latimer                  Z1mf[i134.2.2 Z1mf[i133.2.2 
+0000274 010  VVD     said                     Q2.1 
+0000274 020  NNB     Dr                       Z1mf[i136.2.1 B3/S2mf P1/S2mf Z1mf[i135.2.1 
+0000274 030  NP1     Latrobe                  Z1mf[i136.2.2 Z1mf[i135.2.2 
+0000275 010  VVD     said                     Q2.1 
+0000275 020  NNB     Dr                       Z1mf[i138.2.1 B3/S2mf P1/S2mf Z1mf[i137.2.1 
+0000275 030  NP1     Gresham                  Z1mf[i138.2.2 Z1mf Z1mf[i137.2.2 
+0000276 010  VVD     said                     Q2.1 
+0000276 020  NP1     Latrobe                  Z1mf A4.1 T1.2 H1/I3.2/S2mf X7+/S2mf T2+/S2mf C1/S2mf B5/S2mf 
+0000277 010  VVD     continued                T2++ 
+0000277 020  NP1     Iola                     Z99 
+0000278 010  PPHS1   she                      Z8f 
+0000278 020  VVD     replied                  Q2.2 Q1.1 
+0000278 021  ,       ,                        
+0000278 030  RR      gently                   E3+ 
+0000279 010  PPHS1   he                       Z8m 
+0000279 020  VVD     replied                  Q2.2 Q1.1 
+0000279 021  ,       ,                        
+0000279 030  RR      anxiously                E6- 
+0000280 010  PPHS1   he                       Z8m 
+0000280 020  VVD     replied                  Q2.2 Q1.1 
+0000281 010  PPHS1   he                       Z8m 
+0000281 020  VVD     exclaimed                Q2.2 
+0000281 021  ,       ,                        
+0000281 030  RR      passionately             X5.2+ S3.2 
+0000282 010  VVD     replied                  Q2.2 Q1.1 
+0000282 020  NP1     Iola                     Z99 
+0000283 010  PPHS1   he                       Z8m 
+0000283 020  VVD     replied                  Q2.2 Q1.1 
+0000284 010  VVD     asked                    Q2.2 
+0000284 020  NNB     Dr                       Z1mf[i140.2.1 B3/S2mf P1/S2mf Z1mf[i139.2.1 
+0000284 030  NP1     Gresham                  Z1mf[i140.2.2 Z1mf Z1mf[i139.2.2 
+0000285 010  VVD     replied                  Q2.2 Q1.1 
+0000285 020  NNB     Dr                       Z1mf[i142.2.1 B3/S2mf P1/S2mf Z1mf[i141.2.1 
+0000285 030  NP1     Gresham                  Z1mf[i142.2.2 Z1mf Z1mf[i141.2.2 
+0000286 010  VVD     answered                 Q2.2 S1.1.1 
+0000286 020  NNB     Dr                       Z1mf[i144.2.1 B3/S2mf P1/S2mf Z1mf[i143.2.1 
+0000286 030  NP1     Latimer                  Z1mf[i144.2.2 Z1mf[i143.2.2 
+0000287 010  VVD     said                     Q2.1 
+0000287 020  NNB     Dr                       Z1mf[i146.2.1 B3/S2mf P1/S2mf Z1mf[i145.2.1 
+0000287 030  NP1     Latimer                  Z1mf[i146.2.2 Z1mf[i145.2.2 
+0000288 010  VVD     answered                 Q2.2 S1.1.1 
+0000288 020  NNB     Dr                       Z1mf[i148.2.1 B3/S2mf P1/S2mf Z1mf[i147.2.1 
+0000288 030  NP1     Latrobe                  Z1mf[i148.2.2 Z1mf[i147.2.2 
+0000289 010  VVD     said                     Q2.1 
+0000289 020  NNB     Dr                       Z1mf[i150.2.1 B3/S2mf P1/S2mf Z1mf[i149.2.1 
+0000289 030  NP1     Latimer                  Z1mf[i150.2.2 Z1mf[i149.2.2 
+0000290 010  VVD     said                     Q2.1 
+0000290 020  NNB     Dr                       Z1mf[i152.2.1 B3/S2mf P1/S2mf Z1mf[i151.2.1 
+0000290 030  NP1     Latrobe                  Z1mf[i152.2.2 Z1mf[i151.2.2 
+0000290 031  ,       ,                        
+0000290 040  VVG     rising                   M1 N5+/A2.1 N3.2+/A2.1 S7.1+/A2.1 N3.7+/A2.1 
+0000291 010  VVD     said                     Q2.1 
+0000291 020  NNB     Dr                       Z1mf[i154.2.1 B3/S2mf P1/S2mf Z1mf[i153.2.1 
+0000291 030  NP1     Latimer                  Z1mf[i154.2.2 Z1mf[i153.2.2 
+0000291 031  ,       ,                        
+0000291 040  RR      indignantly              E3- 
+0000292 010  VVD     said                     Q2.1 
+0000292 020  NNB     Mrs.                     Z1f[i156.2.1 Z1m[i155.2.1 
+0000292 030  NP1     Leroy                    Z1f[i156.2.2 Z1 Z1m[i155.2.2 
+0000293 010  VVD     asked                    Q2.2 
+0000293 020  NP1     Marie                    Z1f 
+0000294 010  VVD     said                     Q2.1 
+0000294 020  NP1     Iola                     Z99 
+0000295 010  VVD     asked                    Q2.2 
+0000295 020  NP1     Robert                   Z1m 
+0000296 010  VVD     answered                 Q2.2 S1.1.1 
+0000296 020  NP1     Iola                     Z99 
+0000296 021  ,       ,                        
+0000296 030  RR      seriously                A13.3 Z4 E4.1- 
+0000297 010  VVD     answered                 Q2.2 S1.1.1 
+0000297 020  NP1     Robert                   Z1m 
+0000298 010  VVD     replied                  Q2.2 Q1.1 
+0000298 020  NP1     Marie                    Z1f 
+0000299 010  VVD     said                     Q2.1 
+0000299 020  NP1     Robert                   Z1m 
+0000300 010  VVD     replied                  Q2.2 Q1.1 
+0000300 020  NP1     Marie                    Z1f 
+0000301 010  VVD     said                     Q2.1 
+0000301 020  NNB     Dr                       Z1mf[i158.2.1 B3/S2mf P1/S2mf Z1mf[i157.2.1 
+0000301 030  NP1     Latimer                  Z1mf[i158.2.2 Z1mf[i157.2.2 
+0000301 031  ,       ,                        
+0000301 040  RR      cordially                S1.2.1+ 
+0000302 010  VVD     said                     Q2.1 
+0000302 020  NP1     Harry                    Z1mf 
+0000303 010  VVD     said                     Q2.1 
+0000303 020  NNB     Miss                     Z1f[i159.2.1 
+0000303 030  NP1     Delany                   Z1f[i159.2.2 
+0000304 010  VVD     said                     Q2.1 
+0000304 020  NNB     Mr.                      Z1m[i160.2.1 S2.2m 
+0000304 030  NP1     Stillman                 Z1m[i160.2.2 
+0000305 010  VVD     said                     Q2.1 
+0000305 020  NNB     Miss                     Z1f[i161.2.1 
+0000305 030  NP1     Delany                   Z1f[i161.2.2 
+0000306 010  VVD     said                     Q2.1 
+0000306 020  NNB     Professor                P1/S2mf 
+0000306 030  NP1     Gradnor                  Z99 
+0000307 010  VVD     replied                  Q2.2 Q1.1 
+0000307 020  NNB     Dr                       Z1mf[i163.2.1 B3/S2mf P1/S2mf Z1mf[i162.2.1 
+0000307 030  NP1     Latimer                  Z1mf[i163.2.2 Z1mf[i162.2.2 
+0000308 010  VVD     asked                    Q2.2 
+0000308 020  NNB     Professor                P1/S2mf 
+0000308 030  NP1     Langhorne                Z99 
+0000309 010  VVD     said                     Q2.1 
+0000309 020  NNB     Miss                     Z1f[i164.2.1 
+0000309 030  NP1     Delany                   Z1f[i164.2.2 
+0000310 010  VVD     said                     Q2.1 
+0000310 020  NNB     Professor                P1/S2mf 
+0000310 030  NP1     Langhorne                Z99 
+0000311 010  VVD     said                     Q2.1 
+0000311 020  NP1     Iola                     Z99 
+0000312 010  PPHS1   he                       Z8m 
+0000312 020  VVD     said                     Q2.1 
+0000313 010  VVD     said                     Q2.1 
+0000313 020  NNB     Professor                P1/S2mf 
+0000313 030  NP1     Gradnor                  Z99 
+0000314 010  VVD     said                     Q2.1 
+0000314 020  NNB     Miss                     Z1f[i165.2.1 
+0000314 030  NP1     Delany                   Z1f[i165.2.2 
+0000315 010  VVD     answered                 Q2.2 S1.1.1 
+0000315 020  NP1     Harry                    Z1mf 
+0000316 010  VVD     said                     Q2.1 
+0000316 020  NNB     Mrs.                     Z1f[i167.2.1 Z1m[i166.2.1 
+0000316 030  NP1     Stillman                 Z1f[i167.2.2 Z1m[i166.2.2 
+0000317 010  VVD     said                     Q2.1 
+0000317 020  NP1     Iola                     Z99 
+0000318 010  VVD     replied                  Q2.2 Q1.1 
+0000318 020  NNB     Dr                       Z1mf[i169.2.1 B3/S2mf P1/S2mf Z1mf[i168.2.1 
+0000318 030  NP1     Latimer                  Z1mf[i169.2.2 Z1mf[i168.2.2 
+0000319 010  VVD     said                     Q2.1 
+0000319 020  NNB     Mr.                      Z1m[i170.2.1 S2.2m 
+0000319 030  NP1     Forest                   Z1m[i170.2.2 Z3 
+0000320 010  VVD     said                     Q2.1 
+0000320 020  NNB     Dr                       Z1mf[i172.2.1 B3/S2mf P1/S2mf Z1mf[i171.2.1 
+0000320 030  NP1     Latimer                  Z1mf[i172.2.2 Z1mf[i171.2.2 
+0000321 010  VVD     said                     Q2.1 
+0000321 020  NNB     Miss                     Z1f[i173.2.1 
+0000321 030  NP1     Delany                   Z1f[i173.2.2 
+0000321 031  ,       ,                        
+0000321 040  RR      hopefully                X2.6+ E4.1+ X9.2+ A5.1+ A13.3 
+0000322 010  VVD     said                     Q2.1 
+0000322 020  NP1     Iola                     Z99 
+0000323 010  VVD     said                     Q2.1 
+0000323 020  NNB     Mrs.                     Z1f[i175.2.1 Z1m[i174.2.1 
+0000323 030  NP1     Leroy                    Z1f[i175.2.2 Z1 Z1m[i174.2.2 
+0000324 010  VVD     continued                T2++ 
+0000324 020  NP1     Iola                     Z99 
+0000325 010  VVD     exclaimed                Q2.2 
+0000325 020  NNB     Mrs.                     Z1f[i177.2.1 Z1m[i176.2.1 
+0000325 030  NP1     Stillman                 Z1f[i177.2.2 Z1m[i176.2.2 
+0000326 010  VVD     said                     Q2.1 
+0000326 020  NNB     Rev.                     S9 
+0000326 030  NP1     Carmicle                 Z99 
+0000326 031  ,       ,                        
+0000326 040  VVG     smiling                  E4.1+ 
+0000327 010  VVD     said                     Q2.1 
+0000327 020  NNB     Rev.                     S9 
+0000327 030  NP1     Carmicle                 Z99 
+0000328 010  VVD     asked                    Q2.2 
+0000328 020  NNB     Mr.                      Z1m[i178.2.1 S2.2m 
+0000328 030  NP1     Forest                   Z1m[i178.2.2 Z3 
+0000329 010  VVD     said                     Q2.1 
+0000329 020  NP1     Bishop                   Z1mf[i179.2.1 Z3c[i179.2.1 
+0000329 030  NP1     Tunster                  Z1mf[i179.2.2 Z3c[i179.2.2 
+0000330 010  VVD     answered                 Q2.2 S1.1.1 
+0000330 020  NNB     Rev.                     S9 
+0000330 030  NP1     Carmicle                 Z99 
+0000331 010  VVD     said                     Q2.1 
+0000331 020  NNB     Dr                       Z1mf[i181.2.1 B3/S2mf P1/S2mf Z1mf[i180.2.1 
+0000331 030  NP1     Latimer                  Z1mf[i181.2.2 Z1mf[i180.2.2 
+0000332 010  VVD     replied                  Q2.2 Q1.1 
+0000332 020  NNB     Rev.                     S9 
+0000332 030  NP1     Carmicle                 Z99 
+0000333 010  VVD     said                     Q2.1 
+0000333 020  NP1     Robert                   Z1m 
+0000334 010  VVD     said                     Q2.1 
+0000334 020  NP1     Marie                    Z1f 
+0000335 010  VVD     asked                    Q2.2 
+0000335 020  NNB     Dr                       Z1mf[i183.2.1 B3/S2mf P1/S2mf Z1mf[i182.2.1 
+0000335 030  NP1     Latimer                  Z1mf[i183.2.2 Z1mf[i182.2.2 
+0000336 010  VVD     replied                  Q2.2 Q1.1 
+0000336 020  NP1     Iola                     Z99 
+0000337 010  VVD     answered                 Q2.2 S1.1.1 
+0000337 020  NP1     Iola                     Z99 
+0000338 010  VVD     said                     Q2.1 
+0000338 020  NP1     Iola                     Z99 
+0000339 010  VVD     replied                  Q2.2 Q1.1 
+0000339 020  NNB     Dr                       Z1mf[i185.2.1 B3/S2mf P1/S2mf Z1mf[i184.2.1 
+0000339 030  NP1     Latimer                  Z1mf[i185.2.2 Z1mf[i184.2.2 
+0000340 010  VVD     said                     Q2.1 
+0000340 020  NP1     Robert                   Z1m 
+0000341 010  VVD     answered                 Q2.2 S1.1.1 
+0000341 020  NP1     Robert                   Z1m 
+0000341 021  ,       ,                        
+0000341 030  VVG     smiling                  E4.1+ 
+0000341 040  RR      archly                   X9.1+/E4.1+ A11.1+/S7.1+ 
+0000342 010  VVD     continued                T2++ 
+0000342 020  NP1     Iola                     Z99 
+0000343 010  VVD     said                     Q2.1 
+0000343 020  NP1     Robert                   Z1m 
+0000344 010  VVD     said                     Q2.1 
+0000344 020  NP1     Iola                     Z99 
+0000345 010  VVD     answered                 Q2.2 S1.1.1 
+0000345 020  NP1     Iola                     Z99 
+0000346 010  VVD     asked                    Q2.2 
+0000346 020  NP1     Robert                   Z1m 
+0000347 010  PPHS1   she                      Z8f 
+0000347 020  VVD     exclaimed                Q2.2 
+0000348 010  VVD     replied                  Q2.2 Q1.1 
+0000348 020  NNB     Dr                       Z1mf[i187.2.1 B3/S2mf P1/S2mf Z1mf[i186.2.1 
+0000348 030  NP1     Latimer                  Z1mf[i187.2.2 Z1mf[i186.2.2 
+0000349 010  VVD     added                    N5+/A2.1 N2 A1.8+ 
+0000349 020  NP1     Iola                     Z99 
+0000349 021  ,       ,                        
+0000349 030  VVG     smiling                  E4.1+ 
+0000350 010  PPHS1   she                      Z8f 
+0000350 020  VVD     replied                  Q2.2 Q1.1 
+0000351 010  VVD     replied                  Q2.2 Q1.1 
+0000351 020  NNB     Dr                       Z1mf[i189.2.1 B3/S2mf P1/S2mf Z1mf[i188.2.1 
+0000351 030  NP1     Latimer                  Z1mf[i189.2.2 Z1mf[i188.2.2 
+0000352 010  PPHS1   she                      Z8f 
+0000352 020  VVD     answered                 Q2.2 S1.1.1 
+0000353 010  VVD     said                     Q2.1 
+0000353 020  NP1     Iola                     Z99 
+0000353 021  ,       ,                        
+0000353 030  VVG     laughing                 E4.1+/X3.2 
+0000354 010  PPHS1   he                       Z8m 
+0000354 020  VVD     said                     Q2.1 
+0000355 010  PPHS1   she                      Z8f 
+0000355 020  VVD     replied                  Q2.2 Q1.1 
+0000356 010  PPHS1   she                      Z8f 
+0000356 020  VVD     replied                  Q2.2 Q1.1 
+0000357 010  VVD     replied                  Q2.2 Q1.1 
+0000357 020  NNB     Dr                       Z1mf[i191.2.1 B3/S2mf P1/S2mf Z1mf[i190.2.1 
+0000357 030  NP1     Latimer                  Z1mf[i191.2.2 Z1mf[i190.2.2 
+0000357 031  ,       ,                        
+0000357 040  RR      thoughtfully             A1.3+ X2.1 
+0000358 010  VVD     responded                S1.1.2+ Q2.2 
+0000358 020  NP1     Lucille                  Z99 
+0000359 010  PPHS1   he                       Z8m 
+0000359 020  VVD     replied                  Q2.2 Q1.1 
+0000359 021  ,       ,                        
+0000359 030  RR      soberly                  F2 S1.2.6+ O4.2 
+0000360 010  VVD     replied                  Q2.2 Q1.1 
+0000360 020  NP1     Lucille                  Z99 
+0000361 010  VVD     replied                  Q2.2 Q1.1 
+0000361 020  NP1     Lucille                  Z99 
+0000362 010  VVD     replied                  Q2.2 Q1.1 
+0000362 020  NP1     Lucille                  Z99 
+0000363 001  NULL    **8;7;text               

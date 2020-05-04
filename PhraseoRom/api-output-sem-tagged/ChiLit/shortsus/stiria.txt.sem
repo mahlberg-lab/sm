@@ -1,0 +1,97 @@
+0000001 001  NULL    **6;0;START              
+0000001 002  -----   -----                    
+0000002 010  NN1     thought                  X4.1 
+0000002 020  NN1     Gluck                    A4.1 T1.2 K2/S2mf 
+0000003 010  VVD     said                     Q2.1 
+0000003 020  NP1     Gluck                    A4.1 T1.2 K2/S2mf 
+0000004 010  VVD     said                     Q2.1 
+0000004 020  AT      the                      Z5 
+0000004 030  JJ      little                   N3.2- T3- N3.7- N3.3- T1.3- A11.1- 
+0000004 040  NN1     gentleman                S2.2m 
+0000005 010  VVD     said                     Q2.1 
+0000005 020  NP1     Gluck                    A4.1 T1.2 K2/S2mf 
+0000006 010  VVD     said                     Q2.1 
+0000006 020  DA1     little                   N5- 
+0000007 010  NN1     Gluck                    A4.1 T1.2 K2/S2mf 
+0000008 010  VVD     said                     Q2.1 
+0000008 020  AT      the                      Z5 
+0000008 030  JJ      old                      T3+ Z4 
+0000008 040  NN1     gentleman                S2.2m 
+0000009 010  VVD     replied                  Q2.2 Q1.1 
+0000009 020  NP1     Gluck                    A4.1 T1.2 K2/S2mf 
+0000010 010  VVD     said                     Q2.1 
+0000010 020  NP1     Gluck                    A4.1 T1.2 K2/S2mf 
+0000010 021  ,       ,                        
+0000010 030  RR      hesitatingly             A7- 
+0000011 010  VVD     continued                T2++ 
+0000011 020  AT      the                      Z5 
+0000011 030  JJ      old                      T3+ Z4 
+0000011 040  NN1     gentleman                S2.2m 
+0000012 010  VVD     said                     Q2.1 
+0000012 020  PPHS1   he                       Z8m 
+0000013 010  VVD     said                     Q2.1 
+0000013 020  NP1     Gluck                    A4.1 T1.2 K2/S2mf 
+0000013 021  ,       ,                        
+0000013 030  RR      deprecatingly            Z99 
+0000014 010  VVD     said                     Q2.1 
+0000014 020  NP1     Hans                     Z1m 
+0000015 010  VVD     said                     Q2.1 
+0000015 020  NP1     Schwartz                 Z1 
+0000016 010  VVD     thought                  X2.1 
+0000016 020  NP1     Gluck                    A4.1 T1.2 K2/S2mf 
+0000017 010  VVD     said                     Q2.1 
+0000017 020  NP1     Gluck                    A4.1 T1.2 K2/S2mf 
+0000017 030  RT      again                    N6+ Z4 
+0000018 010  VVD     said                     Q2.1 
+0000018 020  AT      the                      Z5 
+0000018 030  NN1     dwarf                    N3.2-/S2mf 
+0000018 031  ,       ,                        
+0000018 040  RR      conclusively             A7+++ 
+0000019 010  VVD     said                     Q2.1 
+0000019 020  NP1     Gluck                    A4.1 T1.2 K2/S2mf 
+0000019 021  ,       ,                        
+0000019 030  RG      rather                   A13.5 
+0000019 040  RR      hesitatingly             A7- 
+0000020 010  VVD     said                     Q2.1 
+0000020 020  AT      the                      A11.1-/S2.1m[i1.3.1 Z5 
+0000020 030  JJ      little                   A11.1-/S2.1m[i1.3.2 N3.2- T3- N3.7- N3.3- T1.3- A11.1- 
+0000020 040  NN1     man                      A11.1-/S2.1m[i1.3.3 S2.2m 
+0000021 010  VVD     said                     Q2.1 
+0000021 020  NP1     Hans                     Z1m 
+0000022 010  II      at                       Z5 
+0000022 020  MD      last                     N4 
+0000022 030  NN1     thought                  X4.1 
+0000022 040  PPHS1   he                       Z8m 
+0000023 010  VVD     replied                  Q2.2 Q1.1 
+0000023 020  NP1     Hans                     Z1m 
+0000024 010  VVD     said                     Q2.1 
+0000025 010  NP1     Schwartz                 Z1 
+0000026 010  VVD     said                     Q2.1 
+0000026 020  NP1     Schwartz                 Z1 
+0000027 010  VVD     laughed                  E4.1+/X3.2 
+0000027 020  NP1     Schwartz                 Z1 
+0000028 010  VVD     said                     Q2.1 
+0000028 020  AT      the                      S4m[i2.3.1 S7.1/S2m[i2.3.1 Z5 
+0000028 030  JJ      old                      S4m[i2.3.2 S7.1/S2m[i2.3.2 T3+ Z4 
+0000028 040  NN1     man                      S4m[i2.3.3 S7.1/S2m[i2.3.3 S2.2m 
+0000029 010  VVD     said                     Q2.1 
+0000029 020  NP1     Gluck                    A4.1 T1.2 K2/S2mf 
+0000030 010  VVD     said                     Q2.1 
+0000030 020  AT      the                      Z5 
+0000030 030  NN1     monarch                  S7.1+/S2mf 
+0000031 010  VVD     continued                T2++ 
+0000031 020  AT      the                      Z5 
+0000031 030  NN1     dwarf                    N3.2-/S2mf 
+0000032 010  VVD     said                     Q2.1 
+0000032 020  NP1     Gluck                    A4.1 T1.2 K2/S2mf 
+0000033 010  VVD     said                     Q2.1 
+0000033 020  AT      the                      Z5 
+0000033 030  NN1     dwarf                    N3.2-/S2mf 
+0000034 010  VVD     said                     Q2.1 
+0000034 020  NP1     Gluck                    A4.1 T1.2 K2/S2mf 
+0000035 010  VVD     replied                  Q2.2 Q1.1 
+0000035 020  AT      the                      Z5 
+0000035 030  NN1     dwarf                    N3.2-/S2mf 
+0000036 010  PPHS1   he                       Z8m 
+0000036 020  VVD     said                     Q2.1 
+0000037 001  NULL    **8;7;text               

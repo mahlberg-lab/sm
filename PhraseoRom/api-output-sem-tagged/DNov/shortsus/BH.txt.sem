@@ -1,0 +1,2116 @@
+0000001 001  NULL    **6;0;START              
+0000001 002  -----   -----                    
+0000002 010  NNB     Mr.                      Z1m[i2.2.1 S2.2m Z1m[i1.2.1 
+0000002 020  NP1     Tangle                   Z1m[i2.2.2 Z1m[i1.2.2 
+0000002 030  VVD     crushed                  A1.1.2 A1.1.1 X9.2+/G3 S7.1+ E4.1- 
+0000003 010  VVZ     says                     Q2.1 
+0000003 020  AT      the                      Z5 
+0000003 030  NN1     Chancellor               G1.1/S2mf P1/S2mf 
+0000003 040  RR      anew                     T2+ N6+ 
+0000004 010  VVZ     says                     Q2.1 
+0000004 020  NNB     Mr.                      Z1m[i3.2.1 S2.2m 
+0000004 030  NP1     Tulkinghorn              Z1m[i3.2.2 
+0000005 010  CC      and                      Z5 
+0000005 020  RT      afterwards               N4 
+0000006 010  PPHS1   he                       Z8m 
+0000006 020  VVD     said                     Q2.1 
+0000007 010  VVD     said                     Q2.1 
+0000007 020  NNB     Mr.                      Z1m[i4.2.1 S2.2m 
+0000007 030  NP1     Kenge                    Z1m[i4.2.2 
+0000007 040  RR      smoothly                 X3.3 O4.5 X3.1 E3+ A5.1+ 
+0000008 010  VVD     returned                 M1 A9- N6 
+0000008 020  NNB     Mrs.                     Z1f[i6.2.1 Z1m[i5.2.1 
+0000008 030  NP1     Rachael                  Z1f[i6.2.2 Z1f Z1m[i5.2.2 
+0000009 010  VVD     assented                 S7.4+ 
+0000009 020  NNB     Mr.                      Z1m[i7.2.1 S2.2m 
+0000009 030  NP1     Kenge                    Z1m[i7.2.2 
+0000010 010  PPHS1   he                       Z8m 
+0000010 020  VVD     pursued                  A1.1.1 X8+ X2.4 M1 
+0000011 010  PPHS1   he                       Z8m 
+0000011 020  VVD     went                     T2++[i8.2.1 M1[i8.2.1 Q2.1/N5+[i8.2.1 A1.1.1[i8.2.1 M1 A2.1+ A1.1.1 A9- A1.8+ Q2.1 N6+ I2.2 A1.1.2 T2- S3.2 A6.3+ B2-/X1% B1% 
+0000011 030  RP@     on                       T2++[i8.2.2 M1[i8.2.2 Q2.1/N5+[i8.2.2 A1.1.1[i8.2.2 M6 A1.1.1 
+0000012 010  VVD     said                     Q2.1 
+0000012 020  AT      the                      Z5 
+0000012 030  NN1     gentleman                S2.2m 
+0000013 010  DDQ     which                    Z8 Z5 
+0000013 020  VBDZ    was                      A3+ Z5 
+0000013 030  RR      nicely                   A5.1+ O4.2+ 
+0000013 040  JJ      folded                   O4.1 
+0000014 010  PPIS1   I                        Z8mf 
+0000014 020  VVD     replied                  Q2.2 Q1.1 
+0000015 010  VVD     said                     Q2.1 
+0000015 020  AT      the                      Z3fnc[i9.2.1 Z5 
+0000015 030  NN1     lady                     Z3fnc[i9.2.2 S2.1f S7.1+/S2.1f 
+0000016 010  VVD     said                     Q2.1 
+0000016 020  NNB     Miss                     Z1f[i10.2.1 
+0000016 030  NP1     Donny                    Z1f[i10.2.2 
+0000017 010  VVD     said                     Q2.1 
+0000017 020  NNB     Miss                     Z1f[i11.2.1 
+0000017 030  NP1     Donny                    Z1f[i11.2.2 
+0000018 010  PPHS1   he                       Z8m 
+0000018 020  VVD     said                     Q2.1 
+0000019 010  PPIS1   I                        Z8mf 
+0000019 020  VVD     said                     Q2.1 
+0000020 010  VVD     said                     Q2.1 
+0000020 020  NNB     Mr.                      Z1m[i12.2.1 S2.2m 
+0000020 030  NP1     Kenge                    Z1m[i12.2.2 
+0000021 010  VVD     said                     Q2.1 
+0000021 020  APPGE   his                      Z8m 
+0000021 030  NN1     lordship                 S7.1+ 
+0000022 010  VVD     said                     Q2.1 
+0000022 020  NNB     Mr.                      Z1m[i13.2.1 S2.2m 
+0000022 030  NP1     Kenge                    Z1m[i13.2.2 
+0000023 010  VVD     said                     Q2.1 
+0000023 020  NNB     Mr.                      Z1m[i14.2.1 S2.2m 
+0000023 030  NP1     Guppy                    Z1m[i14.2.2 
+0000024 010  VVD     said                     Q2.1 
+0000024 020  PPIS1   I                        Z8mf 
+0000025 010  VVD     said                     Q2.1 
+0000025 020  NNB     Mrs.                     Z1f[i16.2.1 Z1m[i15.2.1 
+0000025 030  NP1     Jellyby                  Z1f[i16.2.2 Z1m[i15.2.2 
+0000025 031  ,       ,                        
+0000025 040  VVG     dictating                Q2.2 S7.1+ X6+ 
+0000026 010  VVD     returned                 M1 A9- N6 
+0000026 020  NNB     Miss                     Z1f[i17.2.1 
+0000026 030  NP1     Jellyby                  Z1f[i17.2.2 
+0000027 010  CC      or                       Z5 
+0000028 010  VVD     said                     Q2.1 
+0000028 020  MC1%    I                        Z8 
+0000029 010  PPHS1   she                      Z8f 
+0000029 020  VVD     said                     Q2.1 
+0000030 010  PPHS1   she                      Z8f 
+0000030 020  VVD     said                     Q2.1 
+0000031 010  VVD     said                     Q2.1 
+0000031 020  PPIS1   I                        Z8mf 
+0000032 010  VVD     said                     Q2.1 
+0000032 020  MC1%    I                        Z8 
+0000033 010  PPHS1   she                      Z8f 
+0000033 020  VVD     said                     Q2.1 
+0000034 010  PPHS1   she                      Z8f 
+0000034 020  VVD     said                     Q2.1 
+0000035 010  VVD     said                     Q2.1 
+0000035 020  PPIS1   I                        Z8mf 
+0000036 010  VVD     returned                 M1 A9- N6 
+0000036 020  NNB     Miss                     Z1f[i18.2.1 
+0000036 030  NP1     Jellyby                  Z1f[i18.2.2 
+0000037 010  VVD     said                     Q2.1 
+0000037 020  AT      the                      Z5 
+0000037 030  JJ      old                      T3+ Z4 
+0000037 040  NN1     lady                     S2.1f S7.1+/S2.1f 
+0000038 010  PPHS1   she                      Z8f 
+0000038 020  VVD     said                     Q2.1 
+0000039 010  PPHS1   she                      Z8f 
+0000039 020  VVD     pursued                  A1.1.1 X8+ X2.4 M1 
+0000040 010  AT1     a                        Z5 
+0000040 020  NN1     smile                    E4.1+ 
+0000040 030  CC      and                      Z5 
+0000040 040  NN1     curtsy                   M1 
+0000041 010  AT1     a                        Z5 
+0000041 020  NN1     smile                    E4.1+ 
+0000041 030  CC      and                      Z5 
+0000041 040  NN1     curtsy                   M1 
+0000042 010  VVG     whispering               Q2.1 X3.2 
+0000042 020  RR      mysteriously             A6.2- 
+0000043 010  VVD     said                     Q2.1 
+0000043 020  NP1     Richard                  Z1m 
+0000044 010  VVD     said                     Q2.1 
+0000044 020  NP1     Richard                  Z1m 
+0000045 010  VVD     said                     Q2.1 
+0000045 020  PPIS1   I                        Z8mf 
+0000045 021  ,       ,                        
+0000045 030  VVG     hesitating               A7- 
+0000046 010  VVD     pursued                  A1.1.1 X8+ X2.4 M1 
+0000046 020  NNB     Mr.                      Z1m[i19.2.1 S2.2m 
+0000046 030  NP1     Jarndyce                 Z1m[i19.2.2 
+0000047 010  PPHS1   he                       Z8m 
+0000047 020  VVD     observed                 X3.4 Q2.1/X2.4 X2.1 G2.1+ 
+0000048 010  VVG     glancing                 X3.4 O4.3% 
+0000048 020  II      at                       Z5 
+0000048 030  AT      the                      Z5 
+0000048 040  NN2     cousins                  S4mf 
+0000049 010  VVD     said                     Q2.1 
+0000049 020  NP1     Richard                  Z1m 
+0000049 030  RR      hurriedly                N3.8+ 
+0000050 010  VVD     said                     Q2.1 
+0000050 020  NNB     Mr.                      Z1m[i20.2.1 S2.2m 
+0000050 030  NP1     Skimpole                 Z1m[i20.2.2 
+0000051 010  VVD     said                     Q2.1 
+0000051 020  NP1     Richard                  Z1m 
+0000051 030  II      to                       Z5 
+0000051 040  PPIO1   me                       Z8mf 
+0000052 010  VVD     said                     Q2.1 
+0000052 020  AT      the                      Z5 
+0000052 030  NN1     stranger                 X2.2-/S2mf 
+0000052 040  RR      gruffly                  Z99 
+0000053 010  VVD     proceeded                A1.1.1 T2++ M1 
+0000053 020  NNB     Mr.                      Z1m[i21.2.1 S2.2m 
+0000053 030  NP1     Skimpole                 Z1m[i21.2.2 
+0000054 010  VVD     proceeded                A1.1.1 T2++ M1 
+0000054 020  NNB     Mr.                      Z1m[i22.2.1 S2.2m 
+0000054 030  NP1     Skimpole                 Z1m[i22.2.2 
+0000055 010  VVD     said                     Q2.1 
+0000055 020  NP1     Richard                  Z1m 
+0000056 010  VVD     said                     Q2.1 
+0000056 020  PPIS1   I                        Z8mf 
+0000057 010  VVD     said                     Q2.1 
+0000057 020  NNB     Mr.                      Z1m[i23.2.1 S2.2m 
+0000057 030  NP1     Jarndyce                 Z1m[i23.2.2 
+0000058 010  VVD     said                     Q2.1 
+0000058 020  NNB     Mr.                      Z1m[i24.2.1 S2.2m 
+0000058 030  NP1     Jarndyce                 Z1m[i24.2.2 
+0000059 010  VVD     said                     Q2.1 
+0000059 020  NNB     Mr.                      Z1m[i25.2.1 S2.2m 
+0000059 030  NP1     Jarndyce                 Z1m[i25.2.2 
+0000060 010  VVD     said                     Q2.1 
+0000060 020  NNB     Sir                      Z1m[i26.2.1 
+0000060 030  NP1     Leicester                Z1m[i26.2.2 Z2 Z3c 
+0000061 010  VVZ     repeats                  N6+ Q2.1/N6+ F1/B1@ 
+0000061 020  NNB     Mrs.                     Z1f[i28.2.1 Z1m[i27.2.1 
+0000061 030  NP1     Rouncewell               Z1f[i28.2.2 Z1m[i27.2.2 
+0000062 010  VVZ     says                     Q2.1 
+0000062 020  NP1     Rosa                     A4.1 
+0000063 010  VVZ     observes                 X3.4 Q2.1/X2.4 X2.1 G2.1+ 
+0000063 020  NNB     Mr.                      Z1m[i29.2.1 S2.2m 
+0000063 030  NP1     Guppy                    Z1m[i29.2.2 
+0000064 010  VVZ     says                     Q2.1 
+0000064 020  NNB     Mrs.                     Z1f[i31.2.1 Z1m[i30.2.1 
+0000064 030  NP1     Rouncewell               Z1f[i31.2.2 Z1m[i30.2.2 
+0000065 010  VVZ     replies                  Q2.2 
+0000065 020  AT      the                      Z5 
+0000065 030  JJ      young                    T3- 
+0000065 040  NN1     man                      S2.2m 
+0000066 010  VVZ     says                     Q2.1 
+0000066 020  NNB     Mrs.                     Z1f[i33.2.1 Z1m[i32.2.1 
+0000066 030  NP1     Rouncewell               Z1f[i33.2.2 Z1m[i32.2.2 
+0000067 010  PPIS1   I                        Z8mf 
+0000067 020  VVD     returned                 M1 A9- N6 
+0000068 010  PPHS1   he                       Z8m 
+0000068 020  VVD     said                     Q2.1 
+0000069 010  VVG     looking                  X3.4[i34.2.1 X2.4[i34.2.1 X2.1[i34.2.1 A8 X3.4 X2.4 X7+ Z4 
+0000069 020  RR      seriously                A13.3 Z4 E4.1- 
+0000069 030  II      at                       X3.4[i34.2.2 X2.4[i34.2.2 X2.1[i34.2.2 Z5 
+0000069 040  PPIO1   me                       Z8mf 
+0000070 010  VVD     said                     Q2.1 
+0000070 020  PPIS1   I                        Z8mf 
+0000071 010  VVD     said                     Q2.1 
+0000071 020  PPIS1   I                        Z8mf 
+0000072 010  VVD     said                     Q2.1 
+0000072 020  NNB     Mr.                      Z1m[i35.2.1 S2.2m 
+0000072 030  NP1     Jarndyce                 Z1m[i35.2.2 
+0000073 010  VVD     said                     Q2.1 
+0000073 020  PPIS1   I                        Z8mf 
+0000074 010  VVD     said                     Q2.1 
+0000074 020  NNB     Mrs.                     Z1f[i38.2.1 Z1f[i37.2.1 Z1m[i36.2.1 
+0000074 030  NP1     Pardiggle                Z1f[i38.2.2 Z1f[i37.2.2 Z1m[i36.2.2 
+0000075 010  VVG     meaning                  Q1.1 X7+ 
+0000075 020  RG      very                     A13.3 
+0000075 030  JJ      prominent                A11.1+ A11.2+ 
+0000076 010  VVD     said                     Q2.1 
+0000076 020  NNB     Mrs.                     Z1f[i40.2.1 Z1m[i39.2.1 
+0000076 030  NP1     Pardiggle                Z1f[i40.2.2 Z1m[i39.2.2 
+0000076 040  RR      rapidly                  N3.8+ 
+0000077 010  VVD     said                     Q2.1 
+0000077 020  NNB     Mrs.                     Z1f[i42.2.1 Z1m[i41.2.1 
+0000077 030  NP1     Pardiggle                Z1f[i42.2.2 Z1m[i41.2.2 
+0000078 010  VVD     said                     Q2.1 
+0000078 020  NNB     Mrs.                     Z1f[i44.2.1 Z1m[i43.2.1 
+0000078 030  NP1     Pardiggle                Z1f[i44.2.2 Z1m[i43.2.2 
+0000079 010  VVD     said                     Q2.1 
+0000079 020  PPHS1   she                      Z8f 
+0000080 010  VVD     said                     Q2.1 
+0000080 020  NP1     Richard                  Z1m 
+0000080 030  II      to                       Z5 
+0000080 040  PPIO1   me                       Z8mf 
+0000081 010  VVD     said                     Q2.1 
+0000081 020  NNB     Mr.                      Z1m[i45.2.1 S2.2m 
+0000081 030  NP1     Jarndyce                 Z1m[i45.2.2 
+0000082 010  II      to                       Z5 
+0000082 020  PPIO1   me                       Z8mf 
+0000083 010  CC      and                      Z5 
+0000083 020  RT      again                    N6+ Z4 
+0000084 010  VVD     returned                 M1 A9- N6 
+0000084 020  NNB     Mr.                      Z1m[i46.2.1 S2.2m 
+0000084 030  NP1     Jarndyce                 Z1m[i46.2.2 
+0000084 031  ,       ,                        
+0000084 040  VVG     laughing                 E4.1+/X3.2 
+0000085 010  VVD     resumed                  T2+/N6+ 
+0000085 020  APPGE   our                      Z8 
+0000085 030  NN1     visitor                  S1.1.1/S2mf M1/S2mf 
+0000086 010  PPHS1   he                       Z8m 
+0000086 020  VVD     said                     Q2.1 
+0000087 010  VVD     said                     Q2.1 
+0000087 020  NNB     Mr.                      Z1m[i47.2.1 S2.2m 
+0000087 030  NP1     Jarndyce                 Z1m[i47.2.2 
+0000088 010  VVD     said                     Q2.1 
+0000088 020  MC1%    I                        Z8 
+0000089 010  PPIS1   I                        Z8mf 
+0000089 020  VVD     returned                 M1 A9- N6 
+0000090 010  VVD     said                     Q2.1 
+0000090 020  PPIS1   I                        Z8mf 
+0000091 010  VVD     said                     Q2.1 
+0000091 020  PPIS1   I                        Z8mf 
+0000092 010  VVD     said                     Q2.1 
+0000092 020  NNB     Mr.                      Z1m[i48.2.1 S2.2m 
+0000092 030  NP1     Guppy                    Z1m[i48.2.2 
+0000093 010  VVD     said                     Q2.1 
+0000093 020  PPIS1   I                        Z8mf 
+0000094 010  VVZ     replies                  Q2.2 
+0000094 020  AT      the                      Z5 
+0000094 030  NN1@    other                    A6.1-/Z8 
+0000095 010  VVZ     says                     Q2.1 
+0000095 020  AT      the                      Z5 
+0000095 030  NN1     surgeon                  B3/S2mf 
+0000096 010  PPHS1   he                       Z8m 
+0000096 020  VVZ     observes                 X3.4 Q2.1/X2.4 X2.1 G2.1+ 
+0000097 010  PPHS1   he                       Z8m 
+0000097 020  VVZ     says                     Q2.1 
+0000098 010  VVZ     says                     Q2.1 
+0000098 020  NNB     Mr.                      Z1m[i49.2.1 S2.2m 
+0000098 030  NP1     Snagsby                  Z1m[i49.2.2 
+0000099 010  VVZ     says                     Q2.1 
+0000099 020  NNB     Mr.                      Z1m[i50.2.1 S2.2m 
+0000099 030  NP1     Snagsby                  Z1m[i50.2.2 
+0000099 031  ,       ,                        
+0000099 040  VVN     strengthened             S1.2.5+/A2.1 O4.1/A2.1 
+0000100 010  VVZ     says                     Q2.1 
+0000100 020  NNB     Mr.                      Z1m[i51.2.1 S2.2m 
+0000100 030  NP1     Tulkinghorn              Z1m[i51.2.2 
+0000101 010  VVZ     says                     Q2.1 
+0000101 020  AT      the                      Z5 
+0000101 030  NN1     surgeon                  B3/S2mf 
+0000102 010  VVZ     says                     Q2.1 
+0000102 020  AT      the                      Z5 
+0000102 030  NN1     coroner                  G2.1/S2mf 
+0000103 010  VVZ     says                     Q2.1 
+0000103 020  NP1     Watt                     Z1mf 
+0000104 010  VVZ     says                     Q2.1 
+0000104 020  NP1     Watt                     Z1mf 
+0000105 010  VVZ     says                     Q2.1 
+0000105 020  NP1     Watt                     Z1mf 
+0000106 010  VVZ     says                     Q2.1 
+0000106 020  APPGE   my                       Z8 
+0000106 030  NN1     Lady                     Z3c 
+0000107 010  PPHS1   he                       Z8m 
+0000107 020  VVZ     explains                 Q2.2/A7+ A2.2 
+0000108 010  VVZ     pursues                  A1.1.1 X8+ X2.4 M1 
+0000108 020  AT      the                      Z5 
+0000108 030  NN1     lawyer                   G2.1/I3.2/S2mf 
+0000109 010  VVZ     returns                  M1 A9- S1.1.2+ K5.1 N6+ A2.1+ 
+0000109 020  NNB     Sir                      Z1m[i52.2.1 
+0000109 030  NP1     Leicester                Z1m[i52.2.2 Z2 Z3c 
+0000110 010  NNB     Sir                      Z1m[i53.2.1 
+0000110 020  NP1     Leicester                Z1m[i53.2.2 Z2 Z3c 
+0000110 030  NN2     interrupts               Q2.2 X7- T2- 
+0000110 040  PPHO1   him                      Z8m 
+0000111 010  VVZ     says                     Q2.1 
+0000111 020  PPHS1   he                       Z8m 
+0000112 010  PPHS1   he                       Z8m 
+0000112 020  VVZ     says                     Q2.1 
+0000113 010  APPGE   my                       Z8 
+0000113 020  NN1     Lady                     Z3c 
+0000113 030  VVZ     asks                     Q2.2 
+0000114 010  VVZ     says                     Q2.1 
+0000114 020  AT      the                      Z5 
+0000114 030  NN1     lawyer                   G2.1/I3.2/S2mf 
+0000114 040  RR      meditatively             Z99 
+0000115 010  VVD     said                     Q2.1 
+0000115 020  NP1     Richard                  Z1m 
+0000115 021  ,       ,                        
+0000115 030  VVG     musing                   X2.1 
+0000116 010  VVD     cried                    E4.1- Q2.2 
+0000116 020  NNB     Mr.                      Z1m[i54.2.1 S2.2m 
+0000116 030  NP1     Boythorn                 Z1m[i54.2.2 
+0000117 010  VVD     said                     Q2.1 
+0000117 020  NNB     Mr.                      Z1m[i55.2.1 S2.2m 
+0000117 030  NP1     Jarndyce                 Z1m[i55.2.2 
+0000118 010  VVD     said                     Q2.1 
+0000118 020  NP1     Richard                  Z1m 
+0000119 010  VVD     said                     Q2.1 
+0000119 020  NNB     Mrs.                     Z1f[i57.2.1 Z1m[i56.2.1 
+0000119 030  NP1     Badger                   Z1f[i57.2.2 Z1m[i56.2.2 
+0000120 010  VVD     pursued                  A1.1.1 X8+ X2.4 M1 
+0000120 020  NNB     Mrs.                     Z1f[i59.2.1 Z1m[i58.2.1 
+0000120 030  NP1     Badger                   Z1f[i59.2.2 Z1m[i58.2.2 
+0000121 010  VVD     said                     Q2.1 
+0000121 020  NNB     Mr.                      Z1m[i60.2.1 S2.2m 
+0000121 030  NP1     Jarndyce                 Z1m[i60.2.2 
+0000122 010  VVD     said                     Q2.1 
+0000122 020  NNB     Mr.                      Z1m[i61.2.1 S2.2m 
+0000122 030  NP1     Badger                   Z1m[i61.2.2 
+0000123 010  VVD     said                     Q2.1 
+0000123 020  NNB     Mr.                      Z1m[i62.2.1 S2.2m 
+0000123 030  NP1     Badger                   Z1m[i62.2.2 
+0000124 010  VVD     said                     Q2.1 
+0000124 020  PPIS1   I                        Z8mf 
+0000125 010  VVD     said                     Q2.1 
+0000125 020  PPIS1   I                        Z8mf 
+0000126 010  VVD     said                     Q2.1 
+0000126 020  PPIS1   I                        Z8mf 
+0000127 010  VVD     said                     Q2.1 
+0000127 020  NP1     Ada                      O1 
+0000127 030  RR      timidly                  E5- S1.2.3- 
+0000128 010  VVD     said                     Q2.1 
+0000128 020  PPIS1   I                        Z8mf 
+0000129 010  VVD     said                     Q2.1 
+0000129 020  PPIS1   I                        Z8mf 
+0000130 010  VVD     said                     Q2.1 
+0000130 020  NNB     Mr.                      Z1m[i63.2.1 S2.2m 
+0000130 030  NP1     Jarndyce                 Z1m[i63.2.2 
+0000131 010  VVD     returned                 M1 A9- N6 
+0000131 020  NP1     Richard                  Z1m 
+0000132 010  VVD     replied                  Q2.2 Q1.1 
+0000132 020  NP1     Richard                  Z1m 
+0000132 030  JJ      smiling                  E4.1+ 
+0000133 010  VVD     asked                    Q2.2 
+0000133 020  NP1     Richard                  Z1m 
+0000134 010  VVD     returned                 M1 A9- N6 
+0000134 020  NP1     Richard                  Z1mf[i65.3.1 Z3c[i65.3.1 Z1m Z1mf[i64.2.1 Z3c[i64.2.1 
+0000135 010  NP1     Said                     Z1mf[i65.3.2 Z3c[i65.3.2 Z1mf[i64.2.2 Z3c[i64.2.2 Z1mf[i66.2.1 Z3c[i66.2.1 
+0000135 020  NP1     Ada                      Z3c[i65.3.3 Z1mf[i65.3.3 Z1mf[i66.2.2 Z3c[i66.2.2 
+0000136 010  VVD     cried                    E4.1- Q2.2 
+0000136 020  NP1     Richard                  Z1m 
+0000137 010  VVD     exclaimed                Q2.2 
+0000137 020  NNB     Miss                     Z1f[i67.2.1 
+0000137 030  NP1     Jellyby                  Z1f[i67.2.2 
+0000138 010  VVD     replied                  Q2.2 Q1.1 
+0000138 020  NNB     Miss                     Z1f[i68.2.1 
+0000138 030  NP1     Jellyby                  Z1f[i68.2.2 
+0000139 010  PPHS1   she                      Z8f 
+0000139 020  VVD     said                     Q2.1 
+0000140 010  VVD     pursued                  A1.1.1 X8+ X2.4 M1 
+0000140 020  NNB     Miss                     Z1f[i69.2.1 
+0000140 030  NP1     Jellyby                  Z1f[i69.2.2 
+0000141 010  PPHS1   she                      Z8f 
+0000141 020  VVD     replied                  Q2.2 Q1.1 
+0000142 010  JJ%     said                     Q1.1 Q2.1 
+0000142 020  NN1     Caddy                    F2 F1 O2 F2% A7+ A1.1.1 O1.1 
+0000143 010  VVD     said                     Q2.1 
+0000143 020  PPIS1   I                        Z8mf 
+0000144 010  VVD     said                     Q2.1 
+0000144 020  NN1     Caddy                    F2 F1 O2 F2% A7+ A1.1.1 O1.1 
+0000145 010  IW      with                     Z5 
+0000145 020  JJ      timid                    E5- 
+0000145 030  NN1     tenderness               E3+ B2- 
+0000146 010  PPIS1   I                        Z8mf 
+0000146 020  VVD     entreated                Q2.2 
+0000147 010  VVD     said                     Q2.1 
+0000147 020  NNB     Mr.                      Z1m[i70.2.1 S2.2m 
+0000147 030  NP1     Turveydrop               Z1m[i70.2.2 
+0000148 010  VVD     said                     Q2.1 
+0000148 020  AT      the                      Z5 
+0000148 030  JJ      old                      T3+ Z4 
+0000148 040  NN1     lady                     S2.1f S7.1+/S2.1f 
+0000149 010  PPHS1   he                       Z8m 
+0000149 020  VVD     added                    N5+/A2.1 N2 A1.8+ 
+0000150 010  VVD     said                     Q2.1 
+0000150 020  NNB     Mr.                      Z1m[i71.2.1 S2.2m 
+0000150 030  NP1     Turveydrop               Z1m[i71.2.2 
+0000151 010  VVD     said                     Q2.1 
+0000151 020  PPHS1   he                       Z8m 
+0000152 010  VVD     returned                 M1 A9- N6 
+0000152 020  APPGE   his                      Z8m 
+0000152 030  NN1     father                   S4m S9/S2.2m 
+0000153 010  VVD     observed                 X3.4 Q2.1/X2.4 X2.1 G2.1+ 
+0000153 020  NN1     Caddy                    F2 F1 O2 F2% A7+ A1.1.1 O1.1 
+0000154 010  VVD     continued                T2++ 
+0000154 020  NN1     Caddy                    F2 F1 O2 F2% A7+ A1.1.1 O1.1 
+0000155 010  PPIS1   I                        Z8mf 
+0000155 020  VVD     replied                  Q2.2 Q1.1 
+0000156 010  VVD     said                     Q2.1 
+0000156 020  PPIS1   I                        Z8mf 
+0000157 010  VVD     said                     Q2.1 
+0000157 020  PPHS1   she                      Z8f 
+0000158 010  VVD     said                     Q2.1 
+0000158 020  MC1%    I                        Z8 
+0000159 010  PPHS1   he                       Z8m 
+0000159 020  VVD     said                     Q2.1 
+0000160 010  VVD     said                     Q2.1 
+0000160 020  AT      the                      S4m[i72.3.1 S7.1/S2m[i72.3.1 Z5 
+0000160 030  JJ      old                      S4m[i72.3.2 S7.1/S2m[i72.3.2 T3+ Z4 
+0000160 040  NN1     man                      S4m[i72.3.3 S7.1/S2m[i72.3.3 S2.2m 
+0000161 010  VVD     said                     Q2.1 
+0000161 020  NNB     Mr.                      Z1m[i73.2.1 S2.2m 
+0000161 030  NP1     Skimpole                 Z1m[i73.2.2 
+0000162 010  VVD     said                     Q2.1 
+0000162 020  APPGE   my                       Z8 
+0000162 030  NN1     guardian                 S7.1+/S2mf S4/S2mf S8+/A15+/S2mf 
+0000162 031  ,       ,                        
+0000162 040  VVG     laughing                 E4.1+/X3.2 
+0000163 010  PPHS1   he                       Z8m 
+0000163 020  VVD     returned                 M1 A9- N6 
+0000164 010  VVD     said                     Q2.1 
+0000164 020  NNB     Mr.                      Z1m[i74.2.1 S2.2m 
+0000164 030  NP1     Jarndyce                 Z1m[i74.2.2 
+0000165 010  VVD     said                     Q2.1 
+0000165 020  NNB     Mr.                      Z1m[i75.2.1 S2.2m 
+0000165 030  NP1     Skimpole                 Z1m[i75.2.2 
+0000166 010  VVD     said                     Q2.1 
+0000166 020  NNB     Mr.                      Z1m[i76.2.1 S2.2m 
+0000166 030  NP1     Jarndyce                 Z1m[i76.2.2 
+0000167 010  VVD     murmured                 Q2.2/X3.2- X3.2- 
+0000167 020  APPGE   my                       Z8 
+0000167 030  NN1     guardian                 S7.1+/S2mf S4/S2mf S8+/A15+/S2mf 
+0000168 010  VVD     said                     Q2.1 
+0000168 020  PPIS1   I                        Z8mf 
+0000169 010  VVD     said                     Q2.1 
+0000169 020  AT      the                      Z5 
+0000169 030  NN1     boy                      S2.2m L2m@ 
+0000170 010  VVD     said                     Q2.1 
+0000170 020  NP1     Tom                      Z1m 
+0000171 010  PPHS1   she                      Z8f 
+0000171 020  VVD     said                     Q2.1 
+0000172 010  VVD     returned                 M1 A9- N6 
+0000172 020  NNB     Mrs.                     Z1f[i78.2.1 Z1m[i77.2.1 
+0000172 030  NP1     Blinder                  Z1f[i78.2.2 Z1m[i77.2.2 
+0000173 010  VVD     said                     Q2.1 
+0000173 020  NNB     Mrs.                     Z1f[i80.2.1 Z1m[i79.2.1 
+0000173 030  NP1     Blinder                  Z1f[i80.2.2 Z1m[i79.2.2 
+0000174 010  VVD     said                     Q2.1 
+0000174 020  NNB     Mrs.                     Z1f[i82.2.1 Z1m[i81.2.1 
+0000174 030  NP1     Blinder                  Z1f[i82.2.2 Z1m[i81.2.2 
+0000175 010  VVD     said                     Q2.1 
+0000175 020  NNB     Mr.                      Z1m[i83.2.1 S2.2m 
+0000175 030  NP1     Jarndyce                 Z1m[i83.2.2 
+0000176 010  IW      with                     Z5 
+0000176 020  JJ      renewed                  T2+/A2.1 
+0000176 030  NN1     violence                 E3- 
+0000177 010  PPHS1   he                       Z8m 
+0000177 020  VVD     said                     Q2.1 
+0000178 010  VVZ     says                     Q2.1 
+0000178 020  NP1     Jo                       Z1fm 
+0000179 010  PPHS1   she                      Z8f 
+0000179 020  VVZ     adds                     N5+/A2.1 N2 
+0000180 010  JJ%     said                     Q1.1 Q2.1 
+0000180 020  NNB     Mrs.                     Z1f[i85.2.1 Z1m[i84.2.1 
+0000180 030  NP1     Badger                   Z1f[i85.2.2 Z1m[i84.2.2 
+0000181 010  VVD     said                     Q2.1 
+0000181 020  NNB     Mrs.                     Z1f[i87.2.1 Z1m[i86.2.1 
+0000181 030  NP1     Badger                   Z1f[i87.2.2 Z1m[i86.2.2 
+0000182 010  VVD     pursued                  A1.1.1 X8+ X2.4 M1 
+0000182 020  NNB     Mrs.                     Z1f[i89.2.1 Z1m[i88.2.1 
+0000182 030  NP1     Badger                   Z1f[i89.2.2 Z1m[i88.2.2 
+0000183 010  VVD     smiled                   E4.1+ 
+0000183 020  NNB     Mrs.                     Z1f[i91.2.1 Z1m[i90.2.1 
+0000183 030  NP1     Badger                   Z1f[i91.2.2 Z1m[i90.2.2 
+0000184 010  VVD     pursued                  A1.1.1 X8+ X2.4 M1 
+0000184 020  NNB     Mrs.                     Z1f[i93.2.1 Z1m[i92.2.1 
+0000184 030  NP1     Badger                   Z1f[i93.2.2 Z1m[i92.2.2 
+0000185 010  PPHS1   she                      Z8f 
+0000185 020  VVD     replied                  Q2.2 Q1.1 
+0000186 010  VVD     said                     Q2.1 
+0000186 020  NNB     Mr.                      Z1m[i94.2.1 S2.2m 
+0000186 030  NP1     Badger                   Z1m[i94.2.2 
+0000187 010  VVD     said                     Q2.1 
+0000187 020  NNB     Mrs.                     Z1f[i96.2.1 Z1m[i95.2.1 
+0000187 030  NP1     Badger                   Z1f[i96.2.2 Z1m[i95.2.2 
+0000188 010  VVD     said                     Q2.1 
+0000188 020  NP1     Richard                  Z1m 
+0000189 010  VVD     said                     Q2.1 
+0000189 020  PPIS1   I                        Z8mf 
+0000190 010  VVD     said                     Q2.1 
+0000190 020  PPIS1   I                        Z8mf 
+0000191 010  VVD     pursued                  A1.1.1 X8+ X2.4 M1 
+0000191 020  NP1     Richard                  Z1m 
+0000192 010  VVD     said                     Q2.1 
+0000192 020  MC1%    I                        Z8 
+0000193 010  PPHS1   he                       Z8m 
+0000193 020  VVD     said                     Q2.1 
+0000194 010  PPIS1   I                        Z8mf 
+0000194 020  VVD     suggested                Q2.2 Q1.1 
+0000195 010  VVD     said                     Q2.1 
+0000195 020  PPIS1   I                        Z8mf 
+0000196 010  VVD     said                     Q2.1 
+0000196 020  NP1     Richard                  Z1m 
+0000197 010  VVD     said                     Q2.1 
+0000197 020  NP1     Richard                  Z1m 
+0000198 010  VVD     said                     Q2.1 
+0000198 020  NP1     Richard                  Z1m 
+0000199 010  VVD     said                     Q2.1 
+0000199 020  NNB     Mr.                      Z1m[i97.2.1 S2.2m 
+0000199 030  NP1     Jarndyce                 Z1m[i97.2.2 
+0000200 010  VVD     said                     Q2.1 
+0000200 020  NP1     Ada                      O1 
+0000201 010  VVD     said                     Q2.1 
+0000201 020  PPIS1   I                        Z8mf 
+0000202 010  VVD     said                     Q2.1 
+0000202 020  PPHS1   he                       Z8m 
+0000203 010  VVD     said                     Q2.1 
+0000203 020  APPGE   my                       Z8 
+0000203 030  NN1     guardian                 S7.1+/S2mf S4/S2mf S8+/A15+/S2mf 
+0000204 010  PPIS1   I                        Z8mf 
+0000204 020  VVD     replied                  Q2.2 Q1.1 
+0000205 010  VVD     said                     Q2.1 
+0000205 020  PPIS1   I                        Z8mf 
+0000206 010  VVD     said                     Q2.1 
+0000206 020  PPIS1   I                        Z8mf 
+0000207 010  VVD     said                     Q2.1 
+0000207 020  APPGE   my                       Z8 
+0000207 030  NN1     guardian                 S7.1+/S2mf S4/S2mf S8+/A15+/S2mf 
+0000207 040  RR      good-humouredly          Z99 
+0000208 010  VVD     said                     Q2.1 
+0000208 020  APPGE   my                       Z8 
+0000208 030  NN1     guardian                 S7.1+/S2mf S4/S2mf S8+/A15+/S2mf 
+0000208 031  ,       ,                        
+0000208 040  VVG     laughing                 E4.1+/X3.2 
+0000209 010  VVD     said                     Q2.1 
+0000209 011  ,       ,                        
+0000209 020  PPHS1   he                       Z8m 
+0000210 010  PPHS1   he                       Z8m 
+0000210 020  VVD     returned                 M1 A9- N6 
+0000211 010  VVD     said                     Q2.1 
+0000211 020  NNB     Mr.                      Z1m[i98.2.1 S2.2m 
+0000211 030  NP1     Boythorn                 Z1m[i98.2.2 
+0000212 010  VVD     said                     Q2.1 
+0000212 020  APPGE   my                       Z8 
+0000212 030  NN1     guardian                 S7.1+/S2mf S4/S2mf S8+/A15+/S2mf 
+0000213 010  VVD     said                     Q2.1 
+0000213 020  NNB     Lady                     Z1mf[i99.2.1 Z3c[i99.2.1 Z3c 
+0000213 030  NP1     Dedlock                  Z1mf[i99.2.2 Z3c[i99.2.2 
+0000214 010  VVD     said                     Q2.1 
+0000214 020  AT      the                      Z5 
+0000214 030  NN1     keeper                   L2/S2mf H1/S2mf K5.1/S2mf 
+0000215 010  VVZ     says                     Q2.1 
+0000215 020  NNB     Mrs.                     Z1f[i101.2.1 Z1m[i100.2.1 
+0000215 030  NP1     Snagsby                  Z1f[i101.2.2 Z1m[i100.2.2 
+0000216 010  VVZ     says                     Q2.1 
+0000216 020  NNB     Mr.                      Z1m[i102.2.1 S2.2m 
+0000216 030  NP1     Chadband                 Z1m[i102.2.2 
+0000217 010  VVZ     proceeds                 A1.1.1 T2++ M1 
+0000217 020  NNB     Mr.                      Z1m[i103.2.1 S2.2m 
+0000217 030  NP1     Chadband                 Z1m[i103.2.2 
+0000218 010  VVZ     says                     Q2.1 
+0000218 020  NP1     Chadband                 Z99 
+0000219 010  VVZ     says                     Q2.1 
+0000219 020  NNB     Mr.                      Z1m[i104.2.1 S2.2m 
+0000219 030  NP1     Chadband                 Z1m[i104.2.2 
+0000220 010  VVZ     says                     Q2.1 
+0000220 020  PPHS1   he                       Z8m 
+0000221 010  VVZ     says                     Q2.1 
+0000221 020  NP1     Chadband                 Z99 
+0000222 010  VVZ     says                     Q2.1 
+0000222 020  PPHS1   he                       Z8m 
+0000223 010  VVZ     says                     Q2.1 
+0000223 020  NNB     Mr.                      Z1m[i105.2.1 S2.2m 
+0000223 030  NP1     Snagsby                  Z1m[i105.2.2 
+0000223 031  ,       ,                        
+0000223 040  VVG     rising                   M1 N5+/A2.1 N3.2+/A2.1 S7.1+/A2.1 N3.7+/A2.1 
+0000224 010  VVZ     says                     Q2.1 
+0000224 020  NNB     Mr.                      Z1m[i106.2.1 S2.2m 
+0000224 030  NP1     Snagsby                  Z1m[i106.2.2 
+0000225 010  VVZ     says                     Q2.1 
+0000225 020  AT      the                      Z5 
+0000225 030  NN1     constable                G2.1/S2mf 
+0000226 010  VVZ     says                     Q2.1 
+0000226 020  AT      the                      Z5 
+0000226 030  NN1     constable                G2.1/S2mf 
+0000227 010  VVZ     says                     Q2.1 
+0000227 020  AT      the                      Z5 
+0000227 030  NN1     constable                G2.1/S2mf 
+0000228 010  VVZ     says                     Q2.1 
+0000228 020  NNB     Mr.                      Z1m[i107.2.1 S2.2m 
+0000228 030  NP1     Snagsby                  Z1m[i107.2.2 
+0000229 010  VVZ     says                     Q2.1 
+0000229 020  NP1     Jo                       Z1fm 
+0000230 010  VVZ     says                     Q2.1 
+0000230 020  NP1     Chadband                 Z99 
+0000231 010  VVZ     says                     Q2.1 
+0000231 020  NNB     Mr.                      Z1m[i108.2.1 S2.2m 
+0000231 030  NP1     Jobling                  Z1m[i108.2.2 
+0000232 010  VVZ     says                     Q2.1 
+0000232 020  NNB     Mr.                      Z1m[i109.2.1 S2.2m 
+0000232 030  NP1     Guppy                    Z1m[i109.2.2 
+0000233 010  CC      and                      Z5 
+0000233 020  II      to                       Z5 
+0000233 030  DD2     those                    Z8 Z5 
+0000234 010  VVZ     says                     Q2.1 
+0000234 020  NNB     Mr.                      Z1m[i110.2.1 S2.2m 
+0000234 030  NP1     Guppy                    Z1m[i110.2.2 
+0000235 010  VVZ     pursues                  A1.1.1 X8+ X2.4 M1 
+0000235 020  NNB     Mr.                      Z1m[i111.2.1 S2.2m 
+0000235 030  NP1     Guppy                    Z1m[i111.2.2 
+0000236 010  VVZ     returns                  M1 A9- S1.1.2+ K5.1 N6+ A2.1+ 
+0000236 020  NNB     Mr.                      Z1m[i112.2.1 S2.2m 
+0000236 030  NP1     Jobling                  Z1m[i112.2.2 
+0000237 010  VVZ     pursues                  A1.1.1 X8+ X2.4 M1 
+0000237 020  NP1     Jobling                  Z99 
+0000238 010  VVZ     says                     Q2.1 
+0000238 020  NNB     Mr.                      Z1m[i113.2.1 S2.2m 
+0000238 030  NP1     Jobling                  Z1m[i113.2.2 
+0000239 010  VVZ     says                     Q2.1 
+0000239 020  NNB     Mr.                      Z1m[i114.2.1 S2.2m 
+0000239 030  NP1     Guppy                    Z1m[i114.2.2 
+0000240 010  VVZ     says                     Q2.1 
+0000240 020  NNB     Mr.                      Z1m[i115.2.1 S2.2m 
+0000240 030  NP1     Guppy                    Z1m[i115.2.2 
+0000241 010  VVZ     repeats                  N6+ Q2.1/N6+ F1/B1@ 
+0000241 020  NNB     Mr.                      Z1m[i116.2.1 S2.2m 
+0000241 030  NP1     Guppy                    Z1m[i116.2.2 
+0000242 010  VVZ     says                     Q2.1 
+0000242 020  NNB     Mr.                      Z1m[i117.2.1 S2.2m 
+0000242 030  NP1     Guppy                    Z1m[i117.2.2 
+0000243 010  VVZ     says                     Q2.1 
+0000243 020  NNB     Mr.                      Z1m[i118.2.1 S2.2m 
+0000243 030  NP1     Guppy                    Z1m[i118.2.2 
+0000244 010  VVZ     says                     Q2.1 
+0000244 020  NNB     Mr.                      Z1m[i119.2.1 S2.2m 
+0000244 030  NP1     Jobling                  Z1m[i119.2.2 
+0000245 010  CC      or                       Z5 
+0000246 010  VVZ     says                     Q2.1 
+0000246 020  NNB     Mr.                      Z1m[i120.2.1 S2.2m 
+0000246 030  NP1     Guppy                    Z1m[i120.2.2 
+0000247 010  VVZ     returns                  M1 A9- S1.1.2+ K5.1 N6+ A2.1+ 
+0000247 020  NP1     Jobling                  Z99 
+0000247 021  ,       ,                        
+0000247 030  RG      rather                   A13.5 
+0000247 040  JJ      alarmed                  E5- E6- 
+0000248 010  VVZ     says                     Q2.1 
+0000248 020  AT      the                      Z5 
+0000248 030  JJ      old                      T3+ Z4 
+0000248 040  NN1     gentleman                S2.2m 
+0000249 010  VVZ     returns                  M1 A9- S1.1.2+ K5.1 N6+ A2.1+ 
+0000249 020  NNB     Miss                     Z1f[i121.2.1 
+0000249 030  NP1     Smallweed                Z1f[i121.2.2 
+0000250 010  VVG     nodding                  M1 
+0000250 020  II      at                       Z5 
+0000250 030  APPGE   his                      Z8m 
+0000250 040  NN1     wife                     S4f 
+0000251 010  NNB     Mr.                      Z1m[i122.2.1 S2.2m 
+0000251 020  NP1     George                   Z1m[i122.2.2 Z1m 
+0000251 030  VVZ     resumes                  T2+/N6+ 
+0000252 010  VVZ     says                     Q2.1 
+0000252 020  NN1     Grandfather              S4m 
+0000252 030  NP1     Smallweed                Z99 
+0000252 040  RR      incautiously             A1.3- E6+ 
+0000253 010  VVZ     returns                  M1 A9- S1.1.2+ K5.1 N6+ A2.1+ 
+0000253 020  AT      the                      S4m[i123.3.1 S7.1/S2m[i123.3.1 Z5 
+0000253 030  JJ      old                      S4m[i123.3.2 S7.1/S2m[i123.3.2 T3+ Z4 
+0000253 040  NN1     man                      S4m[i123.3.3 S7.1/S2m[i123.3.3 S2.2m 
+0000254 010  VVZ     returns                  M1 A9- S1.1.2+ K5.1 N6+ A2.1+ 
+0000254 020  AT      the                      Z5 
+0000254 030  NN1     trooper                  G3/S2mf G2.1/S2mf 
+0000254 040  RR      coolly                   O4.6- S1.2.1- O4.2+ E6+ 
+0000255 010  VVZ     says                     Q2.1 
+0000255 020  NNB     Mr.                      Z1m[i124.2.1 S2.2m 
+0000255 030  NP1     Tulkinghorn              Z1m[i124.2.2 
+0000256 010  VVZ     returns                  M1 A9- S1.1.2+ K5.1 N6+ A2.1+ 
+0000256 020  NNB     Mr.                      Z1m[i125.2.1 S2.2m 
+0000256 030  NP1     Snagsby                  Z1m[i125.2.2 
+0000257 010  VVZ     says                     Q2.1 
+0000257 020  AT      the                      Z5 
+0000257 030  NN1     lawyer                   G2.1/I3.2/S2mf 
+0000258 010  VVZ     pursues                  A1.1.1 X8+ X2.4 M1 
+0000258 020  AT      the                      Z5 
+0000258 030  NN1     lawyer                   G2.1/I3.2/S2mf 
+0000259 010  VVZ     says                     Q2.1 
+0000259 020  NNB     Mr.                      Z1m[i126.2.1 S2.2m 
+0000259 030  NP1     Snagsby                  Z1m[i126.2.2 
+0000259 031  ,       ,                        
+0000259 040  RR@     considering              Z5 X2.1 X2.4 X6 
+0000260 010  VVZ     says                     Q2.1 
+0000260 020  NN1     Bucket                   O2 
+0000261 010  VVZ     returns                  M1 A9- S1.1.2+ K5.1 N6+ A2.1+ 
+0000261 020  NN1     Bucket                   O2 
+0000261 030  RR      sternly                  S1.2.1- 
+0000262 010  VVZ     says                     Q2.1 
+0000262 020  NNB     Mr.                      Z1m[i127.2.1 S2.2m 
+0000262 030  NP1     Bucket                   Z1m[i127.2.2 
+0000263 010  VVZ     says                     Q2.1 
+0000263 020  NNB     Mr.                      Z1m[i128.2.1 S2.2m 
+0000263 030  NP1     Bucket                   Z1m[i128.2.2 
+0000263 031  ,       ,                        
+0000263 040  VVG     returning                M1 A9- N6 
+0000264 010  VVZ     says                     Q2.1 
+0000264 020  NN1     Bucket                   O2 
+0000264 030  RR      aloud                    X3.2 
+0000265 010  VVZ     replies                  Q2.2 
+0000265 020  NP1     Jo                       Z1fm 
+0000265 021  ,       ,                        
+0000265 030  VVG     staring                  X3.4 
+0000266 010  VVZ     says                     Q2.1 
+0000266 020  NNB     Mr.                      Z1m[i129.2.1 S2.2m 
+0000266 030  NP1     Bucket                   Z1m[i129.2.2 
+0000266 040  RR      slightly                 A13.6 
+0000267 010  VVZ     returns                  M1 A9- S1.1.2+ K5.1 N6+ A2.1+ 
+0000267 020  AT      the                      Z5 
+0000267 030  NN1     stationer                Q1.2/S2mf 
+0000268 010  PPIS1   I                        Z8mf 
+0000268 020  VVD     returned                 M1 A9- N6 
+0000269 010  PPHS1   she                      Z8f 
+0000269 020  VVD     said                     Q2.1 
+0000269 021  ,       ,                        
+0000269 030  VVG     smiling                  E4.1+ 
+0000270 010  VVD     replied                  Q2.2 Q1.1 
+0000270 020  NP1     Richard                  Z1m 
+0000271 010  VVD     said                     Q2.1 
+0000271 020  NP1     Richard                  Z1m 
+0000271 021  ,       ,                        
+0000271 030  RR      strongly                 A13.3 A5.1+ 
+0000271 040  VVG     emphasizing              A11.1+ 
+0000272 010  VVD     said                     Q2.1 
+0000272 020  NP1     Richard                  Z1m 
+0000273 010  VVD     returned                 M1 A9- N6 
+0000273 020  NP1     Richard                  Z1m 
+0000274 010  VVD     said                     Q2.1 
+0000274 020  NN1     Caddy                    F2 F1 O2 F2% A7+ A1.1.1 O1.1 
+0000275 010  VVD     said                     Q2.1 
+0000275 020  PPIS1   I                        Z8mf 
+0000276 010  VVD     said                     Q2.1 
+0000276 020  NN1     Caddy                    F2 F1 O2 F2% A7+ A1.1.1 O1.1 
+0000277 010  VVD     said                     Q2.1 
+0000277 020  PPHS1   he                       Z8m 
+0000278 010  VVD     said                     Q2.1 
+0000278 020  NNB     Mr.                      Z1m[i130.2.1 S2.2m 
+0000278 030  NP1     Turveydrop               Z1m[i130.2.2 
+0000279 010  VVD     returned                 M1 A9- N6 
+0000279 020  NN1     Prince                   Z1mf Z3m 
+0000280 010  VVD     faltered                 A7- 
+0000280 020  NN1     Prince                   Z1mf Z3m 
+0000281 010  VVD     said                     Q2.1 
+0000281 020  NNB     Mr.                      Z1m[i131.2.1 S2.2m 
+0000281 030  NP1     Turveydrop               Z1m[i131.2.2 
+0000282 010  VVD     returned                 M1 A9- N6 
+0000282 020  NN1     Prince                   Z1mf Z3m 
+0000283 010  VVD     said                     Q2.1 
+0000283 020  NNB     Mr.                      Z1m[i132.2.1 S2.2m 
+0000283 030  NP1     Turveydrop               Z1m[i132.2.2 
+0000284 010  VVD     said                     Q2.1 
+0000284 020  NNB     Mr.                      Z1m[i133.2.1 S2.2m 
+0000284 030  NP1     Turveydrop               Z1m[i133.2.2 
+0000285 010  APPGE   her                      Z8f 
+0000285 020  NN1     mother                   S4f A11.1+++ 
+0000285 030  RR      mildly                   A13.6 
+0000285 040  VVD     interposed               Q2.2 
+0000286 010  PPIS1   I                        Z8mf 
+0000286 020  VVD     began                    T2+ 
+0000287 010  VVD     said                     Q2.1 
+0000287 020  PPIS1   I                        Z8mf 
+0000288 010  VVD     sobbed                   E4.1- 
+0000288 020  NN1     Caddy                    F2 F1 O2 F2% A7+ A1.1.1 O1.1 
+0000289 010  VVD     observed                 X3.4 Q2.1/X2.4 X2.1 G2.1+ 
+0000289 020  NNB     Mrs.                     Z1f[i135.2.1 Z1m[i134.2.1 
+0000289 030  NP1     Jellyby                  Z1f[i135.2.2 Z1m[i134.2.2 
+0000289 040  RR      serenely                 Z99 
+0000290 010  VVD     returned                 M1 A9- N6 
+0000290 020  NNB     Mrs.                     Z1f[i137.2.1 Z1m[i136.2.1 
+0000290 030  NP1     Jellyby                  Z1f[i137.2.2 Z1m[i136.2.2 
+0000291 010  VVD     said                     Q2.1 
+0000291 020  NNB     Mrs.                     Z1f[i139.2.1 Z1m[i138.2.1 
+0000291 030  NP1     Jellyby                  Z1f[i139.2.2 Z1m[i138.2.2 
+0000292 010  VVD     said                     Q2.1 
+0000292 020  NP1     Richard                  Z1m 
+0000293 010  VVD     said                     Q2.1 
+0000293 020  NNB     Mr.                      S2.2m 
+0000293 030  NP1     Jarndyce                 Z99 
+0000294 010  PPHS1   he                       Z8m 
+0000294 020  VVD     said                     Q2.1 
+0000295 010  VVD     said                     Q2.1 
+0000295 020  NP1     Richard                  Z1m 
+0000296 010  VVD     returned                 M1 A9- N6 
+0000296 020  NP1     Richard                  Z1m 
+0000297 010  VVD     said                     Q2.1 
+0000297 020  NNB     Mr.                      Z1m[i140.2.1 S2.2m 
+0000297 030  NP1     Jarndyce                 Z1m[i140.2.2 
+0000298 010  VVD     said                     Q2.1 
+0000298 020  NNB     Mr.                      Z1m[i141.2.1 S2.2m 
+0000298 030  NP1     Jarndyce                 Z1m[i141.2.2 
+0000299 010  VVD     said                     Q2.1 
+0000299 020  PPIS1   I                        Z8mf 
+0000299 021  ,       ,                        
+0000299 030  VVG     laughing                 E4.1+/X3.2 
+0000300 010  VVD     said                     Q2.1 
+0000300 020  NNB     Mr.                      Z1m[i142.2.1 S2.2m 
+0000300 030  NP1     George                   Z1m[i142.2.2 Z1m 
+0000301 010  PPHS1   he                       Z8m 
+0000301 020  VVD     began                    T2+ 
+0000302 010  VVD     said                     Q2.1 
+0000302 020  PPHS1   he                       Z8m 
+0000303 010  VVD     said                     Q2.1 
+0000303 020  NNB     Mr.                      Z1m[i143.2.1 S2.2m 
+0000303 030  NP1     Bucket                   Z1m[i143.2.2 
+0000304 010  VVG     pointing                 A10+ M6 H1 
+0000305 010  PPHS1   he                       Z8m 
+0000305 020  RR      slightly                 A13.6 
+0000305 030  VVN     observed                 X3.4 Q2.1/X2.4 X2.1 G2.1+ 
+0000306 010  VVD     returned                 M1 A9- N6 
+0000306 020  NP1     Gridley                  Z99 
+0000307 010  IW      with                     Z5 
+0000307 020  APPGE   his                      Z8m 
+0000307 030  JJ      fat                      N3.2+ N5+ O4.4 O4.2 
+0000307 040  NN1     smile                    E4.1+ 
+0000308 010  VVZ     says                     Q2.1 
+0000308 020  NP1     Chadband                 Z99 
+0000308 030  RR      smoothly                 X3.3 O4.5 X3.1 E3+ A5.1+ 
+0000309 010  VVZ     says                     Q2.1 
+0000309 020  NP1     Chadband                 Z99 
+0000310 010  VVZ     says                     Q2.1 
+0000310 020  NP1     Chadband                 Z99 
+0000311 010  VVZ     says                     Q2.1 
+0000311 020  NP1     Chadband                 Z99 
+0000312 010  VVZ     says                     Q2.1 
+0000312 020  NP1     Phil                     P1 
+0000313 010  VVZ     says                     Q2.1 
+0000313 020  NP1     Phil                     P1 
+0000314 010  VVZ     says                     Q2.1 
+0000314 020  NP1     Phil                     P1 
+0000315 010  VVZ     adds                     N5+/A2.1 N2 
+0000316 010  AT      the                      Z5 
+0000316 020  JJ      other                    A6.1- 
+0000316 030  NN1     bearer                   A9+/S2mf 
+0000317 010  VVZ     says                     Q2.1 
+0000317 020  NN1     Grandfather              S4m 
+0000317 030  NP1     Smallweed                Z99 
+0000318 010  VVZ     says                     Q2.1 
+0000318 020  NN1     Grandfather              S4m 
+0000318 030  NP1     Smallweed                Z99 
+0000319 010  VVZ     continues                T2++ 
+0000319 020  NNB     Mr.                      Z1m[i144.2.1 S2.2m 
+0000319 030  NP1     George                   Z1m[i144.2.2 Z1m 
+0000320 010  VVZ     returns                  M1 A9- S1.1.2+ K5.1 N6+ A2.1+ 
+0000320 020  AT      the                      S4m[i145.3.1 S7.1/S2m[i145.3.1 Z5 
+0000320 030  JJ      old                      S4m[i145.3.2 S7.1/S2m[i145.3.2 T3+ Z4 
+0000320 040  NN1     man                      S4m[i145.3.3 S7.1/S2m[i145.3.3 S2.2m 
+0000321 010  VVZ     says                     Q2.1 
+0000321 020  AT      the                      Z5 
+0000321 030  NN1     trooper                  G3/S2mf G2.1/S2mf 
+0000321 031  ,       ,                        
+0000321 040  VVG     pondering                X2.1 
+0000322 010  VVZ     returns                  M1 A9- S1.1.2+ K5.1 N6+ A2.1+ 
+0000322 020  AT      the                      Z5 
+0000322 030  NN1     trooper                  G3/S2mf G2.1/S2mf 
+0000323 010  VVZ     says                     Q2.1 
+0000323 020  NNB     Mr.                      Z1m[i146.2.1 S2.2m 
+0000323 030  NP1     George                   Z1m[i146.2.2 Z1m 
+0000324 010  VVZ     says                     Q2.1 
+0000324 020  AT      the                      Z5 
+0000324 030  NN1     trooper                  G3/S2mf G2.1/S2mf 
+0000325 010  PPHS1   she                      Z8f 
+0000325 020  VVZ     says                     Q2.1 
+0000326 010  VVZ     says                     Q2.1 
+0000326 020  AT      the                      Z5 
+0000326 030  NN1     trooper                  G3/S2mf G2.1/S2mf 
+0000327 010  VVZ     pursues                  A1.1.1 X8+ X2.4 M1 
+0000327 020  NP1     Bagnet                   Z99 
+0000328 010  VVZ     says                     Q2.1 
+0000328 020  NNB     Mr.                      Z1m[i147.2.1 S2.2m 
+0000328 030  NP1     Bagnet                   Z1m[i147.2.2 
+0000328 031  ,       ,                        
+0000328 040  VVG     acquiescing              A9- Q2.2 S7.1- 
+0000329 010  NN2     replies                  Q2.2 
+0000329 020  NP1     George                   Z1m 
+0000330 010  VVZ     says                     Q2.1 
+0000330 020  NNB     Mr.                      Z1m[i148.2.1 S2.2m 
+0000330 030  NP1     Bagnet                   Z1m[i148.2.2 
+0000331 010  VVZ     remarks                  Q2.2 
+0000331 020  APPGE   my                       Z8 
+0000331 030  NN1     Lady                     Z3c 
+0000331 040  RR      languidly                Z99 
+0000332 010  VVZ     says                     Q2.1 
+0000332 020  NNB     Sir                      Z1m[i149.2.1 
+0000332 030  NP1     Leicester                Z1m[i149.2.2 Z2 Z3c 
+0000333 010  VVZ     says                     Q2.1 
+0000333 020  NNB     Sir                      Z1m[i150.2.1 
+0000333 030  NP1     Leicester                Z1m[i150.2.2 Z2 Z3c 
+0000334 010  VVZ     returns                  M1 A9- S1.1.2+ K5.1 N6+ A2.1+ 
+0000334 020  NNB     Sir                      Z1m[i151.2.1 
+0000334 030  NP1     Leicester                Z1m[i151.2.2 Z2 Z3c 
+0000335 010  RG      Very                     A13.3 
+0000335 020  RR      properly                 A5.3+ S1.2.4+ A13.3 
+0000335 030  VVN     put                      M2 Q2.1 Q2.2 A1.1.1 
+0000336 010  VVZ     says                     Q2.1 
+0000336 020  AT      the                      Z5 
+0000336 030  JJ      young                    T3- 
+0000336 040  NN1     man                      S2.2m 
+0000337 010  VVZ     says                     Q2.1 
+0000337 020  NNB     Mr.                      Z1m[i152.2.1 S2.2m 
+0000337 030  NP1     Guppy                    Z1m[i152.2.2 
+0000338 010  VVZ     says                     Q2.1 
+0000338 020  NNB     Mr.                      Z1m[i153.2.1 S2.2m 
+0000338 030  NP1     Guppy                    Z1m[i153.2.2 
+0000339 010  VVZ     says                     Q2.1 
+0000339 020  NNB     Mr.                      Z1m[i154.2.1 S2.2m 
+0000339 030  NP1     Guppy                    Z1m[i154.2.2 
+0000340 010  VVZ     says                     Q2.1 
+0000340 020  NNB     Mr.                      Z1m[i155.2.1 S2.2m 
+0000340 030  NP1     Guppy                    Z1m[i155.2.2 
+0000341 010  VVZ     says                     Q2.1 
+0000341 020  NNB     Mr.                      Z1m[i156.2.1 S2.2m 
+0000341 030  NP1     Guppy                    Z1m[i156.2.2 
+0000342 010  VVZ     says                     Q2.1 
+0000342 020  APPGE   my                       Z8 
+0000342 030  NN1     Lady                     Z3c 
+0000343 010  VVZ     says                     Q2.1 
+0000343 020  NNB     Mr.                      Z1m[i157.2.1 S2.2m 
+0000343 030  NP1     Guppy                    Z1m[i157.2.2 
+0000344 010  PPHS1   she                      Z8f 
+0000344 020  VVD     said                     Q2.1 
+0000344 030  MC1     one                      N1 T3 T1.2 
+0000344 040  NNT1    night                    T1.3 
+0000345 010  VVD     said                     Q2.1 
+0000345 020  PPIS1   I                        Z8mf 
+0000346 010  AT      the                      Z5 
+0000346 020  JJ      old                      T3+ Z4 
+0000346 030  NN1     lady                     S2.1f S7.1+/S2.1f 
+0000346 040  VVD     retorted                 Q2.2 
+0000347 010  PPHS1   she                      Z8f 
+0000347 020  VVD     returned                 M1 A9- N6 
+0000348 010  JJ%     said                     Q1.1 Q2.1 
+0000348 020  NN1     Caddy                    F2 F1 O2 F2% A7+ A1.1.1 O1.1 
+0000349 010  VVD     said                     Q2.1 
+0000349 020  NN1     Caddy                    F2 F1 O2 F2% A7+ A1.1.1 O1.1 
+0000350 010  VVD     said                     Q2.1 
+0000350 020  NN1     Caddy                    F2 F1 O2 F2% A7+ A1.1.1 O1.1 
+0000351 010  VVD     said                     Q2.1 
+0000351 020  NNB     Mrs.                     Z1f[i159.2.1 Z1m[i158.2.1 
+0000351 030  NP1     Jellyby                  Z1f[i159.2.2 Z1m[i158.2.2 
+0000352 010  NNB     Mrs.                     Z1f[i161.2.1 Z1m[i160.2.1 
+0000352 020  NP1     Jellyby                  Z1f[i161.2.2 Z1m[i160.2.2 
+0000352 030  VVD     replied                  Q2.2 Q1.1 
+0000353 010  VVD     said                     Q2.1 
+0000353 020  NNB     Mr.                      Z1m[i162.2.1 S2.2m 
+0000353 030  NP1     Turveydrop               Z1m[i162.2.2 
+0000354 010  VVD     returned                 M1 A9- N6 
+0000354 020  NNB     Mrs.                     Z1f[i164.2.1 Z1m[i163.2.1 
+0000354 030  NP1     Jellyby                  Z1f[i164.2.2 Z1m[i163.2.2 
+0000355 010  VVD     said                     Q2.1 
+0000355 020  NNB     Mr.                      Z1m[i165.2.1 S2.2m 
+0000355 030  NP1     Turveydrop               Z1m[i165.2.2 
+0000356 010  VVD     returned                 M1 A9- N6 
+0000356 020  NNB     Mr.                      Z1m[i166.2.1 S2.2m 
+0000356 030  NP1     Turveydrop               Z1m[i166.2.2 
+0000357 010  VVD     said                     Q2.1 
+0000357 020  NNB     Mr.                      Z1m[i167.2.1 S2.2m 
+0000357 030  NP1     Turveydrop               Z1m[i167.2.2 
+0000358 010  VVD     returned                 M1 A9- N6 
+0000358 020  NP1     Charley                  S1.2.6-/S2mf 
+0000359 010  VVD     said                     Q2.1 
+0000359 020  PPIS1   I                        Z8mf 
+0000360 010  VVD     muttered                 Q2.2/X3.2- 
+0000360 020  AT      the                      Z5 
+0000360 030  NN1     boy                      S2.2m L2m@ 
+0000361 010  CC      and                      Z5 
+0000361 020  VVD     said                     Q2.1 
+0000361 030  II      to                       Z5 
+0000361 040  PPHO1   him                      Z8m 
+0000362 010  PPHS1   he                       Z8m 
+0000362 020  VVD     said                     Q2.1 
+0000363 010  VVD     said                     Q2.1 
+0000363 020  NNB     Mr.                      Z1m[i168.2.1 S2.2m 
+0000363 030  NP1     Skimpole                 Z1m[i168.2.2 
+0000364 010  VVD     returned                 M1 A9- N6 
+0000364 020  NNB     Mr.                      Z1m[i169.2.1 S2.2m 
+0000364 030  NP1     Skimpole                 Z1m[i169.2.2 
+0000365 010  PPIS1   I                        Z8mf 
+0000365 020  VVD     ventured                 M1 X8+ A15- Q2.2 
+0000365 030  TO      to                       Z5 
+0000365 040  VVI     observe                  X3.4 Q2.1/X2.4 X2.1 G2.1+ 
+0000366 010  VVD     said                     Q2.1 
+0000366 020  NNB     Mr.                      Z1m[i170.2.1 S2.2m 
+0000366 030  NP1     Skimpole                 Z1m[i170.2.2 
+0000366 040  RR      cheerfully               E4.1+ 
+0000367 010  VVD     said                     Q2.1 
+0000367 020  PPIS1   I                        Z8mf 
+0000368 010  VVZ     says                     Q2.1 
+0000368 020  NNB     Mrs.                     Z1f[i172.2.1 Z1m[i171.2.1 
+0000368 030  NP1     Perkins                  Z1f[i172.2.2 Z1 Z1m[i171.2.2 
+0000369 010  VVZ     says                     Q2.1 
+0000369 020  NP1     Weevle                   Z99 
+0000370 010  VVZ     says                     Q2.1 
+0000370 020  NNB     Mr.                      Z1m[i173.2.1 S2.2m 
+0000370 030  NP1     Snagsby                  Z1m[i173.2.2 
+0000371 010  VVZ     replies                  Q2.2 
+0000371 020  AT      the                      Z5 
+0000371 030  NN1@    other                    A6.1-/Z8 
+0000372 010  VVZ     says                     Q2.1 
+0000372 020  NNB     Mr.                      Z1m[i174.2.1 S2.2m 
+0000372 030  NP1     Guppy                    Z1m[i174.2.2 
+0000373 010  VVZ     says                     Q2.1 
+0000373 020  PPHS1   he                       Z8m 
+0000374 010  VVZ     retorts                  Q2.2 
+0000374 020  NNB     Mr.                      Z1m[i175.2.1 S2.2m 
+0000374 030  NP1     William                  Z1m[i175.2.2 Z1m 
+0000374 040  NN1     Guppy                    W2/W4 O4.3 L2mfnc F1 K5.1/L2 F4/M4 X2.4 
+0000375 010  VVZ     says                     Q2.1 
+0000375 020  DD1     that                     Z5 Z8 
+0000375 030  NN1     gentleman                S2.2m 
+0000376 010  VVZ     remonstrates             Q2.2 
+0000376 020  APPGE   his                      Z8m 
+0000376 030  NN1     friend                   S3.1/S2mf 
+0000377 010  PPHS1   he                       Z8m 
+0000377 020  VVZ     says                     Q2.1 
+0000378 010  VVZ     says                     Q2.1 
+0000378 020  NNB     Mr.                      Z1m[i176.2.1 S2.2m 
+0000378 030  NP1     Bogsby                   Z1m[i176.2.2 
+0000379 010  VVZ     says                     Q2.1 
+0000379 020  NNB     Mrs.                     Z1f[i178.2.1 Z1m[i177.2.1 
+0000379 030  NP1     Snagsby                  Z1f[i178.2.2 Z1m[i177.2.2 
+0000380 010  VVZ     says                     Q2.1 
+0000380 020  AT      the                      Z5 
+0000380 030  JJ      unhappy                  E4.1- E2- A1.4- 
+0000380 040  NN1     stationer                Q1.2/S2mf 
+0000381 010  VVZ     says                     Q2.1 
+0000381 020  NNB     Mr.                      Z1m[i179.2.1 S2.2m 
+0000381 030  NP1     Guppy                    Z1m[i179.2.2 
+0000381 040  RT      then                     N4 Z5 T1.2 
+0000382 010  VVZ     returns                  M1 A9- S1.1.2+ K5.1 N6+ A2.1+ 
+0000382 020  APPGE   his                      Z8m 
+0000382 030  NN1     friend                   S3.1/S2mf 
+0000383 010  VVZ     rejoins                  S5+/N6+ A1.8+/N6+ 
+0000383 020  APPGE   his                      Z8m 
+0000383 030  NN1     friend                   S3.1/S2mf 
+0000384 010  VVZ     says                     Q2.1 
+0000384 020  NNB     Mr.                      Z1m[i180.2.1 S2.2m 
+0000384 030  NP1     Guppy                    Z1m[i180.2.2 
+0000385 010  VVZ     cries                    E4.1- Q2.2 
+0000385 020  NN1     Grandfather              S4m 
+0000385 030  NP1     Smallweed                Z99 
+0000386 010  VVD     observed                 X3.4 Q2.1/X2.4 X2.1 G2.1+ 
+0000386 020  NP1     Small                    N3.2- N3.7- N5- T3- A11.1- S5-/I2.1 X3.2- A5.1- 
+0000387 010  VVZ     says                     Q2.1 
+0000387 020  NNB     Mr.                      Z1m[i181.2.1 S2.2m 
+0000387 030  NP1     George                   Z1m[i181.2.2 Z1m 
+0000388 010  NNB     Mr.                      Z1m[i182.2.1 S2.2m 
+0000388 020  NP1     George                   Z1m[i182.2.2 Z1m 
+0000388 030  JJ@     still                    M8 E3+ O4.5 
+0000388 040  NN2     muses                    X2.1 
+0000389 010  VVZ     says                     Q2.1 
+0000389 020  PPHS1   she                      Z8f 
+0000390 010  VVD     said                     Q2.1 
+0000390 020  NNB     Mrs.                     Z1f[i184.2.1 Z1m[i183.2.1 
+0000390 030  NP1     Bagnet                   Z1f[i184.2.2 Z1m[i183.2.2 
+0000390 040  RR      briskly                  N3.8+ 
+0000391 010  VVZ     returns                  M1 A9- S1.1.2+ K5.1 N6+ A2.1+ 
+0000391 020  AT      the                      Z5 
+0000391 030  NN1     trooper                  G3/S2mf G2.1/S2mf 
+0000392 010  VVZ     says                     Q2.1 
+0000392 020  CST     that                     Z5 Z8 
+0000392 030  JJ      old                      T3+ Z4 
+0000392 040  NN1     girl                     S2.1f L2f@ 
+0000393 010  DDQ     which                    Z8 Z5 
+0000393 020  PPHS1   he                       Z8m 
+0000393 030  VVZ     reads                    Q3 Q1.2 X3.2+ X2.5+ P1 A10+ 
+0000393 040  RR      aloud                    X3.2 
+0000394 010  VVZ     says                     Q2.1 
+0000394 020  NNB     Mr.                      Z1m[i185.2.1 S2.2m 
+0000394 030  NP1     Bagnet                   Z1m[i185.2.2 
+0000395 010  VVZ     murmurs                  Q2.2/X3.2- X3.2- 
+0000395 020  NNB     Mr.                      Z1m[i186.2.1 S2.2m 
+0000395 030  NP1     Bagnet                   Z1m[i186.2.2 
+0000396 010  VVZ     says                     Q2.1 
+0000396 020  AT      the                      Z5 
+0000396 030  JJ      old                      T3+ Z4 
+0000396 040  NN1     girl                     S2.1f L2f@ 
+0000397 010  VVZ     says                     Q2.1 
+0000397 020  NNB     Mr.                      Z1m[i187.2.1 S2.2m 
+0000397 030  NP1     Bagnet                   Z1m[i187.2.2 
+0000398 010  VVZ     says                     Q2.1 
+0000398 020  NNB     Mr.                      Z1m[i188.2.1 S2.2m 
+0000398 030  NP1     Bagnet                   Z1m[i188.2.2 
+0000399 010  VVZ     returns                  M1 A9- S1.1.2+ K5.1 N6+ A2.1+ 
+0000399 020  AT      the                      Z5 
+0000399 030  NN1     trooper                  G3/S2mf G2.1/S2mf 
+0000400 010  VVZ     says                     Q2.1 
+0000400 020  NNB     Mr.                      Z1m[i189.2.1 S2.2m 
+0000400 030  NP1     Smallweed                Z1m[i189.2.2 
+0000401 010  NNB     Mr.                      Z1m[i190.2.1 S2.2m 
+0000401 020  NP1     George                   Z1m[i190.2.2 Z1m 
+0000401 030  VVZ     interposes               Q2.2 
+0000402 010  NN2     proceeds                 I1.1 
+0000402 020  NP1     George                   Z1m 
+0000403 010  VVZ     says                     Q2.1 
+0000403 020  NNB     Mr.                      Z1m[i191.2.1 S2.2m 
+0000403 030  NP1     George                   Z1m[i191.2.2 Z1m 
+0000404 010  VVZ     says                     Q2.1 
+0000404 020  NNB     Mr.                      Z1m[i192.2.1 S2.2m 
+0000404 030  NP1     George                   Z1m[i192.2.2 Z1m 
+0000405 010  IW      with                     Z5 
+0000405 020  AT1     a                        Z5 
+0000405 030  NN1     sigh                     Q2.2/X3.2 
+0000406 010  VVZ     pursues                  A1.1.1 X8+ X2.4 M1 
+0000406 020  AT      the                      Z5 
+0000406 030  NN1     trooper                  G3/S2mf G2.1/S2mf 
+0000407 010  VVD     said                     Q2.1 
+0000407 020  PPIS1   I                        Z8mf 
+0000407 021  ,       ,                        
+0000407 030  VVG     looking                  X3.4[i193.2.1 X2.4[i193.2.1 A8 X3.4 X2.4 X7+ Z4 
+0000407 040  RP      round                    X3.4[i193.2.2 X2.4[i193.2.2 M6 
+0000408 010  VVD     said                     Q2.1 
+0000408 020  PPIS1   I                        Z8mf 
+0000409 010  VVD     said                     Q2.1 
+0000409 020  PPHS1   he                       Z8m 
+0000410 010  VVD     returned                 M1 A9- N6 
+0000410 020  APPGE   my                       Z8 
+0000410 030  NN1     guardian                 S7.1+/S2mf S4/S2mf S8+/A15+/S2mf 
+0000411 010  PPIS1   I                        Z8mf 
+0000411 020  VVD     asked                    Q2.2 
+0000411 021  ,       ,                        
+0000411 030  VVD@    amazed                   X2.6- 
+0000412 010  PPHS1   he                       Z8m 
+0000412 020  VVD     said                     Q2.1 
+0000413 010  PPHS1   he                       Z8m 
+0000413 020  RR      cheerfully               E4.1+ 
+0000413 030  VVD     replied                  Q2.2 Q1.1 
+0000414 010  VVD     said                     Q2.1 
+0000414 020  NNB     Mr.                      Z1m[i194.2.1 S2.2m 
+0000414 030  NP1     Jarndyce                 Z1m[i194.2.2 
+0000415 010  VVD     said                     Q2.1 
+0000415 020  APPGE   my                       Z8 
+0000415 030  NN1     guardian                 S7.1+/S2mf S4/S2mf S8+/A15+/S2mf 
+0000416 010  VVD     said                     Q2.1 
+0000416 020  PPIS1   I                        Z8mf 
+0000417 010  VVD     said                     Q2.1 
+0000417 020  APPGE   my                       Z8 
+0000417 030  NN1     guardian                 S7.1+/S2mf S4/S2mf S8+/A15+/S2mf 
+0000418 010  VVD     said                     Q2.1 
+0000418 020  APPGE   my                       Z8 
+0000418 030  NN1     guardian                 S7.1+/S2mf S4/S2mf S8+/A15+/S2mf 
+0000419 010  VVD     said                     Q2.1 
+0000419 020  NNB     Miss                     Z1f[i195.2.1 
+0000419 030  NP1     Flite                    Z1f[i195.2.2 
+0000420 010  VVD     said                     Q2.1 
+0000420 020  NP1     Charley                  S1.2.6-/S2mf 
+0000421 010  VVD     said                     Q2.1 
+0000421 020  MC1%    I                        Z8 
+0000422 010  PPHS1   she                      Z8f 
+0000422 020  VVD     answered                 Q2.2 S1.1.1 
+0000422 030  RR      promptly                 N3.8+ 
+0000423 010  VVG     speaking                 Q2.1 
+0000423 020  JJ      low                      N3.7- N5- A5.1- A11.1- E4.1- X3.2- G2.2- S7.1- 
+0000423 030  RT      again                    N6+ Z4 
+0000424 010  VVD     said                     Q2.1 
+0000424 020  MC1%    I                        Z8 
+0000425 010  PPHS1   she                      Z8f 
+0000425 020  VVD     returned                 M1 A9- N6 
+0000426 010  VVD     said                     Q2.1 
+0000426 020  NNB     Miss                     Z1f[i196.2.1 
+0000426 030  NP1     Flite                    Z1f[i196.2.2 
+0000427 010  VVD     said                     Q2.1 
+0000427 020  PPIS1   I                        Z8mf 
+0000428 010  VVD     groaned                  X3.2 Q2.2 
+0000428 020  APPGE   my                       Z8 
+0000428 030  NN1     mother                   S4f A11.1+++ 
+0000429 010  VVD     said                     Q2.1 
+0000429 020  PPIS1   I                        Z8mf 
+0000430 010  VVD     said                     Q2.1 
+0000430 020  PPIS1   I                        Z8mf 
+0000431 010  VVD     said                     Q2.1 
+0000431 020  NP1     Richard                  Z1m 
+0000432 010  VVD     said                     Q2.1 
+0000432 020  NP1     Richard                  Z1m 
+0000433 010  VVD     said                     Q2.1 
+0000433 020  NP1     Richard                  Z1m 
+0000434 010  PPIS1   I                        Z8mf 
+0000434 020  VVD     returned                 M1 A9- N6 
+0000435 010  VVD     said                     Q2.1 
+0000435 020  NNB     Mr.                      Z1m[i198.2.1 S2.2m Z1m[i197.2.1 
+0000435 030  NP1     Skimpole                 Z1m[i198.2.2 Z1m[i197.2.2 
+0000436 010  VVD     said                     Q2.1 
+0000436 020  NP1     Richard                  Z1m 
+0000437 010  VVD     said                     Q2.1 
+0000437 020  NP1     Richard                  Z1m 
+0000438 010  VVD     said                     Q2.1 
+0000438 020  MC1%    I                        Z8 
+0000439 010  PPIS1   I                        Z8mf 
+0000439 020  VVD     remonstrated             Q2.2 
+0000440 010  VVD     retorted                 Q2.2 
+0000440 020  NP1     Richard                  Z1m 
+0000441 010  VVD     said                     Q2.1 
+0000441 020  MC1%    I                        Z8 
+0000442 010  NP1     Richard                  Z1m 
+0000442 020  VVD     resumed                  T2+/N6+ 
+0000443 010  VVD     said                     Q2.1 
+0000443 020  PPIS1   I                        Z8mf 
+0000444 010  VVD     pursued                  A1.1.1 X8+ X2.4 M1 
+0000444 020  NP1     Richard                  Z1m 
+0000444 030  RR      impetuously              A1.3- 
+0000445 010  VVD     said                     Q2.1 
+0000445 020  NP1     Richard                  Z1m 
+0000446 010  VVD     acknowledged             Q2.2 
+0000446 020  NP1     Richard                  Z1m 
+0000447 010  VVD     said                     Q2.1 
+0000447 020  MC1%    I                        Z8 
+0000448 010  PPHS1   he                       Z8m 
+0000448 020  VVD     resumed                  T2+/N6+ 
+0000449 010  PPHS1   he                       Z8m 
+0000449 020  VVD     retorted                 Q2.2 
+0000450 010  VVD     returned                 M1 A9- N6 
+0000450 020  NNB     Mr.                      Z1m[i199.2.1 S2.2m 
+0000450 030  NP1     Skimpole                 Z1m[i199.2.2 
+0000451 010  VVD     said                     Q2.1 
+0000451 020  NNB     Mr.                      Z1m[i200.2.1 S2.2m 
+0000451 030  NP1     Vholes                   Z1m[i200.2.2 
+0000452 010  VVD     said                     Q2.1 
+0000452 020  PPHS1   he                       Z8m 
+0000453 010  VVD     said                     Q2.1 
+0000453 020  PPIS1   I                        Z8mf 
+0000454 010  VVD     replied                  Q2.2 Q1.1 
+0000454 020  NN1     Caddy                    F2 F1 O2 F2% A7+ A1.1.1 O1.1 
+0000455 010  VVD     returned                 M1 A9- N6 
+0000455 020  NN1     Caddy                    F2 F1 O2 F2% A7+ A1.1.1 O1.1 
+0000456 010  VVD     said                     Q2.1 
+0000456 020  PPIS1   I                        Z8mf 
+0000457 010  VVD     returned                 M1 A9- N6 
+0000457 020  NN1     Caddy                    F2 F1 O2 F2% A7+ A1.1.1 O1.1 
+0000458 010  VVD     returned                 M1 A9- N6 
+0000458 020  NN1     Caddy                    F2 F1 O2 F2% A7+ A1.1.1 O1.1 
+0000458 021  ,       ,                        
+0000458 030  VVG     smiling                  E4.1+ 
+0000459 010  JJ%     said                     Q1.1 Q2.1 
+0000459 020  NN1     Caddy                    F2 F1 O2 F2% A7+ A1.1.1 O1.1 
+0000459 021  ,       ,                        
+0000459 030  JJ      delighted                E4.1+ 
+0000460 010  JJ%     said                     Q1.1 Q2.1 
+0000460 020  NN1     Caddy                    F2 F1 O2 F2% A7+ A1.1.1 O1.1 
+0000461 010  VVD     said                     Q2.1 
+0000461 020  NN1     Caddy                    F2 F1 O2 F2% A7+ A1.1.1 O1.1 
+0000462 010  VVD     said                     Q2.1 
+0000462 020  NN1     Caddy                    F2 F1 O2 F2% A7+ A1.1.1 O1.1 
+0000463 010  VVD     said                     Q2.1 
+0000463 020  NN1     Caddy                    F2 F1 O2 F2% A7+ A1.1.1 O1.1 
+0000463 030  RR      cheerily                 O4.2+ 
+0000464 010  VVD     said                     Q2.1 
+0000464 020  PPIS1   I                        Z8mf 
+0000465 010  VVD     said                     Q2.1 
+0000465 020  NNB     Mr.                      Z1m[i201.2.1 S2.2m 
+0000465 030  NP1     Guppy                    Z1m[i201.2.2 
+0000465 031  ,       ,                        
+0000465 040  VVG     rising                   M1 N5+/A2.1 N3.2+/A2.1 S7.1+/A2.1 N3.7+/A2.1 
+0000466 010  VVD     said                     Q2.1 
+0000466 020  NNB     Mr.                      Z1m[i202.2.1 S2.2m 
+0000466 030  NP1     Guppy                    Z1m[i202.2.2 
+0000467 010  VVD     said                     Q2.1 
+0000467 020  PPIS1   I                        Z8mf 
+0000468 010  VVD     stammered                Q2.2/B2- 
+0000468 020  NNB     Mr.                      Z1m[i203.2.1 S2.2m 
+0000468 030  NP1     Guppy                    Z1m[i203.2.2 
+0000469 010  PPHS1   he                       Z8m 
+0000469 020  VVD     explained                Q2.2/A7+ A2.2 
+0000470 010  VVD     said                     Q2.1 
+0000470 020  NNB     Mr.                      Z1m[i204.2.1 S2.2m 
+0000470 030  NP1     Guppy                    Z1m[i204.2.2 
+0000471 010  VVD     said                     Q2.1 
+0000471 020  PPIS1   I                        Z8mf 
+0000472 010  VVD     said                     Q2.1 
+0000472 020  NNB     Mr.                      Z1m[i205.2.1 S2.2m 
+0000472 030  NP1     Guppy                    Z1m[i205.2.2 
+0000473 010  PPIS1   I                        Z8mf 
+0000473 020  VVD     recommenced              T2+ S7.1+ O2/L2 O3 S8+ O1.1 K4/S2mf A2.2 M2 A1.1.1 Z5 E2- O4.2- A5.1- G2.2- B2- K1 A1.9 M6 E5- E3- A9+ X9.2+ A2.1+ M1 X2.5+ E4.1- N4 N5-- S7.1- N3.1 Q1.2 L2 Z1mf F1/B1 K5.1 S3.2 X6+ O4.5 N5 N2 K4 O4.1 S5+c K5.1% W4 B3 B4 S6+ K2 Q4.3 A13.4 
+0000474 010  VVD     said                     Q2.1 
+0000474 020  NNB     Mr.                      Z1m[i206.2.1 S2.2m 
+0000474 030  NP1     Guppy                    Z1m[i206.2.2 
+0000475 010  VVD     said                     Q2.1 
+0000475 020  PPIS1   I                        Z8mf 
+0000476 010  VVD     said                     Q2.1 
+0000476 020  PPIS1   I                        Z8mf 
+0000477 010  VVZ     returns                  M1 A9- S1.1.2+ K5.1 N6+ A2.1+ 
+0000477 020  NP1     Vholes                   Z99 
+0000478 010  VVZ     says                     Q2.1 
+0000478 020  NNB     Mr.                      Z1m[i207.2.1 S2.2m 
+0000478 030  NP1     Vholes                   Z1m[i207.2.2 
+0000479 010  VVZ     returns                  M1 A9- S1.1.2+ K5.1 N6+ A2.1+ 
+0000479 020  NP1     Vholes                   Z99 
+0000480 010  VVZ     says                     Q2.1 
+0000480 020  NNB     Mr.                      Z1m[i208.2.1 S2.2m 
+0000480 030  NP1     Guppy                    Z1m[i208.2.2 
+0000481 010  VVZ     says                     Q2.1 
+0000481 020  NNB     Mr.                      Z1m[i209.2.1 S2.2m 
+0000481 030  NP1     Tulkinghorn              Z1m[i209.2.2 
+0000482 010  PPHS1   he                       Z8m 
+0000482 020  VVZ     returns                  M1 A9- S1.1.2+ K5.1 N6+ A2.1+ 
+0000482 021  ,       ,                        
+0000482 030  VVG     reddening                O4.3 
+0000483 010  VVZ     returns                  M1 A9- S1.1.2+ K5.1 N6+ A2.1+ 
+0000483 020  NNB     Sir                      Z1m[i210.2.1 
+0000483 030  NP1     Leicester                Z1m[i210.2.2 Z2 Z3c 
+0000484 010  PPHS1   she                      Z8f 
+0000484 020  VVZ     adds                     N5+/A2.1 N2 
+0000485 010  VVZ     says                     Q2.1 
+0000485 020  NNB     Sir                      Z1m[i211.2.1 
+0000485 030  NP1     Leicester                Z1m[i211.2.2 Z2 Z3c 
+0000486 010  VVZ     says                     Q2.1 
+0000486 020  NNB     Sir                      Z1m[i212.2.1 
+0000486 030  NP1     Leicester                Z1m[i212.2.2 Z2 Z3c 
+0000487 010  VVZ     says                     Q2.1 
+0000487 020  NNB     Sir                      Z1m[i213.2.1 
+0000487 030  NP1     Leicester                Z1m[i213.2.2 Z2 Z3c 
+0000488 010  VVZ     observes                 X3.4 Q2.1/X2.4 X2.1 G2.1+ 
+0000488 020  NNB     Sir                      Z1m[i214.2.1 
+0000488 030  NP1     Leicester                Z1m[i214.2.2 Z2 Z3c 
+0000489 010  VVZ     says                     Q2.1 
+0000489 020  NNB     Mr.                      Z1m[i215.2.1 S2.2m 
+0000489 030  NP1     Tulkinghorn              Z1m[i215.2.2 
+0000490 010  VVZ     returns                  M1 A9- S1.1.2+ K5.1 N6+ A2.1+ 
+0000490 020  AT      the                      Z5 
+0000490 030  NN1     lawyer                   G2.1/I3.2/S2mf 
+0000491 010  NNB     Mr.                      Z1m[i216.2.1 S2.2m 
+0000491 020  NP1     Tulkinghorn              Z1m[i216.2.2 
+0000491 030  VVZ     replies                  Q2.2 
+0000492 010  NNB     Lady                     Z1mf[i217.2.1 Z3c[i217.2.1 Z3c 
+0000492 020  NP1     Dedlock                  Z1mf[i217.2.2 Z3c[i217.2.2 
+0000492 030  RR      presently                T1.1.3 T1.1.2 
+0000492 040  VVZ     proceeds                 A1.1.1 T2++ M1 
+0000493 010  PPHS1   he                       Z8m 
+0000493 020  VVZ     continues                T2++ 
+0000494 010  NN2     demands                  Q2.2 S6+ X7+ 
+0000494 020  NNB     Mr.                      Z1m[i218.2.1 S2.2m 
+0000494 030  NP1     Tulkinghorn              Z1m[i218.2.2 
+0000495 010  VVZ     returns                  M1 A9- S1.1.2+ K5.1 N6+ A2.1+ 
+0000495 020  NNB     Mr.                      Z1m[i219.2.1 S2.2m 
+0000495 030  NP1     Snagsby                  Z1m[i219.2.2 
+0000496 010  NNB     Mr.                      Z1m[i220.2.1 S2.2m 
+0000496 020  NP1     Snagsby                  Z1m[i220.2.2 
+0000496 030  VVZ     pleads                   Q2.2 G2.1/Q2.2 
+0000497 010  PPHS1   he                       Z8m 
+0000497 020  RR      composedly               Z99 
+0000497 030  VVZ     observes                 X3.4 Q2.1/X2.4 X2.1 G2.1+ 
+0000498 010  VVZ     says                     Q2.1 
+0000498 020  NNB     Mr.                      Z1m[i221.2.1 S2.2m 
+0000498 030  NP1     Tulkinghorn              Z1m[i221.2.2 
+0000499 010  VVZ     says                     Q2.1 
+0000499 020  NNB     Mr.                      Z1m[i222.2.1 S2.2m 
+0000499 030  NP1     Tulkinghorn              Z1m[i222.2.2 
+0000500 010  PPHS1   she                      Z8f 
+0000500 020  VVZ     answers                  Q2.2 S1.1.1 
+0000501 010  VVN     returned                 M1 A9- N6 
+0000501 020  APPGE   my                       Z8 
+0000501 030  NN1     guardian                 S7.1+/S2mf S4/S2mf S8+/A15+/S2mf 
+0000501 031  ,       ,                        
+0000501 040  VVG     laughing                 E4.1+/X3.2 
+0000502 010  PPHS1   he                       Z8m 
+0000502 020  VVD     began                    T2+ 
+0000503 010  VVD     returned                 M1 A9- N6 
+0000503 020  NNB     Mr.                      Z1m[i223.2.1 S2.2m 
+0000503 030  NP1     Jarndyce                 Z1m[i223.2.2 
+0000504 010  VVD     said                     Q2.1 
+0000504 020  APPGE   my                       Z8 
+0000504 030  NN1     guardian                 S7.1+/S2mf S4/S2mf S8+/A15+/S2mf 
+0000504 040  RR      plainly                  A11.2+ A12+ 
+0000505 010  VVD     returned                 M1 A9- N6 
+0000505 020  NNB     Mr.                      Z1m[i224.2.1 S2.2m 
+0000505 030  NP1     Skimpole                 Z1m[i224.2.2 
+0000506 010  VVD     returned                 M1 A9- N6 
+0000506 020  NNB     Mr.                      Z1m[i225.2.1 S2.2m 
+0000506 030  NP1     Skimpole                 Z1m[i225.2.2 
+0000507 010  VVD     said                     Q2.1 
+0000507 020  NNB     Mr.                      Z1m[i226.2.1 S2.2m 
+0000507 030  NP1     Skimpole                 Z1m[i226.2.2 
+0000508 010  VVD     said                     Q2.1 
+0000508 020  NNB     Mr.                      Z1m[i227.2.1 S2.2m 
+0000508 030  NP1     Skimpole                 Z1m[i227.2.2 
+0000509 010  VVD     said                     Q2.1 
+0000509 020  NNB     Mr.                      Z1m[i228.2.1 S2.2m 
+0000509 030  NP1     Skimpole                 Z1m[i228.2.2 
+0000510 010  VVD     said                     Q2.1 
+0000510 020  NNB     Mr.                      Z1m[i230.2.1 S2.2m Z1m[i229.2.1 
+0000510 030  NP1     Skimpole                 Z1m[i230.2.2 Z1m[i229.2.2 
+0000511 010  PPHS1   he                       Z8m 
+0000511 020  VVD     explained                Q2.2/A7+ A2.2 
+0000511 030  II      to                       Z5 
+0000511 040  PPIO2   us                       Z8 
+0000512 010  VVD     said                     Q2.1 
+0000512 020  NNB     Mr.                      Z1m[i231.2.1 S2.2m 
+0000512 030  NP1     Skimpole                 Z1m[i231.2.2 
+0000513 010  VVD     exclaimed                Q2.2 
+0000513 020  NNB     Sir                      Z1m[i232.2.1 
+0000513 030  NP1     Leicester                Z1m[i232.2.2 Z2 Z3c 
+0000514 010  VVD     said                     Q2.1 
+0000514 020  NNB     Sir                      Z1m[i233.2.1 
+0000514 030  NP1     Leicester                Z1m[i233.2.2 Z2 Z3c 
+0000514 031  ,       ,                        
+0000514 040  VVG     rising                   M1 N5+/A2.1 N3.2+/A2.1 S7.1+/A2.1 N3.7+/A2.1 
+0000515 010  VVD     said                     Q2.1 
+0000515 020  PPHS1   he                       Z8m 
+0000516 010  VVD     said                     Q2.1 
+0000516 020  PPIS1   I                        Z8mf 
+0000517 010  VVD     said                     Q2.1 
+0000517 020  PPIS1   I                        Z8mf 
+0000518 010  VVD     said                     Q2.1 
+0000518 020  PPHS1   he                       Z8m 
+0000519 010  VVD     said                     Q2.1 
+0000519 020  APPGE   my                       Z8 
+0000519 030  NN1     guardian                 S7.1+/S2mf S4/S2mf S8+/A15+/S2mf 
+0000520 010  VVD     returned                 M1 A9- N6 
+0000520 020  APPGE   my                       Z8 
+0000520 030  NN1     guardian                 S7.1+/S2mf S4/S2mf S8+/A15+/S2mf 
+0000521 010  VVD     said                     Q2.1 
+0000521 020  PPHS1   he                       Z8m 
+0000522 010  VVD     said                     Q2.1 
+0000522 020  PPIS1   I                        Z8mf 
+0000523 010  VVD     said                     Q2.1 
+0000523 020  APPGE   my                       Z8 
+0000523 030  NN1     guardian                 S7.1+/S2mf S4/S2mf S8+/A15+/S2mf 
+0000524 010  VVD     said                     Q2.1 
+0000524 020  NNB     Mr.                      Z1m[i234.2.1 S2.2m 
+0000524 030  NP1     Jarndyce                 Z1m[i234.2.2 
+0000525 010  VVD     returned                 M1 A9- N6 
+0000525 020  APPGE   my                       Z8 
+0000525 030  NN1     guardian                 S7.1+/S2mf S4/S2mf S8+/A15+/S2mf 
+0000525 040  RR      bitterly                 A13.3 E3- 
+0000526 010  VVD     said                     Q2.1 
+0000526 020  PPHS1   he                       Z8m 
+0000527 010  PPIS1   I                        Z8mf 
+0000527 020  VVD     urged                    Q2.2 
+0000528 010  PPHS1   he                       Z8m 
+0000528 020  VVD     returned                 M1 A9- N6 
+0000529 010  VVD     said                     Q2.1 
+0000529 020  PPIS1   I                        Z8mf 
+0000530 010  VVD     said                     Q2.1 
+0000530 020  PPIS1   I                        Z8mf 
+0000531 010  VVD     said                     Q2.1 
+0000531 020  PPIS1   I                        Z8mf 
+0000532 010  VVD     said                     Q2.1 
+0000532 020  PPIS1   I                        Z8mf 
+0000533 010  VVD     said                     Q2.1 
+0000533 020  NNB     Mr.                      Z1m[i235.2.1 S2.2m 
+0000533 030  NP1     Woodcourt                Z1m[i235.2.2 
+0000534 010  PPHS1   she                      Z8f 
+0000534 020  VVZ     says                     Q2.1 
+0000535 010  VVZ     returns                  M1 A9- S1.1.2+ K5.1 N6+ A2.1+ 
+0000535 020  AT      the                      Z5 
+0000535 030  NN1@    other                    A6.1-/Z8 
+0000536 010  VVD     replied                  Q2.2 Q1.1 
+0000536 020  NP1     Jo                       Z1fm 
+0000536 021  ,       ,                        
+0000536 030  VVG     whispering               Q2.1 X3.2 
+0000537 010  PPHS1   he                       Z8m 
+0000537 020  VVZ     considers                X2.1 X2.4 X6 
+0000538 010  VVZ     says                     Q2.1 
+0000538 020  NP1     Jo                       Z1fm 
+0000539 010  CCB     but                      Z5 
+0000539 020  PPHS1   he                       Z8m 
+0000539 030  RR      only                     A14 
+0000539 040  VVZ     mutters                  Q2.2/X3.2- 
+0000540 010  NN2     returns                  M1 A9- S1.1.2+ N6+ I1.1 G1.1/Q1.2 M3 G1.2 K5.1 
+0000540 020  NP1     Allan                    Z1m 
+0000541 010  VVZ     says                     Q2.1 
+0000541 020  NNB     Mr.                      Z1m[i236.2.1 S2.2m 
+0000541 030  NP1     George                   Z1m[i236.2.2 Z1m 
+0000542 010  PPHS1   he                       Z8m 
+0000542 020  VVZ     adds                     N5+/A2.1 N2 
+0000543 010  VVZ     says                     Q2.1 
+0000543 020  NNB     Mr.                      Z1m[i237.2.1 S2.2m 
+0000543 030  NP1     George                   Z1m[i237.2.2 Z1m 
+0000544 010  VVZ     says                     Q2.1 
+0000544 020  NP1     Allan                    Z1m 
+0000545 010  VVZ     falters                  A7- 
+0000545 020  NP1     Jo                       Z1fm 
+0000546 010  VVZ     returns                  M1 A9- S1.1.2+ K5.1 N6+ A2.1+ 
+0000546 020  NP1     Jo                       Z1fm 
+0000547 010  VVZ     says                     Q2.1 
+0000547 020  NP1     Jo                       Z1fm 
+0000548 010  VVZ     proceeds                 A1.1.1 T2++ M1 
+0000548 020  NP1     Jo                       Z1fm 
+0000549 010  VVZ     returns                  M1 A9- S1.1.2+ K5.1 N6+ A2.1+ 
+0000549 020  AT      the                      Z5 
+0000549 030  NN1     iron                     O1.1 B4/O2 O2 
+0000549 040  NN1     gentleman                S2.2m 
+0000550 010  VVZ     says                     Q2.1 
+0000550 020  NNB     Lady                     Z1mf[i238.2.1 Z3c[i238.2.1 Z3c 
+0000550 030  NP1     Dedlock                  Z1mf[i238.2.2 Z3c[i238.2.2 
+0000550 040  RR      listlessly               X5.2- 
+0000551 010  VVZ     proceeds                 A1.1.1 T2++ M1 
+0000551 020  APPGE   my                       Z8 
+0000551 030  NNB     Lady                     Z1mf[i240.3.1 Z3c[i240.3.1 Z3c Z1mf[i239.2.1 Z3c[i239.2.1 
+0000552 010  NP1     Sir                      Z1mf[i240.3.2 Z3c[i240.3.2 Z1mf[i239.2.2 Z3c[i239.2.2 Z1mf[i241.2.1 Z3c[i241.2.1 
+0000552 020  NP1     Leicester                Z3c[i240.3.3 Z1mf[i240.3.3 Z2 Z3c Z1mf[i241.2.2 Z3c[i241.2.2 
+0000552 030  VVD     flattered                S7.2+/Q2.2 O4.2+ 
+0000553 010  NNB     Sir                      Z1m[i242.2.1 
+0000553 020  NP1     Leicester                Z1m[i242.2.2 Z2 Z3c 
+0000553 030  RR      considerately            Z99 
+0000553 040  VVZ     interposes               Q2.2 
+0000554 010  NNB     Lady                     Z1mf[i243.2.1 Z3c[i243.2.1 Z3c 
+0000554 020  NP1     Dedlock                  Z1mf[i243.2.2 Z3c[i243.2.2 
+0000554 030  RR      languidly                Z99 
+0000554 040  VVZ     proceeds                 A1.1.1 T2++ M1 
+0000555 010  PPHS1   he                       Z8m 
+0000555 020  VVZ     returns                  M1 A9- S1.1.2+ K5.1 N6+ A2.1+ 
+0000556 010  PPHS1   she                      Z8f 
+0000556 020  VVZ     begins                   T2+ 
+0000557 010  PPHS1   he                       Z8m 
+0000557 020  VVZ     returns                  M1 A9- S1.1.2+ K5.1 N6+ A2.1+ 
+0000558 010  CC      and                      Z5 
+0000559 010  VVZ     says                     Q2.1 
+0000559 020  NNB     Mr.                      Z1m[i244.2.1 S2.2m 
+0000559 030  NP1     Bagnet                   Z1m[i244.2.2 
+0000560 010  VVZ     returns                  M1 A9- S1.1.2+ K5.1 N6+ A2.1+ 
+0000560 020  NNB     Mr.                      Z1m[i245.2.1 S2.2m 
+0000560 030  NP1     Bagnet                   Z1m[i245.2.2 
+0000561 010  VVZ     returns                  M1 A9- S1.1.2+ K5.1 N6+ A2.1+ 
+0000561 020  APPGE   his                      Z8m 
+0000561 030  NN1     wife                     S4f 
+0000561 031  ,       ,                        
+0000561 040  VVG     considering              X2.1 X2.4 X6 
+0000562 010  APPGE   his                      Z8m 
+0000562 020  NN1     wife                     S4f 
+0000562 030  NN2     assents                  S7.4+ 
+0000563 010  VVZ     says                     Q2.1 
+0000563 020  NNB     Mr.                      Z1m[i246.2.1 S2.2m 
+0000563 030  NP1     Bagnet                   Z1m[i246.2.2 
+0000564 010  VVZ     says                     Q2.1 
+0000564 020  PPHS1   she                      Z8f 
+0000565 010  NP1     George                   Z1m 
+0000565 020  NN2     answers                  Q2.2 
+0000566 010  VVZ     returns                  M1 A9- S1.1.2+ K5.1 N6+ A2.1+ 
+0000566 020  NNB     Mrs.                     Z1f[i248.2.1 Z1m[i247.2.1 
+0000566 030  NP1     Bagnet                   Z1f[i248.2.2 Z1m[i247.2.2 
+0000567 010  VVZ     says                     Q2.1 
+0000567 020  AT      the                      Z5 
+0000567 030  NN1     trooper                  G3/S2mf G2.1/S2mf 
+0000568 010  VVZ     says                     Q2.1 
+0000568 020  AT      the                      Z5 
+0000568 030  NN1     man                      S2.2m 
+0000568 031  ,       ,                        
+0000568 040  VVG     nodding                  M1 
+0000569 010  VVZ     says                     Q2.1 
+0000569 020  NNB     Mr.                      Z1m[i249.2.1 S2.2m 
+0000569 030  NP1     Bucket                   Z1m[i249.2.2 
+0000570 010  VVZ     returns                  M1 A9- S1.1.2+ K5.1 N6+ A2.1+ 
+0000570 020  NNB     Mr.                      Z1m[i250.2.1 S2.2m 
+0000570 030  NP1     Bucket                   Z1m[i250.2.2 
+0000571 010  VVZ     says                     Q2.1 
+0000571 020  NNB     Mr.                      Z1m[i251.2.1 S2.2m 
+0000571 030  NP1     Bucket                   Z1m[i251.2.2 
+0000572 010  VVZ     says                     Q2.1 
+0000572 020  NNB     Mr.                      Z1m[i252.2.1 S2.2m 
+0000572 030  NP1     Bucket                   Z1m[i252.2.2 
+0000573 010  VVZ     says                     Q2.1 
+0000573 020  NNB     Mr.                      Z1m[i253.2.1 S2.2m 
+0000573 030  NP1     Bucket                   Z1m[i253.2.2 
+0000574 010  PPHS1   he                       Z8m 
+0000574 020  VVZ     says                     Q2.1 
+0000575 010  VVZ     continues                T2++ 
+0000575 020  NNB     Mr.                      Z1m[i254.2.1 S2.2m 
+0000575 030  NP1     Bucket                   Z1m[i254.2.2 
+0000576 010  VVZ     returns                  M1 A9- S1.1.2+ K5.1 N6+ A2.1+ 
+0000576 020  AT      the                      Z5 
+0000576 030  NN1     trooper                  G3/S2mf G2.1/S2mf 
+0000577 010  VVD     said                     Q2.1 
+0000577 020  PPIS1   I                        Z8mf 
+0000578 010  VVD     returned                 M1 A9- N6 
+0000578 020  APPGE   my                       Z8 
+0000578 030  NN1     guardian                 S7.1+/S2mf S4/S2mf S8+/A15+/S2mf 
+0000579 010  VVD     returned                 M1 A9- N6 
+0000579 020  APPGE   my                       Z8 
+0000579 030  NN1     guardian                 S7.1+/S2mf S4/S2mf S8+/A15+/S2mf 
+0000579 040  RR      quickly                  N3.8+ 
+0000580 010  PPIS1   I                        Z8mf 
+0000580 020  VVD     said                     Q2.1 
+0000581 010  PPHS1   he                       Z8m 
+0000581 020  VVD     returned                 M1 A9- N6 
+0000582 010  VVD     said                     Q2.1 
+0000582 020  PPIS1   I                        Z8mf 
+0000583 010  VVD     said                     Q2.1 
+0000583 020  NP1     Ada                      O1 
+0000584 010  VVD     said                     Q2.1 
+0000584 020  PPIS1   I                        Z8mf 
+0000584 021  ,       ,                        
+0000584 030  VVG     smiling                  E4.1+ 
+0000585 010  VVD     said                     Q2.1 
+0000585 020  PPIS1   I                        Z8mf 
+0000586 010  VVD     returned                 M1 A9- N6 
+0000586 020  NNB     Mr.                      Z1m[i255.2.1 S2.2m 
+0000586 030  NP1     Woodcourt                Z1m[i255.2.2 
+0000587 010  VVD     said                     Q2.1 
+0000587 020  NNB     Mr.                      Z1m[i256.2.1 S2.2m 
+0000587 030  NP1     Vholes                   Z1m[i256.2.2 
+0000588 010  VVD     returned                 M1 A9- N6 
+0000588 020  NNB     Mr.                      Z1m[i257.2.1 S2.2m 
+0000588 030  NP1     Woodcourt                Z1m[i257.2.2 
+0000589 010  VVD     replied                  Q2.2 Q1.1 
+0000589 020  NNB     Mr.                      Z1m[i258.2.1 S2.2m 
+0000589 030  NP1     Woodcourt                Z1m[i258.2.2 
+0000590 010  VVD     said                     Q2.1 
+0000590 020  NNB     Mr.                      Z1m[i259.2.1 S2.2m 
+0000590 030  NP1     Vholes                   Z1m[i259.2.2 
+0000590 040  RR      parenthetically          Z99 
+0000591 010  VVD     said                     Q2.1 
+0000591 020  NNB     Mr.                      Z1m[i260.2.1 S2.2m 
+0000591 030  NP1     Vholes                   Z1m[i260.2.2 
+0000592 010  VVD     returned                 M1 A9- N6 
+0000592 020  NNB     Mr.                      Z1m[i261.2.1 S2.2m 
+0000592 030  NP1     Vholes                   Z1m[i261.2.2 
+0000593 010  PPHS1   he                       Z8m 
+0000593 020  VVD     replied                  Q2.2 Q1.1 
+0000594 010  VVD     said                     Q2.1 
+0000594 020  NP1     Richard                  Z1m 
+0000595 010  VVD     returned                 M1 A9- N6 
+0000595 020  NP1     Richard                  Z1m 
+0000596 010  VVD     said                     Q2.1 
+0000596 020  NP1     Richard                  Z1m 
+0000597 010  VVD     returned                 M1 A9- N6 
+0000597 020  NP1     Richard                  Z1m 
+0000598 010  VVD     said                     Q2.1 
+0000598 020  MC1%    I                        Z8 
+0000599 010  PPIS1   I                        Z8mf 
+0000599 020  VVD     recollected              X2.2+ 
+0000600 010  PPHS1   he                       Z8m 
+0000600 020  VVD     said                     Q2.1 
+0000601 010  PPIS1   I                        Z8mf 
+0000601 020  VVD     thought                  X2.1 
+0000602 010  PPIS1   I                        Z8mf 
+0000602 020  VVD     hinted                   Q2.2 
+0000603 010  PPHS1   he                       Z8m 
+0000603 020  VVD     repeated                 N6+ Q2.1/N6+ F1/B1@ 
+0000603 030  RR      gloomily                 E4.1- 
+0000604 010  PPHS1   she                      Z8f 
+0000604 020  VVD     said                     Q2.1 
+0000604 030  RG      very                     A13.3 
+0000604 040  RR      quietly                  X3.2- E3+ A10- A1.1.1/N5- 
+0000605 010  VVD     said                     Q2.1 
+0000605 020  MC1%    I                        Z8 
+0000606 010  NP1     Ada                      O1 
+0000606 020  VVD     said                     Q2.1 
+0000607 010  VVD     said                     Q2.1 
+0000607 020  NP1     Richard                  Z1m 
+0000608 010  VVD     said                     Q2.1 
+0000608 020  APPGE   my                       Z8 
+0000608 030  NN1     darling                  E2+/S2mf 
+0000609 010  VVD     said                     Q2.1 
+0000609 020  PPIS1   I                        Z8mf 
+0000610 010  VVD     said                     Q2.1 
+0000610 020  PPIS1   I                        Z8mf 
+0000611 010  VVD     said                     Q2.1 
+0000611 020  PPHS1   he                       Z8m 
+0000612 010  VVD     said                     Q2.1 
+0000612 020  PPIS1   I                        Z8mf 
+0000613 010  VVD     said                     Q2.1 
+0000613 020  NNB     Mr.                      Z1m[i262.2.1 S2.2m 
+0000613 030  NP1     George                   Z1m[i262.2.2 Z1m 
+0000614 010  VVD     observed                 X3.4 Q2.1/X2.4 X2.1 G2.1+ 
+0000614 020  APPGE   my                       Z8 
+0000614 030  NN1     guardian                 S7.1+/S2mf S4/S2mf S8+/A15+/S2mf 
+0000615 010  VVD     said                     Q2.1 
+0000615 020  APPGE   my                       Z8 
+0000615 030  NN1     guardian                 S7.1+/S2mf S4/S2mf S8+/A15+/S2mf 
+0000616 010  PPHS1   he                       Z8m 
+0000616 020  VVD     returned                 M1 A9- N6 
+0000617 010  VVD     said                     Q2.1 
+0000617 020  NNB     Mr.                      Z1m[i263.2.1 S2.2m 
+0000617 030  NP1     George                   Z1m[i263.2.2 Z1m 
+0000618 010  VVD     said                     Q2.1 
+0000618 020  MC1%    I                        Z8 
+0000619 010  PPHS1   he                       Z8m 
+0000619 020  VVD     answered                 Q2.2 S1.1.1 
+0000620 010  VVD     said                     Q2.1 
+0000620 020  AT      the                      Z5 
+0000620 030  NN1     trooper                  G3/S2mf G2.1/S2mf 
+0000621 010  VVD     said                     Q2.1 
+0000621 020  NNB     Mrs.                     Z1f[i265.2.1 Z1m[i264.2.1 
+0000621 030  NP1     Bagnet                   Z1f[i265.2.2 Z1m[i264.2.2 
+0000622 010  VVD     said                     Q2.1 
+0000622 020  NNB     Mrs.                     Z1f[i267.2.1 Z1m[i266.2.1 
+0000622 030  NP1     Bagnet                   Z1f[i267.2.2 Z1m[i266.2.2 
+0000623 010  VVG     kissing                  S3.2 
+0000623 020  PPHO1   him                      Z8m 
+0000624 010  VVD     rejoined                 S5+/N6+ A1.8+/N6+ 
+0000624 020  APPGE   my                       Z8 
+0000624 030  NN1     guardian                 S7.1+/S2mf S4/S2mf S8+/A15+/S2mf 
+0000625 010  PPHS1   he                       Z8m 
+0000625 020  VVZ     says                     Q2.1 
+0000626 010  VVZ     pursues                  A1.1.1 X8+ X2.4 M1 
+0000626 020  NNB     Sir                      Z1m[i268.2.1 
+0000626 030  NP1     Leicester                Z1m[i268.2.2 Z2 Z3c 
+0000627 010  VVZ     pursues                  A1.1.1 X8+ X2.4 M1 
+0000627 020  NNB     Sir                      Z1m[i269.2.1 
+0000627 030  NP1     Leicester                Z1m[i269.2.2 Z2 Z3c 
+0000628 010  PPHS1   he                       Z8m 
+0000628 020  VVZ     says                     Q2.1 
+0000629 010  VVZ     continues                T2++ 
+0000629 020  NNB     Sir                      Z1m[i270.2.1 
+0000629 030  NP1     Leicester                Z1m[i270.2.2 Z2 Z3c 
+0000630 010  VVZ     replies                  Q2.2 
+0000630 020  NNB     Mr.                      Z1m[i271.2.1 S2.2m 
+0000630 030  NP1     Bucket                   Z1m[i271.2.2 
+0000630 040  RR      soothingly               Z99 
+0000631 010  VVZ     says                     Q2.1 
+0000631 020  NNB     Mr.                      Z1m[i272.2.1 S2.2m 
+0000631 030  NP1     Bucket                   Z1m[i272.2.2 
+0000631 040  RR      sympathetically          X2.5+/E1 S8+ A6.1+ 
+0000632 010  VVZ     observes                 X3.4 Q2.1/X2.4 X2.1 G2.1+ 
+0000632 020  NNB     Sir                      Z1m[i273.2.1 
+0000632 030  NP1     Leicester                Z1m[i273.2.2 Z2 Z3c 
+0000633 010  VVZ     proceeds                 A1.1.1 T2++ M1 
+0000633 020  NNB     Sir                      Z1m[i274.2.1 
+0000633 030  NP1     Leicester                Z1m[i274.2.2 Z2 Z3c 
+0000634 010  VBG     being                    A3+ Z5 
+0000634 020  AT      the                      Z5 
+0000634 030  JJ      used-up                  Z99 
+0000634 040  CS      for                      Z5 A5.1+ S8+ M6 
+0000635 010  PPHS1   he                       Z8m 
+0000635 020  VVZ     adds                     N5+/A2.1 N2 
+0000635 030  IW      with                     Z5 
+0000635 040  NN1     condescension            E2- 
+0000636 010  VVZ     says                     Q2.1 
+0000636 020  NNB     Mr.                      Z1m[i275.2.1 S2.2m 
+0000636 030  NP1     Bucket                   Z1m[i275.2.2 
+0000637 010  VVZ     returns                  M1 A9- S1.1.2+ K5.1 N6+ A2.1+ 
+0000637 020  NNB     Mr.                      Z1m[i276.2.1 S2.2m 
+0000637 030  NP1     Bucket                   Z1m[i276.2.2 
+0000638 010  NNB     Mr.                      Z1m[i277.2.1 S2.2m 
+0000638 020  NP1     Bucket                   Z1m[i277.2.2 
+0000638 030  VVZ     resumes                  T2+/N6+ 
+0000639 010  VVZ     proceeds                 A1.1.1 T2++ M1 
+0000639 020  NNB     Mr.                      Z1m[i278.2.1 S2.2m 
+0000639 030  NP1     Bucket                   Z1m[i278.2.2 
+0000640 010  NNB     Sir                      Z1m[i279.2.1 
+0000640 020  NP1     Leicester                Z1m[i279.2.2 Z2 Z3c 
+0000640 030  VVZ     returns                  M1 A9- S1.1.2+ K5.1 N6+ A2.1+ 
+0000640 040  RR      stiffly                  O4.5 O4.1 B2- S1.2.1- A12- E3- L1-/S2mf A1.7+ A2.1- O2 W4@ M1/N3.8+ F1/B1@ N3.2++/A2.1@ 
+0000641 010  VVZ     returns                  M1 A9- S1.1.2+ K5.1 N6+ A2.1+ 
+0000641 020  NNB     Mr.                      Z1m[i280.2.1 S2.2m 
+0000641 030  NP1     Bucket                   Z1m[i280.2.2 
+0000642 010  VVZ     says                     Q2.1 
+0000642 020  NNB     Mr.                      Z1m[i281.2.1 S2.2m 
+0000642 030  NP1     Bucket                   Z1m[i281.2.2 
+0000643 010  VVZ@    snarls                   X3.2 Q2.2/E3- 
+0000643 020  NNB     Mr.                      Z1m[i282.2.1 S2.2m 
+0000643 030  NP1     Smallweed                Z1m[i282.2.2 
+0000644 010  NN2     pipes                    O2 F3 K2 
+0000644 020  NN1     Grandfather              S4m 
+0000644 030  NP1     Smallweed                Z99 
+0000644 040  RT      then                     N4 Z5 T1.2 
+0000645 010  VVZ     says                     Q2.1 
+0000645 020  NNB     Mr.                      Z1m[i283.2.1 S2.2m 
+0000645 030  NP1     Bucket                   Z1m[i283.2.2 
+0000646 010  VVZ     says                     Q2.1 
+0000646 020  PPHS1   she                      Z8f 
+0000647 010  VVZ     returns                  M1 A9- S1.1.2+ K5.1 N6+ A2.1+ 
+0000647 020  DD1     that                     Z5 Z8 
+0000647 030  NN1     officer                  G3/S7.1+/S2mf G1.1/S2mf S7.1+/S2mf G2.1/S2mf 
+0000648 010  VVZ     returns                  M1 A9- S1.1.2+ K5.1 N6+ A2.1+ 
+0000648 020  NNB     Mr.                      Z1m[i284.2.1 S2.2m 
+0000648 030  NP1     Bucket                   Z1m[i284.2.2 
+0000649 010  NNB     Mr.                      Z1m[i285.2.1 S2.2m 
+0000649 020  NP1     Bucket                   Z1m[i285.2.2 
+0000649 030  VVZ     proceeds                 A1.1.1 T2++ M1 
+0000649 040  RR      approvingly              E2+ 
+0000650 010  VVZ     cries                    E4.1- Q2.2 
+0000650 020  NN1     mademoiselle             O4.3 O1.1 I1 O2 Z1mf L2c M8 K2 X3.2 A1.1.1 Q2.2 
+0000650 030  RR      furiously                E3- X5.2+ 
+0000651 010  VVZ     proceeds                 A1.1.1 T2++ M1 
+0000651 020  NNB     Mr.                      Z1m[i286.2.1 S2.2m 
+0000651 030  NP1     Bucket                   Z1m[i286.2.2 
+0000652 010  VVZ     says                     Q2.1 
+0000652 020  NNB     Mr.                      Z1m[i287.2.1 S2.2m 
+0000652 030  NP1     Bucket                   Z1m[i287.2.2 
+0000652 040  RR      parenthetically          Z99 
+0000653 010  VVZ     pursues                  A1.1.1 X8+ X2.4 M1 
+0000653 020  NNB     Mr.                      Z1m[i288.2.1 S2.2m 
+0000653 030  NP1     Bucket                   Z1m[i288.2.2 
+0000654 010  VVZ     says                     Q2.1 
+0000654 020  NNB     Mr.                      Z1m[i289.2.1 S2.2m 
+0000654 030  NP1     Bucket                   Z1m[i289.2.2 
+0000655 010  VVZ     says                     Q2.1 
+0000655 020  PPHS1   she                      Z8f 
+0000655 030  DA2     many                     N6+[i291.2.1 N5+ N6+[i290.2.1 
+0000655 040  NNT2    times                    N6+[i291.2.2 T1 T1.2 T1.3 T1.1.2 N6 N1 N6+[i290.2.2 
+0000656 010  VVZ     returns                  M1 A9- S1.1.2+ K5.1 N6+ A2.1+ 
+0000656 020  NNB     Mrs.                     Z1f[i293.2.1 Z1m[i292.2.1 
+0000656 030  NP1     Bagnet                   Z1f[i293.2.2 Z1m[i292.2.2 
+0000657 010  VVZ     says                     Q2.1 
+0000657 020  NNB     Mrs.                     Z1f[i295.2.1 Z1m[i294.2.1 
+0000657 030  NP1     Rouncewell               Z1f[i295.2.2 Z1m[i294.2.2 
+0000658 010  VVZ     says                     Q2.1 
+0000658 020  AT      the                      Z5 
+0000658 030  JJ      old                      T3+ Z4 
+0000658 040  NN1     lady                     S2.1f S7.1+/S2.1f 
+0000659 010  VVZ     returns                  M1 A9- S1.1.2+ K5.1 N6+ A2.1+ 
+0000659 020  AT      the                      Z5 
+0000659 030  NN1     trooper                  G3/S2mf G2.1/S2mf 
+0000660 010  PPHS1   he                       Z8m 
+0000660 020  VVZ     goes                     T2++[i296.2.1 M1[i296.2.1 Q2.1/N5+[i296.2.1 A1.1.1[i296.2.1 M1 A2.1+ A1.1.1 A9- A1.8+ Q2.1 N6+ I2.2 A1.1.2 T2- S3.2 A6.3+ B2-/X1% B1% 
+0000660 030  RP@     on                       T2++[i296.2.2 M1[i296.2.2 Q2.1/N5+[i296.2.2 A1.1.1[i296.2.2 M6 A1.1.1 
+0000661 010  PPHS1   he                       Z8m 
+0000661 020  VVD     observed                 X3.4 Q2.1/X2.4 X2.1 G2.1+ 
+0000662 010  VVD     said                     Q2.1 
+0000662 020  PPHS1   he                       Z8m 
+0000663 010  PPHS1   he                       Z8m 
+0000663 020  VVD     answered                 Q2.2 S1.1.1 
+0000664 010  PPHS1   he                       Z8m 
+0000664 020  VVD     returned                 M1 A9- N6 
+0000665 010  PPHS1   he                       Z8m 
+0000665 020  VVD     observed                 X3.4 Q2.1/X2.4 X2.1 G2.1+ 
+0000666 010  VVD     assented                 S7.4+ 
+0000666 020  NNB     Mr.                      Z1m[i297.2.1 S2.2m 
+0000666 030  NP1     Bucket                   Z1m[i297.2.2 
+0000667 010  VVD     said                     Q2.1 
+0000667 020  APPGE   my                       Z8 
+0000667 030  NN1     companion                S3.1/S2mf 
+0000668 010  VVD     said                     Q2.1 
+0000668 020  PPIS1   I                        Z8mf 
+0000669 010  VVD     said                     Q2.1 
+0000669 020  PPIS1   I                        Z8mf 
+0000670 010  VVD     said                     Q2.1 
+0000670 020  PPIS1   I                        Z8mf 
+0000671 010  VVD     said                     Q2.1 
+0000671 020  PPIS1   I                        Z8mf 
+0000672 010  VVD     said                     Q2.1 
+0000672 020  NNB     Mr.                      Z1m[i298.2.1 S2.2m 
+0000672 030  NP1     Bucket                   Z1m[i298.2.2 
+0000673 010  PPHS1   he                       Z8m 
+0000673 020  VVD     answered                 Q2.2 S1.1.1 
+0000674 010  PPHS1   he                       Z8m 
+0000674 020  VVD     answered                 Q2.2 S1.1.1 
+0000675 010  VVZ     says                     Q2.1 
+0000675 020  AT      the                      Z5 
+0000675 030  NN1     trooper                  G3/S2mf G2.1/S2mf 
+0000676 010  VVZ     returns                  M1 A9- S1.1.2+ K5.1 N6+ A2.1+ 
+0000676 020  NNB     Sir                      Z1m[i299.2.1 
+0000676 030  NP1     Leicester                Z1m[i299.2.2 Z2 Z3c 
+0000677 010  VVZ     observes                 X3.4 Q2.1/X2.4 X2.1 G2.1+ 
+0000677 020  NNB     Sir                      Z1m[i300.2.1 
+0000677 030  NP1     Leicester                Z1m[i300.2.2 Z2 Z3c 
+0000678 010  PPHS1   he                       Z8m 
+0000678 020  RR      presently                T1.1.3 T1.1.2 
+0000678 030  VVZ     goes                     T2++[i301.2.1 M1[i301.2.1 Q2.1/N5+[i301.2.1 A1.1.1[i301.2.1 M1 A2.1+ A1.1.1 A9- A1.8+ Q2.1 N6+ I2.2 A1.1.2 T2- S3.2 A6.3+ B2-/X1% B1% 
+0000678 040  RP@     on                       T2++[i301.2.2 M1[i301.2.2 Q2.1/N5+[i301.2.2 A1.1.1[i301.2.2 M6 A1.1.1 
+0000679 010  PPHS1   she                      Z8f 
+0000679 020  RR      softly                   E3+ X3.2 O4.3 
+0000679 030  NN2     whispers                 Q2.1/X3.2- 
+0000680 010  VVD     said                     Q2.1 
+0000680 020  NNB     Mr.                      Z1m[i302.2.1 S2.2m 
+0000680 030  NP1     Bucket                   Z1m[i302.2.2 
+0000680 040  RR      warmly                   E2+ S1.2.1+ S7.2+ O4.6+ 
+0000681 010  PPHS1   he                       Z8m 
+0000681 020  VVD     returned                 M1 A9- N6 
+0000682 010  PPHS1   he                       Z8m 
+0000682 020  VVD     said                     Q2.1 
+0000682 030  II      to                       Z5 
+0000682 040  PPIO1   me                       Z8mf 
+0000683 010  VVD     said                     Q2.1 
+0000683 020  NNB     Mr.                      Z1m[i303.2.1 S2.2m 
+0000683 030  NP1     Bucket                   Z1m[i303.2.2 
+0000684 010  VVD     said                     Q2.1 
+0000684 020  NNB     Mr.                      Z1m[i304.2.1 S2.2m 
+0000684 030  NP1     Bucket                   Z1m[i304.2.2 
+0000684 031  ,       ,                        
+0000684 040  VVG     assisting                S8+ 
+0000685 010  VVD     said                     Q2.1 
+0000685 020  NNB     Mr.                      Z1m[i305.2.1 S2.2m 
+0000685 030  NP1     Bucket                   Z1m[i305.2.2 
+0000686 010  VVD     said                     Q2.1 
+0000686 020  NNB     Mr.                      Z1m[i306.2.1 S2.2m 
+0000686 030  NP1     Woodcourt                Z1m[i306.2.2 
+0000687 010  PPHS1   he                       Z8m 
+0000687 020  VVD     said                     Q2.1 
+0000688 010  VVD     said                     Q2.1 
+0000688 020  PPHS1   he                       Z8m 
+0000689 010  PPHS1   he                       Z8m 
+0000689 020  VVD     said                     Q2.1 
+0000690 010  VVD     said                     Q2.1 
+0000690 020  APPGE   my                       Z8 
+0000690 030  NN1     companion                S3.1/S2mf 
+0000691 010  CC      and                      Z5 
+0000691 020  NNB     Mr.                      Z1m[i307.2.1 S2.2m 
+0000691 030  NP1     Bucket                   Z1m[i307.2.2 
+0000691 040  VVD     added                    N5+/A2.1 N2 A1.8+ 
+0000692 010  VVD     said                     Q2.1 
+0000692 020  NNB     Mr.                      Z1m[i308.2.1 S2.2m 
+0000692 030  NP1     Bucket                   Z1m[i308.2.2 
+0000693 010  PPHS1   he                       Z8m 
+0000693 020  VVD     returned                 M1 A9- N6 
+0000694 010  VVD     said                     Q2.1 
+0000694 020  PPIS1   I                        Z8mf 
+0000695 010  VVD     returned                 M1 A9- N6 
+0000695 020  APPGE   my                       Z8 
+0000695 030  NN1     guardian                 S7.1+/S2mf S4/S2mf S8+/A15+/S2mf 
+0000696 010  VVD     said                     Q2.1 
+0000696 020  APPGE   my                       Z8 
+0000696 030  NN1     guardian                 S7.1+/S2mf S4/S2mf S8+/A15+/S2mf 
+0000697 010  VVD     returned                 M1 A9- N6 
+0000697 020  APPGE   my                       Z8 
+0000697 030  NN1     guardian                 S7.1+/S2mf S4/S2mf S8+/A15+/S2mf 
+0000697 031  ,       ,                        
+0000697 040  VVG     smiling                  E4.1+ 
+0000698 010  VVD     returned                 M1 A9- N6 
+0000698 020  NNB     Miss                     Z1f[i309.2.1 
+0000698 030  NP1     Flite                    Z1f[i309.2.2 
+0000699 010  VVD     said                     Q2.1 
+0000699 020  NNB     Mr.                      Z1m[i310.2.1 S2.2m 
+0000699 030  NP1     Vholes                   Z1m[i310.2.2 
+0000700 010  VVD     said                     Q2.1 
+0000700 020  MC1%    I                        Z8 
+0000701 010  PPHS1   he                       Z8m 
+0000701 020  VVD     said                     Q2.1 
+0000702 010  PPHS1   he                       Z8m 
+0000702 020  VVD     returned                 M1 A9- N6 
+0000703 010  PPHS1   she                      Z8f 
+0000703 020  VVD     said                     Q2.1 
+0000703 021  ,       ,                        
+0000703 030  VVG     breaking                 A1.1.2 A1.1.1 A1.9 S5- T2- E4.1-/A2.2 A2.1+ T1.3 Q2.1@ 
+0000703 040  NN1     silence                  X3.2- A10- 
+0000704 010  VVD     said                     Q2.1 
+0000704 020  NP1     Ada                      O1 
+0000705 010  PPIS1   I                        Z8mf 
+0000705 020  VVD     went                     T2++[i311.2.1 M1[i311.2.1 Q2.1/N5+[i311.2.1 A1.1.1[i311.2.1 M1 A2.1+ A1.1.1 A9- A1.8+ Q2.1 N6+ I2.2 A1.1.2 T2- S3.2 A6.3+ B2-/X1% B1% 
+0000705 030  RP@     on                       T2++[i311.2.2 M1[i311.2.2 Q2.1/N5+[i311.2.2 A1.1.1[i311.2.2 M6 A1.1.1 
+0000706 010  VVD     said                     Q2.1 
+0000706 020  PPIS1   I                        Z8mf 
+0000707 010  VVD     said                     Q2.1 
+0000707 020  NNB     Mr.                      Z1m[i312.2.1 S2.2m 
+0000707 030  NP1     Skimpole                 Z1m[i312.2.2 
+0000708 010  PPHS1   he                       Z8m 
+0000708 020  VVD     told                     Q2.1 S7.1+/Q2.2 X3 A10+ 
+0000708 030  PPIO1   me                       Z8mf 
+0000709 010  VVD     said                     Q2.1 
+0000709 020  PPHS1   he                       Z8m 
+0000710 010  VVD     cried                    E4.1- Q2.2 
+0000710 020  PPIS1   I                        Z8mf 
+0000711 010  VVD     said                     Q2.1 
+0000711 020  PPIS1   I                        Z8mf 
+0000712 010  VVD     said                     Q2.1 
+0000712 020  MC1%    I                        Z8 
+0000713 010  PPHS1   he                       Z8m 
+0000713 020  VVD     answered                 Q2.2 S1.1.1 
+0000714 010  VVD     said                     Q2.1 
+0000714 020  PPIS1   I                        Z8mf 
+0000715 010  VVD     said                     Q2.1 
+0000715 020  PPIS1   I                        Z8mf 
+0000716 010  VVD     said                     Q2.1 
+0000716 020  MC1%    I                        Z8 
+0000717 010  PPIS1   I                        Z8mf 
+0000717 020  VVD     said                     Q2.1 
+0000718 010  VVD     said                     Q2.1 
+0000718 020  APPGE   my                       Z8 
+0000718 030  NN1     guardian                 S7.1+/S2mf S4/S2mf S8+/A15+/S2mf 
+0000719 010  VVD     said                     Q2.1 
+0000719 020  PPIS1   I                        Z8mf 
+0000720 010  VVD     said                     Q2.1 
+0000720 020  MC1%    I                        Z8 
+0000721 010  PPIS1   I                        Z8mf 
+0000721 020  RR      timidly                  E5- S1.2.3- 
+0000721 030  VVD     reminded                 X4.1 
+0000721 040  PPHO1   him                      Z8m 
+0000722 010  VVD     said                     Q2.1 
+0000722 020  MC1%    I                        Z8 
+0000723 010  PPHS1   he                       Z8m 
+0000723 020  VVD     returned                 M1 A9- N6 
+0000723 030  RR      gaily                    E4.1+ O4.3 
+0000724 010  VVD     said                     Q2.1 
+0000724 020  NNB     Mr.                      Z1m[i313.2.1 S2.2m 
+0000724 030  NP1     Bucket                   Z1m[i313.2.2 
+0000725 010  VVD     said                     Q2.1 
+0000725 020  NNB     Mr.                      Z1m[i314.2.1 S2.2m 
+0000725 030  NP1     Bucket                   Z1m[i314.2.2 
+0000725 040  RR      conversationally         Q3 S1.2.1+ O4.2 
+0000726 010  VVD     said                     Q2.1 
+0000726 020  NNB     Mr.                      Z1m[i315.2.1 S2.2m 
+0000726 030  NP1     Bucket                   Z1m[i315.2.2 
+0000727 010  VVD     said                     Q2.1 
+0000727 020  NNB     Mr.                      Z1m[i316.2.1 S2.2m 
+0000727 030  NP1     Bucket                   Z1m[i316.2.2 
+0000727 040  RR      emphatically             E6+ 
+0000728 010  VVD     said                     Q2.1 
+0000728 020  APPGE   my                       Z8 
+0000728 030  NN1     guardian                 S7.1+/S2mf S4/S2mf S8+/A15+/S2mf 
+0000728 040  RR      aloud                    X3.2 
+0000729 010  VVD     said                     Q2.1 
+0000729 020  NNB     Mr.                      Z1m[i317.2.1 S2.2m 
+0000729 030  NP1     Kenge                    Z1m[i317.2.2 
+0000730 010  PPHS1   he                       Z8m 
+0000730 020  VVD     bowed                    O4.1/B1 S7.2+ S1.2.4+ S7.1- 
+0000730 030  II      to                       Z5 
+0000730 040  PPIO1   me                       Z8mf 
+0000731 010  PPHS1   he                       Z8m 
+0000731 020  VVD     bowed                    O4.1/B1 S7.2+ S1.2.4+ S7.1- 
+0000731 030  II      to                       Z5 
+0000731 040  PPHO1   him                      Z8m 
+0000732 010  VVD     returned                 M1 A9- N6 
+0000732 020  APPGE   my                       Z8 
+0000732 030  NN1     guardian                 S7.1+/S2mf S4/S2mf S8+/A15+/S2mf 
+0000733 010  VVD     said                     Q2.1 
+0000733 020  NNB     Mr.                      Z1m[i318.2.1 S2.2m 
+0000733 030  NP1     Kenge                    Z1m[i318.2.2 
+0000734 010  VVD     said                     Q2.1 
+0000734 020  NNB     Mr.                      Z1m[i319.2.1 S2.2m 
+0000734 030  NP1     Kenge                    Z1m[i319.2.2 
+0000735 010  VVD     said                     Q2.1 
+0000735 020  APPGE   my                       Z8 
+0000735 030  NN1     guardian                 S7.1+/S2mf S4/S2mf S8+/A15+/S2mf 
+0000736 010  NN1     Accountant-General       Z99 
+0000737 010  NN1     estate                   M7/F4 H4 I1.1 M3 
+0000737 011  ,       ,                        
+0000737 012  "       "                        
+0000737 020  CC      and                      Z5 
+0000738 010  NN1     quoth                    Z99 
+0000738 020  AT      the                      Z5 
+0000738 030  NN1     workman                  I3.1/S2.2m 
+0000739 010  VVZ     returns                  M1 A9- S1.1.2+ K5.1 N6+ A2.1+ 
+0000739 020  APPGE   his                      Z8m 
+0000739 030  NN1     brother                  S4m S2.2m S9/S2.2m 
+0000740 010  VVZ     replies                  Q2.2 
+0000740 020  AT      the                      Z5 
+0000740 030  NN1     ironmaster               Z99 
+0000740 040  RR      deliberately             X7+ A1.3+ 
+0000741 010  VVD     said                     Q2.1 
+0000741 020  MC1%    I                        Z8 
+0000742 010  PPHS1   he                       Z8m 
+0000742 020  VVD     returned                 M1 A9- N6 
+0000742 030  RR      gaily                    E4.1+ O4.3 
+0000743 010  VVD     said                     Q2.1 
+0000743 020  APPGE   my                       Z8 
+0000743 030  NN1     guardian                 S7.1+/S2mf S4/S2mf S8+/A15+/S2mf 
+0000744 010  VVD     said                     Q2.1 
+0000744 020  PPHS1   he                       Z8m 
+0000745 010  PPHS1   he                       Z8m 
+0000745 020  VVD     said                     Q2.1 
+0000745 030  RR      exultingly               Z99 
+0000746 010  VVD     said                     Q2.1 
+0000746 020  APPGE   my                       Z8 
+0000746 030  NN1     guardian                 S7.1+/S2mf S4/S2mf S8+/A15+/S2mf 
+0000747 010  VVD     said                     Q2.1 
+0000747 020  APPGE   my                       Z8 
+0000747 030  NN1     guardian                 S7.1+/S2mf S4/S2mf S8+/A15+/S2mf 
+0000748 010  VVD     returned                 M1 A9- N6 
+0000748 020  APPGE   my                       Z8 
+0000748 030  NN1     guardian                 S7.1+/S2mf S4/S2mf S8+/A15+/S2mf 
+0000748 031  ,       ,                        
+0000748 040  VVG     smiling                  E4.1+ 
+0000749 010  VVD     said                     Q2.1 
+0000749 020  NNB     Mr.                      Z1m[i320.2.1 S2.2m 
+0000749 030  NP1     Guppy                    Z1m[i320.2.2 
+0000750 010  VVD     pursued                  A1.1.1 X8+ X2.4 M1 
+0000750 020  NNB     Mr.                      Z1m[i321.2.1 S2.2m 
+0000750 030  NP1     Guppy                    Z1m[i321.2.2 
+0000751 010  VVD     said                     Q2.1 
+0000751 020  NNB     Mr.                      Z1m[i322.2.1 S2.2m 
+0000751 030  NP1     Guppy                    Z1m[i322.2.2 
+0000752 010  VVD     said                     Q2.1 
+0000752 020  NNB     Mr.                      Z1m[i323.2.1 S2.2m 
+0000752 030  NP1     Guppy                    Z1m[i323.2.2 
+0000753 010  VVD     pursued                  A1.1.1 X8+ X2.4 M1 
+0000753 020  NNB     Mr.                      Z1m[i324.2.1 S2.2m 
+0000753 030  NP1     Guppy                    Z1m[i324.2.2 
+0000754 010  VVD     said                     Q2.1 
+0000754 020  NNB     Mr.                      Z1m[i325.2.1 S2.2m 
+0000754 030  NP1     Guppy                    Z1m[i325.2.2 
+0000755 010  VVD     returned                 M1 A9- N6 
+0000755 020  APPGE   my                       Z8 
+0000755 030  NN1     guardian                 S7.1+/S2mf S4/S2mf S8+/A15+/S2mf 
+0000756 010  PPHS1   she                      Z8f 
+0000756 020  VVD     returned                 M1 A9- N6 
+0000757 010  VVD     returned                 M1 A9- N6 
+0000757 020  NNB     Mr.                      Z1m[i326.2.1 S2.2m 
+0000757 030  NP1     Kenge                    Z1m[i326.2.2 
+0000758 010  VVD     said                     Q2.1 
+0000758 020  NNB     Mr.                      Z1m[i327.2.1 S2.2m 
+0000758 030  NP1     Kenge                    Z1m[i327.2.2 
+0000759 010  VVD     whispered                Q2.1/X3.2- 
+0000759 020  NP1     Allan                    Z1m 
+0000760 010  VVD     said                     Q2.1 
+0000760 020  NP1     Allan                    Z1m 
+0000761 010  VVD     said                     Q2.1 
+0000761 020  NP1     Richard                  Z1m 
+0000762 010  VVD     said                     Q2.1 
+0000762 020  PPHS1   he                       Z8m 
+0000763 010  VVD     resumed                  T2+/N6+ 
+0000763 020  NP1     Richard                  Z1m 
+0000764 010  VVD     said                     Q2.1 
+0000764 020  APPGE   my                       Z8 
+0000764 030  NN1     guardian                 S7.1+/S2mf S4/S2mf S8+/A15+/S2mf 
+0000765 010  VVD     said                     Q2.1 
+0000765 020  NP1     Richard                  Z1m 
+0000766 010  VVD     said                     Q2.1 
+0000766 020  NP1     Richard                  Z1m 
+0000767 010  VVD     said                     Q2.1 
+0000767 020  PPHS1   he                       Z8m 
+0000768 001  NULL    **8;7;text               

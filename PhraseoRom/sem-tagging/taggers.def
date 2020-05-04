@@ -1,0 +1,42 @@
+Bootstrap: library
+From: ubuntu:18.04
+
+%files
+  v24_ubuntu_64bit_16oct16.tar.gz /
+  usas.zip /
+
+%environment
+  export PRESOURCES=/usr/local/share/semtag/
+
+%post
+
+  # Add the Universe repo so that we can install csh
+  sed -i'' "s@bionic main@bionic main universe@" /etc/apt/sources.list
+  apt-get update && apt-get install -y unzip csh && rm -rf /var/lib/apt/lists/*
+
+  # Unzip and install usas
+  unzip /usas.zip
+  rm /usas.zip
+
+  # Link semtag files
+  ln -s /usas-master-f8ba5f9dc737a85d0546ccac5a049009c0c6f6fa/bin/semtag_debian64 /usr/local/bin/semtag
+  ln -s /usas-master-f8ba5f9dc737a85d0546ccac5a049009c0c6f6fa/resources /usr/local/share/semtag
+
+  # Link wordnet files
+  ln -s /usas-master-f8ba5f9dc737a85d0546ccac5a049009c0c6f6fa/bin/wn /usr/local/bin/wn
+  mkdir -p /usr/local/WordNet-3.0
+  ln -s /usas-master-f8ba5f9dc737a85d0546ccac5a049009c0c6f6fa/resources/wordnet /usr/local/WordNet-3.0/dict
+
+  # Create /mnt/data-fst/ucrel directory structure as recommended
+  mkdir -p /mnt/data-fst/ucrel/bin /mnt/data-fst/ucrel/resources/wn
+  ln -s /usr/local/bin/wn /mnt/data-fst/ucrel/bin/wn
+  ln -s /usr/local/WordNet-3.0/dict /mnt/data-fst/ucrel/resources/wn/dict
+
+  # Untar and install claws
+  tar -xvf /v24_ubuntu_64bit_16oct16.tar.gz
+  cp /v24_ubuntu_64bit_16oct16/* /usr/local/bin
+  sed -i'' "s@/set/this/to/the/full/path/where/you/install/claws/@/usr/local/bin/@" /usr/local/bin/run_claws
+
+%labels
+    Author j.j.carpenter@bham.ac.uk
+    Version v0.1

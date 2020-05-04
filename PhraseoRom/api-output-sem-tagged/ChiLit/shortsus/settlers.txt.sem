@@ -1,0 +1,151 @@
+0000001 001  NULL    **6;0;START              
+0000001 002  -----   -----                    
+0000002 010  VVD     said                     Q2.1 
+0000002 020  NP1     Oliver                   Z1m 
+0000003 010  VVD     said                     Q2.1 
+0000003 020  NP1     Ailwin                   Z99 
+0000004 010  VVD     asked                    Q2.2 
+0000004 020  AT      the                      Z5 
+0000005 010  NN1     pastor                   S9/S2mf 
+0000006 010  VVD     said                     Q2.1 
+0000006 020  AT      the                      Z5 
+0000006 030  NN1     pastor                   S9/S2mf 
+0000007 010  VVD     cried                    E4.1- Q2.2 
+0000007 020  NP1     Oliver                   Z1m 
+0000008 010  VVD     replied                  Q2.2 Q1.1 
+0000008 020  AT      the                      Z5 
+0000008 030  NN1     pastor                   S9/S2mf 
+0000009 010  VVD     said                     Q2.1 
+0000009 020  NNB     Mr                       Z1m[i2.2.1 S2.2m Z1m[i1.2.1 
+0000009 030  NP1     Linacre                  Z1m[i2.2.2 Z1m[i1.2.2 
+0000010 010  VVD     said                     Q2.1 
+0000011 010  AT      the                      Z5 
+0000011 020  NN1     pastor                   S9/S2mf 
+0000012 010  VVD     cried                    E4.1- Q2.2 
+0000012 020  NP1     Oliver                   Z1m 
+0000012 021  ,       ,                        
+0000012 030  VVD     vexed                    E3- 
+0000013 010  VVD     said                     Q2.1 
+0000014 010  NP1     Ailwin                   Z99 
+0000015 010  VVD     thought                  X2.1 
+0000015 020  NP1     Oliver                   Z1m 
+0000016 010  VVD     said                     Q2.1 
+0000017 010  NP1     Oliver                   Z1m 
+0000018 010  VVD     cried                    E4.1- Q2.2 
+0000018 020  NP1     Oliver                   Z1m 
+0000019 010  VVD     said                     Q2.1 
+0000019 020  NNB     Mrs                      Z1f[i5.2.1 Z1f[i4.2.1 Z1m[i3.2.1 
+0000019 030  NP1     Linacre                  Z1f[i5.2.2 Z1f[i4.2.2 Z1m[i3.2.2 
+0000020 010  VVD     said                     Q2.1 
+0000020 020  NP1     Mildred                  Z99 
+0000021 010  VVD     said                     Q2.1 
+0000021 020  NP1     Oliver                   Z1m 
+0000022 010  VVD     replied                  Q2.2 Q1.1 
+0000022 020  NP1     Mildred                  Z99 
+0000023 010  VVD     said                     Q2.1 
+0000023 020  NP1     Oliver                   Z1m 
+0000024 010  VVD     said                     Q2.1 
+0000024 020  NP1     Mildred                  Z99 
+0000024 021  ,       ,                        
+0000024 030  RR      dolefully                Z99 
+0000025 010  VVD     said                     Q2.1 
+0000025 020  NP1     Oliver                   Z1m 
+0000026 010  VVD     cried                    E4.1- Q2.2 
+0000026 020  NP1     Mildred                  Z99 
+0000027 010  VVD     exclaimed                Q2.2 
+0000027 020  NP1     Oliver                   Z1m 
+0000028 010  VVD     muttered                 Q2.2/X3.2- 
+0000028 020  NP1     Roger                    Z1m 
+0000029 010  VVD     said                     Q2.1 
+0000029 020  NP1     Roger                    Z1m 
+0000030 010  VVD     said                     Q2.1 
+0000030 020  NP1     Oliver                   Z1m 
+0000031 010  VVD     said                     Q2.1 
+0000031 020  NP1     Oliver                   Z1m 
+0000032 010  VVD     cried                    E4.1- Q2.2 
+0000032 020  NP1     Oliver                   Z1m 
+0000033 010  PPHS1   she                      Z8f 
+0000033 020  VVD     cried                    E4.1- Q2.2 
+0000034 010  VVD     whispered                Q2.1/X3.2- 
+0000034 020  NP1     Mildred                  Z99 
+0000035 010  VVD     said                     Q2.1 
+0000035 020  NP1     Oliver                   Z1m 
+0000036 010  VVD     thought                  X2.1 
+0000036 020  PPHS1   he                       Z8m 
+0000037 010  VVD     thought                  X2.1 
+0000037 020  NP1     Ailwin                   Z99 
+0000038 010  VVD     said                     Q2.1 
+0000038 020  NP1     Mildred                  Z99 
+0000038 021  ,       ,                        
+0000038 030  VVG     trembling                M1 E5- 
+0000039 010  NN1     thought                  X4.1 
+0000039 020  NP1     Mildred                  Z99 
+0000040 010  VVD     said                     Q2.1 
+0000040 020  NP1     Oliver                   Z1m 
+0000041 010  VVD     said                     Q2.1 
+0000041 020  NP1     Oliver                   Z1m 
+0000042 010  VVD     said                     Q2.1 
+0000042 020  PPHS1   he                       Z8m 
+0000043 010  VVD     said                     Q2.1 
+0000043 020  NP1     Ailwin                   Z99 
+0000044 010  VVD     said                     Q2.1 
+0000044 020  APPGE   her                      Z8f 
+0000044 030  NN1     brother                  S4m S2.2m S9/S2.2m 
+0000045 010  VVD     said                     Q2.1 
+0000045 020  NP1     Mildred                  Z99 
+0000046 010  VVD     said                     Q2.1 
+0000046 020  NP1     Ailwin                   Z99 
+0000047 010  VVD     said                     Q2.1 
+0000047 020  NP1     Mildred                  Z99 
+0000048 010  VVD     said                     Q2.1 
+0000048 020  PPHS1   she                      Z8f 
+0000049 010  VVD     said                     Q2.1 
+0000049 020  NP1     Ailwin                   Z99 
+0000050 010  VVD     said                     Q2.1 
+0000050 020  NP1     Roger                    Z1m 
+0000051 010  VVD     gasped                   B1 
+0000051 020  NP1     Mildred                  Z99 
+0000052 010  VVD     said                     Q2.1 
+0000052 020  NP1     Oliver                   Z1m 
+0000053 010  VVD     said                     Q2.1 
+0000053 020  NP1     Oliver                   Z1m 
+0000054 010  VVD     said                     Q2.1 
+0000054 020  NP1     Mildred                  Z99 
+0000055 010  VVD     said                     Q2.1 
+0000056 010  NP1     Mildred                  Z99 
+0000057 010  VVD     replied                  Q2.2 Q1.1 
+0000057 020  APPGE   her                      Z8f 
+0000057 030  NN1     brother                  S4m S2.2m S9/S2.2m 
+0000058 010  VVD     said                     Q2.1 
+0000058 020  NP1     Oliver                   Z1m 
+0000058 021  ,       ,                        
+0000058 030  RR      calmly                   E3+ E4.2+ 
+0000059 010  VVD     said                     Q2.1 
+0000059 020  PPHS1   he                       Z8m 
+0000060 010  VVD     said                     Q2.1 
+0000060 020  NP1     Mildred                  Z99 
+0000061 010  VVD     said                     Q2.1 
+0000062 010  NP1     Oliver                   Z1m 
+0000063 010  VVD     said                     Q2.1 
+0000063 020  NP1     Mildred                  Z99 
+0000064 010  VVD     said                     Q2.1 
+0000064 020  PPHS1   he                       Z8m 
+0000064 021  ,       ,                        
+0000065 010  VVG     sighing                  Q2.2/X3.2 
+0000066 010  VVD     said                     Q2.1 
+0000066 020  NP1     Roger                    Z1m 
+0000067 010  VVD     replied                  Q2.2 Q1.1 
+0000067 020  NP1     Roger                    Z1m 
+0000068 010  VVD     continued                T2++ 
+0000069 010  NP1     Roger                    Z1m 
+0000070 010  VVD     continued                T2++ 
+0000070 020  NP1     Oliver                   Z1m 
+0000071 010  PPHS1   he                       Z8m 
+0000071 020  VVD     continued                T2++ 
+0000072 010  VVD     said                     Q2.1 
+0000072 020  NP1     Roger                    Z1m 
+0000072 021  ,       ,                        
+0000072 030  RR      sorrowfully              Z99 
+0000073 010  VVD     said                     Q2.1 
+0000073 020  NP1     Ailwin                   Z99 
+0000074 001  NULL    **8;7;text               

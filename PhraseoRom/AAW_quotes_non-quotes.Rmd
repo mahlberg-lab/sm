@@ -1,0 +1,316 @@
+---
+title: "AAW quotes vs. non-quotes"
+author: "Viola Wiegand, Anthony Hennessey and Michaela Mahlberg"
+date: "`r Sys.Date()`"
+output:
+  md_document:
+    variant: markdown_github
+    toc: yes
+---
+```{r set-options, echo=FALSE, cache=FALSE}
+options(width = 1000)
+```
+# Data
+Libraries
+```{r libraries}
+library(CorporaCoCo)
+library(data.table)
+library(stringi)
+```
+
+## Get the corp\_text objects
+
+```{r import corp_text objects}
+quotes_files <- list.files("./api-output-sem-tagged/AAW/quote_corp_text_objects/", full.names = TRUE)
+quotes_objects <- lapply(quotes_files, readRDS)
+quotes_text <- corp_text_rbindlist(quotes_objects)
+
+non_quotes_files <- list.files("./api-output-sem-tagged/AAW/nonquote_corp_text_objects/", full.names = TRUE)
+non_quotes_objects <- lapply(non_quotes_files, readRDS)
+non_quotes_text <- corp_text_rbindlist(non_quotes_objects)
+```
+
+## Create a data.table where each column is a set of types for the tokens
+The loaded `corp_text` objects have the full semantic tags as the types
+
+semantic_tags
+:  keep whole of first tag, but not multipart or lowercase bits e.g. `A1.1.1+`. Remove [+-]? to not keep the plus or minus.
+
+lc_tokens
+:  lowercased tokens
+
+```{r create_type_lookup}
+quotes_type_store <- data.frame(
+    lc_tokens = tolower(quotes_text$tokens$token),
+    semantic_tags = stri_extract_first(quotes_text$tokens$type, regex = "^([A-Z]\\d+(?:\\.\\d+)*[+-]?)"),
+    stringsAsFactors = FALSE
+)
+non_quotes_type_store <- data.frame(
+    lc_tokens = tolower(non_quotes_text$tokens$token),
+    semantic_tags = stri_extract_first(non_quotes_text$tokens$type, regex = "^([A-Z]\\d+(?:\\.\\d+)*[+-]?)"),
+    stringsAsFactors = FALSE
+)
+```
+
+## Corpus size
+(Currently counts _b_)
+
+Quotes
+``` {r corpus size quotes}
+length(quotes_text$tokens$token)
+```
+
+Non-quotes 
+``` {r corpus size non_quotes}
+length(non_quotes_text$tokens$token)
+```
+
+# Unmatched tokens
+The Z99 tag contains "unmatched" tokens. These can be looked up like this for the quotes (but take up a lot of space):
+```{r Z99 quotes}
+#a <- corp_type_lookup(quotes_text)
+#a[type == "Z99"]$tokens
+```
+
+And like this for the nonquotes
+```{r Z99 non-quotes}
+#b <- corp_type_lookup(non_quotes_text)
+# b[type == "Z99"]$tokens
+```
+
+# Analysis: 1. Comparing manually chosen, specific body part terms + "lexical" collocates in AAW quotes vs. non-quotes
+
+``` {r comparison of specific body parts}
+quotes_text$tokens$type <- with(quotes_type_store, lc_tokens)
+quotes_text$tokens$type[is.na(quotes_type_store$semantic_tags)] <- NA  # reintroduce the cooccurence barriers
+non_quotes_text$tokens$type <- with(non_quotes_type_store, lc_tokens)
+non_quotes_text$tokens$type[is.na(non_quotes_type_store$semantic_tags)] <- NA  # reintroduce the cooccurence barriers
+
+head(quotes_text$tokens, 20)
+
+head(non_quotes_text$tokens, 20)
+
+# the set of nodes and collocates we are interested in
+nodes <- c('eye', 'eyes', 'forehead', 'hand', 'hands', 'head', 'shoulder')
+nodes
+
+#co-occurrences
+quotes_surface <- corp_surface(quotes_text, span = "5LR", nodes = nodes)
+non_quotes_surface <- corp_surface(non_quotes_text, span = "5LR", nodes = nodes)
+
+# compare quotes vs. non-quotes
+results <- corp_coco(quotes_surface, non_quotes_surface, nodes = nodes)
+```
+
+## Figure 1: Plot of specific, manually chosen body part terms +"lexical" collocates in AAW quotes vs. non-quotes
+
+```{r body_parts_AAW_quotes_vs_non_quotes_lexical, fig.width = 10, fig.height = 7, dpi=300}
+plot(results)
+```
+
+
+# Analysis: 2. Comparing B1 + all "lexical" collocates in AAW quotes vs. non-quotes
+
+For this part, only the tag B1 is kept, all others are replaced by lower case tokens. This means we are working with a version of the corpus where only B1 semantic tags are present, whereas everything else is shown as its original token form (but in lower case). This allows us to see co-occurrences such as B1 + "rubbing". If B1 co-occurred more frequently with itself in one of the corpora, the co-occurrence pair B1 + B1 would also show up (as all realizations of the tag B1 are disaplyed as "B1" rather than their tokens at this stage).
+
+```{r keep only B1}
+quotes_text$tokens$type <- with(quotes_type_store, ifelse(grepl("^B1", semantic_tags), semantic_tags, lc_tokens))
+quotes_text$tokens$type[is.na(quotes_type_store$semantic_tags)] <- NA  # reintroduce the cooccurence barriers
+non_quotes_text$tokens$type <- with(non_quotes_type_store, ifelse(grepl("^B1", semantic_tags), semantic_tags, lc_tokens))
+non_quotes_text$tokens$type[is.na(non_quotes_type_store$semantic_tags)] <- NA  # reintroduce the cooccurence barriers
+```
+
+## Number of (lexical) types & tokens in B1 & examples
+### Quotes
+```{r type mapping quotes}
+a <- corp_type_lookup(quotes_text)
+
+# Number of tokens tagged as B1 in quotes
+nrow(quotes_text$tokens[type=="B1"])
+
+# Top 20 frequency of (lexical) types tagged as B1
+freq_list <- (as.data.frame(sort(table(quotes_text$tokens[type=="B1"]$token), decreasing = TRUE)))
+head(freq_list, 20)
+   
+# All "token types" tagged as B1 in quotes
+unique(tolower(a[type == "B1"]$tokens))
+```
+
+### Non-quotes
+```{r type mapping non-quotes}
+b <- corp_type_lookup(non_quotes_text)
+
+# Number of tokens tagged as B1 in non-quotes
+nrow(non_quotes_text$tokens[type=="B1"])
+
+# Top 20 frequency of (lexical) types tagged as B1
+freq_list <- (as.data.frame(sort(table(non_quotes_text$tokens[type=="B1"]$token), decreasing = TRUE)))
+head(freq_list, 20)
+
+# All "token types" tagged as B1 in non-quotes
+unique(tolower(b[type == "B1"]$tokens))
+```
+
+
+``` {r comparison of B1}
+# the set of nodes and collocates we are interested in
+nodes <- unique(grep("^B1", c(quotes_text$tokens$type, non_quotes_text$tokens$type), value = TRUE))
+nodes
+
+#co-occurrences
+quotes_surface <- corp_surface(quotes_text, span = "5LR", nodes = nodes)
+non_quotes_surface <- corp_surface(non_quotes_text, span = "5LR", nodes = nodes)
+
+# compare
+results <- corp_coco(quotes_surface, non_quotes_surface, nodes = nodes)
+```
+
+## Concordances of "lexical" collocates
+These are concordances of the B1 tag with specific "lexical" collocates (e.g. "rubbing") - chosen from the plot. At this point we are mainly interested in the collocates of body part terms/the B1 tag in non-quotes, so have created concordances for this corpus only.
+
+### Concordances: Non-quotes
+```{r concordances for lexical collocates Non-quotes}
+# replied
+y <- corp_concordance(non_quotes_surface, nodes = nodes, collocates= c("replied"), context = 0)
+y
+
+# returned
+y <- corp_concordance(non_quotes_surface, nodes = nodes, collocates= c("returned"), context = 0)
+y
+
+# cried
+y <- corp_concordance(non_quotes_surface, nodes = nodes, collocates= c("cried"), context = 0)
+y
+
+# rejoined
+y <- corp_concordance(non_quotes_surface, nodes = nodes, collocates= c("rejoined"), context = 0)
+y
+
+# glancing
+y <- corp_concordance(non_quotes_surface, nodes = nodes, collocates= c("glancing"), context = 0)
+y
+
+# resting
+y <- corp_concordance(non_quotes_surface, nodes = nodes, collocates= c("resting"), context = 0)
+y
+```
+
+### Figure 2: Plot of B1 +"lexical" collocates in AAW quotes vs. non-quotes
+
+This plot is restricted to effect sizes over 1, i.e. more than twice as frequent.
+
+```{r B1_AAW_quotes_vs_non_quotes_lexical, fig.width = 10, fig.height = 15, dpi=300}
+plot(results[abs(effect_size)>1])
+```
+
+# Analysis: 3. Comparing B1 + all semantic types in AAW quotes vs. non-quotes
+
+```{r B1 vs all semantic types}
+quotes_text$tokens$type <- with(quotes_type_store, semantic_tags)
+non_quotes_text$tokens$type <- with(non_quotes_type_store, semantic_tags)
+
+head(quotes_text$tokens, 20)
+head(non_quotes_text$tokens, 20)
+
+# the set of nodes and collocates we are interested in
+nodes <- unique(grep("^B1", c(quotes_text$tokens$type, non_quotes_text$tokens$type), value = TRUE))
+nodes
+
+quotes_surface <- corp_surface(quotes_text, span = "5LR", nodes = nodes)
+non_quotes_surface <- corp_surface(non_quotes_text, span = "5LR", nodes = nodes)
+
+# compare
+results <- corp_coco(quotes_surface, non_quotes_surface, nodes = nodes)
+```
+
+## Figure 3: Plot of B1 + "semantic tag collocates" in AAW quotes vs. non-quotes 
+```{r B1_AAW_quotes_vs_non_quotes_semantic, fig.width = 10, fig.height = 7, dpi=300}
+plot(results)
+```
+
+## Concordances of semantic tag collocates
+
+The concordances below have been picked relatively spontaneously from among the high effect size differences and the unique results. We can easily add other concordances.
+
+### Concordances of semantic tag collocates: Quotes
+```{r concordances Quotes}
+# T1.1.3 ["Time: General: Future"]
+y <- corp_concordance(quotes_surface, nodes = nodes, collocates= c("T1.1.3"), context = 0)
+y
+
+# Z4 ["Discourse bin"]
+y <- corp_concordance(quotes_surface, nodes = nodes, collocates= c("Z4"), context = 0)
+y
+
+# Z7 ["If"]
+y <- corp_concordance(quotes_surface, nodes = nodes, collocates= c("Z7"), context = 0)
+y
+
+# N3.4 ["Measurement: Volume"]
+y <- corp_concordance(quotes_surface, nodes = nodes, collocates= c("N3.4"), context = 0)
+y
+
+# I1.3+ ["Money: Price"]
+y <- corp_concordance(quotes_surface, nodes = nodes, collocates= c("I1.3+"), context = 0)
+y
+
+# S7.4+ ["Permission" +]
+y <- corp_concordance(quotes_surface, nodes = nodes, collocates= c("S7.4+"), context = 0)
+y
+```
+
+### Concordances of "semantic tag collocates": Non-quotes
+```{r concordances Non-quotes}
+# N3.4- ["Measurement: Volume" -]
+y <- corp_concordance(non_quotes_surface, nodes = nodes, collocates= c("N3.4-"), context = 0)
+y
+
+# H4- ["Residence" -]
+y <- corp_concordance(non_quotes_surface, nodes = nodes, collocates= c("H4-"), context = 0)
+y
+
+# A1.3- ["Caution" -]
+y <- corp_concordance(non_quotes_surface, nodes = nodes, collocates= c("A1.3-"), context = 0)
+y
+
+# I3.2 ["Work and employment: Professionalism"]
+y <- corp_concordance(non_quotes_surface, nodes = nodes, collocates= c("I3.2"), context = 0)
+y
+
+# N3.1 ["Measurement: General"]
+y <- corp_concordance(non_quotes_surface, nodes = nodes, collocates= c("N3.1"), context = 0)
+y
+
+# X5.1+ ["Attention" +]
+y <- corp_concordance(non_quotes_surface, nodes = nodes, collocates= c("X5.1+"), context = 0)
+y
+
+# F3 ["Cigarettes and drugs"]
+y <- corp_concordance(non_quotes_surface, nodes = nodes, collocates= c("F3"), context = 0)
+y
+
+# S1.2.3- ["Egoism" -]
+y <- corp_concordance(non_quotes_surface, nodes = nodes, collocates= c("S1.2.3-"), context = 0)
+y
+
+# N3.8- ["Measurement: Speed" -]
+y <- corp_concordance(non_quotes_surface, nodes = nodes, collocates= c("N3.8-"), context = 0)
+y
+
+# N3.6 ["Measurement: Area"]
+y <- corp_concordance(non_quotes_surface, nodes = nodes, collocates= c("N3.6"), context = 0)
+y
+```
+
+# How this document was generated
+This document is written in [rmarkdown](https://cran.r-project.org/package=rmarkdown).
+The intension is to use [knitr](https://cran.r-project.org/package=knitr) to generate either `html` or `pdf` versions of the document.
+The advantage of `rmarkdown` is that `R` code examples can be embedded in the document -- the code samples being executed and the results generated when the document is 'compiled'.
+Details of the citation syntax can be found in the [pandoc documentation](http://pandoc.org/MANUAL.html#citations).
+Details of equation numbering can be found in the [MathJax documentation](http://mathjax.readthedocs.io/en/latest/tex.html#automatic-equation-numbering).
+Combining code with documentation is a form of [literate programming](https://www-cs-faculty.stanford.edu/~knuth/lp.html).
+
+In a linux environment the `html` document can be generated on the command liner like this:
+```bash
+Rdev -e "rmarkdown::render('AAW_quotes_non-quotes.Rmd')"
+```

@@ -1,0 +1,21 @@
+0000001 001  NULL    **6;0;START              
+0000001 002  -----   -----                    
+0000002 010  CC      and                      Z5 
+0000003 010  VVD     gasped                   B1 
+0000003 020  AT      the                      Z5 
+0000003 030  NN1     Postman                  Q1.2/I3.2/S2.2m 
+0000004 010  VBDZ    was                      A3+ Z5 
+0000004 020  AT      the                      Z5 
+0000004 030  NN1     reply                    Q2.2 
+0000005 010  PPHS1   he                       Z8m 
+0000005 020  VVD     sobbed                   E4.1- 
+0000006 010  VVD     urged                    Q2.2 
+0000006 020  NP1     Jackanapes               S1.2.4-/S2mf A11.1--/S2mf N3.5- A11.1- K5.1/S2mf A10-/Q1.2 N2 X3.2/N6+ S7.1-/S2mf A11.1-/S2mf Z8/Z6cmf 
+0000007 010  VVD     said                     Q2.1 
+0000008 010  NP1     Jackanapes               S1.2.4-/S2mf A11.1--/S2mf N3.5- A11.1- K5.1/S2mf A10-/Q1.2 N2 X3.2/N6+ S7.1-/S2mf A11.1-/S2mf Z8/Z6cmf 
+0000009 010  VVD     said                     Q2.1 
+0000009 020  NP1     Jackanapes               S1.2.4-/S2mf A11.1--/S2mf N3.5- A11.1- K5.1/S2mf A10-/Q1.2 N2 X3.2/N6+ S7.1-/S2mf A11.1-/S2mf Z8/Z6cmf 
+0000010 010  VVD     sobbed                   E4.1- 
+0000010 020  NNB     Mrs.                     Z1f[i2.2.1 Z1m[i1.2.1 
+0000010 030  NP1     Johnson                  Z1f[i2.2.2 Z1mf Z1m[i1.2.2 
+0000011 001  NULL    **8;7;text               

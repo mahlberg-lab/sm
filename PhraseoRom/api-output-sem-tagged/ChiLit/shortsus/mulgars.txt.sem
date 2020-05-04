@@ -1,0 +1,436 @@
+0000001 001  NULL    **6;0;START              
+0000001 002  -----   -----                    
+0000002 010  PPHS1   she                      Z8f 
+0000002 020  VVD     said                     Q2.1 
+0000003 010  AT      the                      Z5 
+0000003 020  NNT1    second                   T1.3 T1.2 
+0000003 030  VBZ     is                       A3+ Z5 
+0000004 010  CC      and                      Z5 
+0000004 020  AT      the                      Z5 
+0000004 030  MD      third                    N4 N5 N1 
+0000004 040  VBZ     is                       A3+ Z5 
+0000005 010  REX41   that                     Z5 Z8 A13.3 A6.1+ 
+0000005 020  REX42   is                       A3+ Z5 
+0000005 030  REX43   to                       Z5 M6 
+0000005 040  REX44   say                      S7.1+ Q2.1 Z1mf Z4% 
+0000006 010  CC      or                       Z5 
+0000007 010  CC      or                       Z5 
+0000008 010  VVD     said                     Q2.1 
+0000008 020  NN1     Thumb                    B1 B5 
+0000009 010  VVD     said                     Q2.1 
+0000009 020  NN1     Nod                      Z3c 
+0000010 010  VVD     began                    T2+ 
+0000010 020  AT      the                      Z5 
+0000010 030  MD      first                    N4 
+0000010 040  RT      again                    N6+ Z4 
+0000011 010  VVD     said                     Q2.1 
+0000011 020  NN1     Nod                      Z3c 
+0000012 010  PPHS1   he                       Z8m 
+0000012 020  VVD     said                     Q2.1 
+0000013 010  JJ%     said                     Q1.1 Q2.1 
+0000013 020  NN1     Thumb                    B1 B5 
+0000013 030  RR      sourly                   A5.1- 
+0000014 010  PPHS1   he                       Z8m 
+0000014 020  VVD     said                     Q2.1 
+0000015 010  PPHS1   he                       Z8m 
+0000015 020  VVD     said                     Q2.1 
+0000016 010  JJ%     said                     Q1.1 Q2.1 
+0000016 020  NN1     Nod                      Z3c 
+0000017 010  VVD     said                     Q2.1 
+0000017 020  NN1     Thimble                  O2 
+0000018 010  PPHS1   he                       Z8m 
+0000018 020  VVD     thought                  X2.1 
+0000019 010  VVZ     says                     Q2.1 
+0000019 020  PPHS1   he                       Z8m 
+0000020 010  VVD     said                     Q2.1 
+0000020 020  NN1     Nod                      Z3c 
+0000021 010  VVD     said                     Q2.1 
+0000021 020  NN1     Nod                      Z3c 
+0000021 030  RR      softly                   E3+ X3.2 O4.3 
+0000022 010  PPHS1   he                       Z8m 
+0000022 020  VVD     said                     Q2.1 
+0000023 010  RR      cunningly                X9.1+ 
+0000024 010  VVD     said                     Q2.1 
+0000024 020  NN1     Nod                      Z3c 
+0000025 010  PPHS1   he                       Z8m 
+0000025 020  VVD     said                     Q2.1 
+0000026 010  JJ%     said                     Q1.1 Q2.1 
+0000026 020  NN1     Nod                      Z3c 
+0000027 010  VVD     said                     Q2.1 
+0000027 020  AT      the                      Z5 
+0000027 030  NP1     Gunga                    Z99 
+0000027 040  RR      cunningly                X9.1+ 
+0000028 010  VVD     said                     Q2.1 
+0000028 020  AT      the                      Z5 
+0000028 030  NP1     Gunga                    Z99 
+0000028 040  RR      triumphantly             X9.2+ 
+0000029 010  PPHS1   he                       Z8m 
+0000029 020  VVD     said                     Q2.1 
+0000030 010  PPHS1   he                       Z8m 
+0000030 020  VVD     said                     Q2.1 
+0000031 010  PPHS1   he                       Z8m 
+0000031 020  VVD     cried                    E4.1- Q2.2 
+0000031 030  RP      out                      M6 
+0000032 010  VVD     said                     Q2.1 
+0000032 020  NN1     Nod                      Z3c 
+0000033 010  VVD     said                     Q2.1 
+0000033 020  NN1     Nod                      Z3c 
+0000034 010  VVD     said                     Q2.1 
+0000034 020  NN1     Nod                      Z3c 
+0000035 010  VVD     said                     Q2.1 
+0000035 020  NN1     Nod                      Z3c 
+0000036 010  VVD     said                     Q2.1 
+0000036 020  AT      the                      Z5 
+0000036 030  JJ      old                      T3+ Z4 
+0000036 040  NN1@    Gunga                    Z99 
+0000037 010  PPHS1   he                       Z8m 
+0000037 020  VVD     went                     T2++[i1.2.1 M1[i1.2.1 Q2.1/N5+[i1.2.1 A1.1.1[i1.2.1 M1 A2.1+ A1.1.1 A9- A1.8+ Q2.1 N6+ I2.2 A1.1.2 T2- S3.2 A6.3+ B2-/X1% B1% 
+0000037 030  RP@     on                       T2++[i1.2.2 M1[i1.2.2 Q2.1/N5+[i1.2.2 A1.1.1[i1.2.2 M6 A1.1.1 
+0000038 010  VVD     said                     Q2.1 
+0000038 020  PPHS1   he                       Z8m 
+0000039 010  VVZ     says                     Q2.1 
+0000039 020  PPHS1   he                       Z8m 
+0000040 010  PPHS1   he                       Z8m 
+0000041 010  VVD     grunted                  X3.2 
+0000042 010  NN1     Nod                      Z3c 
+0000042 020  VVD     cried                    E4.1- Q2.2 
+0000043 010  PPHS1   he                       Z8m 
+0000043 020  VVD     said                     Q2.1 
+0000044 010  VVD     replied                  Q2.2 Q1.1 
+0000044 020  NN1     Nod                      Z3c 
+0000044 021  ,       ,                        
+0000044 030  VVG     smiling                  E4.1+ 
+0000044 040  RR      faintly                  A11.2- 
+0000045 010  VVD     said                     Q2.1 
+0000045 020  NN1     Nod                      Z3c 
+0000046 010  PPHS1   she                      Z8f 
+0000046 020  VVD     said                     Q2.1 
+0000046 030  RR21    at                       N4[i2.2.1 
+0000046 040  RR22    last                     N4[i2.2.2 
+0000047 010  PPHS1   he                       Z8m 
+0000047 020  VVD     said                     Q2.1 
+0000048 010  PPHS2   they                     Z8mfn 
+0000048 020  VVD     cried                    E4.1- Q2.2 
+0000048 030  DB      all                      A13.2[i3.2.1 S5+[i3.2.1 N5.1+[i3.2.1 N5.1+ 
+0000048 040  RL      together                 A13.2[i3.2.2 S5+[i3.2.2 N5.1+[i3.2.2 S5+ T1.1.2 M6 
+0000049 010  PPHS1   she                      Z8f 
+0000049 020  VVD     said                     Q2.1 
+0000050 010  PPHS2   they                     Z8mfn 
+0000050 020  VVD     squeaked                 X3.2+ 
+0000051 010  VVD     cried                    E4.1- Q2.2 
+0000051 020  AT1     an                       Z5 
+0000051 030  JJ      angry                    E3- W4 
+0000051 040  NN1     voice                    Q2.1 X2.1 S7.1+ Q3 K2 
+0000052 010  NN1     Nod                      Z3c 
+0000052 020  VVD     answered                 Q2.2 S1.1.1 
+0000052 030  RR      weakly                   S1.2.5- S7.1- 
+0000053 010  VVD     answered                 Q2.2 S1.1.1 
+0000053 020  AT      the                      Z5 
+0000053 030  NN1     voice                    Q2.1 X2.1 S7.1+ Q3 K2 
+0000053 040  RR      softly                   E3+ X3.2 O4.3 
+0000054 010  PPHS1   he                       Z8m 
+0000054 020  VVD     said                     Q2.1 
+0000054 030  RR      cheerfully               E4.1+ 
+0000055 010  VVD     said                     Q2.1 
+0000055 020  NN1     Nod                      Z3c 
+0000055 030  RR      meekly                   S1.2.3- 
+0000056 010  VVD     said                     Q2.1 
+0000056 020  AT      the                      Z5 
+0000056 030  NN1     voice                    Q2.1 X2.1 S7.1+ Q3 K2 
+0000056 040  RR      slowly                   N3.8- 
+0000057 010  VVD     said                     Q2.1 
+0000057 020  NP1     Mishcha                  Z99 
+0000058 010  VVD     said                     Q2.1 
+0000058 020  AT      the                      Z5 
+0000058 030  JJ      old                      T3+ Z4 
+0000058 040  NN1     hare                     L2mfn F1 
+0000059 010  PPHS1   she                      Z8f 
+0000059 020  VVD     said                     Q2.1 
+0000060 010  PPHS1   he                       Z8m 
+0000060 020  VVD     said                     Q2.1 
+0000061 010  II      to                       Z5 
+0000061 020  PPX1    himself                  Z8m 
+0000062 010  PPHS1   he                       Z8m 
+0000062 020  VVD     said                     Q2.1 
+0000062 030  RR      coaxingly                Z99 
+0000063 010  PPHS1   he                       Z8m 
+0000063 020  VVD     shouted                  Q2.2/X3.2++ 
+0000064 010  PPHS1   he                       Z8m 
+0000064 020  VVD     muttered                 Q2.2/X3.2- 
+0000065 010  PPHS1   he                       Z8m 
+0000065 020  VVD     said                     Q2.1 
+0000066 010  VVD     said                     Q2.1 
+0000066 020  PPHS1   he                       Z8m 
+0000067 010  VVD     went                     M1 A2.1+ A1.1.1 A9- A1.8+ Q2.1 N6+ I2.2 A1.1.2 T2- S3.2 A6.3+ B2-/X1% B1% 
+0000067 020  II      on                       Z5 
+0000067 030  AT      the                      Z5 
+0000067 040  NN1     sailor                   M4/S2mf 
+0000068 010  CC      or                       Z5 
+0000069 010  PPHS1   he                       Z8m 
+0000069 020  VVD     scoffed                  F1 E4.1+ 
+0000069 030  RR      softly                   E3+ X3.2 O4.3 
+0000070 010  VVD     said                     Q2.1 
+0000070 020  AT      the                      Z5 
+0000070 030  JJ      old                      T3+ Z4 
+0000070 040  NN1     hare                     L2mfn F1 
+0000071 010  VVD     said                     Q2.1 
+0000071 020  NP1     Mishcha                  Z99 
+0000072 010  PPHS1   he                       Z8m 
+0000072 020  VVD     said                     Q2.1 
+0000073 010  PPHS1   he                       Z8m 
+0000073 020  VVD     lifted                   M2 A5.1+/A2.1 E4.1+/A2.1 G2.1 
+0000073 030  APPGE   his                      Z8m 
+0000073 040  NN2     brows                    B1 
+0000074 010  VVD     said                     Q2.1 
+0000074 020  NN1     Battle                   X8+ G3 E3- O2 
+0000075 010  VVD     said                     Q2.1 
+0000075 020  PPHS1   she                      Z8f 
+0000076 010  VVD     said                     Q2.1 
+0000076 020  NN1     Nod                      Z3c 
+0000077 010  VVD     snarled                  X3.2 Q2.2/E3- 
+0000077 020  AT      the                      Z5 
+0000077 030  JJ      Nameless                 A10-/Q2.2 
+0000078 010  PPHS1   she                      Z8f 
+0000078 020  VVD     said                     Q2.1 
+0000079 010  JJ%     said                     Q1.1 Q2.1 
+0000079 020  NN1     Nod                      Z3c 
+0000079 030  RR      softly                   E3+ X3.2 O4.3 
+0000080 010  VVZ     says                     Q2.1 
+0000080 020  PPHS1   she                      Z8f 
+0000081 010  PPHS1   he                       Z8m 
+0000081 020  VVD     said                     Q2.1 
+0000082 010  PPHS1   he                       Z8m 
+0000082 020  VVD     said                     Q2.1 
+0000083 010  VVZ     says                     Q2.1 
+0000083 020  PPHS1   he                       Z8m 
+0000084 010  VVD     cried                    E4.1- Q2.2 
+0000084 020  NN1     Nod                      Z3c 
+0000085 010  RRR@    louder                   X3.2+ 
+0000086 010  PPHS1   she                      Z8f 
+0000086 020  VVD     said                     Q2.1 
+0000086 021  ,       ,                        
+0000086 030  VVG     fawning                  S1.1.1 
+0000087 010  JJ%     said                     Q1.1 Q2.1 
+0000087 020  NN1     Nod                      Z3c 
+0000087 030  RR      boldly                   E5+ 
+0000088 010  PPHS1   he                       Z8m 
+0000088 020  VVD     said                     Q2.1 
+0000089 010  VVN     called                   Q2.2 S1.1.1 Q1.3 S9% 
+0000089 020  VV0     Nod                      Z3c 
+0000089 030  RR      softly                   E3+ X3.2 O4.3 
+0000090 010  VVD     said                     Q2.1 
+0000090 020  NN1     Nod                      Z3c 
+0000091 010  VVD     said                     Q2.1 
+0000091 020  NN1     Nod                      Z3c 
+0000092 010  VVD     groaned                  X3.2 Q2.2 
+0000092 020  NP1     Immanala                 Z99 
+0000093 010  VVD     said                     Q2.1 
+0000093 020  NN1     Nod                      Z3c 
+0000094 010  VVD     said                     Q2.1 
+0000094 020  NN1     Nod                      Z3c 
+0000095 010  PPHS1   she                      Z8f 
+0000095 020  VVD     pleaded                  Q2.2 G2.1/Q2.2 
+0000096 010  JJ%     said                     Q1.1 Q2.1 
+0000096 020  NN1     Nod                      Z3c 
+0000096 030  RR      shakily                  M1 A7- A5.1- 
+0000097 010  PPHS1   he                       Z8m 
+0000097 020  VVD     grunted                  X3.2 
+0000098 010  JJ%     said                     Q1.1 Q2.1 
+0000098 020  NN1     Nod                      Z3c 
+0000098 021  ,       ,                        
+0000098 030  VVG     trembling                M1 E5- 
+0000099 010  PPHS1   he                       Z8m 
+0000099 020  VVD     said                     Q2.1 
+0000100 010  JJ%     said                     Q1.1 Q2.1 
+0000100 020  NN1     Nod                      Z3c 
+0000101 010  VVD     said                     Q2.1 
+0000101 020  NN1     Thumb                    B1 B5 
+0000101 021  ,       ,                        
+0000101 030  VVG     muttering                Q2.2/X3.2- 
+0000102 010  PPHS1   he                       Z8m 
+0000102 020  VVD     said                     Q2.1 
+0000103 010  CC      or                       Z5 
+0000104 010  VVD     broke                    A1.7-[i4.2.1 T2+[i4.2.1 A11.2+/A2.1[i4.2.1 A1.7-/G2.1[i4.2.1 A1.1.2 A1.1.1 A1.9 S5- T2- E4.1-/A2.2 A2.1+ T1.3 Q2.1@ 
+0000104 020  RP      out                      A1.7-[i4.2.2 T2+[i4.2.2 A11.2+/A2.1[i4.2.2 A1.7-/G2.1[i4.2.2 M6 
+0000104 030  NN1     Thimble                  O2 
+0000105 010  VVD     said                     Q2.1 
+0000105 020  NN1     Nod                      Z3c 
+0000105 030  RR      bitterly                 A13.3 E3- 
+0000106 010  VVZ     says                     Q2.1 
+0000106 020  NN1     Thumb                    B1 B5 
+0000107 010  VVD     said                     Q2.1 
+0000107 020  NN1     Thumb                    B1 B5 
+0000108 010  PPHS1   he                       Z8m 
+0000108 020  VVD     said                     Q2.1 
+0000109 010  JJ%     said                     Q1.1 Q2.1 
+0000109 020  NN1     Thimble                  O2 
+0000109 030  RR      softly                   E3+ X3.2 O4.3 
+0000110 010  VVD     cried                    E4.1- Q2.2 
+0000110 020  NN1     Nod                      Z3c 
+0000110 030  II      in                       Z5 
+0000110 040  NN1     terror                   E5- G2.2-/S2mf 
+0000111 010  CC      or                       Z5 
+0000112 010  PPHS1   he                       Z8m 
+0000112 020  VVD     barked                   L2/X3.2 
+0000113 010  PPHS1   he                       Z8m 
+0000113 020  VVD     said                     Q2.1 
+0000113 030  RR21    at                       N4[i5.2.1 
+0000113 040  RR22    last                     N4[i5.2.2 
+0000114 010  JJ@     muttered                 Q2.2/X3.2- 
+0000114 020  NN1     Thumb                    B1 B5 
+0000115 010  PPHS1   he                       Z8m 
+0000115 020  VVD     said                     Q2.1 
+0000116 010  PPHS1   he                       Z8m 
+0000116 020  VVD     said                     Q2.1 
+0000117 010  JJ%     said                     Q1.1 Q2.1 
+0000117 020  NN1     Nod                      Z3c 
+0000118 010  PPHS1   he                       Z8m 
+0000118 020  VVD     growled                  X3.2 Q2.2 L2/Q2.1 
+0000119 010  JJ%     said                     Q1.1 Q2.1 
+0000119 020  NN1     Battle                   X8+ G3 E3- O2 
+0000120 010  VVD     repeated                 N6+ Q2.1/N6+ F1/B1@ 
+0000120 020  AT      the                      Z5 
+0000120 030  NN1     sailor                   M4/S2mf 
+0000121 010  VVZ     says                     Q2.1 
+0000121 020  PPHS1   he                       Z8m 
+0000122 010  VVD     said                     Q2.1 
+0000122 020  NP1     Ghibba                   Z99 
+0000123 010  VVD     said                     Q2.1 
+0000123 020  NN1     Nod                      Z3c 
+0000123 030  RR      presently                T1.1.3 T1.1.2 
+0000124 010  VVD     said                     Q2.1 
+0000124 020  NN1     Nod                      Z3c 
+0000125 010  VVD     said                     Q2.1 
+0000125 020  NN1     Nod                      Z3c 
+0000126 010  VVD     said                     Q2.1 
+0000126 020  NP1     Ghibba                   Z99 
+0000127 010  VVD     said                     Q2.1 
+0000127 020  NN1     Thumb                    B1 B5 
+0000128 010  VVD     said                     Q2.1 
+0000128 020  NN1     Nod                      Z3c 
+0000128 030  RR      softly                   E3+ X3.2 O4.3 
+0000129 010  VVD     said                     Q2.1 
+0000129 020  NN1     Nod                      Z3c 
+0000130 010  VVD     grunted                  X3.2 
+0000130 020  NN1     Thumb                    B1 B5 
+0000130 030  RR      sourly                   A5.1- 
+0000131 010  VVD     grunted                  X3.2 
+0000131 020  NN1     Thumb                    B1 B5 
+0000131 030  II      to                       Z5 
+0000131 040  NP1     Ghibba                   Z99 
+0000132 010  PPHS1   he                       Z8m 
+0000132 020  VVD     said                     Q2.1 
+0000133 010  JJ%     said                     Q1.1 Q2.1 
+0000133 020  NN1     Thumb                    B1 B5 
+0000134 010  PPHS1   he                       Z8m 
+0000134 020  VVD     grunted                  X3.2 
+0000135 010  PPHS1   he                       Z8m 
+0000135 020  VVD     said                     Q2.1 
+0000136 010  VVD     said                     Q2.1 
+0000136 020  NP1     Ghibba                   Z99 
+0000137 010  VVD     said                     Q2.1 
+0000137 020  NN1     Nod                      Z3c 
+0000138 010  VVD     said                     Q2.1 
+0000138 020  NP1     Ghibba                   Z99 
+0000139 010  VVD     continued                T2++ 
+0000139 020  AT      the                      Z5 
+0000139 030  JJ      old                      T3+ Z4 
+0000139 040  NN1     Mulgar                   Z99 
+0000140 010  VVD     said                     Q2.1 
+0000140 020  NP1     Ghibba                   Z99 
+0000141 010  VVD     cried                    E4.1- Q2.2 
+0000141 020  NN1     Nod                      Z3c 
+0000142 010  VVD     said                     Q2.1 
+0000142 020  NN1     Nod                      Z3c 
+0000143 010  VVD     said                     Q2.1 
+0000143 020  NP1     Ghibba                   Z99 
+0000144 010  PPHS1   he                       Z8m 
+0000144 020  VVD     said                     Q2.1 
+0000144 021  ,       ,                        
+0000144 030  VVG     smiling                  E4.1+ 
+0000144 040  RR      crookedly                Z99 
+0000145 010  PPHS1   he                       Z8m 
+0000145 020  VVD     whispered                Q2.1/X3.2- 
+0000146 010  JJ%     said                     Q1.1 Q2.1 
+0000146 020  NN1     Thumb                    B1 B5 
+0000146 030  RR      harshly                  O4.2- 
+0000147 010  VVN     called                   Q2.2 S1.1.1 Q1.3 S9% 
+0000147 020  NN1     Thumb                    B1 B5 
+0000147 021  ,       ,                        
+0000147 030  JJ      afraid                   E5- E4.1- 
+0000148 010  PPHS1   he                       Z8m 
+0000148 020  VVD     said                     Q2.1 
+0000149 010  PPHS1   he                       Z8m 
+0000150 010  VVD     answered                 Q2.2 S1.1.1 
+0000151 010  PPHS1   he                       Z8m 
+0000152 010  VVD     said                     Q2.1 
+0000153 010  PPHS1   he                       Z8m 
+0000153 020  VVD     said                     Q2.1 
+0000154 010  CC      and                      Z5 
+0000155 010  PPHS1   he                       Z8m 
+0000155 020  VVD     said                     Q2.1 
+0000156 010  PPHS1   he                       Z8m 
+0000157 010  VVD     thought                  X2.1 
+0000158 010  PPHS1   he                       Z8m 
+0000158 020  VVD     whispered                Q2.1/X3.2- 
+0000159 010  PPHS1   she                      Z8f 
+0000159 020  VVD     said                     Q2.1 
+0000160 010  JJ%     said                     Q1.1 Q2.1 
+0000160 020  NN1     Nod                      Z3c 
+0000161 010  PPHS1   she                      Z8f 
+0000162 010  VVD     said                     Q2.1 
+0000163 010  JJ%     said                     Q1.1 Q2.1 
+0000163 020  NN1     Nod                      Z3c 
+0000163 030  RR      gravely                  E4.1- A1.3+ 
+0000164 010  PPHS1   she                      Z8f 
+0000164 020  VVD     said                     Q2.1 
+0000165 010  JJ%     said                     Q1.1 Q2.1 
+0000165 020  NN1     Nod                      Z3c 
+0000165 030  RR      quickly                  N3.8+ 
+0000166 010  VVD     said                     Q2.1 
+0000166 020  AT      the                      Z5 
+0000166 030  NN1     Midden                   F1/H2 M7/O4.2- M2 N5 Y2% T2- I2.2/I1.3- S3.1- Y2 X7-/O2 A5.1- O4.2- A5.2- Z3c A9- A1.1.2 Q2.2 N5+ O2 H1 A1.1.1/N5+ W3 
+0000167 010  PPHS1   he                       Z8m 
+0000167 020  VVD     said                     Q2.1 
+0000168 010  VVD     said                     Q2.1 
+0000168 020  PPHS1   she                      Z8f 
+0000169 010  VVD     cried                    E4.1- Q2.2 
+0000169 020  AT      the                      Z5 
+0000169 030  NN1     Midden                   F1/H2 M7/O4.2- M2 N5 Y2% T2- I2.2/I1.3- S3.1- Y2 X7-/O2 A5.1- O4.2- A5.2- Z3c A9- A1.1.2 Q2.2 N5+ O2 H1 A1.1.1/N5+ W3 
+0000170 010  PPHS1   he                       Z8m 
+0000170 020  VVD     said                     Q2.1 
+0000171 010  JJ%     said                     Q1.1 Q2.1 
+0000171 020  NN1     Thumb                    B1 B5 
+0000172 010  VVD     said                     Q2.1 
+0000172 020  NP1     Ghibba                   Z99 
+0000173 010  VVD     whispered                Q2.1/X3.2- 
+0000173 020  NN1     Nod                      Z3c 
+0000174 010  PPHS1   he                       Z8m 
+0000174 020  VVD     said                     Q2.1 
+0000175 010  PPHS1   he                       Z8m 
+0000175 020  VVD     said                     Q2.1 
+0000176 010  NN1     Nod                      Z3c 
+0000176 020  VVD     answered                 Q2.2 S1.1.1 
+0000177 010  PPHS1   she                      Z8f 
+0000177 020  VVD     repeated                 N6+ Q2.1/N6+ F1/B1@ 
+0000177 030  RR      softly                   E3+ X3.2 O4.3 
+0000178 010  PPHS1   she                      Z8f 
+0000178 020  VVD     said                     Q2.1 
+0000179 010  JJ%     said                     Q1.1 Q2.1 
+0000179 020  NN1     Thumb                    B1 B5 
+0000179 030  RR      drowsily                 Z99 
+0000180 010  VVD     said                     Q2.1 
+0000180 020  NN1     Thumb                    B1 B5 
+0000181 010  PPHS1   he                       Z8m 
+0000181 020  VVD     said                     Q2.1 
+0000181 030  RR21    at                       N4[i6.2.1 
+0000181 040  RR22    last                     N4[i6.2.2 
+0000182 010  VVD     said                     Q2.1 
+0000182 020  NN1     Nod                      Z3c 
+0000182 030  RR      slowly                   N3.8- 
+0000183 010  VVD     grunted                  X3.2 
+0000183 020  NN1     Thumb                    B1 B5 
+0000183 030  RR      suddenly                 N3.8+ 
+0000184 010  PPHS1   he                       Z8m 
+0000184 020  VVD     whispered                Q2.1/X3.2- 
+0000185 001  NULL    **8;7;text               

@@ -1,0 +1,788 @@
+0000001 001  NULL    **6;0;START              
+0000001 002  -----   -----                    
+0000002 010  VVD     said                     Q2.1 
+0000002 020  NP1     Lily                     Z1f 
+0000003 010  VVD     said                     Q2.1 
+0000003 020  NP1     Lily                     Z1f 
+0000004 010  VVD     said                     Q2.1 
+0000004 020  NP1     Lily                     Z1f 
+0000005 010  VVD     said                     Q2.1 
+0000005 020  NP1     Lily                     Z1f 
+0000006 010  PPHS1   she                      Z8f 
+0000006 020  VVD     said                     Q2.1 
+0000007 010  VVD     said                     Q2.1 
+0000007 020  NP1     Cadell                   Z99 
+0000008 010  VVD     said                     Q2.1 
+0000008 020  NP1     Amelia                   Z1f 
+0000009 010  VVD     said                     Q2.1 
+0000009 020  NNB     Mrs                      Z1f[i3.2.1 Z1f[i2.2.1 Z1m[i1.2.1 
+0000009 030  NP1     Lupex                    Z1f[i3.2.2 Z1f[i2.2.2 Z1m[i1.2.2 
+0000010 010  VVD     said                     Q2.1 
+0000010 020  NP1     Johnny                   Z1m 
+0000011 010  VVD     said                     Q2.1 
+0000011 020  NNB     Mrs                      Z1f[i6.2.1 Z1f[i5.2.1 Z1m[i4.2.1 
+0000011 030  NP1     Dale                     Z1f[i6.2.2 Z1m Z1f[i5.2.2 Z1m[i4.2.2 
+0000012 010  PPHS1   she                      Z8f 
+0000012 020  VHD     had                      Z5 A9+ A2.2 S4 
+0000012 030  VVN     said                     Q2.1 
+0000013 010  PPHS1   she                      Z8f 
+0000013 020  VHD     had                      Z5 A9+ A2.2 S4 
+0000013 030  VVN     said                     Q2.1 
+0000014 010  VVD     said                     Q2.1 
+0000014 020  NP1     Lily                     Z1f 
+0000015 010  VVD     said                     Q2.1 
+0000015 020  AT      the                      Z5 
+0000015 030  NN1     squire                   S7.1+/S2.2m S2.2m 
+0000016 010  PPHS1   she                      Z8f 
+0000016 020  VVD     said                     Q2.1 
+0000016 030  II      to                       Z5 
+0000016 040  PPX1    herself                  Z8f 
+0000017 010  VVD     said                     Q2.1 
+0000017 020  NP1     Bell                     Z3c 
+0000018 010  PPHS1   he                       Z8m 
+0000018 020  VVD     said                     Q2.1 
+0000019 010  JJ      continued                T2++ 
+0000019 020  NP1     Crosbie                  Z1mf Z2 
+0000020 010  VVD     said                     Q2.1 
+0000020 020  AT      the                      Z5 
+0000020 030  NN1     squire                   S7.1+/S2.2m S2.2m 
+0000021 010  VVD     said                     Q2.1 
+0000021 020  AT      the                      Z5 
+0000021 030  NN1     squire                   S7.1+/S2.2m S2.2m 
+0000022 010  VVD     said                     Q2.1 
+0000022 020  NP1     Lily                     Z1f 
+0000023 010  PPHS1   he                       Z8m 
+0000023 020  VVD     said                     Q2.1 
+0000024 010  VVD     said                     Q2.1 
+0000024 020  NP1     Bell                     Z3c 
+0000025 010  VVD     said                     Q2.1 
+0000025 020  NP1     Crosbie                  Z1mf Z2 
+0000026 010  VVD     said                     Q2.1 
+0000026 020  NNB     Mrs                      Z1f[i9.2.1 Z1f[i8.2.1 Z1m[i7.2.1 
+0000026 030  NP1     Eames                    Z1f[i9.2.2 Z1f[i8.2.2 Z1m[i7.2.2 
+0000027 010  PPHS1   she                      Z8f 
+0000027 020  VVD     said                     Q2.1 
+0000028 010  VVD     said                     Q2.1 
+0000028 020  PPHS1   he                       Z8m 
+0000029 010  PPHS1   he                       Z8m 
+0000029 020  VVD     said                     Q2.1 
+0000030 010  PPHS1   she                      Z8f 
+0000030 020  VVD     said                     Q2.1 
+0000030 030  II      to                       Z5 
+0000030 040  PPX1    herself                  Z8f 
+0000031 010  PPHS1   she                      Z8f 
+0000031 020  VVD     said                     Q2.1 
+0000032 010  VVD     said                     Q2.1 
+0000032 020  PPHS1   he                       Z8m 
+0000032 030  RR      gruffly                  Z99 
+0000033 010  PPHS1   he                       Z8m 
+0000033 020  VHD     had                      Z5 A9+ A2.2 S4 
+0000033 030  VVN     said                     Q2.1 
+0000034 010  VVD     said                     Q2.1 
+0000034 020  PPHS1   she                      Z8f 
+0000035 010  VVD     said                     Q2.1 
+0000035 020  AT      the                      Z3fnc[i10.2.1 Z5 
+0000035 030  NN1     lady                     Z3fnc[i10.2.2 S2.1f S7.1+/S2.1f 
+0000036 010  VVD     said                     Q2.1 
+0000036 020  NP1     Cradell                  Z99 
+0000037 010  VVD     said                     Q2.1 
+0000037 020  NP1     Lurex                    Z99 
+0000038 010  VVD     continued                T2++ 
+0000038 020  NP1     Lurex                    Z99 
+0000039 010  VVD     said                     Q2.1 
+0000039 020  NP1     Lurex                    Z99 
+0000040 010  VVD     said                     Q2.1 
+0000040 020  NP1     Cradell                  Z99 
+0000041 010  VVD     said                     Q2.1 
+0000041 020  NNB     Mrs                      Z1f[i13.2.1 Z1f[i12.2.1 Z1m[i11.2.1 
+0000041 030  NP1     Lurex                    Z1f[i13.2.2 Z1f[i12.2.2 Z1m[i11.2.2 
+0000042 010  VVD     said                     Q2.1 
+0000042 020  NP1     Amelia                   Z1f 
+0000043 010  VVD     said                     Q2.1 
+0000043 020  NP1     Cradell                  Z99 
+0000044 010  VVD     said                     Q2.1 
+0000044 020  NNB     Mrs                      Z1f[i16.2.1 Z1f[i15.2.1 Z1m[i14.2.1 
+0000044 030  NP1     Lurex                    Z1f[i16.2.2 Z1f[i15.2.2 Z1m[i14.2.2 
+0000045 010  VVD     said                     Q2.1 
+0000045 020  PPHS1   she                      Z8f 
+0000046 010  PPHS1   she                      Z8f 
+0000046 020  VVD     said                     Q2.1 
+0000047 010  VVD     said                     Q2.1 
+0000047 020  PPHS1   he                       Z8m 
+0000048 010  VVD     continued                T2++ 
+0000048 020  NP1     Bernard                  Z1mf 
+0000049 010  VVD     said                     Q2.1 
+0000049 020  NP1     Lily                     Z1f 
+0000050 010  VVD     said                     Q2.1 
+0000050 020  NP1     Bell                     Z3c 
+0000051 010  PPHS1   he                       Z8m 
+0000051 020  VHD     had                      Z5 A9+ A2.2 S4 
+0000051 030  VVN     said                     Q2.1 
+0000052 010  VVD     said                     Q2.1 
+0000052 020  NP1     Bell                     Z3c 
+0000053 010  VVD     said                     Q2.1 
+0000053 020  NP1     Crosbie                  Z1mf Z2 
+0000053 021  ,       ,                        
+0000053 030  RR      petulantly               Z99 
+0000054 010  PPHS1   she                      Z8f 
+0000054 020  VVD     said                     Q2.1 
+0000055 010  PPHS1   she                      Z8f 
+0000055 020  VVD     continued                T2++ 
+0000056 010  VVD     said                     Q2.1 
+0000056 020  PPHS1   he                       Z8m 
+0000057 010  VVD     said                     Q2.1 
+0000057 020  NNB     Mrs                      Z1f[i19.2.1 Z1f[i18.2.1 Z1m[i17.2.1 
+0000057 030  NP1     Dale                     Z1f[i19.2.2 Z1m Z1f[i18.2.2 Z1m[i17.2.2 
+0000058 010  PPHS1   she                      Z8f 
+0000058 020  VVD     said                     Q2.1 
+0000059 010  VVD     said                     Q2.1 
+0000059 020  PPHS1   she                      Z8f 
+0000059 021  ,       ,                        
+0000059 030  VVG     jumping                  M1[i20.2.1 M1 N5+/A2.1 A1.9 
+0000059 040  RP      up                       M1[i20.2.2 
+0000060 010  PPHS1   he                       Z8m 
+0000060 020  VVD     continued                T2++ 
+0000060 030  TO      to                       Z5 
+0000060 040  VVI     say                      Q2.1 Z4% 
+0000061 010  PPHS1   he                       Z8m 
+0000061 020  VVD     said                     Q2.1 
+0000061 030  II      at                       Z5 
+0000061 040  MD      last                     N4 
+0000062 010  VVD     thought                  X2.1 
+0000062 020  NP1     Crosbie                  Z1mf Z2 
+0000063 010  VVD     said                     Q2.1 
+0000063 020  AT      the                      Z5 
+0000063 030  NN1     peer                     A6.1+/S2mf S7.1+/S2mf 
+0000064 010  VVD     said                     Q2.1 
+0000064 020  NP1     John                     Z1m S9/O1.2 
+0000065 010  PPHS1   he                       Z8m 
+0000065 020  VVD     said                     Q2.1 
+0000066 010  JJ      continued                T2++ 
+0000066 020  NP1     George                   Z1m 
+0000067 010  VVD     said                     Q2.1 
+0000067 020  PPHS1   he                       Z8m 
+0000068 010  PPHS1   she                      Z8f 
+0000068 020  VVD     said                     Q2.1 
+0000069 010  VVD     said                     Q2.1 
+0000069 020  NP1     Bell                     Z3c 
+0000070 010  VVD     said                     Q2.1 
+0000070 020  PPHS1   he                       Z8m 
+0000071 010  PPHS1   he                       Z8m 
+0000071 020  VM      would                    A7+ 
+0000071 030  RT      then                     N4 Z5 T1.2 
+0000071 040  VVI     say                      Q2.1 Z4% 
+0000072 010  VVD     said                     Q2.1 
+0000072 020  PPHS1   he                       Z8m 
+0000073 010  VVD     said                     Q2.1 
+0000073 020  PPHS1   she                      Z8f 
+0000074 010  VVD     said                     Q2.1 
+0000074 020  PPHS1   he                       Z8m 
+0000074 021  ,       ,                        
+0000074 030  RR21    at                       N4[i21.2.1 
+0000074 040  RR22    last                     N4[i21.2.2 
+0000075 010  VVD     said                     Q2.1 
+0000075 020  NNB     Mrs                      Z1f[i24.2.1 Z1f[i23.2.1 Z1m[i22.2.1 
+0000075 030  NP1     Dale                     Z1f[i24.2.2 Z1m Z1f[i23.2.2 Z1m[i22.2.2 
+0000076 010  VVD     said                     Q2.1 
+0000076 020  PPHS1   she                      Z8f 
+0000077 010  VVD     said                     Q2.1 
+0000077 020  PPHS1   he                       Z8m 
+0000078 010  VVD     said                     Q2.1 
+0000078 020  PPHS1   he                       Z8m 
+0000079 010  VVD     said                     Q2.1 
+0000079 020  AT      the                      Z5 
+0000079 030  NN1     servant                  S7.1-/S2mf 
+0000080 010  PPHS1   he                       Z8m 
+0000080 020  VVD     said                     Q2.1 
+0000081 010  VVD     said                     Q2.1 
+0000081 020  AT      the                      Z5 
+0000081 030  NN1     earl                     S7.1+/S2m 
+0000082 010  PPHS1   he                       Z8m 
+0000082 020  VVD     said                     Q2.1 
+0000083 010  VVD     said                     Q2.1 
+0000083 020  NP1     Eames                    Z1m A4.1 T1.2 H2 M6 C1/S2mf B5/S2mf C1/H1/S2mf H1 P1/S5+c G1.1c H4 N3.6 
+0000084 010  VVD     said                     Q2.1 
+0000084 020  NP1     Eames                    Z1m A4.1 T1.2 H2 M6 C1/S2mf B5/S2mf C1/H1/S2mf H1 P1/S5+c G1.1c H4 N3.6 
+0000085 010  VVD     said                     Q2.1 
+0000085 020  PPHS1   she                      Z8f 
+0000086 010  PPHS1   he                       Z8m 
+0000086 020  VVD     said                     Q2.1 
+0000086 030  II      to                       Z5 
+0000086 040  PPX1    himself                  Z8m 
+0000087 010  VVD     said                     Q2.1 
+0000087 020  AT      the                      Z5 
+0000087 030  NN1     earl                     S7.1+/S2m 
+0000088 010  VVD     said                     Q2.1 
+0000088 020  AT      the                      Z5 
+0000088 030  NN1     earl                     S7.1+/S2m 
+0000089 010  VVD     said                     Q2.1 
+0000089 020  NP1     Vickers                  Z3c Z1mf 
+0000090 010  PPHS1   he                       Z8m 
+0000090 020  VVD     said                     Q2.1 
+0000091 010  VVD     said                     Q2.1 
+0000091 020  AT      the                      Z5 
+0000091 030  NN1     earl                     S7.1+/S2m 
+0000092 010  VVD     said                     Q2.1 
+0000092 020  NP2     Crofts                   Z1mf 
+0000093 010  VVD     said                     Q2.1 
+0000093 020  NP1     Eames                    Z1m A4.1 T1.2 H2 M6 C1/S2mf B5/S2mf C1/H1/S2mf H1 P1/S5+c G1.1c H4 N3.6 
+0000094 010  PPHS1   she                      Z8f 
+0000094 020  VVD     said                     Q2.1 
+0000095 010  VVD     said                     Q2.1 
+0000095 020  AT      the                      Z5 
+0000095 030  NN1     countess                 S7.1+/S2.1f 
+0000096 010  VVD     said                     Q2.1 
+0000096 020  NP1     Crosbie                  Z1mf Z2 
+0000097 010  PPHS1   she                      Z8f 
+0000097 020  VVD     said                     Q2.1 
+0000098 010  VVD     said                     Q2.1 
+0000098 020  PPHS1   she                      Z8f 
+0000099 010  VVD     said                     Q2.1 
+0000099 020  NP1     Margaretta               Z99 
+0000100 010  VVD     said                     Q2.1 
+0000100 020  NP1     Crosbie                  Z1mf Z2 
+0000101 010  VVD     said                     Q2.1 
+0000101 020  AT      the                      Z5 
+0000101 030  NN1     countess                 S7.1+/S2.1f 
+0000102 010  VVD     continued                T2++ 
+0000102 020  AT      the                      Z5 
+0000102 030  NN1     countess                 S7.1+/S2.1f 
+0000103 010  VVD     said                     Q2.1 
+0000103 020  AT      the                      Z5 
+0000103 030  NN1     countess                 S7.1+/S2.1f 
+0000104 010  PPHS1   she                      Z8f 
+0000104 020  VVD     said                     Q2.1 
+0000105 010  PPHS1   he                       Z8m 
+0000105 020  VVD     said                     Q2.1 
+0000106 010  VVD     said                     Q2.1 
+0000106 020  NP1     Lily                     Z1f 
+0000107 010  PPHS1   he                       Z8m 
+0000107 020  RT      then                     N4 Z5 T1.2 
+0000107 030  VVD     said                     Q2.1 
+0000108 010  PPHS1   he                       Z8m 
+0000108 020  VVD     said                     Q2.1 
+0000109 010  VVD     said                     Q2.1 
+0000109 020  NP1     Pratt                    Z1mf 
+0000109 030  II      to                       Z5 
+0000109 040  PPX1    himself                  Z8m 
+0000110 010  VVD     said                     Q2.1 
+0000110 020  NP1     Margaretta               Z99 
+0000111 010  PPHS1   she                      Z8f 
+0000111 020  VVD     said                     Q2.1 
+0000112 010  PPHS1   she                      Z8f 
+0000112 020  VVD     said                     Q2.1 
+0000113 010  PPHS1   she                      Z8f 
+0000113 020  VVD     said                     Q2.1 
+0000114 010  PPHS1   he                       Z8m 
+0000114 020  VVD     said                     Q2.1 
+0000115 010  VVD     said                     Q2.1 
+0000115 020  AT      the                      Z5 
+0000115 030  JJ      semi-official            G1.1/N5.1- 
+0000115 040  NN1     note                     Q1.2 K2 
+0000116 010  CSA     as                       Z4[i25.3.1 Z5 
+0000116 020  PPHS1   he                       Z4[i25.3.2 Z8m 
+0000116 030  VVD     said                     Z4[i25.3.3 Q2.1 
+0000117 010  PPHS1   he                       Z8m 
+0000117 020  VVD     said                     Q2.1 
+0000117 030  II      to                       Z5 
+0000117 040  PPX1    himself                  Z8m 
+0000118 010  VVD     said                     Q2.1 
+0000118 020  AT      the                      Z5 
+0000118 030  NN1     girl                     S2.1f L2f@ 
+0000119 010  VVD     said                     Q2.1 
+0000119 020  NP1     Eames                    Z1m A4.1 T1.2 H2 M6 C1/S2mf B5/S2mf C1/H1/S2mf H1 P1/S5+c G1.1c H4 N3.6 
+0000120 010  VVD     said                     Q2.1 
+0000120 020  NP1     Lily                     Z1f 
+0000121 010  VVD     said                     Q2.1 
+0000121 020  PPHS1   he                       Z8m 
+0000122 010  PPHS1   he                       Z8m 
+0000122 020  VVD     said                     Q2.1 
+0000123 010  PPHS1   she                      Z8f 
+0000123 020  VHD     had                      Z5 A9+ A2.2 S4 
+0000123 030  VVN     said                     Q2.1 
+0000124 010  VVD     said                     Q2.1 
+0000124 020  NP1     Lily                     Z1f 
+0000125 010  VVD     said                     Q2.1 
+0000125 020  AT      the                      Z5 
+0000125 030  NN1     note                     Q1.2 K2 
+0000126 010  PPHS1   she                      Z8f 
+0000126 020  VVD     said                     Q2.1 
+0000127 010  PPHS1   she                      Z8f 
+0000127 020  VVD     said                     Q2.1 
+0000128 010  PPHS1   she                      Z8f 
+0000128 020  VVD     said                     Q2.1 
+0000129 010  PPHS1   he                       Z8m 
+0000129 020  VVD     said                     Q2.1 
+0000130 010  VVD     said                     Q2.1 
+0000130 020  APPGE   his                      Z8m 
+0000130 030  NN1     uncle                    S4m 
+0000131 010  VVD     said                     Q2.1 
+0000131 020  NP1     Bell                     Z3c 
+0000132 010  VVD     said                     Q2.1 
+0000132 020  PPHS1   he                       Z8m 
+0000133 010  PPHS1   she                      Z8f 
+0000133 020  VVD     said                     Q2.1 
+0000134 010  PPHS1   she                      Z8f 
+0000134 020  VVD     said                     Q2.1 
+0000135 010  PPHS1   she                      Z8f 
+0000135 020  VVD     said                     Q2.1 
+0000135 030  MC1     one                      N1 T3 T1.2 
+0000135 040  NNT1    morning                  T1.3 
+0000136 010  PPHS1   he                       Z8m 
+0000136 020  VVD     said                     Q2.1 
+0000136 030  RR21    once                     Z4[i26.2.1 N6+[i26.2.1 N6- T1.1.1 
+0000136 040  RR22    again                    Z4[i26.2.2 N6+[i26.2.2 
+0000137 010  NP1     Bernard                  Z1mf 
+0000137 020  VVD     said                     Q2.1 
+0000137 030  II      to                       Z5 
+0000137 040  PPX1    himself                  Z8m 
+0000138 010  VVD     said                     Q2.1 
+0000138 020  NNB     Mrs                      Z1f[i29.2.1 Z1f[i28.2.1 Z1m[i27.2.1 
+0000138 030  NP1     Dale                     Z1f[i29.2.2 Z1m Z1f[i28.2.2 Z1m[i27.2.2 
+0000139 010  PPHS1   he                       Z8m 
+0000139 020  VVD     said                     Q2.1 
+0000140 010  VVD     said                     Q2.1 
+0000140 020  NP1     Lily                     Z1f 
+0000141 010  PPHS1   she                      Z8f 
+0000141 020  VVD     said                     Q2.1 
+0000142 010  VVD     said                     Q2.1 
+0000142 020  NP1     Hopkins                  Z1mf 
+0000142 021  ,       ,                        
+0000142 030  MC1     one                      T1.1.3[i30.2.1 T1.1.1[i30.2.1 N1 T3 T1.2 
+0000142 040  NNT1    day                      T1.1.3[i30.2.2 T1.1.1[i30.2.2 T1.3 
+0000143 010  PPHS1   she                      Z8f 
+0000143 020  VVD     said                     Q2.1 
+0000144 010  VVD     exclaimed                Q2.2 
+0000144 020  AT      the                      Z5 
+0000144 030  NN1     earl                     S7.1+/S2m 
+0000145 010  VVD     said                     Q2.1 
+0000145 020  NP1     Johnny                   Z1m 
+0000146 010  VVD     said                     Q2.1 
+0000146 020  NP1     Eames                    Z1m A4.1 T1.2 H2 M6 C1/S2mf B5/S2mf C1/H1/S2mf H1 P1/S5+c G1.1c H4 N3.6 
+0000147 010  VVD     said                     Q2.1 
+0000147 020  AT      the                      Z5 
+0000147 030  NN1     colonel                  G3/S7.1+/S2mf 
+0000148 010  VVD     said                     Q2.1 
+0000148 020  AT      the                      Z5 
+0000148 030  NN1     earl                     S7.1+/S2m 
+0000149 010  VVD     said                     Q2.1 
+0000149 020  AT      the                      Z5 
+0000149 030  NN1     earl                     S7.1+/S2m 
+0000150 010  VVD     said                     Q2.1 
+0000150 020  NP1     Lord                     Z1mf[i32.3.1 Z3c[i32.3.1 Z1mf[i31.2.1 Z3c[i31.2.1 
+0000150 030  NP1     de                       Z1mf[i32.3.2 Z3c[i32.3.2 Z1mf[i31.2.2 Z3c[i31.2.2 Z1mf[i33.2.1 Z3c[i33.2.1 
+0000150 040  NP1@    Guest                    Z3c[i32.3.3 Z1mf[i32.3.3 Z1mf[i33.2.2 Z3c[i33.2.2 
+0000151 010  VVD     said                     Q2.1 
+0000151 020  NP1     Eames                    Z1m A4.1 T1.2 H2 M6 C1/S2mf B5/S2mf C1/H1/S2mf H1 P1/S5+c G1.1c H4 N3.6 
+0000152 010  VVD     said                     Q2.1 
+0000152 020  NP1     Johnny                   Z1m 
+0000153 010  VVD     said                     Q2.1 
+0000153 020  NP1     Johnny                   Z1m 
+0000154 010  VVD     said                     Q2.1 
+0000154 020  AT      the                      Z5 
+0000154 030  NN1     earl                     S7.1+/S2m 
+0000155 010  VVD     continued                T2++ 
+0000155 020  AT      the                      Z5 
+0000155 030  NN1     earl                     S7.1+/S2m 
+0000156 010  VVD     said                     Q2.1 
+0000156 020  NP1     Johnny                   Z1m 
+0000157 010  VVD     said                     Q2.1 
+0000157 020  NP1     Bell                     Z3c 
+0000158 010  VVD     said                     Q2.1 
+0000158 020  NP1     Bernard                  Z1mf 
+0000159 010  VVD     said                     Q2.1 
+0000159 020  NNB     Mrs                      Z1f[i36.2.1 Z1f[i35.2.1 Z1m[i34.2.1 
+0000159 030  NP1     Dale                     Z1f[i36.2.2 Z1m Z1f[i35.2.2 Z1m[i34.2.2 
+0000160 010  VVD     said                     Q2.1 
+0000160 020  NNB     Mrs                      Z1f[i39.2.1 Z1f[i38.2.1 Z1m[i37.2.1 
+0000160 030  NP1     Dale                     Z1f[i39.2.2 Z1m Z1f[i38.2.2 Z1m[i37.2.2 
+0000161 010  VVD     said                     Q2.1 
+0000161 020  AT      the                      Z5 
+0000161 030  NN1     earl                     S7.1+/S2m 
+0000162 010  VVD     said                     Q2.1 
+0000162 020  AT      the                      Z5 
+0000162 030  NN1     earl                     S7.1+/S2m 
+0000163 010  VVD     continued                T2++ 
+0000163 020  AT      the                      Z5 
+0000163 030  NN1     earl                     S7.1+/S2m 
+0000164 010  VVD     said                     Q2.1 
+0000164 020  AT      the                      S4m[i40.3.1 S7.1/S2m[i40.3.1 Z5 
+0000164 030  JJ      old                      S4m[i40.3.2 S7.1/S2m[i40.3.2 T3+ Z4 
+0000164 040  NN1     man                      S4m[i40.3.3 S7.1/S2m[i40.3.3 S2.2m 
+0000165 010  VVD     said                     Q2.1 
+0000165 020  AT      the                      Z5 
+0000165 030  JJ      senior                   S7.1++ T3++ 
+0000165 040  NN1     constable                G2.1/S2mf 
+0000166 010  VVD     said                     Q2.1 
+0000166 020  AT      the                      Z5 
+0000166 030  NN1     superintendent           S7.1+/S2mf G2.1/S2mf 
+0000167 010  VVD     said                     Q2.1 
+0000167 020  NP1     Eames                    Z1m A4.1 T1.2 H2 M6 C1/S2mf B5/S2mf C1/H1/S2mf H1 P1/S5+c G1.1c H4 N3.6 
+0000168 010  RR      so                       Z5 A13.3 
+0000168 020  VVD     said                     Q2.1 
+0000168 030  AT      the                      Z5 
+0000168 040  NN1     newspaper                Q4.2 
+0000169 010  VVD     said                     Q2.1 
+0000169 020  NP1     Crosbie                  Z1mf Z2 
+0000170 010  VVD     continued                T2++ 
+0000170 020  NNB     Mr                       Z1m[i42.2.1 S2.2m Z1m[i41.2.1 
+0000170 030  NP1     Optimist                 Z1m[i42.2.2 Z1m[i41.2.2 
+0000171 010  VVD     said                     Q2.1 
+0000171 020  NP1     Gazebee                  Z99 
+0000172 010  VVD     said                     Q2.1 
+0000172 020  PPHS1   he                       Z8m 
+0000173 010  VVD     said                     Q2.1 
+0000173 020  NP1     Eames                    Z1m A4.1 T1.2 H2 M6 C1/S2mf B5/S2mf C1/H1/S2mf H1 P1/S5+c G1.1c H4 N3.6 
+0000174 010  VVD     said                     Q2.1 
+0000174 020  PPHS1   he                       Z8m 
+0000175 010  VVD     said                     Q2.1 
+0000175 020  AT      the                      Z5 
+0000175 030  JJ      assistant                S8+ 
+0000175 040  NN1     secretary                I3.2/S2mf S7.1+/S2mf 
+0000176 010  VVD     declared                 Q2.2 K5.1% 
+0000176 020  AT1     a                        Z5 
+0000176 030  MD      third                    N4 N5 N1 
+0000177 010  VVD     said                     Q2.1 
+0000177 020  PPHS1   he                       Z8m 
+0000178 010  PPHS1   he                       Z8m 
+0000178 020  VVD     said                     Q2.1 
+0000179 010  PPHS1   he                       Z8m 
+0000179 020  VVD     said                     Q2.1 
+0000180 010  PPHS1   he                       Z8m 
+0000180 020  VVD     said                     Q2.1 
+0000180 021  ,       ,                        
+0000180 030  VVG     defending                S8+ G3 G2.1c Q2.2 K5.1 S7.3+ 
+0000180 040  PPX1    himself                  Z8m 
+0000181 010  VVD     said                     Q2.1 
+0000181 020  NP1     Lily                     Z1mf[i43.2.1 Z3c[i43.2.1 Z1f 
+0000182 010  NP1     Bell                     Z1mf[i43.2.2 Z3c[i43.2.2 Z3c 
+0000182 020  VVD     declared                 Q2.2 K5.1% 
+0000183 010  PPHS1   she                      Z8f 
+0000183 020  VVD     said                     Q2.1 
+0000184 010  VVD     said                     Q2.1 
+0000184 020  PPHS1   he                       Z8m 
+0000185 010  PPHS1   he                       Z8m 
+0000185 020  VVD     said                     Q2.1 
+0000186 010  PPHS1   he                       Z8m 
+0000186 020  VVD     said                     Q2.1 
+0000187 010  VVD     said                     Q2.1 
+0000187 020  PPHS1   he                       Z8m 
+0000188 010  VVD     said                     Q2.1 
+0000188 020  NNB     Mrs                      Z1f[i46.2.1 Z1f[i45.2.1 Z1m[i44.2.1 
+0000188 030  NP1     Boyce                    Z1f[i46.2.2 Z1f[i45.2.2 Z1m[i44.2.2 
+0000189 010  AT      the                      Z5 
+0000189 020  NN1     doctor                   B3/I3.2/S2mf P1/S2mf 
+0000189 030  VVD     declared                 Q2.2 K5.1% 
+0000190 010  PPHS1   he                       Z8m 
+0000190 020  VVD     said                     Q2.1 
+0000191 010  PPHS1   he                       Z8m 
+0000191 020  VVD     said                     Q2.1 
+0000192 010  VVD     said                     Q2.1 
+0000192 020  NP1     Bell                     Z3c 
+0000193 010  PPHS1   she                      Z8f 
+0000193 020  VVD     said                     Q2.1 
+0000193 030  II      to                       Z5 
+0000193 040  PPX1    herself                  Z8f 
+0000194 010  PPHS1   she                      Z8f 
+0000194 020  VVD     said                     Q2.1 
+0000195 010  PPHS1   she                      Z8f 
+0000195 020  VVD     continued                T2++ 
+0000196 010  VVD     said                     Q2.1 
+0000196 020  AT      the                      Z5 
+0000196 030  NN1     countess                 S7.1+/S2.1f 
+0000196 031  ,       ,                        
+0000196 040  RR      piteously                Z99 
+0000197 010  VVD     said                     Q2.1 
+0000197 020  AT      the                      Z5 
+0000197 030  NN1     countess                 S7.1+/S2.1f 
+0000198 010  VVD     said                     Q2.1 
+0000198 020  AT      the                      Z5 
+0000198 030  NN1     countess                 S7.1+/S2.1f 
+0000199 010  VVD     exclaimed                Q2.2 
+0000199 020  NP1     Amelia                   Z1f 
+0000200 010  VVD     said                     Q2.1 
+0000200 020  PPHS1   she                      Z8f 
+0000200 021  ,       ,                        
+0000200 030  RR      gaily                    E4.1+ O4.3 
+0000201 010  VVD     said                     Q2.1 
+0000201 020  NNB     Mrs                      Z1f[i49.2.1 Z1f[i48.2.1 Z1m[i47.2.1 
+0000201 030  NP1     Roper                    Z1f[i49.2.2 Z1f[i48.2.2 Z1m[i47.2.2 
+0000202 010  VVD     said                     Q2.1 
+0000202 020  NP1     Bell                     Z3c 
+0000203 010  VVD     continued                T2++ 
+0000203 020  NP1     Lily                     Z1f 
+0000204 010  VVD     said                     Q2.1 
+0000204 020  NP1     Bell                     Z3c 
+0000205 010  VVD     said                     Q2.1 
+0000205 020  AT      the                      Z5 
+0000205 030  NN1     doctor                   B3/I3.2/S2mf P1/S2mf 
+0000206 010  VVD     said                     Q2.1 
+0000206 020  NP1     Lily                     Z1f 
+0000207 010  PPHS1   he                       Z8m 
+0000207 020  VVD     said                     Q2.1 
+0000207 030  II      to                       Z5 
+0000207 040  PPX1    himself                  Z8m 
+0000208 010  VVD     said                     Q2.1 
+0000208 020  AT      the                      Z5 
+0000208 030  NN1     duke                     S7.1+/S2m 
+0000209 010  VVD     began                    T2+ 
+0000209 020  AT      the                      Z5 
+0000209 030  NN1     duke                     S7.1+/S2m 
+0000210 010  VVD     said                     Q2.1 
+0000210 020  PPHS1   he                       Z8m 
+0000211 010  VVD     said                     Q2.1 
+0000211 020  AT      the                      Z5 
+0000211 030  NN1     ostler                   L2/S2mf S4/S2.2m B4 P1 I2.2 I3.1 B1 O2 S8+ K5.2 I3.1/S2mf X9.1+/S2mf A9- S2.2m 
+0000212 010  VVD     said                     Q2.1 
+0000212 020  PPHS1   he                       Z8m 
+0000213 010  VVD     said                     Q2.1 
+0000213 020  NNB     Lady                     Z1mf[i50.2.1 Z3c[i50.2.1 Z3c 
+0000213 030  NP1     Clandidlem               Z1mf[i50.2.2 Z3c[i50.2.2 
+0000214 010  PPHS1   she                      Z8f 
+0000214 020  VVD     said                     Q2.1 
+0000215 010  PPHS1   she                      Z8f 
+0000215 020  VVD     said                     Q2.1 
+0000215 030  RR21    at                       N4[i51.2.1 
+0000215 040  RR22    last                     N4[i51.2.2 
+0000216 010  PPHS1   she                      Z8f 
+0000216 020  VVD     said                     Q2.1 
+0000217 010  JJ      continued                T2++ 
+0000217 020  NN1@    Lily                     Z1f 
+0000218 010  PPHS1   she                      Z8f 
+0000218 020  VHD     had                      Z5 A9+ A2.2 S4 
+0000218 030  VVN     said                     Q2.1 
+0000219 010  NP1     George                   Z1m 
+0000219 020  VHD     had                      Z5 A9+ A2.2 S4 
+0000219 030  VVN     said                     Q2.1 
+0000220 010  VVD     said                     Q2.1 
+0000220 020  NP1     Alexandrina              Z1f 
+0000221 010  PPHS1   he                       Z8m 
+0000221 020  VVD     said                     Q2.1 
+0000222 010  JJ%     said                     Q1.1 Q2.1 
+0000222 020  NN2     Eames                    Z1m A4.1 T1.2 H2 M6 C1/S2mf B5/S2mf C1/H1/S2mf H1 P1/S5+c G1.1c H4 N3.6 
+0000222 030  II      to                       Z5 
+0000222 040  PPX1    himself                  Z8m 
+0000223 010  PPHS1   he                       Z8m 
+0000223 020  VVD     said                     Q2.1 
+0000224 010  VVD     said                     Q2.1 
+0000224 020  PPHS1   he                       Z8m 
+0000225 010  PPHS1   he                       Z8m 
+0000225 020  VVD     whimpered                Q2.2 X3.2 E4.1- 
+0000226 010  VVD     said                     Q2.1 
+0000226 020  NP1     Cradell                  Z99 
+0000227 010  VVD     said                     Q2.1 
+0000227 020  NP1     Cradell                  Z99 
+0000228 010  PPHS1   she                      Z8f 
+0000228 020  VVD     said                     Q2.1 
+0000229 010  PPHS1   he                       Z8m 
+0000229 020  VVD     said                     Q2.1 
+0000229 030  II      to                       Z5 
+0000229 040  PPX1    himself                  Z8m 
+0000230 010  PPHS1   she                      Z8f 
+0000230 020  VVD     said                     Q2.1 
+0000230 030  II      to                       Z5 
+0000230 040  NP1     Amelia                   Z1f 
+0000231 010  VVD     said                     Q2.1 
+0000231 020  NP1     Amelia                   Z1f 
+0000232 010  VVD     ejaculated               Q2.1 Z5 K5.1 M6 S3.2 A5.3- N5.1+ B1 Q2.2 M7/W3 W3/M4 O2 M3/O2 B2- A1.5.1/N5.1+ A1.7-/M1 O1.2 I3.1 I1.2 G3 P1/G2.1 M2 X7- A1.8- A1.7- A9- I2.2 K3 Q4 E6+ 
+0000232 020  NNB     Lady                     Z1mf[i52.2.1 Z3c[i52.2.1 Z3c 
+0000232 030  NP1     Alexandrina              Z1mf[i52.2.2 Z3c[i52.2.2 Z1f 
+0000233 010  VVD     shouted                  Q2.2/X3.2++ 
+0000233 020  NP1     Crosbie                  Z1mf Z2 
+0000234 010  PPHS1   he                       Z8m 
+0000234 020  VVD     said                     Q2.1 
+0000235 010  VVD     said                     Q2.1 
+0000235 020  NP1     Crosbie                  Z1mf Z2 
+0000236 010  VVD     said                     Q2.1 
+0000236 020  NNB     Mr                       Z1m[i54.2.1 S2.2m Z1m[i53.2.1 
+0000236 030  NP1     Optimist                 Z1m[i54.2.2 Z1m[i53.2.2 
+0000237 010  VVD     said                     Q2.1 
+0000237 020  PPHS1   he                       Z8m 
+0000238 010  VVD     said                     Q2.1 
+0000238 020  NNB     Mr                       S2.2m 
+0000238 030  NP1     Crosbie                  Z1mf Z2 
+0000239 010  PPHS1   she                      Z8f 
+0000239 020  VVD     said                     Q2.1 
+0000240 010  VVD     said                     Q2.1 
+0000240 020  NP1     Lily                     Z1f 
+0000241 010  PPHS1   she                      Z8f 
+0000241 020  VVD     said                     Q2.1 
+0000242 010  PPHS1   he                       Z8m 
+0000242 020  VVD     said                     Q2.1 
+0000243 010  VVD     said                     Q2.1 
+0000243 020  NNB     Mrs                      Z1f[i57.2.1 Z1f[i56.2.1 Z1m[i55.2.1 
+0000243 030  NP1     Dale                     Z1f[i57.2.2 Z1m Z1f[i56.2.2 Z1m[i55.2.2 
+0000244 010  PPHS1   she                      Z8f 
+0000244 020  VVD     said                     Q2.1 
+0000245 010  VVD     said                     Q2.1 
+0000245 020  AT      the                      Z5 
+0000245 030  NN1     squire                   S7.1+/S2.2m S2.2m 
+0000246 010  VVD     said                     Q2.1 
+0000246 020  NP1     Lily                     Z1f 
+0000247 010  VVD     said                     Q2.1 
+0000247 020  NP1     Bell                     Z3c 
+0000247 021  ,       ,                        
+0000247 030  VVG     jumping                  M1[i58.2.1 M1 N5+/A2.1 A1.9 
+0000247 040  RP      up                       M1[i58.2.2 
+0000248 010  VVD     said                     Q2.1 
+0000248 020  AT      the                      Z5 
+0000248 030  NN1     doctor                   B3/I3.2/S2mf P1/S2mf 
+0000249 010  VVD     said                     Q2.1 
+0000249 020  NP1     Lily                     Z1f 
+0000250 010  VVD     said                     Q2.1 
+0000250 020  APPGE   her                      Z8f 
+0000250 030  NN1     mother                   S4f A11.1+++ 
+0000251 010  VVD     said                     Q2.1 
+0000251 020  NP1     Fitz                     Z1m 
+0000252 010  PPHS1   he                       Z8m 
+0000252 020  VVD     said                     Q2.1 
+0000252 030  II      to                       Z5 
+0000252 040  PPX1    himself                  Z8m 
+0000253 010  PPHS1   he                       Z8m 
+0000253 020  VVD     said                     Q2.1 
+0000254 010  VVD     said                     Q2.1 
+0000254 020  NP1     Eames                    Z1m A4.1 T1.2 H2 M6 C1/S2mf B5/S2mf C1/H1/S2mf H1 P1/S5+c G1.1c H4 N3.6 
+0000255 010  VVD     said                     Q2.1 
+0000255 020  PPHS1   he                       Z8m 
+0000256 010  PPHS1   he                       Z8m 
+0000256 020  VVD     said                     Q2.1 
+0000257 010  PPHS1   she                      Z8f 
+0000257 020  VVD     said                     Q2.1 
+0000258 010  VVD     said                     Q2.1 
+0000258 020  NNB     Lady                     Z1mf[i59.2.1 Z3c[i59.2.1 Z3c 
+0000258 030  NP1     Julia                    Z1mf[i59.2.2 Z3c[i59.2.2 Z1f 
+0000259 010  AT      the                      Z5 
+0000259 020  NN1     earl                     S7.1+/S2m 
+0000259 030  VHD     had                      Z5 A9+ A2.2 S4 
+0000259 040  VVN     answered                 Q2.2 S1.1.1 
+0000260 010  PPHS1   he                       Z8m 
+0000260 020  VVD     said                     Q2.1 
+0000260 030  II      to                       Z5 
+0000260 040  PPX1    himself                  Z8m 
+0000261 010  VVD     said                     Q2.1 
+0000261 020  NP1     John                     Z1m S9/O1.2 
+0000262 010  VVD     said                     Q2.1 
+0000262 020  NNB     Mrs                      Z1f[i62.2.1 Z1f[i61.2.1 Z1m[i60.2.1 
+0000262 030  NP1     Eames                    Z1f[i62.2.2 Z1f[i61.2.2 Z1m[i60.2.2 
+0000263 010  VVD     said                     Q2.1 
+0000263 020  NP1     Mary                     Z1f 
+0000264 010  VVD     said                     Q2.1 
+0000264 020  AT      the                      Z5 
+0000264 030  NN1     squire                   S7.1+/S2.2m S2.2m 
+0000265 010  VVD     said                     Q2.1 
+0000265 020  PPHS1   he                       Z8m 
+0000266 010  PPHS1   he                       Z8m 
+0000266 020  VVD     said                     Q2.1 
+0000267 010  VVD     said                     Q2.1 
+0000267 020  NP1     Bell                     Z3c 
+0000268 010  VVD     said                     Q2.1 
+0000268 020  NP1     Lily                     Z1f 
+0000269 010  VVD     said                     Q2.1 
+0000269 020  NNB     Mrs                      Z1f[i65.2.1 Z1f[i64.2.1 Z1m[i63.2.1 
+0000269 030  NP1     Dale                     Z1f[i65.2.2 Z1m Z1f[i64.2.2 Z1m[i63.2.2 
+0000270 010  VVD     continued                T2++ 
+0000270 020  NP1     Hopkins                  Z1mf 
+0000271 010  VVD     said                     Q2.1 
+0000271 020  NNB     Mrs                      Z1f[i68.2.1 Z1f[i67.2.1 Z1m[i66.2.1 
+0000271 030  NP1     Dale                     Z1f[i68.2.2 Z1m Z1f[i67.2.2 Z1m[i66.2.2 
+0000272 010  VVD     said                     Q2.1 
+0000272 020  PPHS1   he                       Z8m 
+0000273 010  PPHS1   he                       Z8m 
+0000273 020  VVD     said                     Q2.1 
+0000273 030  II      to                       Z5 
+0000273 040  PPX1    himself                  Z8m 
+0000274 010  VVD     said                     Q2.1 
+0000274 020  NP1     Lily                     Z1f 
+0000275 010  VVD     said                     Q2.1 
+0000275 020  NP1     John                     Z1m S9/O1.2 
+0000276 010  VVD     said                     Q2.1 
+0000276 020  PPHS1   he                       Z8m 
+0000277 010  PPHS1   she                      Z8f 
+0000277 020  VVD     said                     Q2.1 
+0000278 010  PPHS1   she                      Z8f 
+0000278 020  VHD     had                      Z5 A9+ A2.2 S4 
+0000278 030  VVN     answered                 Q2.2 S1.1.1 
+0000279 010  CC      or                       Z5 
+0000280 010  CC      or                       Z5 
+0000281 010  PPHS1   she                      Z8f 
+0000281 020  VVD     said                     Q2.1 
+0000282 010  VVD     said                     Q2.1 
+0000282 020  PPHS1   she                      Z8f 
+0000283 010  PPHS1   she                      Z8f 
+0000283 020  VVD     said                     Q2.1 
+0000283 030  II      to                       Z5 
+0000283 040  NP1     Margaretta               Z99 
+0000284 010  AT      the                      Z5 
+0000284 020  NN1     countess                 S7.1+/S2.1f 
+0000284 030  VVD     continued                T2++ 
+0000285 010  JJ      continued                T2++ 
+0000285 020  NN1     Gazebee                  Z99 
+0000286 010  VVD     said                     Q2.1 
+0000286 020  PPHS1   he                       Z8m 
+0000287 010  VVD     said                     Q2.1 
+0000287 020  NP1     Amelia                   Z1f 
+0000288 010  VVD     said                     Q2.1 
+0000288 020  NP1     Lily                     Z1f 
+0000289 010  VVD     continued                T2++ 
+0000289 020  NP1     Lily                     Z1f 
+0000290 010  VVD     said                     Q2.1 
+0000290 020  NP1     Lily                     Z1f 
+0000291 010  VVD     said                     Q2.1 
+0000291 020  NNB     Mrs                      Z1f[i71.2.1 Z1f[i70.2.1 Z1m[i69.2.1 
+0000291 030  NP1     Dale                     Z1f[i71.2.2 Z1m Z1f[i70.2.2 Z1m[i69.2.2 
+0000292 010  PPHS1   he                       Z8m 
+0000292 020  VVD     said                     Q2.1 
+0000292 030  II      to                       Z5 
+0000292 040  PPX1    himself                  Z8m 
+0000293 010  PPHS1   he                       Z8m 
+0000293 020  VVD     began                    T2+ 
+0000294 010  PPHS1   he                       Z8m 
+0000294 020  VVD     said                     Q2.1 
+0000294 030  II      to                       Z5 
+0000294 040  PPX1    himself                  Z8m 
+0000295 010  NP1     Amelia                   Z1f 
+0000295 020  VBDZ    was                      Z5 A3+ 
+0000295 030  VVG     saying                   Q2.1 Z4% 
+0000296 010  VVD     said                     Q2.1 
+0000296 020  NNB     Mrs                      Z1f[i74.2.1 Z1f[i73.2.1 Z1m[i72.2.1 
+0000296 030  NP1     Roper                    Z1f[i74.2.2 Z1f[i73.2.2 Z1m[i72.2.2 
+0000296 031  ,       ,                        
+0000296 040  VVG     sobbing                  E4.1- 
+0000297 010  VVD     said                     Q2.1 
+0000297 020  PPHS1   she                      Z8f 
+0000298 010  VVD     said                     Q2.1 
+0000298 020  NNB     Mrs                      Z1f[i77.2.1 Z1f[i76.2.1 Z1m[i75.2.1 
+0000298 030  NP1     Roper                    Z1f[i77.2.2 Z1f[i76.2.2 Z1m[i75.2.2 
+0000299 010  PPHS1   she                      Z8f 
+0000299 020  VVD     said                     Q2.1 
+0000300 010  VVD     said                     Q2.1 
+0000300 020  AT      the                      Z5 
+0000300 030  NN1     girl                     S2.1f L2f@ 
+0000301 010  PPHS1   he                       Z8m 
+0000301 020  VVD     said                     Q2.1 
+0000302 010  VVD     said                     Q2.1 
+0000302 020  NP1     Jolliffe                 Z99 
+0000303 010  PPHS1   he                       Z8m 
+0000303 020  VVD     said                     Q2.1 
+0000304 010  VVD     said                     Q2.1 
+0000304 020  NP1     Hopkins                  Z1mf 
+0000305 010  VVD     said                     Q2.1 
+0000305 020  PPHS1   he                       Z8m 
+0000306 010  VVD     said                     Q2.1 
+0000306 020  NP1     Lily                     Z1f 
+0000307 010  VVD     said                     Q2.1 
+0000307 020  PPHS1   she                      Z8f 
+0000308 010  VVD     said                     Q2.1 
+0000308 020  PPHS1   she                      Z8f 
+0000309 010  VVD     said                     Q2.1 
+0000309 020  NP1     Bell                     Z3c 
+0000310 010  VVD     said                     Q2.1 
+0000310 020  PPHS1   she                      Z8f 
+0000311 010  PPHS1   he                       Z8m 
+0000311 020  VVD     went                     T2++[i78.2.1 M1[i78.2.1 Q2.1/N5+[i78.2.1 A1.1.1[i78.2.1 M1 A2.1+ A1.1.1 A9- A1.8+ Q2.1 N6+ I2.2 A1.1.2 T2- S3.2 A6.3+ B2-/X1% B1% 
+0000311 030  RP@     on                       T2++[i78.2.2 M1[i78.2.2 Q2.1/N5+[i78.2.2 A1.1.1[i78.2.2 M6 A1.1.1 
+0000312 010  PPHS1   she                      Z8f 
+0000312 020  VVD     said                     Q2.1 
+0000312 030  II      to                       Z5 
+0000312 040  PPX1    herself                  Z8f 
+0000313 001  NULL    **8;7;text               
