@@ -9,7 +9,7 @@ We processed all the coherently sampled corpora from the [CLiC web app](https://
 
 ## Retrieval of data from CLiC
 
-The API retrieval was carried out by Mike Allaway (University of Birmingham Research Software Group) with [this API client script](/clic-api-client.py). Data was retrieved from the following subsets of the corpora (see above for the overview of corpora): 'quote' (text within quotation marks), 'nonquote' (text outside quotation marks), 'longsus' (long suspensions) and 'shortsus' (short suspensions). The 'shortsus' subset was retrieved for completeness, but was not included in the analysis for this paper (because the text in short suspensions is generally too short for eye language).
+The API retrieval was carried out by Mike Allaway (University of Birmingham Research Software Group) with [this API client script](clic-api-client.py). Data was retrieved from the following subsets of the corpora (see above for the overview of corpora): 'quote' (text within quotation marks), 'nonquote' (text outside quotation marks), 'longsus' (long suspensions) and 'shortsus' (short suspensions). The 'shortsus' subset was retrieved for completeness, but was not included in the analysis for this paper (because the text in short suspensions is generally too short for eye language).
 
 
 ## Pre-processing for the CLAWS and USAS taggers
@@ -21,7 +21,7 @@ These raw texts retrieved from CLiC have then been pre-processed in preparation 
 
 The files were tagged with the (unversioned) CLAWS POS tagger and USAS semantic tagger, which Paul Rayson (Lancaster University) kindly provided to Viola Wiegand on 21 December 2017. The taggers are not publicly available, so we cannot share them here, but you can test the taggers on small files via the [CLAWS](http://ucrel.lancs.ac.uk/claws/) and [USAS](http://ucrel.lancs.ac.uk/usas/) websites and tag larger files via Rayson's [Wmatrix](http://ucrel.lancs.ac.uk/wmatrix/) tool or contacting Paul Rayson for offline tagging services. The tagging was carried out by James Carpenter (University of Birmingham Research Software Group). 
 
-The [sem-tagging directory](/sem-tagging/) contains the [README](/sem-tagging/README.md) for the tagging procedure along with other required files for tagging via the University of Birmingham's BlueBEAR system. The sem-tagged files (ending in .sem) can be found in the [/api-output-sem-tagged/](/api-output-sem-tagged/) directory. To save space, the intermediate files (ending in .c7, .c7.errors, .c7.supp) are not committed. 
+The [sem-tagging directory](sem-tagging/) contains the [README](sem-tagging/README.md) for the tagging procedure along with other required files for tagging via the University of Birmingham's BlueBEAR system. The sem-tagged files (ending in .sem) can be found in the [api-output-sem-tagged/](api-output-sem-tagged/) directory. To save space, the intermediate files (ending in .c7, .c7.errors, .c7.supp) are not committed. 
 
 
 ## Creation of corp_text objects 
